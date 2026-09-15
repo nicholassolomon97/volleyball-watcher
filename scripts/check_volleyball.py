@@ -8,6 +8,16 @@ NTFY_TOPIC = os.environ["NTFY_TOPIC"]
 STATE_FILE = os.environ.get("STATE_FILE", "volleyball_state.json")
 
 
+def extract_venue_from_name(full_name):
+    """Fallback: pull the venue out of the readable session name when the
+    structured venue field is a shared reference elsewhere on the page."""
+    if not full_name:
+        return None
+    segment = full_name.split(" - ")[-1].strip()
+    m = re.match(r"^(.*?)\s+\d{1,2}:\d{2}(?:am|pm)$", segment, re.IGNORECASE)
+    return m.group(1).strip() if m else segment
+
+
 def fetch_events(url):
     req = urllib.request.Request(
         url,
@@ -29,36 +39,54 @@ def fetch_events(url):
         if not m_id:
             continue
         eid = m_id.group(1)
-        window = part[:4000]
 
-        def grab(pattern):
+        def grab(pattern, window=part):
             m = re.search(pattern, window)
             return m.group(1) if m else None
 
-        date = grab(r'event_start_date:"([^"]+)"')
-        if not date:
-            continue  # duplicate escaped-JSON copy on the page; skip it
-        events[eid] = {
-            "date": date,
+        fields = {
+            "date": grab(r'event_start_date:"([^"]+)"'),
             "start": grab(r'event_start_time_str:"([^"]+)"'),
             "end": grab(r'event_end_time_str:"([^"]+)"'),
             "venue": grab(r'shorthand_name:"([^"]+)"'),
+            "full_name": grab(r'__typename:"leagues".*?name:"([^"]+)",display_name:'),
             "type": grab(r'display_name:"([^"]+)"'),
             "count": grab(r'__typename:"registrants_aggregate_fields",count:(\d+)'),
             "max": grab(r'max_registration_size:(\d+)'),
         }
-    return events
+        # Different chunks of the page carry different subsets of fields for
+        # the same event; merge them, keeping the first non-null value found.
+        if eid not in events:
+            events[eid] = fields
+        else:
+            for k, v in fields.items():
+                if events[eid].get(k) is None and v is not None:
+                    events[eid][k] = v
+
+    # Only keep entries that resolved to a real event (has a date).
+    for eid, e in events.items():
+        if not e.get("venue"):
+            e["venue"] = extract_venue_from_name(e.get("full_name"))
+    return {eid: e for eid, e in events.items() if e.get("date")}
 
 
 def describe(e):
-    return f"{e['date'][:10]} {e['start']}-{e['end']} @ {e['venue']} ({e['count']}/{e['max']})"
+    venue = e.get("venue") or "Unknown venue"
+    return f"{e['date'][:10]} {e['start']}-{e['end']} @ {venue} ({e['count']}/{e['max']})"
 
 
-def notify(message):
+def booking_link(eid):
+    return f"https://www.volosports.com/d/{eid}"
+
+
+def notify(title, message, click_url=None):
+    headers = {"Title": title}
+    if click_url:
+        headers["X-Click"] = click_url
     req = urllib.request.Request(
         f"https://ntfy.sh/{NTFY_TOPIC}",
         data=message.encode("utf-8"),
-        headers={"Title": "Volleyball pickup update"},
+        headers=headers,
         method="POST",
     )
     urllib.request.urlopen(req, timeout=15)
@@ -79,14 +107,17 @@ def main():
         new_ids = set(current) - set(previous)
         gone_ids = set(previous) - set(current)
 
-        lines = [f"NEW: {describe(current[eid])}" for eid in new_ids]
-        lines += [f"GONE: {describe(previous[eid])}" for eid in gone_ids]
+        for eid in new_ids:
+            msg = describe(current[eid])
+            print(f"NEW: {msg}")
+            notify("New pickup volleyball game!", msg, click_url=booking_link(eid))
 
-        if lines:
-            message = "\n".join(lines[:10])
-            print("Change detected:\n" + message)
-            notify(message)
-        else:
+        for eid in gone_ids:
+            msg = describe(previous[eid])
+            print(f"GONE: {msg}")
+            notify("Volleyball game no longer listed", msg)
+
+        if not new_ids and not gone_ids:
             print("No new or removed listings.")
 
     if current != previous:
