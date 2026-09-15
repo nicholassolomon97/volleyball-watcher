@@ -17,27 +17,27 @@
     "max": "32",
     "start": "21:00",
     "type": "Volleyball Pickup - 6v6 - Coed",
-    "venue": "1405 Atlantic Ave"
+    "venue": "St. Patrick's Youth Center"
   },
-  "739a0797-1d2e-488f-b09f-914feb9ef5c7": {
-    "count": "15",
-    "date": "2026-09-20T16:00:00+00:00",
-    "end": "13:00",
-    "full_name": "Sunday 9/20 - Volleyball Pickup (All Levels) - Hunter's Point South 12:00pm",
-    "max": "16",
-    "start": "12:00",
-    "type": "Volleyball Pickup - 6v6 - Coed",
-    "venue": "Hunter's Point South"
-  },
-  "8b5fec13-9935-4337-8edc-17044a07ec30": {
+  "53649eaa-ebb8-458e-ad15-272b77bcaba5": {
     "count": "1",
-    "date": "2026-09-17T22:00:00+00:00",
-    "end": "19:00",
-    "full_name": "Thursday 9/17 - Volleyball Pickup (All Levels) - La Salle Academy 6:00pm",
+    "date": "2026-09-23T23:00:00+00:00",
+    "end": "20:00",
+    "full_name": "Wednesday 9/23 - Volleyball Pickup (All Levels) - Avenues 7:00pm",
     "max": "16",
-    "start": "18:00",
+    "start": "19:00",
     "type": "Volleyball Pickup - 6v6 - Coed",
-    "venue": "La Salle Academy"
+    "venue": "Avenues"
+  },
+  "5571ff19-f4db-405a-bba1-2d3fca9792fc": {
+    "count": "0",
+    "date": "2026-09-20T15:00:00+00:00",
+    "end": "12:00",
+    "full_name": "Sunday 9/20 - Volleyball Pickup (All Levels) - Baruch College 11:00am",
+    "max": "16",
+    "start": "11:00",
+    "type": "Volleyball Pickup - 6v6 - Coed",
+    "venue": "Baruch College"
   },
   "9115bc69-4441-4b29-9e99-614d8c8208ba": {
     "count": "26",
@@ -49,34 +49,14 @@
     "type": "Volleyball Pickup - 6v6 - Coed",
     "venue": "St. Patrick's Youth Center"
   },
-  "a95510bc-67cc-482d-9245-93267144e656": {
-    "count": "4",
-    "date": "2026-09-16T00:30:00+00:00",
-    "end": "22:00",
-    "full_name": "Tuesday 9/15 - Volleyball Pickup (All Levels) - Liberty Harbor Courts @ Surf City 8:30pm",
-    "max": "16",
-    "start": "20:30",
-    "type": "Volleyball Pickup - 6v6 - Coed",
-    "venue": "Liberty Harbor Courts @ Surf City"
-  },
-  "afb4bf03-fb49-4290-9331-992c856b4341": {
-    "count": "0",
+  "f9db2fe2-3811-4271-bfed-c961ddfe6169": {
+    "count": "15",
     "date": "2026-09-24T22:00:00+00:00",
     "end": "19:00",
-    "full_name": "Thursday 9/24 - Volleyball Pickup (All Levels) - La Salle Academy 6:00pm",
+    "full_name": "Thursday 9/24 - Volleyball Pickup (All Levels) - The Post BK - 100 Dobbin St 6:00pm",
     "max": "16",
     "start": "18:00",
     "type": "Volleyball Pickup - 6v6 - Coed",
-    "venue": "La Salle Academy"
-  },
-  "ead6d941-f4a2-4690-9d47-9d2f3c433ade": {
-    "count": "1",
-    "date": "2026-09-21T22:00:00+00:00",
-    "end": "19:00",
-    "full_name": "Monday 9/21 - Volleyball Pickup (All Levels) - La Salle Academy 6:00pm",
-    "max": "16",
-    "start": "18:00",
-    "type": "Volleyball Pickup - 6v6 - Coed",
-    "venue": "La Salle Academy"
+    "venue": "The Post BK - 100 Dobbin St"
   }
 }
