@@ -1,4 +1,14 @@
 {
+  "065c952e-df29-484d-b19e-760ec4217d1c": {
+    "count": "0",
+    "date": "2026-09-17T22:00:00+00:00",
+    "end": "19:00",
+    "full_name": "Thursday 9/17 - Volleyball Pickup (All Levels) - The Post BK - 100 Dobbin St 6:00pm",
+    "max": "16",
+    "start": "18:00",
+    "type": "Volleyball Pickup - 6v6 - Coed",
+    "venue": "The Post BK - 100 Dobbin St"
+  },
   "10f0ace9-8c18-46b9-bca6-58754d15a661": {
     "count": "21",
     "date": "2026-09-16T22:00:00+00:00",
@@ -30,7 +40,7 @@
     "venue": "Avenues"
   },
   "5571ff19-f4db-405a-bba1-2d3fca9792fc": {
-    "count": "0",
+    "count": "1",
     "date": "2026-09-20T15:00:00+00:00",
     "end": "12:00",
     "full_name": "Sunday 9/20 - Volleyball Pickup (All Levels) - Baruch College 11:00am",
@@ -38,6 +48,16 @@
     "start": "11:00",
     "type": "Volleyball Pickup - 6v6 - Coed",
     "venue": "Baruch College"
+  },
+  "724bc8d0-e2e5-410c-b437-1e1c2514ba85": {
+    "count": "0",
+    "date": "2026-09-22T22:00:00+00:00",
+    "end": "19:00",
+    "full_name": "Tuesday 9/22 - Volleyball Pickup (All Levels) - The Post BK - 100 Dobbin St 6:00pm",
+    "max": "16",
+    "start": "18:00",
+    "type": "Volleyball Pickup - 6v6 - Coed",
+    "venue": "100 Dobbin St"
   },
   "9115bc69-4441-4b29-9e99-614d8c8208ba": {
     "count": "26",
@@ -50,13 +70,13 @@
     "venue": "St. Patrick's Youth Center"
   },
   "f9db2fe2-3811-4271-bfed-c961ddfe6169": {
-    "count": "15",
+    "count": "0",
     "date": "2026-09-24T22:00:00+00:00",
     "end": "19:00",
     "full_name": "Thursday 9/24 - Volleyball Pickup (All Levels) - The Post BK - 100 Dobbin St 6:00pm",
     "max": "16",
     "start": "18:00",
     "type": "Volleyball Pickup - 6v6 - Coed",
-    "venue": "The Post BK - 100 Dobbin St"
+    "venue": "1405 Atlantic Ave"
   }
 }
