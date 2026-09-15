@@ -2,8 +2,8 @@ name: Watch NYC pickup volleyball listings
 
 on:
   schedule:
-    - cron: '2-59/5 * * * *'   # fastest interval GitHub allows
-  workflow_dispatch: {}      # lets you trigger a run manually from the Actions tab
+    - cron: '2-59/5 * * * *'   # every 5 minutes, offset to avoid top-of-hour congestion
+  workflow_dispatch: {}
 
 permissions:
   contents: write            # lets the workflow commit the saved state back to the repo
