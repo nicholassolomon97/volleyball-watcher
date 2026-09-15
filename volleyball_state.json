@@ -10,7 +10,7 @@
     "venue": "St. Patrick's Youth Center"
   },
   "1663c722-a361-4947-8f0c-5a6a79f4df57": {
-    "count": "16",
+    "count": "17",
     "date": "2026-09-17T01:00:00+00:00",
     "end": "22:00",
     "full_name": "Wednesday 9/16 - Volleyball Pickup (All Levels) - St. Patrick's Youth Center 9:00pm",
@@ -29,8 +29,18 @@
     "type": "Volleyball Pickup - 6v6 - Coed",
     "venue": "Hunter's Point South"
   },
+  "8b5fec13-9935-4337-8edc-17044a07ec30": {
+    "count": "0",
+    "date": "2026-09-17T22:00:00+00:00",
+    "end": "19:00",
+    "full_name": "Thursday 9/17 - Volleyball Pickup (All Levels) - La Salle Academy 6:00pm",
+    "max": "16",
+    "start": "18:00",
+    "type": "Volleyball Pickup - 6v6 - Coed",
+    "venue": "La Salle Academy"
+  },
   "9115bc69-4441-4b29-9e99-614d8c8208ba": {
-    "count": "25",
+    "count": "26",
     "date": "2026-09-16T23:30:00+00:00",
     "end": "21:00",
     "full_name": "Wednesday 9/16 - Volleyball Pickup (All Levels) - St. Patrick's Youth Center 7:30pm",
@@ -48,5 +58,25 @@
     "start": "20:30",
     "type": "Volleyball Pickup - 6v6 - Coed",
     "venue": "Liberty Harbor Courts @ Surf City"
+  },
+  "afb4bf03-fb49-4290-9331-992c856b4341": {
+    "count": "0",
+    "date": "2026-09-24T22:00:00+00:00",
+    "end": "19:00",
+    "full_name": "Thursday 9/24 - Volleyball Pickup (All Levels) - La Salle Academy 6:00pm",
+    "max": "16",
+    "start": "18:00",
+    "type": "Volleyball Pickup - 6v6 - Coed",
+    "venue": "La Salle Academy"
+  },
+  "ead6d941-f4a2-4690-9d47-9d2f3c433ade": {
+    "count": "0",
+    "date": "2026-09-21T22:00:00+00:00",
+    "end": "19:00",
+    "full_name": "Monday 9/21 - Volleyball Pickup (All Levels) - La Salle Academy 6:00pm",
+    "max": "16",
+    "start": "18:00",
+    "type": "Volleyball Pickup - 6v6 - Coed",
+    "venue": "La Salle Academy"
   }
 }
