@@ -30,7 +30,7 @@
     "venue": "St. Patrick's Youth Center"
   },
   "53649eaa-ebb8-458e-ad15-272b77bcaba5": {
-    "count": "4",
+    "count": "3",
     "date": "2026-09-23T23:00:00+00:00",
     "end": "20:00",
     "full_name": "Wednesday 9/23 - Volleyball Pickup (All Levels) - Avenues 7:00pm",
@@ -58,6 +58,16 @@
     "start": "18:00",
     "type": "Volleyball Pickup - 6v6 - Coed",
     "venue": "100 Dobbin St"
+  },
+  "8fe3f922-82b3-4306-9062-1c8d5cd73590": {
+    "count": "31",
+    "date": "2026-09-17T00:30:00+00:00",
+    "end": "22:00",
+    "full_name": "Wednesday 9/16 - Volleyball Pickup (All Levels) - Baruch College 8:30pm",
+    "max": "32",
+    "start": "20:30",
+    "type": "Volleyball Pickup - 6v6 - Coed",
+    "venue": "Baruch College"
   },
   "9115bc69-4441-4b29-9e99-614d8c8208ba": {
     "count": "27",
