@@ -1,0 +1,38 @@
+{
+  "41d52638-3d16-4017-b25b-5b49384b7fc2": {
+    "count": "17",
+    "date": "2026-09-16T22:30:00+00:00",
+    "end": "20:30",
+    "max": "32",
+    "start": "18:30",
+    "type": "Volleyball Pickup - 6v6 - Coed",
+    "venue": "Baruch College"
+  },
+  "739a0797-1d2e-488f-b09f-914feb9ef5c7": {
+    "count": "12",
+    "date": "2026-09-20T16:00:00+00:00",
+    "end": "13:00",
+    "max": "16",
+    "start": "12:00",
+    "type": "Volleyball Pickup - 6v6 - Coed",
+    "venue": "Hunter's Point South"
+  },
+  "8fe3f922-82b3-4306-9062-1c8d5cd73590": {
+    "count": "17",
+    "date": "2026-09-17T00:30:00+00:00",
+    "end": "22:00",
+    "max": "32",
+    "start": "20:30",
+    "type": "Volleyball Pickup - 6v6 - Coed",
+    "venue": null
+  },
+  "a95510bc-67cc-482d-9245-93267144e656": {
+    "count": "4",
+    "date": "2026-09-16T00:30:00+00:00",
+    "end": "22:00",
+    "max": "16",
+    "start": "20:30",
+    "type": "Volleyball Pickup - 6v6 - Coed",
+    "venue": "Liberty Harbor Courts @ Surf City"
+  }
+}
