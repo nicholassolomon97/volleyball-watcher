@@ -1,0 +1,34 @@
+name: Watch NYC pickup volleyball listings
+
+on:
+  schedule:
+    - cron: '*/5 * * * *'   # fastest interval GitHub allows
+  workflow_dispatch: {}      # lets you trigger a run manually from the Actions tab
+
+permissions:
+  contents: write            # lets the workflow commit the saved state back to the repo
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Check for new/removed games
+        env:
+          TARGET_URL: "https://www.volosports.com/discover/new-york-metro-area?category=daily-sports&programType=pickup&sports=volleyball&venues=avenues,baruch-college,chelsea-piers-1,st-patricks-youth-center,the-door,the-post-bk-100-dobbin-st,xavier-high-school"
+          NTFY_TOPIC: "nick-volo-pickup-8x2q"   # <-- change this to your own topic
+        run: python3 scripts/check_volleyball.py
+
+      - name: Commit updated state
+        run: |
+          if [ -n "$(git status --porcelain)" ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add volleyball_state.json
+            git commit -m "Update saved volleyball listing state"
+            git push
+          else
+            echo "No changes to commit."
+          fi
