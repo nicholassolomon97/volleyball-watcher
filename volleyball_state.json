@@ -1,6 +1,6 @@
 {
   "1663c722-a361-4947-8f0c-5a6a79f4df57": {
-    "count": "19",
+    "count": "18",
     "date": "2026-09-17T01:00:00+00:00",
     "end": "22:00",
     "full_name": "Wednesday 9/16 - Volleyball Pickup (All Levels) - St. Patrick's Youth Center 9:00pm",
@@ -48,5 +48,15 @@
     "start": "20:30",
     "type": "Volleyball Pickup - 6v6 - Coed",
     "venue": "Baruch College"
+  },
+  "9115bc69-4441-4b29-9e99-614d8c8208ba": {
+    "count": "31",
+    "date": "2026-09-16T23:30:00+00:00",
+    "end": "21:00",
+    "full_name": "Wednesday 9/16 - Volleyball Pickup (All Levels) - St. Patrick's Youth Center 7:30pm",
+    "max": "32",
+    "start": "19:30",
+    "type": "Volleyball Pickup - 6v6 - Coed",
+    "venue": "St. Patrick's Youth Center"
   }
 }
