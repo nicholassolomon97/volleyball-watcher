@@ -70,9 +70,36 @@ def fetch_events(url):
     return {eid: e for eid, e in events.items() if e.get("date")}
 
 
+from datetime import date as date_cls, datetime, timedelta
+
+
+def format_time(t):
+    return datetime.strptime(t, "%H:%M").strftime("%-I:%M%p")
+
+
+def format_duration(start_str, end_str):
+    fmt = "%H:%M"
+    start = datetime.strptime(start_str, fmt)
+    end = datetime.strptime(end_str, fmt)
+    if end <= start:
+        end += timedelta(days=1)
+    minutes = int((end - start).total_seconds() // 60)
+    if minutes < 60:
+        return f"{minutes}min"
+    hours = minutes / 60
+    if hours == int(hours):
+        h = int(hours)
+        return f"{h}hr" if h == 1 else f"{h}hrs"
+    return f"{hours:g}hrs"
+
+
 def describe(e):
-    venue = e.get("venue") or "Unknown venue"
-    return f"{e['date'][:10]} {e['start']}-{e['end']} @ {venue} ({e['count']}/{e['max']})"
+    d = date_cls.fromisoformat(e['date'][:10])
+    when = d.strftime('%a %m/%d')
+    time_str = format_time(e['start'])
+    duration = format_duration(e['start'], e['end'])
+    venue = e.get('venue') or 'Unknown venue'
+    return f"{when} | {time_str} | {duration} | {venue} ({e['count']}/{e['max']})"
 
 
 def booking_link(eid):
