@@ -2,10 +2,13 @@ import json
 import os
 import re
 import urllib.request
+from datetime import date as date_cls, datetime, timedelta, timezone
 
 URL = os.environ["TARGET_URL"]
 NTFY_TOPIC = os.environ["NTFY_TOPIC"]
 STATE_FILE = os.environ.get("STATE_FILE", "volleyball_state.json")
+
+WEEKDAY_ABBR = {0: "Mon", 1: "Tue", 2: "Wed", 3: "Thurs", 4: "Fri", 5: "Sat", 6: "Sun"}
 
 
 def extract_venue_from_name(full_name):
@@ -63,14 +66,11 @@ def fetch_events(url):
                 if events[eid].get(k) is None and v is not None:
                     events[eid][k] = v
 
-    # Only keep entries that resolved to a real event (has a date).
     for eid, e in events.items():
         if not e.get("venue"):
             e["venue"] = extract_venue_from_name(e.get("full_name"))
+    # Only keep entries that resolved to a real event (has a date).
     return {eid: e for eid, e in events.items() if e.get("date")}
-
-
-from datetime import date as date_cls, datetime, timedelta
 
 
 def format_time(t):
@@ -85,21 +85,21 @@ def format_duration(start_str, end_str):
         end += timedelta(days=1)
     minutes = int((end - start).total_seconds() // 60)
     if minutes < 60:
-        return f"{minutes}min"
+        return f"{minutes} min"
     hours = minutes / 60
     if hours == int(hours):
         h = int(hours)
-        return f"{h}hr" if h == 1 else f"{h}hrs"
-    return f"{hours:g}hrs"
+        return f"{h} hr" if h == 1 else f"{h} hrs"
+    return f"{hours:g} hrs"
 
 
 def describe(e):
-    d = date_cls.fromisoformat(e['date'][:10])
-    when = d.strftime('%a %m/%d')
-    time_str = format_time(e['start'])
-    duration = format_duration(e['start'], e['end'])
-    venue = e.get('venue') or 'Unknown venue'
-    return f"{when} | {time_str} | {duration} | {venue} ({e['count']}/{e['max']})"
+    d = date_cls.fromisoformat(e["date"][:10])
+    when = f"{WEEKDAY_ABBR[d.weekday()]} {d.strftime('%m/%d')}"
+    time_str = format_time(e["start"])
+    duration = format_duration(e["start"], e["end"])
+    venue = e.get("venue") or "Unknown venue"
+    return f"{venue} | {when} | {time_str} | {duration} | {e['count']}/{e['max']}"
 
 
 def booking_link(eid):
@@ -107,49 +107,74 @@ def booking_link(eid):
 
 
 def notify(title, message, click_url=None):
-    headers = {"Title": title}
+    # Headers must be Latin-1, which breaks on emoji titles - use ntfy's JSON
+    # publish endpoint instead, which handles full UTF-8 in the body.
+    payload = {"topic": NTFY_TOPIC, "title": title, "message": message}
     if click_url:
-        headers["X-Click"] = click_url
+        payload["click"] = click_url
     req = urllib.request.Request(
-        f"https://ntfy.sh/{NTFY_TOPIC}",
-        data=message.encode("utf-8"),
-        headers=headers,
+        "https://ntfy.sh/",
+        data=json.dumps(payload).encode("utf-8"),
+        headers={"Content-Type": "application/json"},
         method="POST",
     )
     urllib.request.urlopen(req, timeout=15)
+
+
+def load_state():
+    if not os.path.exists(STATE_FILE):
+        return None
+    with open(STATE_FILE) as f:
+        return json.load(f)
+
+
+def save_state(current, seen):
+    with open(STATE_FILE, "w") as f:
+        json.dump({"current": current, "seen": seen}, f, indent=2, sort_keys=True)
 
 
 def main():
     current = fetch_events(URL)
     print(f"Fetched {len(current)} current listing(s).")
 
-    previous = None
-    if os.path.exists(STATE_FILE):
-        with open(STATE_FILE) as f:
-            previous = json.load(f)
+    state = load_state()
+    previous_current = state.get("current", {}) if state else None
+    seen = state.get("seen", {}) if state else {}
 
-    if previous is None:
+    if previous_current is None:
         print(f"First run - saving baseline of {len(current)} listing(s), no alert sent.")
     else:
-        new_ids = set(current) - set(previous)
-        gone_ids = set(previous) - set(current)
+        new_ids = set(current) - set(previous_current)
+        gone_ids = set(previous_current) - set(current)
 
         for eid in new_ids:
-            msg = describe(current[eid])
-            print(f"NEW: {msg}")
-            notify("New pickup volleyball game!", msg, click_url=booking_link(eid))
+            e = current[eid]
+            msg = describe(e)
+            if eid in seen:
+                title = "\U0001F513 Spot Opened"  # 🔓
+            else:
+                title = "\U0001F195 New Game"  # 🆕
+            print(f"{title}: {msg}")
+            notify(title, msg, click_url=booking_link(eid))
 
         for eid in gone_ids:
-            msg = describe(previous[eid])
-            print(f"GONE: {msg}")
-            notify("Volleyball game no longer listed", msg)
+            # Filled up (or removed) - no notification, nothing to book.
+            print(f"FILLED (no alert): {describe(previous_current[eid])}")
 
-        if not new_ids and not gone_ids:
-            print("No new or removed listings.")
+        if not new_ids:
+            print("No new listings or reopened spots.")
 
-    if current != previous:
-        with open(STATE_FILE, "w") as f:
-            json.dump(current, f, indent=2, sort_keys=True)
+    # Track every id ever seen (by its game date) so a game that disappears
+    # and later reappears is recognized as "Spot Opened" rather than "New".
+    for eid, e in current.items():
+        seen[eid] = e["date"][:10]
+
+    # Prune ids whose game date has already passed - they can't come back,
+    # so there's no reason to keep tracking them forever.
+    today_str = datetime.now(timezone.utc).date().isoformat()
+    seen = {eid: d for eid, d in seen.items() if d >= today_str}
+
+    save_state(current, seen)
 
 
 if __name__ == "__main__":
