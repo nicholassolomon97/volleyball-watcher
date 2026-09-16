@@ -29,16 +29,6 @@
     "type": "Volleyball Pickup - 6v6 - Coed",
     "venue": "St. Patrick's Youth Center"
   },
-  "1f4c0b0e-7c96-462e-8fbc-1b67abf7796c": {
-    "count": "15",
-    "date": "2026-09-19T16:00:00+00:00",
-    "end": "14:00",
-    "full_name": "Saturday 9/19 - Volleyball Pickup (All Levels) - Hunter's Point South 12:00pm",
-    "max": "16",
-    "start": "12:00",
-    "type": "Volleyball Pickup - 6v6 - Coed",
-    "venue": "Hunter's Point South"
-  },
   "4ce23b3e-e04a-49b2-beb3-b73205b64480": {
     "count": "0",
     "date": "2026-09-23T22:00:00+00:00",
@@ -99,16 +89,6 @@
     "type": "Volleyball Pickup - 6v6 - Coed",
     "venue": "53 Knickerbocker Ave"
   },
-  "71fd1aab-1577-495a-a114-bc5baac3f56d": {
-    "count": "15",
-    "date": "2026-09-19T18:00:00+00:00",
-    "end": "16:00",
-    "full_name": "Saturday 9/19 - Volleyball Pickup (All Levels) - Hunter's Point South 2:00pm",
-    "max": "16",
-    "start": "14:00",
-    "type": "Volleyball Pickup - 6v6 - Coed",
-    "venue": "Hunter's Point South"
-  },
   "739a0797-1d2e-488f-b09f-914feb9ef5c7": {
     "count": "15",
     "date": "2026-09-20T16:00:00+00:00",
@@ -120,7 +100,7 @@
     "venue": "Hunter's Point South"
   },
   "7593cea0-47b5-46ec-b0ff-d46e62684c0f": {
-    "count": "2",
+    "count": "5",
     "date": "2026-09-26T18:00:00+00:00",
     "end": "16:00",
     "full_name": "Saturday 9/26 - Volleyball Pickup (All Levels) - Hunter's Point South 2:00pm",
@@ -170,7 +150,7 @@
     "venue": "Pier 6"
   },
   "dbdcd501-04a0-4589-b132-0b3dd332d9f6": {
-    "count": "3",
+    "count": "5",
     "date": "2026-09-26T16:00:00+00:00",
     "end": "14:00",
     "full_name": "Saturday 9/26 - Volleyball Pickup (All Levels) - Hunter's Point South 12:00pm",
