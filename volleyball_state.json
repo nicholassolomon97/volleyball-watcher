@@ -60,6 +60,26 @@
       "type": "Volleyball Pickup - 6v6 - Coed",
       "venue": "Pier 25"
     },
+    "948effea-ee60-4427-a945-996760800e89": {
+      "count": "0",
+      "date": "2026-09-27T16:00:00+00:00",
+      "end": "13:00",
+      "full_name": "Sunday 9/27 - Volleyball Pickup (All Levels) - Hunter's Point South 12:00pm",
+      "max": "16",
+      "start": "12:00",
+      "type": "Volleyball Pickup - 6v6 - Coed",
+      "venue": "Hunter's Point South"
+    },
+    "97501b88-6be2-463a-bf58-eae73e542362": {
+      "count": "1",
+      "date": "2026-09-27T19:00:00+00:00",
+      "end": "17:00",
+      "full_name": "Sunday 9/27 - Volleyball Pickup (Intermediate) - Boys and Girls Club Jersey City 3:00pm",
+      "max": "18",
+      "start": "15:00",
+      "type": "Volleyball Pickup - 6v6 - Coed",
+      "venue": "Boys and Girls Club Jersey City"
+    },
     "afb4bf03-fb49-4290-9331-992c856b4341": {
       "count": "14",
       "date": "2026-09-24T22:00:00+00:00",
@@ -69,6 +89,16 @@
       "start": "18:00",
       "type": "Volleyball Pickup - 6v6 - Coed",
       "venue": "La Salle Academy"
+    },
+    "b86c9aec-b904-453b-a432-7d11eb13b02e": {
+      "count": "3",
+      "date": "2026-09-27T17:00:00+00:00",
+      "end": "15:00",
+      "full_name": "Sunday 9/27 - Volleyball Pickup (Advanced/competitive) - Boys and Girls Club Jersey City 1:00pm",
+      "max": "18",
+      "start": "13:00",
+      "type": "Volleyball Pickup - 6v6 - Coed",
+      "venue": "Boys and Girls Club Jersey City"
     },
     "bf88ccea-052f-4526-8543-13f0bb08a62e": {
       "count": "2",
@@ -143,7 +173,10 @@
     "7593cea0-47b5-46ec-b0ff-d46e62684c0f": "2026-09-26",
     "865e8683-e415-404c-90b9-4ebd09343ede": "2026-09-21",
     "8b5fec13-9935-4337-8edc-17044a07ec30": "2026-09-17",
+    "948effea-ee60-4427-a945-996760800e89": "2026-09-27",
+    "97501b88-6be2-463a-bf58-eae73e542362": "2026-09-27",
     "afb4bf03-fb49-4290-9331-992c856b4341": "2026-09-24",
+    "b86c9aec-b904-453b-a432-7d11eb13b02e": "2026-09-27",
     "bf88ccea-052f-4526-8543-13f0bb08a62e": "2026-09-19",
     "dbdcd501-04a0-4589-b132-0b3dd332d9f6": "2026-09-26",
     "ead6d941-f4a2-4690-9d47-9d2f3c433ade": "2026-09-21",
