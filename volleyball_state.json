@@ -21,7 +21,7 @@
       "venue": "Pier 25"
     },
     "53ea8932-883f-48de-a080-0e007f35b8c0": {
-      "count": "8",
+      "count": "9",
       "date": "2026-09-22T23:00:00+00:00",
       "end": "20:00",
       "full_name": "Tuesday 9/22 - Volleyball Pickup (All Levels) - Pier 6 7:00pm",
@@ -69,16 +69,6 @@
       "start": "18:00",
       "type": "Volleyball Pickup - 6v6 - Coed",
       "venue": "Pier 25"
-    },
-    "8b5fec13-9935-4337-8edc-17044a07ec30": {
-      "count": "15",
-      "date": "2026-09-17T22:00:00+00:00",
-      "end": "19:00",
-      "full_name": "Thursday 9/17 - Volleyball Pickup (All Levels) - La Salle Academy 6:00pm",
-      "max": "16",
-      "start": "18:00",
-      "type": "Volleyball Pickup - 6v6 - Coed",
-      "venue": "La Salle Academy"
     },
     "afb4bf03-fb49-4290-9331-992c856b4341": {
       "count": "12",
