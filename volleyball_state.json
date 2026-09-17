@@ -80,6 +80,16 @@
       "type": "Volleyball Pickup - 6v6 - Coed",
       "venue": "Boys and Girls Club Jersey City"
     },
+    "a04bbf20-e8b4-46d5-91d3-a9a58838f26c": {
+      "count": "0",
+      "date": "2026-09-27T15:00:00+00:00",
+      "end": "12:00",
+      "full_name": "Sunday 9/27 - Volleyball Pickup (All Levels) - Baruch College 11:00am",
+      "max": "16",
+      "start": "11:00",
+      "type": "Volleyball Pickup - 6v6 - Coed",
+      "venue": "Baruch College"
+    },
     "afb4bf03-fb49-4290-9331-992c856b4341": {
       "count": "14",
       "date": "2026-09-24T22:00:00+00:00",
@@ -175,6 +185,7 @@
     "8b5fec13-9935-4337-8edc-17044a07ec30": "2026-09-17",
     "948effea-ee60-4427-a945-996760800e89": "2026-09-27",
     "97501b88-6be2-463a-bf58-eae73e542362": "2026-09-27",
+    "a04bbf20-e8b4-46d5-91d3-a9a58838f26c": "2026-09-27",
     "afb4bf03-fb49-4290-9331-992c856b4341": "2026-09-24",
     "b86c9aec-b904-453b-a432-7d11eb13b02e": "2026-09-27",
     "bf88ccea-052f-4526-8543-13f0bb08a62e": "2026-09-19",
