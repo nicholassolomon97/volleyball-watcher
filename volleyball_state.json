@@ -20,6 +20,16 @@
       "type": "Volleyball Pickup - 6v6 - Coed",
       "venue": "Pier 6"
     },
+    "5571ff19-f4db-405a-bba1-2d3fca9792fc": {
+      "count": "15",
+      "date": "2026-09-20T15:00:00+00:00",
+      "end": "12:00",
+      "full_name": "Sunday 9/20 - Volleyball Pickup (All Levels) - Baruch College 11:00am",
+      "max": "16",
+      "start": "11:00",
+      "type": "Volleyball Pickup - 6v6 - Coed",
+      "venue": "Baruch College"
+    },
     "5b9c064a-52c7-4a62-aeb3-b8e2e7787252": {
       "count": "0",
       "date": "2026-10-15T16:00:00+00:00",
@@ -81,7 +91,7 @@
       "venue": "Hunter's Point South"
     },
     "ad35f8c2-9018-4b8f-bf1c-e9bb14302e44": {
-      "count": "3",
+      "count": "5",
       "date": "2026-09-28T22:00:00+00:00",
       "end": "19:00",
       "full_name": "Monday 9/28 - Volleyball Pickup (All Levels) - La Salle Academy 6:00pm",
@@ -121,7 +131,7 @@
       "venue": "Pier 6"
     },
     "ec29cf09-18cf-478a-a170-7d690a67af20": {
-      "count": "9",
+      "count": "11",
       "date": "2026-09-29T00:00:00+00:00",
       "end": "21:00",
       "full_name": "Monday 9/28 - Volleyball Pickup (All Levels) - St. Patrick's Youth Center 8:00pm",
@@ -145,6 +155,7 @@
     "3c2669a8-3043-451f-a831-952c100ec340": "2026-09-22",
     "4ce23b3e-e04a-49b2-beb3-b73205b64480": "2026-09-23",
     "53ea8932-883f-48de-a080-0e007f35b8c0": "2026-09-22",
+    "5571ff19-f4db-405a-bba1-2d3fca9792fc": "2026-09-20",
     "5b9c064a-52c7-4a62-aeb3-b8e2e7787252": "2026-10-15",
     "69f33935-6e13-4fe6-b671-01eefdf4959a": "2026-09-18",
     "6db98d7c-f7c9-4503-b44e-1737735650a8": "2026-10-22",
