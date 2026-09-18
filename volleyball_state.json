@@ -1,7 +1,7 @@
 {
   "current": {
     "4ce23b3e-e04a-49b2-beb3-b73205b64480": {
-      "count": "1",
+      "count": "2",
       "date": "2026-09-23T22:00:00+00:00",
       "end": "18:45",
       "full_name": "Wednesday 9/23 - Volleyball Pickup (All Levels) - Pier 25 6:00pm",
@@ -9,16 +9,6 @@
       "start": "18:00",
       "type": "Volleyball Pickup - 6v6 - Coed",
       "venue": "Pier 25"
-    },
-    "53ea8932-883f-48de-a080-0e007f35b8c0": {
-      "count": "15",
-      "date": "2026-09-22T23:00:00+00:00",
-      "end": "20:00",
-      "full_name": "Tuesday 9/22 - Volleyball Pickup (All Levels) - Pier 6 7:00pm",
-      "max": "16",
-      "start": "19:00",
-      "type": "Volleyball Pickup - 6v6 - Coed",
-      "venue": "Pier 6"
     },
     "5571ff19-f4db-405a-bba1-2d3fca9792fc": {
       "count": "15",
