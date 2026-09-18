@@ -50,6 +50,16 @@
       "type": "Volleyball Pickup - 6v6 - Coed",
       "venue": "The Post BK - 100 Dobbin St"
     },
+    "81166c0c-b4b4-4115-b886-7f4dfae73907": {
+      "count": "0",
+      "date": "2026-09-28T22:00:00+00:00",
+      "end": "18:45",
+      "full_name": "Monday 9/28 - Volleyball Pickup (All Levels) - Pier 25 6:00pm",
+      "max": "14",
+      "start": "18:00",
+      "type": "Volleyball Pickup - 6v6 - Coed",
+      "venue": "Pier 25"
+    },
     "865e8683-e415-404c-90b9-4ebd09343ede": {
       "count": "5",
       "date": "2026-09-21T22:00:00+00:00",
@@ -70,6 +80,16 @@
       "type": "Volleyball Pickup - 6v6 - Coed",
       "venue": "Hunter's Point South"
     },
+    "ad35f8c2-9018-4b8f-bf1c-e9bb14302e44": {
+      "count": "0",
+      "date": "2026-09-28T22:00:00+00:00",
+      "end": "19:00",
+      "full_name": "Monday 9/28 - Volleyball Pickup (All Levels) - La Salle Academy 6:00pm",
+      "max": "16",
+      "start": "18:00",
+      "type": "Volleyball Pickup - 6v6 - Coed",
+      "venue": "La Salle Academy"
+    },
     "bf88ccea-052f-4526-8543-13f0bb08a62e": {
       "count": "3",
       "date": "2026-09-19T18:00:00+00:00",
@@ -77,6 +97,16 @@
       "full_name": "Saturday 9/19 - Volleyball Pickup (All Levels) - Pier 6 2:00pm",
       "max": "16",
       "start": "14:00",
+      "type": "Volleyball Pickup - 6v6 - Coed",
+      "venue": "Pier 6"
+    },
+    "d505cef7-7797-4cb4-8d4f-9473c4b3f7a8": {
+      "count": "0",
+      "date": "2026-09-28T23:00:00+00:00",
+      "end": "20:00",
+      "full_name": "Monday 9/28 - Volleyball Pickup (All Levels) - Pier 6 7:00pm",
+      "max": "16",
+      "start": "19:00",
       "type": "Volleyball Pickup - 6v6 - Coed",
       "venue": "Pier 6"
     },
@@ -100,6 +130,16 @@
       "type": "Volleyball Pickup - 6v6 - Coed",
       "venue": "St. Patrick's Youth Center"
     },
+    "ec29cf09-18cf-478a-a170-7d690a67af20": {
+      "count": "0",
+      "date": "2026-09-29T00:00:00+00:00",
+      "end": "21:00",
+      "full_name": "Monday 9/28 - Volleyball Pickup (All Levels) - St. Patrick's Youth Center 8:00pm",
+      "max": "16",
+      "start": "20:00",
+      "type": "Volleyball Pickup - 6v6 - Coed",
+      "venue": "1405 Atlantic Ave"
+    },
     "f313f321-5599-4ea3-a385-682b98d12017": {
       "count": "4",
       "date": "2026-09-21T23:00:00+00:00",
@@ -118,7 +158,7 @@
       "max": "16",
       "start": "18:00",
       "type": "Volleyball Pickup - 6v6 - Coed",
-      "venue": "1405 Atlantic Ave"
+      "venue": "100 Dobbin St"
     }
   },
   "seen": {
@@ -132,19 +172,23 @@
     "739a0797-1d2e-488f-b09f-914feb9ef5c7": "2026-09-20",
     "7497c90e-7b30-4009-a2c5-4fd941d44c46": "2026-09-22",
     "7593cea0-47b5-46ec-b0ff-d46e62684c0f": "2026-09-26",
+    "81166c0c-b4b4-4115-b886-7f4dfae73907": "2026-09-28",
     "865e8683-e415-404c-90b9-4ebd09343ede": "2026-09-21",
     "948effea-ee60-4427-a945-996760800e89": "2026-09-27",
     "97501b88-6be2-463a-bf58-eae73e542362": "2026-09-27",
     "a04bbf20-e8b4-46d5-91d3-a9a58838f26c": "2026-09-27",
     "a2fb1b20-f2e5-4a01-8244-30fd15cc2ff2": "2026-09-18",
+    "ad35f8c2-9018-4b8f-bf1c-e9bb14302e44": "2026-09-28",
     "afb4bf03-fb49-4290-9331-992c856b4341": "2026-09-24",
     "b86c9aec-b904-453b-a432-7d11eb13b02e": "2026-09-27",
     "bc7813b9-c0a0-4ec6-8fec-89032d0d23f0": "2026-09-22",
     "bf88ccea-052f-4526-8543-13f0bb08a62e": "2026-09-19",
+    "d505cef7-7797-4cb4-8d4f-9473c4b3f7a8": "2026-09-28",
     "dbdcd501-04a0-4589-b132-0b3dd332d9f6": "2026-09-26",
     "ead6d941-f4a2-4690-9d47-9d2f3c433ade": "2026-09-21",
     "eb41efc0-27b0-4776-b4af-541a59a5c531": "2026-09-26",
     "eb79ba16-7a2c-4d24-a12f-446f7db5c8a0": "2026-09-23",
+    "ec29cf09-18cf-478a-a170-7d690a67af20": "2026-09-29",
     "f313f321-5599-4ea3-a385-682b98d12017": "2026-09-21",
     "f9db2fe2-3811-4271-bfed-c961ddfe6169": "2026-09-24"
   }
