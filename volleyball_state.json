@@ -10,6 +10,26 @@
       "type": "Volleyball Pickup - 6v6 - Coed",
       "venue": "Pier 25"
     },
+    "5d227984-e7c2-4f4e-a890-a2174eabae83": {
+      "count": "0",
+      "date": "2026-09-29T22:00:00+00:00",
+      "end": "19:00",
+      "full_name": "Tuesday 9/29 - Volleyball Pickup (All Levels) - The Post BK - 100 Dobbin St 6:00pm",
+      "max": "16",
+      "start": "18:00",
+      "type": "Volleyball Pickup - 6v6 - Coed",
+      "venue": "The Post BK - 100 Dobbin St"
+    },
+    "679548f2-5792-4c66-8428-e452ce7dc65f": {
+      "count": "0",
+      "date": "2026-09-29T22:00:00+00:00",
+      "end": "19:00",
+      "full_name": "Tuesday 9/29 - Volleyball Pickup (All Levels) - St. Patrick's Youth Center 6:00pm",
+      "max": "16",
+      "start": "18:00",
+      "type": "Volleyball Pickup - 6v6 - Coed",
+      "venue": "St. Patrick's Youth Center"
+    },
     "81166c0c-b4b4-4115-b886-7f4dfae73907": {
       "count": "0",
       "date": "2026-09-28T22:00:00+00:00",
@@ -19,6 +39,16 @@
       "start": "18:00",
       "type": "Volleyball Pickup - 6v6 - Coed",
       "venue": "Pier 25"
+    },
+    "83ba0078-da42-4eb5-acc1-5807fb741c44": {
+      "count": "0",
+      "date": "2026-09-29T23:00:00+00:00",
+      "end": "20:00",
+      "full_name": "Tuesday 9/29 - Volleyball Pickup (All Levels) - Pier 6 7:00pm",
+      "max": "16",
+      "start": "19:00",
+      "type": "Volleyball Pickup - 6v6 - Coed",
+      "venue": "Pier 6"
     },
     "865e8683-e415-404c-90b9-4ebd09343ede": {
       "count": "9",
@@ -127,12 +157,15 @@
     "53ea8932-883f-48de-a080-0e007f35b8c0": "2026-09-22",
     "5571ff19-f4db-405a-bba1-2d3fca9792fc": "2026-09-20",
     "5b9c064a-52c7-4a62-aeb3-b8e2e7787252": "2026-10-15",
+    "5d227984-e7c2-4f4e-a890-a2174eabae83": "2026-09-29",
+    "679548f2-5792-4c66-8428-e452ce7dc65f": "2026-09-29",
     "6db98d7c-f7c9-4503-b44e-1737735650a8": "2026-10-22",
     "724bc8d0-e2e5-410c-b437-1e1c2514ba85": "2026-09-22",
     "739a0797-1d2e-488f-b09f-914feb9ef5c7": "2026-09-20",
     "7497c90e-7b30-4009-a2c5-4fd941d44c46": "2026-09-22",
     "7593cea0-47b5-46ec-b0ff-d46e62684c0f": "2026-09-26",
     "81166c0c-b4b4-4115-b886-7f4dfae73907": "2026-09-28",
+    "83ba0078-da42-4eb5-acc1-5807fb741c44": "2026-09-29",
     "865e8683-e415-404c-90b9-4ebd09343ede": "2026-09-21",
     "948effea-ee60-4427-a945-996760800e89": "2026-09-27",
     "97501b88-6be2-463a-bf58-eae73e542362": "2026-09-27",
