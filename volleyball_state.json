@@ -30,6 +30,16 @@
       "type": "Volleyball Pickup - 6v6 - Coed",
       "venue": "St. Patrick's Youth Center"
     },
+    "739a0797-1d2e-488f-b09f-914feb9ef5c7": {
+      "count": "15",
+      "date": "2026-09-20T16:00:00+00:00",
+      "end": "13:00",
+      "full_name": "Sunday 9/20 - Volleyball Pickup (All Levels) - Hunter's Point South 12:00pm",
+      "max": "16",
+      "start": "12:00",
+      "type": "Volleyball Pickup - 6v6 - Coed",
+      "venue": "Hunter's Point South"
+    },
     "81166c0c-b4b4-4115-b886-7f4dfae73907": {
       "count": "0",
       "date": "2026-09-28T22:00:00+00:00",
@@ -89,16 +99,6 @@
       "start": "18:00",
       "type": "Volleyball Pickup - 6v6 - Coed",
       "venue": "La Salle Academy"
-    },
-    "bf88ccea-052f-4526-8543-13f0bb08a62e": {
-      "count": "4",
-      "date": "2026-09-19T18:00:00+00:00",
-      "end": "15:00",
-      "full_name": "Saturday 9/19 - Volleyball Pickup (All Levels) - Pier 6 2:00pm",
-      "max": "16",
-      "start": "14:00",
-      "type": "Volleyball Pickup - 6v6 - Coed",
-      "venue": "Pier 6"
     },
     "d505cef7-7797-4cb4-8d4f-9473c4b3f7a8": {
       "count": "0",
