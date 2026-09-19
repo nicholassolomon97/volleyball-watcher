@@ -40,6 +40,16 @@
       "type": "Volleyball Pickup - 6v6 - Coed",
       "venue": "Hunter's Point South"
     },
+    "9fcf18cd-f52f-4ab2-978d-6949149dadd1": {
+      "count": "0",
+      "date": "2026-09-29T22:30:00+00:00",
+      "end": "19:15",
+      "full_name": "Tuesday 9/29 - Volleyball Pickup (All Levels) - Xavier High School 6:30pm",
+      "max": "16",
+      "start": "18:30",
+      "type": "Volleyball Pickup - 6v6 - Coed",
+      "venue": "Xavier High School"
+    },
     "a04bbf20-e8b4-46d5-91d3-a9a58838f26c": {
       "count": "15",
       "date": "2026-09-27T15:00:00+00:00",
@@ -126,6 +136,7 @@
     "865e8683-e415-404c-90b9-4ebd09343ede": "2026-09-21",
     "948effea-ee60-4427-a945-996760800e89": "2026-09-27",
     "97501b88-6be2-463a-bf58-eae73e542362": "2026-09-27",
+    "9fcf18cd-f52f-4ab2-978d-6949149dadd1": "2026-09-29",
     "a04bbf20-e8b4-46d5-91d3-a9a58838f26c": "2026-09-27",
     "ad35f8c2-9018-4b8f-bf1c-e9bb14302e44": "2026-09-28",
     "afb4bf03-fb49-4290-9331-992c856b4341": "2026-09-24",
