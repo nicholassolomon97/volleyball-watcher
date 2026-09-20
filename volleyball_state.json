@@ -11,7 +11,7 @@
       "venue": "Pier 25"
     },
     "42a2cc06-c76a-4ed7-a1a5-2267c6f59992": {
-      "count": "12",
+      "count": "13",
       "date": "2026-09-30T23:00:00+00:00",
       "end": "20:00",
       "full_name": "Wednesday 9/30 - Volleyball Pickup (All Levels) - Avenues 7:00pm",
@@ -119,6 +119,16 @@
       "start": "19:00",
       "type": "Volleyball Pickup - 6v6 - Coed",
       "venue": "Pier 6"
+    },
+    "dbdcd501-04a0-4589-b132-0b3dd332d9f6": {
+      "count": "15",
+      "date": "2026-09-26T16:00:00+00:00",
+      "end": "14:00",
+      "full_name": "Saturday 9/26 - Volleyball Pickup (All Levels) - Hunter's Point South 12:00pm",
+      "max": "16",
+      "start": "12:00",
+      "type": "Volleyball Pickup - 6v6 - Coed",
+      "venue": "Hunter's Point South"
     },
     "eb41efc0-27b0-4776-b4af-541a59a5c531": {
       "count": "0",
