@@ -1,15 +1,5 @@
 {
   "current": {
-    "246d47e0-4b13-49fc-bffd-18afa4d9eabf": {
-      "count": "0",
-      "date": "2026-09-30T22:00:00+00:00",
-      "end": "18:45",
-      "full_name": "Wednesday 9/30 - Volleyball Pickup (All Levels) - Pier 25 6:00pm",
-      "max": "14",
-      "start": "18:00",
-      "type": "Volleyball Pickup - 6v6 - Coed",
-      "venue": "Pier 25"
-    },
     "42a2cc06-c76a-4ed7-a1a5-2267c6f59992": {
       "count": "13",
       "date": "2026-09-30T23:00:00+00:00",
@@ -19,16 +9,6 @@
       "start": "19:00",
       "type": "Volleyball Pickup - 6v6 - Coed",
       "venue": "Avenues"
-    },
-    "4ce23b3e-e04a-49b2-beb3-b73205b64480": {
-      "count": "5",
-      "date": "2026-09-23T22:00:00+00:00",
-      "end": "18:45",
-      "full_name": "Wednesday 9/23 - Volleyball Pickup (All Levels) - Pier 25 6:00pm",
-      "max": "14",
-      "start": "18:00",
-      "type": "Volleyball Pickup - 6v6 - Coed",
-      "venue": "Pier 25"
     },
     "679548f2-5792-4c66-8428-e452ce7dc65f": {
       "count": "13",
@@ -40,55 +20,15 @@
       "type": "Volleyball Pickup - 6v6 - Coed",
       "venue": "St. Patrick's Youth Center"
     },
-    "7593cea0-47b5-46ec-b0ff-d46e62684c0f": {
+    "724bc8d0-e2e5-410c-b437-1e1c2514ba85": {
       "count": "15",
-      "date": "2026-09-26T18:00:00+00:00",
-      "end": "16:00",
-      "full_name": "Saturday 9/26 - Volleyball Pickup (All Levels) - Hunter's Point South 2:00pm",
+      "date": "2026-09-22T22:00:00+00:00",
+      "end": "19:00",
+      "full_name": "Tuesday 9/22 - Volleyball Pickup (All Levels) - The Post BK - 100 Dobbin St 6:00pm",
       "max": "16",
-      "start": "14:00",
-      "type": "Volleyball Pickup - 6v6 - Coed",
-      "venue": "Hunter's Point South"
-    },
-    "81166c0c-b4b4-4115-b886-7f4dfae73907": {
-      "count": "0",
-      "date": "2026-09-28T22:00:00+00:00",
-      "end": "18:45",
-      "full_name": "Monday 9/28 - Volleyball Pickup (All Levels) - Pier 25 6:00pm",
-      "max": "14",
       "start": "18:00",
       "type": "Volleyball Pickup - 6v6 - Coed",
-      "venue": "Pier 25"
-    },
-    "83ba0078-da42-4eb5-acc1-5807fb741c44": {
-      "count": "4",
-      "date": "2026-09-29T23:00:00+00:00",
-      "end": "20:00",
-      "full_name": "Tuesday 9/29 - Volleyball Pickup (All Levels) - Pier 6 7:00pm",
-      "max": "16",
-      "start": "19:00",
-      "type": "Volleyball Pickup - 6v6 - Coed",
-      "venue": "Pier 6"
-    },
-    "865e8683-e415-404c-90b9-4ebd09343ede": {
-      "count": "8",
-      "date": "2026-09-21T22:00:00+00:00",
-      "end": "18:45",
-      "full_name": "Monday 9/21 - Volleyball Pickup (All Levels) - Pier 25 6:00pm",
-      "max": "14",
-      "start": "18:00",
-      "type": "Volleyball Pickup - 6v6 - Coed",
-      "venue": "Pier 25"
-    },
-    "948effea-ee60-4427-a945-996760800e89": {
-      "count": "6",
-      "date": "2026-09-27T16:00:00+00:00",
-      "end": "13:00",
-      "full_name": "Sunday 9/27 - Volleyball Pickup (All Levels) - Hunter's Point South 12:00pm",
-      "max": "16",
-      "start": "12:00",
-      "type": "Volleyball Pickup - 6v6 - Coed",
-      "venue": "Hunter's Point South"
+      "venue": "The Post BK - 100 Dobbin St"
     },
     "9fcf18cd-f52f-4ab2-978d-6949149dadd1": {
       "count": "7",
@@ -100,16 +40,6 @@
       "type": "Volleyball Pickup - 6v6 - Coed",
       "venue": "Xavier High School"
     },
-    "ad35f8c2-9018-4b8f-bf1c-e9bb14302e44": {
-      "count": "11",
-      "date": "2026-09-28T22:00:00+00:00",
-      "end": "19:00",
-      "full_name": "Monday 9/28 - Volleyball Pickup (All Levels) - La Salle Academy 6:00pm",
-      "max": "16",
-      "start": "18:00",
-      "type": "Volleyball Pickup - 6v6 - Coed",
-      "venue": "La Salle Academy"
-    },
     "baecf84d-4207-4246-9961-beb3ef02ab2e": {
       "count": "3",
       "date": "2026-09-30T22:00:00+00:00",
@@ -120,35 +50,15 @@
       "type": "Volleyball Pickup - 6v6 - Coed",
       "venue": "St. Patrick's Youth Center"
     },
-    "d505cef7-7797-4cb4-8d4f-9473c4b3f7a8": {
-      "count": "0",
-      "date": "2026-09-28T23:00:00+00:00",
-      "end": "20:00",
-      "full_name": "Monday 9/28 - Volleyball Pickup (All Levels) - Pier 6 7:00pm",
+    "bc7813b9-c0a0-4ec6-8fec-89032d0d23f0": {
+      "count": "15",
+      "date": "2026-09-22T22:30:00+00:00",
+      "end": "19:15",
+      "full_name": "Tuesday 9/22 - Volleyball Pickup (All Levels) - Xavier High School 6:30pm",
       "max": "16",
-      "start": "19:00",
+      "start": "18:30",
       "type": "Volleyball Pickup - 6v6 - Coed",
-      "venue": "Pier 6"
-    },
-    "eb41efc0-27b0-4776-b4af-541a59a5c531": {
-      "count": "0",
-      "date": "2026-09-26T18:00:00+00:00",
-      "end": "15:00",
-      "full_name": "Saturday 9/26 - Volleyball Pickup (All Levels) - Pier 6 2:00pm",
-      "max": "16",
-      "start": "14:00",
-      "type": "Volleyball Pickup - 6v6 - Coed",
-      "venue": "Pier 6"
-    },
-    "f313f321-5599-4ea3-a385-682b98d12017": {
-      "count": "4",
-      "date": "2026-09-21T23:00:00+00:00",
-      "end": "20:00",
-      "full_name": "Monday 9/21 - Volleyball Pickup (All Levels) - Pier 6 7:00pm",
-      "max": "16",
-      "start": "19:00",
-      "type": "Volleyball Pickup - 6v6 - Coed",
-      "venue": "Pier 6"
+      "venue": "Xavier High School"
     }
   },
   "seen": {
