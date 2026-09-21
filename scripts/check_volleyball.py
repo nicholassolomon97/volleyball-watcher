@@ -3,12 +3,20 @@ import os
 import re
 import urllib.request
 from datetime import date as date_cls, datetime, timedelta, timezone
+from zoneinfo import ZoneInfo
 
 URL = os.environ["TARGET_URL"]
 NTFY_TOPIC = os.environ["NTFY_TOPIC"]
 STATE_FILE = os.environ.get("STATE_FILE", "volleyball_state.json")
 
 WEEKDAY_ABBR = {0: "Mon", 1: "Tue", 2: "Wed", 3: "Thurs", 4: "Fri", 5: "Sat", 6: "Sun"}
+
+# event_start_date comes through as a UTC timestamp of the actual event
+# start moment (not a plain local calendar date), so any evening game in
+# Eastern time can roll over to the next UTC day. Convert to Eastern before
+# reading off the date, or displayed dates end up off by one for anything
+# starting ~8pm or later.
+EASTERN = ZoneInfo("America/New_York")
 
 
 def extract_venue_from_name(full_name):
@@ -93,8 +101,21 @@ def format_duration(start_str, end_str):
     return f"{hours:g} hrs"
 
 
+def local_event_date(raw_date):
+    """Convert the raw event_start_date (a UTC timestamp) to the correct
+    Eastern-time calendar date. Falls back to a naive date-only parse if the
+    value ever comes through without time/timezone info."""
+    try:
+        dt = datetime.fromisoformat(raw_date.replace("Z", "+00:00"))
+    except ValueError:
+        return date_cls.fromisoformat(raw_date[:10])
+    if dt.tzinfo is None:
+        dt = dt.replace(tzinfo=timezone.utc)
+    return dt.astimezone(EASTERN).date()
+
+
 def describe(e):
-    d = date_cls.fromisoformat(e["date"][:10])
+    d = local_event_date(e["date"])
     when = f"{WEEKDAY_ABBR[d.weekday()]} {d.strftime('%m/%d')}"
     time_str = format_time(e["start"])
     duration = format_duration(e["start"], e["end"])
