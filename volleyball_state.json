@@ -11,7 +11,7 @@
       "venue": "Avenues"
     },
     "679548f2-5792-4c66-8428-e452ce7dc65f": {
-      "count": "13",
+      "count": "14",
       "date": "2026-09-29T22:00:00+00:00",
       "end": "19:00",
       "full_name": "Tuesday 9/29 - Volleyball Pickup (All Levels) - St. Patrick's Youth Center 6:00pm",
@@ -49,6 +49,16 @@
       "start": "18:00",
       "type": "Volleyball Pickup - 6v6 - Coed",
       "venue": "St. Patrick's Youth Center"
+    },
+    "bc7813b9-c0a0-4ec6-8fec-89032d0d23f0": {
+      "count": "15",
+      "date": "2026-09-22T22:30:00+00:00",
+      "end": "19:15",
+      "full_name": "Tuesday 9/22 - Volleyball Pickup (All Levels) - Xavier High School 6:30pm",
+      "max": "16",
+      "start": "18:30",
+      "type": "Volleyball Pickup - 6v6 - Coed",
+      "venue": "Xavier High School"
     }
   },
   "seen": {
