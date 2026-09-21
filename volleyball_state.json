@@ -20,6 +20,16 @@
       "type": "Volleyball Pickup - 6v6 - Coed",
       "venue": "Pier 25"
     },
+    "7497c90e-7b30-4009-a2c5-4fd941d44c46": {
+      "count": "15",
+      "date": "2026-09-22T00:00:00+00:00",
+      "end": "21:00",
+      "full_name": "Monday 9/21 - Volleyball Pickup (All Levels) - St. Patrick's Youth Center 8:00pm",
+      "max": "16",
+      "start": "20:00",
+      "type": "Volleyball Pickup - 6v6 - Coed",
+      "venue": "St. Patrick's Youth Center"
+    },
     "81166c0c-b4b4-4115-b886-7f4dfae73907": {
       "count": "0",
       "date": "2026-09-28T22:00:00+00:00",
@@ -88,7 +98,7 @@
       "max": "16",
       "start": "18:00",
       "type": "Volleyball Pickup - 6v6 - Coed",
-      "venue": "St. Patrick's Youth Center"
+      "venue": "1405 Atlantic Ave"
     },
     "d505cef7-7797-4cb4-8d4f-9473c4b3f7a8": {
       "count": "0",
@@ -101,7 +111,7 @@
       "venue": "Pier 6"
     },
     "ead6d941-f4a2-4690-9d47-9d2f3c433ade": {
-      "count": "14",
+      "count": "13",
       "date": "2026-09-21T22:00:00+00:00",
       "end": "19:00",
       "full_name": "Monday 9/21 - Volleyball Pickup (All Levels) - La Salle Academy 6:00pm",
