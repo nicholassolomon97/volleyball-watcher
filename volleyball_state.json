@@ -10,8 +10,18 @@
       "type": "Volleyball Pickup - 6v6 - Coed",
       "venue": "Pier 25"
     },
+    "3c2669a8-3043-451f-a831-952c100ec340": {
+      "count": "15",
+      "date": "2026-09-22T22:00:00+00:00",
+      "end": "19:00",
+      "full_name": "Tuesday 9/22 - Volleyball Pickup (All Levels) - St. Patrick's Youth Center 6:00pm",
+      "max": "16",
+      "start": "18:00",
+      "type": "Volleyball Pickup - 6v6 - Coed",
+      "venue": "St. Patrick's Youth Center"
+    },
     "4ce23b3e-e04a-49b2-beb3-b73205b64480": {
-      "count": "6",
+      "count": "7",
       "date": "2026-09-23T22:00:00+00:00",
       "end": "18:45",
       "full_name": "Wednesday 9/23 - Volleyball Pickup (All Levels) - Pier 25 6:00pm",
@@ -131,7 +141,7 @@
       "venue": "Pier 6"
     },
     "eb41efc0-27b0-4776-b4af-541a59a5c531": {
-      "count": "3",
+      "count": "4",
       "date": "2026-09-26T18:00:00+00:00",
       "end": "15:00",
       "full_name": "Saturday 9/26 - Volleyball Pickup (All Levels) - Pier 6 2:00pm",
