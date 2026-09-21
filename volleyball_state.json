@@ -20,6 +20,16 @@
       "type": "Volleyball Pickup - 6v6 - Coed",
       "venue": "Pier 25"
     },
+    "700d4ab1-d69b-4629-8421-76f5ab044ba2": {
+      "count": "0",
+      "date": "2026-09-22T00:00:00+00:00",
+      "end": "22:00",
+      "full_name": "Monday 9/21 - Volleyball Pickup (All Levels) - Baruch College 8:00pm",
+      "max": "32",
+      "start": "20:00",
+      "type": "Volleyball Pickup - 6v6 - Coed",
+      "venue": "Baruch College"
+    },
     "7497c90e-7b30-4009-a2c5-4fd941d44c46": {
       "count": "15",
       "date": "2026-09-22T00:00:00+00:00",
@@ -142,6 +152,7 @@
     "5d227984-e7c2-4f4e-a890-a2174eabae83": "2026-09-29",
     "679548f2-5792-4c66-8428-e452ce7dc65f": "2026-09-29",
     "6db98d7c-f7c9-4503-b44e-1737735650a8": "2026-10-22",
+    "700d4ab1-d69b-4629-8421-76f5ab044ba2": "2026-09-22",
     "724bc8d0-e2e5-410c-b437-1e1c2514ba85": "2026-09-22",
     "7497c90e-7b30-4009-a2c5-4fd941d44c46": "2026-09-22",
     "7593cea0-47b5-46ec-b0ff-d46e62684c0f": "2026-09-26",
