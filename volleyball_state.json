@@ -130,6 +130,16 @@
       "type": "Volleyball Pickup - 6v6 - Coed",
       "venue": "La Salle Academy"
     },
+    "b3e3f048-1663-4aaa-bfa7-36fb276c5bfa": {
+      "count": "0",
+      "date": "2026-09-30T01:15:00+00:00",
+      "end": "23:00",
+      "full_name": "Tuesday 9/29 - Volleyball Pickup (All Levels) - The Post BK - 100 Dobbin St 9:15pm",
+      "max": "16",
+      "start": "21:15",
+      "type": "Volleyball Pickup - 6v6 - Coed",
+      "venue": "100 Dobbin St"
+    },
     "baecf84d-4207-4246-9961-beb3ef02ab2e": {
       "count": "13",
       "date": "2026-09-30T22:00:00+00:00",
@@ -201,6 +211,7 @@
     "afb4bf03-fb49-4290-9331-992c856b4341": "2026-09-24",
     "b013ce58-b8fd-4cdc-97ef-816d6cbe19b5": "2026-09-24",
     "b361ca1f-ba4d-4e97-ba06-6d484208471d": "2026-10-02",
+    "b3e3f048-1663-4aaa-bfa7-36fb276c5bfa": "2026-09-30",
     "b86c9aec-b904-453b-a432-7d11eb13b02e": "2026-09-27",
     "baecf84d-4207-4246-9961-beb3ef02ab2e": "2026-09-30",
     "bc7813b9-c0a0-4ec6-8fec-89032d0d23f0": "2026-09-22",
