@@ -10,6 +10,16 @@
       "type": "Volleyball Pickup - 6v6 - Coed",
       "venue": "Pier 25"
     },
+    "2da9e3bc-9352-427f-873a-bc0036fb0429": {
+      "count": "0",
+      "date": "2026-09-25T00:00:00+00:00",
+      "end": "22:00",
+      "full_name": "Thursday 9/24 - Volleyball Pickup (All Levels) - La Salle Academy 8:00pm",
+      "max": "16",
+      "start": "20:00",
+      "type": "Volleyball Pickup - 6v6 - Coed",
+      "venue": "La Salle Academy"
+    },
     "4ce23b3e-e04a-49b2-beb3-b73205b64480": {
       "count": "8",
       "date": "2026-09-23T22:00:00+00:00",
@@ -30,6 +40,16 @@
       "type": "Volleyball Pickup - 6v6 - Coed",
       "venue": "Pier 6"
     },
+    "724bc8d0-e2e5-410c-b437-1e1c2514ba85": {
+      "count": "15",
+      "date": "2026-09-22T22:00:00+00:00",
+      "end": "19:00",
+      "full_name": "Tuesday 9/22 - Volleyball Pickup (All Levels) - The Post BK - 100 Dobbin St 6:00pm",
+      "max": "16",
+      "start": "18:00",
+      "type": "Volleyball Pickup - 6v6 - Coed",
+      "venue": "The Post BK - 100 Dobbin St"
+    },
     "81166c0c-b4b4-4115-b886-7f4dfae73907": {
       "count": "1",
       "date": "2026-09-28T22:00:00+00:00",
@@ -49,6 +69,16 @@
       "start": "19:00",
       "type": "Volleyball Pickup - 6v6 - Coed",
       "venue": "Pier 6"
+    },
+    "91e83ed4-c009-45a4-9795-db7930ab7cd6": {
+      "count": "0",
+      "date": "2026-10-01T22:00:00+00:00",
+      "end": "20:00",
+      "full_name": "Thursday 10/1 - Volleyball Pickup (All Levels) - La Salle Academy 6:00pm",
+      "max": "16",
+      "start": "18:00",
+      "type": "Volleyball Pickup - 6v6 - Coed",
+      "venue": "La Salle Academy"
     },
     "948effea-ee60-4427-a945-996760800e89": {
       "count": "11",
@@ -79,6 +109,16 @@
       "start": "19:00",
       "type": "Volleyball Pickup - 6v6 - Coed",
       "venue": "Liberty Harbor Courts @ Surf City"
+    },
+    "b361ca1f-ba4d-4e97-ba06-6d484208471d": {
+      "count": "0",
+      "date": "2026-10-02T00:00:00+00:00",
+      "end": "22:00",
+      "full_name": "Thursday 10/1 - Volleyball Pickup (All Levels) - La Salle Academy 8:00pm",
+      "max": "16",
+      "start": "20:00",
+      "type": "Volleyball Pickup - 6v6 - Coed",
+      "venue": "La Salle Academy"
     },
     "baecf84d-4207-4246-9961-beb3ef02ab2e": {
       "count": "13",
@@ -114,6 +154,7 @@
   "seen": {
     "246d47e0-4b13-49fc-bffd-18afa4d9eabf": "2026-09-30",
     "2ba88b44-caae-48b9-8942-8d194b9d26cf": "2026-10-02",
+    "2da9e3bc-9352-427f-873a-bc0036fb0429": "2026-09-25",
     "3c2669a8-3043-451f-a831-952c100ec340": "2026-09-22",
     "42a2cc06-c76a-4ed7-a1a5-2267c6f59992": "2026-09-30",
     "4ce23b3e-e04a-49b2-beb3-b73205b64480": "2026-09-23",
@@ -130,6 +171,7 @@
     "7c7fa9b8-5bbb-40df-a7cb-0e510f0d792e": "2026-09-24",
     "81166c0c-b4b4-4115-b886-7f4dfae73907": "2026-09-28",
     "83ba0078-da42-4eb5-acc1-5807fb741c44": "2026-09-29",
+    "91e83ed4-c009-45a4-9795-db7930ab7cd6": "2026-10-01",
     "948effea-ee60-4427-a945-996760800e89": "2026-09-27",
     "97501b88-6be2-463a-bf58-eae73e542362": "2026-09-27",
     "9fcf18cd-f52f-4ab2-978d-6949149dadd1": "2026-09-29",
@@ -138,6 +180,7 @@
     "ad35f8c2-9018-4b8f-bf1c-e9bb14302e44": "2026-09-28",
     "afb4bf03-fb49-4290-9331-992c856b4341": "2026-09-24",
     "b013ce58-b8fd-4cdc-97ef-816d6cbe19b5": "2026-09-24",
+    "b361ca1f-ba4d-4e97-ba06-6d484208471d": "2026-10-02",
     "b86c9aec-b904-453b-a432-7d11eb13b02e": "2026-09-27",
     "baecf84d-4207-4246-9961-beb3ef02ab2e": "2026-09-30",
     "bc7813b9-c0a0-4ec6-8fec-89032d0d23f0": "2026-09-22",
