@@ -10,6 +10,16 @@
       "type": "Volleyball Pickup - 6v6 - Coed",
       "venue": "Pier 25"
     },
+    "3c2669a8-3043-451f-a831-952c100ec340": {
+      "count": "15",
+      "date": "2026-09-22T22:00:00+00:00",
+      "end": "19:00",
+      "full_name": "Tuesday 9/22 - Volleyball Pickup (All Levels) - St. Patrick's Youth Center 6:00pm",
+      "max": "16",
+      "start": "18:00",
+      "type": "Volleyball Pickup - 6v6 - Coed",
+      "venue": "St. Patrick's Youth Center"
+    },
     "4ce23b3e-e04a-49b2-beb3-b73205b64480": {
       "count": "9",
       "date": "2026-09-23T22:00:00+00:00",
@@ -98,7 +108,7 @@
       "max": "16",
       "start": "18:00",
       "type": "Volleyball Pickup - 6v6 - Coed",
-      "venue": "St. Patrick's Youth Center"
+      "venue": "1405 Atlantic Ave"
     },
     "d505cef7-7797-4cb4-8d4f-9473c4b3f7a8": {
       "count": "0",
@@ -119,6 +129,16 @@
       "start": "14:00",
       "type": "Volleyball Pickup - 6v6 - Coed",
       "venue": "Pier 6"
+    },
+    "eb79ba16-7a2c-4d24-a12f-446f7db5c8a0": {
+      "count": "15",
+      "date": "2026-09-23T22:00:00+00:00",
+      "end": "19:00",
+      "full_name": "Wednesday 9/23 - Volleyball Pickup (All Levels) - St. Patrick's Youth Center 6:00pm",
+      "max": "16",
+      "start": "18:00",
+      "type": "Volleyball Pickup - 6v6 - Coed",
+      "venue": "St. Patrick's Youth Center"
     },
     "f9db2fe2-3811-4271-bfed-c961ddfe6169": {
       "count": "15",
