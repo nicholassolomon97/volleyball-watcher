@@ -11,7 +11,7 @@
       "venue": "Pier 25"
     },
     "3c2669a8-3043-451f-a831-952c100ec340": {
-      "count": "13",
+      "count": "12",
       "date": "2026-09-22T22:00:00+00:00",
       "end": "19:00",
       "full_name": "Tuesday 9/22 - Volleyball Pickup (All Levels) - St. Patrick's Youth Center 6:00pm",
@@ -91,7 +91,7 @@
       "venue": "Liberty Harbor Courts @ Surf City"
     },
     "baecf84d-4207-4246-9961-beb3ef02ab2e": {
-      "count": "11",
+      "count": "12",
       "date": "2026-09-30T22:00:00+00:00",
       "end": "19:00",
       "full_name": "Wednesday 9/30 - Volleyball Pickup (All Levels) - St. Patrick's Youth Center 6:00pm",
@@ -99,16 +99,6 @@
       "start": "18:00",
       "type": "Volleyball Pickup - 6v6 - Coed",
       "venue": "1405 Atlantic Ave"
-    },
-    "bc7813b9-c0a0-4ec6-8fec-89032d0d23f0": {
-      "count": "15",
-      "date": "2026-09-22T22:30:00+00:00",
-      "end": "19:15",
-      "full_name": "Tuesday 9/22 - Volleyball Pickup (All Levels) - Xavier High School 6:30pm",
-      "max": "16",
-      "start": "18:30",
-      "type": "Volleyball Pickup - 6v6 - Coed",
-      "venue": "Xavier High School"
     },
     "d505cef7-7797-4cb4-8d4f-9473c4b3f7a8": {
       "count": "1",
