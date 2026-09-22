@@ -31,7 +31,7 @@
       "venue": "Pier 25"
     },
     "53ea8932-883f-48de-a080-0e007f35b8c0": {
-      "count": "14",
+      "count": "13",
       "date": "2026-09-22T23:00:00+00:00",
       "end": "20:00",
       "full_name": "Tuesday 9/22 - Volleyball Pickup (All Levels) - Pier 6 7:00pm",
@@ -39,6 +39,16 @@
       "start": "19:00",
       "type": "Volleyball Pickup - 6v6 - Coed",
       "venue": "Pier 6"
+    },
+    "724bc8d0-e2e5-410c-b437-1e1c2514ba85": {
+      "count": "15",
+      "date": "2026-09-22T22:00:00+00:00",
+      "end": "19:00",
+      "full_name": "Tuesday 9/22 - Volleyball Pickup (All Levels) - The Post BK - 100 Dobbin St 6:00pm",
+      "max": "16",
+      "start": "18:00",
+      "type": "Volleyball Pickup - 6v6 - Coed",
+      "venue": "The Post BK - 100 Dobbin St"
     },
     "81166c0c-b4b4-4115-b886-7f4dfae73907": {
       "count": "1",
