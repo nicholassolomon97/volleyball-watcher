@@ -21,7 +21,7 @@
       "venue": "Pier 25"
     },
     "2f0ccecb-0046-43be-a1c6-595afd92dc87": {
-      "count": "7",
+      "count": "8",
       "date": "2026-09-26T16:00:00+00:00",
       "end": "13:45",
       "full_name": "Saturday 9/26 - Volleyball Pickup (All Levels) - The Door 12:00pm",
@@ -61,7 +61,7 @@
       "venue": "Pier 25"
     },
     "893d2950-5b1c-4767-9560-cc3fffe1bd22": {
-      "count": "4",
+      "count": "5",
       "date": "2026-09-26T20:15:00+00:00",
       "end": "18:00",
       "full_name": "Saturday 9/26 - Volleyball Pickup (All Levels) - Pier 6 4:15pm",
@@ -89,16 +89,6 @@
       "start": "19:00",
       "type": "Volleyball Pickup - 6v6 - Coed",
       "venue": "Liberty Harbor Courts @ Surf City"
-    },
-    "b361ca1f-ba4d-4e97-ba06-6d484208471d": {
-      "count": "15",
-      "date": "2026-10-02T00:00:00+00:00",
-      "end": "22:00",
-      "full_name": "Thursday 10/1 - Volleyball Pickup (All Levels) - La Salle Academy 8:00pm",
-      "max": "16",
-      "start": "20:00",
-      "type": "Volleyball Pickup - 6v6 - Coed",
-      "venue": "La Salle Academy"
     },
     "baecf84d-4207-4246-9961-beb3ef02ab2e": {
       "count": "14",
@@ -161,7 +151,7 @@
       "venue": "Riverside Park South"
     },
     "eb41efc0-27b0-4776-b4af-541a59a5c531": {
-      "count": "13",
+      "count": "14",
       "date": "2026-09-26T18:00:00+00:00",
       "end": "15:00",
       "full_name": "Saturday 9/26 - Volleyball Pickup (All Levels) - Pier 6 2:00pm",
