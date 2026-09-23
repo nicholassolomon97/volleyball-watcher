@@ -10,16 +10,6 @@
       "type": "Volleyball Pickup - 6v6 - Coed",
       "venue": "1405 Atlantic Ave"
     },
-    "246d47e0-4b13-49fc-bffd-18afa4d9eabf": {
-      "count": "0",
-      "date": "2026-09-30T22:00:00+00:00",
-      "end": "18:45",
-      "full_name": "Wednesday 9/30 - Volleyball Pickup (All Levels) - Pier 25 6:00pm",
-      "max": "14",
-      "start": "18:00",
-      "type": "Volleyball Pickup - 6v6 - Coed",
-      "venue": "Pier 25"
-    },
     "2f0ccecb-0046-43be-a1c6-595afd92dc87": {
       "count": "3",
       "date": "2026-09-26T16:00:00+00:00",
@@ -29,16 +19,6 @@
       "start": "12:00",
       "type": "Volleyball Pickup - 6v6 - Coed",
       "venue": "The Door"
-    },
-    "4ce23b3e-e04a-49b2-beb3-b73205b64480": {
-      "count": "10",
-      "date": "2026-09-23T22:00:00+00:00",
-      "end": "18:45",
-      "full_name": "Wednesday 9/23 - Volleyball Pickup (All Levels) - Pier 25 6:00pm",
-      "max": "14",
-      "start": "18:00",
-      "type": "Volleyball Pickup - 6v6 - Coed",
-      "venue": "Pier 25"
     },
     "53649eaa-ebb8-458e-ad15-272b77bcaba5": {
       "count": "15",
@@ -50,76 +30,6 @@
       "type": "Volleyball Pickup - 6v6 - Coed",
       "venue": "Avenues"
     },
-    "7593cea0-47b5-46ec-b0ff-d46e62684c0f": {
-      "count": "15",
-      "date": "2026-09-26T18:00:00+00:00",
-      "end": "16:00",
-      "full_name": "Saturday 9/26 - Volleyball Pickup (All Levels) - Hunter's Point South 2:00pm",
-      "max": "16",
-      "start": "14:00",
-      "type": "Volleyball Pickup - 6v6 - Coed",
-      "venue": "Hunter's Point South"
-    },
-    "791a023e-ad0d-4581-a1b4-e6154cc5aa96": {
-      "count": "4",
-      "date": "2026-09-23T23:15:00+00:00",
-      "end": "20:45",
-      "full_name": "Wednesday 9/23 - Volleyball Pickup (All Levels) - Art and Design 7:15pm",
-      "max": "16",
-      "start": "19:15",
-      "type": "Volleyball Pickup - 6v6 - Coed",
-      "venue": "Art and Design"
-    },
-    "81166c0c-b4b4-4115-b886-7f4dfae73907": {
-      "count": "2",
-      "date": "2026-09-28T22:00:00+00:00",
-      "end": "18:45",
-      "full_name": "Monday 9/28 - Volleyball Pickup (All Levels) - Pier 25 6:00pm",
-      "max": "14",
-      "start": "18:00",
-      "type": "Volleyball Pickup - 6v6 - Coed",
-      "venue": "Pier 25"
-    },
-    "893d2950-5b1c-4767-9560-cc3fffe1bd22": {
-      "count": "0",
-      "date": "2026-09-26T20:15:00+00:00",
-      "end": "18:00",
-      "full_name": "Saturday 9/26 - Volleyball Pickup (All Levels) - Pier 6 4:15pm",
-      "max": "32",
-      "start": "16:15",
-      "type": "Volleyball Pickup - 6v6 - Coed",
-      "venue": "Pier 6"
-    },
-    "948effea-ee60-4427-a945-996760800e89": {
-      "count": "12",
-      "date": "2026-09-27T16:00:00+00:00",
-      "end": "13:00",
-      "full_name": "Sunday 9/27 - Volleyball Pickup (All Levels) - Hunter's Point South 12:00pm",
-      "max": "16",
-      "start": "12:00",
-      "type": "Volleyball Pickup - 6v6 - Coed",
-      "venue": "Hunter's Point South"
-    },
-    "b013ce58-b8fd-4cdc-97ef-816d6cbe19b5": {
-      "count": "0",
-      "date": "2026-09-24T23:00:00+00:00",
-      "end": "19:45",
-      "full_name": "Thursday 9/24 - Volleyball Pickup (All Levels) - Liberty Harbor Courts @ Surf City 7:00pm",
-      "max": "16",
-      "start": "19:00",
-      "type": "Volleyball Pickup - 6v6 - Coed",
-      "venue": "Liberty Harbor Courts @ Surf City"
-    },
-    "b361ca1f-ba4d-4e97-ba06-6d484208471d": {
-      "count": "14",
-      "date": "2026-10-02T00:00:00+00:00",
-      "end": "22:00",
-      "full_name": "Thursday 10/1 - Volleyball Pickup (All Levels) - La Salle Academy 8:00pm",
-      "max": "16",
-      "start": "20:00",
-      "type": "Volleyball Pickup - 6v6 - Coed",
-      "venue": "La Salle Academy"
-    },
     "baecf84d-4207-4246-9961-beb3ef02ab2e": {
       "count": "13",
       "date": "2026-09-30T22:00:00+00:00",
@@ -130,65 +40,15 @@
       "type": "Volleyball Pickup - 6v6 - Coed",
       "venue": "St. Patrick's Youth Center"
     },
-    "bd7bdf97-0318-4331-8ae6-d8ee35bd3953": {
-      "count": "0",
-      "date": "2026-10-03T20:15:00+00:00",
-      "end": "18:00",
-      "full_name": "Saturday 10/3 - Volleyball Pickup (All Levels) - Pier 6 4:15pm",
-      "max": "32",
-      "start": "16:15",
-      "type": "Volleyball Pickup - 6v6 - Coed",
-      "venue": "Pier 6"
-    },
-    "d505cef7-7797-4cb4-8d4f-9473c4b3f7a8": {
-      "count": "3",
-      "date": "2026-09-28T23:00:00+00:00",
-      "end": "20:00",
-      "full_name": "Monday 9/28 - Volleyball Pickup (All Levels) - Pier 6 7:00pm",
+    "f9db2fe2-3811-4271-bfed-c961ddfe6169": {
+      "count": "15",
+      "date": "2026-09-24T22:00:00+00:00",
+      "end": "19:00",
+      "full_name": "Thursday 9/24 - Volleyball Pickup (All Levels) - The Post BK - 100 Dobbin St 6:00pm",
       "max": "16",
-      "start": "19:00",
+      "start": "18:00",
       "type": "Volleyball Pickup - 6v6 - Coed",
-      "venue": "Pier 6"
-    },
-    "dbdcd501-04a0-4589-b132-0b3dd332d9f6": {
-      "count": "13",
-      "date": "2026-09-26T16:00:00+00:00",
-      "end": "14:00",
-      "full_name": "Saturday 9/26 - Volleyball Pickup (All Levels) - Hunter's Point South 12:00pm",
-      "max": "16",
-      "start": "12:00",
-      "type": "Volleyball Pickup - 6v6 - Coed",
-      "venue": "Hunter's Point South"
-    },
-    "e5c26413-97bb-4bcd-83a1-d2ecb07dfec2": {
-      "count": "0",
-      "date": "2026-10-03T18:00:00+00:00",
-      "end": "16:00",
-      "full_name": "Saturday 10/3 - Volleyball Pickup (All Levels) - Pier 6 2:00pm",
-      "max": "16",
-      "start": "14:00",
-      "type": "Volleyball Pickup - 6v6 - Coed",
-      "venue": "Pier 6"
-    },
-    "eb2713b9-5e4b-40a9-b9c7-fea6021060ab": {
-      "count": "0",
-      "date": "2026-09-27T19:00:00+00:00",
-      "end": "16:00",
-      "full_name": "Sunday 9/27 - Volleyball Pickup (All Levels) - Riverside Park South 3:00pm",
-      "max": "16",
-      "start": "15:00",
-      "type": "Volleyball Pickup - Coed",
-      "venue": "Riverside Park South"
-    },
-    "eb41efc0-27b0-4776-b4af-541a59a5c531": {
-      "count": "12",
-      "date": "2026-09-26T18:00:00+00:00",
-      "end": "15:00",
-      "full_name": "Saturday 9/26 - Volleyball Pickup (All Levels) - Pier 6 2:00pm",
-      "max": "16",
-      "start": "14:00",
-      "type": "Volleyball Pickup - 6v6 - Coed",
-      "venue": "Pier 6"
+      "venue": "The Post BK - 100 Dobbin St"
     }
   },
   "seen": {
