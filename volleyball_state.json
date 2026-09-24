@@ -30,6 +30,16 @@
       "type": "Volleyball Pickup - 6v6 - Coed",
       "venue": "Pier 25"
     },
+    "2da9e3bc-9352-427f-873a-bc0036fb0429": {
+      "count": "15",
+      "date": "2026-09-25T00:00:00+00:00",
+      "end": "22:00",
+      "full_name": "Thursday 9/24 - Volleyball Pickup (All Levels) - La Salle Academy 8:00pm",
+      "max": "16",
+      "start": "20:00",
+      "type": "Volleyball Pickup - 6v6 - Coed",
+      "venue": "La Salle Academy"
+    },
     "2f0ccecb-0046-43be-a1c6-595afd92dc87": {
       "count": "9",
       "date": "2026-09-26T16:00:00+00:00",
@@ -40,18 +50,8 @@
       "type": "Volleyball Pickup - 6v6 - Coed",
       "venue": "The Door"
     },
-    "356d0d78-8b0f-49d1-9dea-f0534609b3c1": {
-      "count": "7",
-      "date": "2026-10-04T17:00:00+00:00",
-      "end": "15:00",
-      "full_name": "Sunday 10/4 - Volleyball Pickup (Advanced/competitive) - Boys and Girls Club Jersey City 1:00pm",
-      "max": "18",
-      "start": "13:00",
-      "type": "Volleyball Pickup - 6v6 - Coed",
-      "venue": "Boys and Girls Club Jersey City"
-    },
     "59a02b19-8fe1-44c2-9e60-7be606cdccd5": {
-      "count": "3",
+      "count": "16",
       "date": "2026-10-04T19:00:00+00:00",
       "end": "17:00",
       "full_name": "Sunday 10/4 - Volleyball Pickup (Intermediate) - Boys and Girls Club Jersey City 3:00pm",
