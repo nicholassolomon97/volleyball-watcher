@@ -40,6 +40,16 @@
       "type": "Volleyball Pickup - 6v6 - Coed",
       "venue": "Pier 25"
     },
+    "4950ef62-3bf2-4f66-8d02-30a4e6e3d59d": {
+      "count": "1",
+      "date": "2026-09-26T18:00:00+00:00",
+      "end": "15:30",
+      "full_name": "Saturday 9/26 - Volleyball Pickup (All Levels) - The Post BK - 100 Dobbin St 2:00pm",
+      "max": "16",
+      "start": "14:00",
+      "type": "Volleyball Pickup - 6v6 - Coed",
+      "venue": "The Post BK - 100 Dobbin St"
+    },
     "7ab0e566-23f7-4ade-a3f2-b978140c255f": {
       "count": "0",
       "date": "2026-10-05T22:00:00+00:00",
@@ -69,6 +79,16 @@
       "start": "16:15",
       "type": "Volleyball Pickup - 6v6 - Coed",
       "venue": "Pier 6"
+    },
+    "c0650158-57dc-4638-95ed-c6a8d4069f1d": {
+      "count": "1",
+      "date": "2026-09-26T19:30:00+00:00",
+      "end": "17:00",
+      "full_name": "Saturday 9/26 - Volleyball Pickup (All Levels) - The Post BK - 100 Dobbin St 3:30pm",
+      "max": "16",
+      "start": "15:30",
+      "type": "Volleyball Pickup - 6v6 - Coed",
+      "venue": "100 Dobbin St"
     },
     "c9033d79-7c64-430c-b458-65c452ec273a": {
       "count": "1",
@@ -112,6 +132,7 @@
     "2f0ccecb-0046-43be-a1c6-595afd92dc87": "2026-09-26",
     "356d0d78-8b0f-49d1-9dea-f0534609b3c1": "2026-10-04",
     "42a2cc06-c76a-4ed7-a1a5-2267c6f59992": "2026-09-30",
+    "4950ef62-3bf2-4f66-8d02-30a4e6e3d59d": "2026-09-26",
     "59a02b19-8fe1-44c2-9e60-7be606cdccd5": "2026-10-04",
     "5b9c064a-52c7-4a62-aeb3-b8e2e7787252": "2026-10-15",
     "5d227984-e7c2-4f4e-a890-a2174eabae83": "2026-09-29",
@@ -134,6 +155,7 @@
     "b86c9aec-b904-453b-a432-7d11eb13b02e": "2026-09-27",
     "baecf84d-4207-4246-9961-beb3ef02ab2e": "2026-09-30",
     "bd7bdf97-0318-4331-8ae6-d8ee35bd3953": "2026-10-03",
+    "c0650158-57dc-4638-95ed-c6a8d4069f1d": "2026-09-26",
     "c0681c79-f3aa-4f55-897c-d8ffdf595c49": "2026-10-01",
     "c9033d79-7c64-430c-b458-65c452ec273a": "2026-10-04",
     "d505cef7-7797-4cb4-8d4f-9473c4b3f7a8": "2026-09-28",
