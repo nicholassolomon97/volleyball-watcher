@@ -20,6 +20,16 @@
       "type": "Volleyball Pickup - Coed",
       "venue": "Riverside Park South"
     },
+    "20c5fbf6-71c1-4506-8493-46cbf6a8b7b5": {
+      "count": "0",
+      "date": "2026-10-05T23:00:00+00:00",
+      "end": "20:00",
+      "full_name": "Monday 10/5 - Volleyball Pickup (All Levels) - Pier 6 7:00pm",
+      "max": "16",
+      "start": "19:00",
+      "type": "Volleyball Pickup - 6v6 - Coed",
+      "venue": "Pier 6"
+    },
     "246d47e0-4b13-49fc-bffd-18afa4d9eabf": {
       "count": "1",
       "date": "2026-09-30T22:00:00+00:00",
@@ -95,6 +105,7 @@
     "0234798b-ae33-49d3-94e8-ca1c984a7586": "2026-09-30",
     "075ed063-3fc4-4735-b443-02a7922744bb": "2026-10-03",
     "180314bb-5241-46a0-b792-7c6d32aa11ab": "2026-10-04",
+    "20c5fbf6-71c1-4506-8493-46cbf6a8b7b5": "2026-10-05",
     "246d47e0-4b13-49fc-bffd-18afa4d9eabf": "2026-09-30",
     "2ba88b44-caae-48b9-8942-8d194b9d26cf": "2026-10-02",
     "2da9e3bc-9352-427f-873a-bc0036fb0429": "2026-09-25",
