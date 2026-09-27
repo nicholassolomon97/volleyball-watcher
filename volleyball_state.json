@@ -18,7 +18,7 @@
       "max": "16",
       "start": "18:30",
       "type": "Volleyball Pickup - 6v6 - Coed",
-      "venue": "1405 Atlantic Ave"
+      "venue": "Xavier High School"
     },
     "9fcf18cd-f52f-4ab2-978d-6949149dadd1": {
       "count": "15",
@@ -49,6 +49,16 @@
       "start": "18:15",
       "type": "Volleyball Pickup - 6v6 - Coed",
       "venue": "St. Patrick's Youth Center"
+    },
+    "fe1b466e-fec9-4206-bc9b-2e3ac262dcc0": {
+      "count": "3",
+      "date": "2026-10-07T23:00:00+00:00",
+      "end": "20:00",
+      "full_name": "Wednesday 10/7 - Volleyball Pickup (All Levels) - Avenues 7:00pm",
+      "max": "16",
+      "start": "19:00",
+      "type": "Volleyball Pickup - 6v6 - Coed",
+      "venue": "Avenues"
     }
   },
   "seen": {
@@ -90,6 +100,7 @@
     "e5c26413-97bb-4bcd-83a1-d2ecb07dfec2": "2026-10-03",
     "eb2713b9-5e4b-40a9-b9c7-fea6021060ab": "2026-09-27",
     "ec29cf09-18cf-478a-a170-7d690a67af20": "2026-09-29",
-    "fe1310b9-12cd-40bd-8370-a96cbdd201b7": "2026-10-06"
+    "fe1310b9-12cd-40bd-8370-a96cbdd201b7": "2026-10-06",
+    "fe1b466e-fec9-4206-bc9b-2e3ac262dcc0": "2026-10-07"
   }
 }
