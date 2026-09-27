@@ -10,16 +10,6 @@
       "type": "Volleyball Pickup - 6v6 - Coed",
       "venue": "The Door"
     },
-    "42a2cc06-c76a-4ed7-a1a5-2267c6f59992": {
-      "count": "15",
-      "date": "2026-09-30T23:00:00+00:00",
-      "end": "20:00",
-      "full_name": "Wednesday 9/30 - Volleyball Pickup (All Levels) - Avenues 7:00pm",
-      "max": "16",
-      "start": "19:00",
-      "type": "Volleyball Pickup - 6v6 - Coed",
-      "venue": "Avenues"
-    },
     "53b7d8b5-ace5-41c4-805c-10e2949502b9": {
       "count": "8",
       "date": "2026-10-06T22:30:00+00:00",
@@ -41,7 +31,7 @@
       "venue": "Xavier High School"
     },
     "a04bbf20-e8b4-46d5-91d3-a9a58838f26c": {
-      "count": "12",
+      "count": "13",
       "date": "2026-09-27T15:00:00+00:00",
       "end": "12:00",
       "full_name": "Sunday 9/27 - Volleyball Pickup (All Levels) - Baruch College 11:00am",
@@ -88,7 +78,7 @@
       "max": "16",
       "start": "19:00",
       "type": "Volleyball Pickup - 6v6 - Coed",
-      "venue": "1405 Atlantic Ave"
+      "venue": "Avenues"
     }
   },
   "seen": {
