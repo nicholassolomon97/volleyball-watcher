@@ -31,7 +31,7 @@
       "venue": "Pier 25"
     },
     "53b7d8b5-ace5-41c4-805c-10e2949502b9": {
-      "count": "10",
+      "count": "11",
       "date": "2026-10-06T22:30:00+00:00",
       "end": "19:15",
       "full_name": "Tuesday 10/6 - Volleyball Pickup (All Levels) - Xavier High School 6:30pm",
@@ -81,7 +81,7 @@
       "venue": "Hunter's Point South"
     },
     "cfec61cc-46ad-492f-aa44-989f6d8d8669": {
-      "count": "5",
+      "count": "6",
       "date": "2026-10-08T22:00:00+00:00",
       "end": "19:00",
       "full_name": "Thursday 10/8 - Volleyball Pickup (All Levels) - La Salle Academy 6:00pm",
@@ -109,6 +109,16 @@
       "start": "14:00",
       "type": "Volleyball Pickup - 6v6 - Coed",
       "venue": "Pier 6"
+    },
+    "ec29cf09-18cf-478a-a170-7d690a67af20": {
+      "count": "15",
+      "date": "2026-09-29T00:00:00+00:00",
+      "end": "21:00",
+      "full_name": "Monday 9/28 - Volleyball Pickup (All Levels) - St. Patrick's Youth Center 8:00pm",
+      "max": "16",
+      "start": "20:00",
+      "type": "Volleyball Pickup - 6v6 - Coed",
+      "venue": "St. Patrick's Youth Center"
     },
     "fe1310b9-12cd-40bd-8370-a96cbdd201b7": {
       "count": "1",
