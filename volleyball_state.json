@@ -78,7 +78,7 @@
       "max": "16",
       "start": "18:30",
       "type": "Volleyball Pickup - 6v6 - Coed",
-      "venue": "Xavier High School"
+      "venue": "1405 Atlantic Ave"
     },
     "583fa083-6b67-4657-8841-c54b9599e37c": {
       "count": "0",
@@ -119,6 +119,16 @@
       "start": "19:00",
       "type": "Volleyball Pickup - 6v6 - Coed",
       "venue": "Liberty Harbor Courts @ Surf City"
+    },
+    "9fcf18cd-f52f-4ab2-978d-6949149dadd1": {
+      "count": "15",
+      "date": "2026-09-29T22:30:00+00:00",
+      "end": "19:15",
+      "full_name": "Tuesday 9/29 - Volleyball Pickup (All Levels) - Xavier High School 6:30pm",
+      "max": "16",
+      "start": "18:30",
+      "type": "Volleyball Pickup - 6v6 - Coed",
+      "venue": "Xavier High School"
     },
     "b26d4c95-f455-4b78-9c3c-ca65c566b47e": {
       "count": "15",
