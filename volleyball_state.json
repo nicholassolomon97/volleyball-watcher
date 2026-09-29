@@ -21,7 +21,7 @@
       "venue": "Riverside Park South"
     },
     "1c922d00-9139-4f02-b1ca-38ee953cbc55": {
-      "count": "1",
+      "count": "0",
       "date": "2026-10-02T00:30:00+00:00",
       "end": "22:00",
       "full_name": "Thursday 10/1 - Volleyball Pickup (All Levels) - Liberty Harbor Courts @ Surf City 8:30pm",
@@ -90,18 +90,8 @@
       "type": "Volleyball Pickup - 6v6 - Coed",
       "venue": "Liberty Harbor Courts @ Surf City"
     },
-    "679548f2-5792-4c66-8428-e452ce7dc65f": {
-      "count": "15",
-      "date": "2026-09-29T16:00:00+00:00",
-      "end": "19:00",
-      "full_name": "Tuesday 9/29 - Volleyball Pickup () - St. Patrick's Youth Center 6:15pm",
-      "max": "16",
-      "start": "18:15",
-      "type": "Volleyball  Pickup - 6v6 - Coed",
-      "venue": "St. Patrick's Youth Center"
-    },
     "68cb0754-824d-4dc4-87e9-71be250fe3e5": {
-      "count": "1",
+      "count": "0",
       "date": "2026-10-06T23:00:00+00:00",
       "end": "20:30",
       "full_name": "Tuesday 10/6 - Volleyball Pickup (All Levels) - Liberty Harbor Courts @ Surf City 7:00pm",
@@ -111,7 +101,7 @@
       "venue": "Liberty Harbor Courts @ Surf City"
     },
     "860aecac-9e6f-46dd-aaff-5d13e7de2b4d": {
-      "count": "2",
+      "count": "1",
       "date": "2026-09-30T00:30:00+00:00",
       "end": "22:00",
       "full_name": "Tuesday 9/29 - Volleyball Pickup (All Levels) - Liberty Harbor Courts @ Surf City 8:30pm",
@@ -121,7 +111,7 @@
       "venue": "Liberty Harbor Courts @ Surf City"
     },
     "8f04c29b-07f3-482f-bd8f-239edf6ae950": {
-      "count": "2",
+      "count": "1",
       "date": "2026-09-29T23:00:00+00:00",
       "end": "20:30",
       "full_name": "Tuesday 9/29 - Volleyball Pickup (All Levels) - Liberty Harbor Courts @ Surf City 7:00pm",
@@ -191,7 +181,7 @@
       "venue": "Pier 6"
     },
     "fb8deb7b-19a8-44c3-b5f1-07a54cfbd27b": {
-      "count": "1",
+      "count": "0",
       "date": "2026-10-01T23:00:00+00:00",
       "end": "20:30",
       "full_name": "Thursday 10/1 - Volleyball Pickup (All Levels) - Liberty Harbor Courts @ Surf City 7:00pm",
