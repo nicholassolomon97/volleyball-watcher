@@ -50,6 +50,16 @@
       "type": "Volleyball Pickup - 6v6 - Coed",
       "venue": "Pier 25"
     },
+    "2ba88b44-caae-48b9-8942-8d194b9d26cf": {
+      "count": "17",
+      "date": "2026-10-02T01:00:00+00:00",
+      "end": "23:00",
+      "full_name": "Thursday 10/1 - Volleyball Pickup (All Levels) - The Post BK - 53 Knickerbocker Ave 9:00pm",
+      "max": "18",
+      "start": "21:00",
+      "type": "Volleyball Pickup - 6v6 - Coed",
+      "venue": "The Post BK - 53 Knickerbocker Ave"
+    },
     "38b10eda-dbc3-49c3-a7cc-a8b15e394d1a": {
       "count": "0",
       "date": "2026-10-08T23:00:00+00:00",
@@ -120,6 +130,16 @@
       "type": "Volleyball Pickup - 6v6 - Coed",
       "venue": "Liberty Harbor Courts @ Surf City"
     },
+    "9fcf18cd-f52f-4ab2-978d-6949149dadd1": {
+      "count": "15",
+      "date": "2026-09-29T22:30:00+00:00",
+      "end": "19:15",
+      "full_name": "Tuesday 9/29 - Volleyball Pickup (All Levels) - Xavier High School 6:30pm",
+      "max": "16",
+      "start": "18:30",
+      "type": "Volleyball Pickup - 6v6 - Coed",
+      "venue": "Xavier High School"
+    },
     "b5d32e5f-5b16-451a-9f6c-759fd1d77b72": {
       "count": "9",
       "date": "2026-10-06T22:15:00+00:00",
@@ -159,16 +179,6 @@
       "start": "18:00",
       "type": "Volleyball Pickup - 6v6 - Coed",
       "venue": "La Salle Academy"
-    },
-    "d58b0911-24a8-44d9-b7d8-9b00bf4e191b": {
-      "count": "17",
-      "date": "2026-10-01T23:00:00+00:00",
-      "end": "21:00",
-      "full_name": "Thursday 10/1 - Volleyball Pickup (All Levels) - The Post BK - 53 Knickerbocker Ave 7:00pm",
-      "max": "18",
-      "start": "19:00",
-      "type": "Volleyball Pickup - 6v6 - Coed",
-      "venue": "The Post BK - 53 Knickerbocker Ave"
     },
     "e5c26413-97bb-4bcd-83a1-d2ecb07dfec2": {
       "count": "13",
