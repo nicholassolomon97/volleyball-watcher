@@ -78,7 +78,7 @@
       "max": "16",
       "start": "18:30",
       "type": "Volleyball Pickup - 6v6 - Coed",
-      "venue": "1405 Atlantic Ave"
+      "venue": "Xavier High School"
     },
     "583fa083-6b67-4657-8841-c54b9599e37c": {
       "count": "0",
@@ -129,6 +129,16 @@
       "start": "18:30",
       "type": "Volleyball Pickup - 6v6 - Coed",
       "venue": "Xavier High School"
+    },
+    "b361ca1f-ba4d-4e97-ba06-6d484208471d": {
+      "count": "15",
+      "date": "2026-10-02T00:00:00+00:00",
+      "end": "22:00",
+      "full_name": "Thursday 10/1 - Volleyball Pickup (All Levels) - La Salle Academy 8:00pm",
+      "max": "16",
+      "start": "20:00",
+      "type": "Volleyball Pickup - 6v6 - Coed",
+      "venue": "La Salle Academy"
     },
     "b5d32e5f-5b16-451a-9f6c-759fd1d77b72": {
       "count": "9",
@@ -189,6 +199,16 @@
       "start": "19:00",
       "type": "Volleyball Pickup - 6v6 - Coed",
       "venue": "Liberty Harbor Courts @ Surf City"
+    },
+    "fe1b466e-fec9-4206-bc9b-2e3ac262dcc0": {
+      "count": "15",
+      "date": "2026-10-07T23:00:00+00:00",
+      "end": "20:00",
+      "full_name": "Wednesday 10/7 - Volleyball Pickup (All Levels) - Avenues 7:00pm",
+      "max": "16",
+      "start": "19:00",
+      "type": "Volleyball Pickup - 6v6 - Coed",
+      "venue": "Avenues"
     }
   },
   "seen": {
