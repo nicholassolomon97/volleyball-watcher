@@ -111,7 +111,7 @@
       "venue": "Liberty Harbor Courts @ Surf City"
     },
     "9fcf18cd-f52f-4ab2-978d-6949149dadd1": {
-      "count": "10",
+      "count": "11",
       "date": "2026-09-29T22:30:00+00:00",
       "end": "19:15",
       "full_name": "Tuesday 9/29 - Volleyball Pickup (All Levels) - Xavier High School 6:30pm",
@@ -139,16 +139,6 @@
       "start": "16:15",
       "type": "Volleyball Pickup - 6v6 - Coed",
       "venue": "Pier 6"
-    },
-    "c0681c79-f3aa-4f55-897c-d8ffdf595c49": {
-      "count": "15",
-      "date": "2026-10-01T22:00:00+00:00",
-      "end": "19:00",
-      "full_name": "Thursday 10/1 - Volleyball Pickup (All Levels) - The Post BK - 100 Dobbin St 6:00pm",
-      "max": "16",
-      "start": "18:00",
-      "type": "Volleyball Pickup - 6v6 - Coed",
-      "venue": "The Post BK - 100 Dobbin St"
     },
     "c9033d79-7c64-430c-b458-65c452ec273a": {
       "count": "6",
