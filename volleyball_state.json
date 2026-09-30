@@ -31,7 +31,7 @@
       "venue": "Liberty Harbor Courts @ Surf City"
     },
     "20c5fbf6-71c1-4506-8493-46cbf6a8b7b5": {
-      "count": "1",
+      "count": "2",
       "date": "2026-10-05T23:00:00+00:00",
       "end": "20:00",
       "full_name": "Monday 10/5 - Volleyball Pickup (All Levels) - Pier 6 7:00pm",
@@ -39,16 +39,6 @@
       "start": "19:00",
       "type": "Volleyball Pickup - 6v6 - Coed",
       "venue": "Pier 6"
-    },
-    "246d47e0-4b13-49fc-bffd-18afa4d9eabf": {
-      "count": "13",
-      "date": "2026-09-30T22:00:00+00:00",
-      "end": "18:45",
-      "full_name": "Wednesday 9/30 - Volleyball Pickup (All Levels) - Pier 25 6:00pm",
-      "max": "14",
-      "start": "18:00",
-      "type": "Volleyball Pickup - 6v6 - Coed",
-      "venue": "Pier 25"
     },
     "38b10eda-dbc3-49c3-a7cc-a8b15e394d1a": {
       "count": "0",
@@ -117,16 +107,6 @@
       "full_name": "Tuesday 10/6 - Volleyball Pickup (All Levels) - St. Patrick's Youth Center 6:15pm",
       "max": "16",
       "start": "18:15",
-      "type": "Volleyball Pickup - 6v6 - Coed",
-      "venue": "St. Patrick's Youth Center"
-    },
-    "baecf84d-4207-4246-9961-beb3ef02ab2e": {
-      "count": "15",
-      "date": "2026-09-30T22:00:00+00:00",
-      "end": "19:00",
-      "full_name": "Wednesday 9/30 - Volleyball Pickup (All Levels) - St. Patrick's Youth Center 6:00pm",
-      "max": "16",
-      "start": "18:00",
       "type": "Volleyball Pickup - 6v6 - Coed",
       "venue": "St. Patrick's Youth Center"
     },
