@@ -50,6 +50,16 @@
       "type": "Volleyball Pickup - 6v6 - Coed",
       "venue": "Pier 25"
     },
+    "2ba88b44-caae-48b9-8942-8d194b9d26cf": {
+      "count": "17",
+      "date": "2026-10-02T01:00:00+00:00",
+      "end": "23:00",
+      "full_name": "Thursday 10/1 - Volleyball Pickup (All Levels) - The Post BK - 53 Knickerbocker Ave 9:00pm",
+      "max": "18",
+      "start": "21:00",
+      "type": "Volleyball Pickup - 6v6 - Coed",
+      "venue": "53 Knickerbocker Ave"
+    },
     "38b10eda-dbc3-49c3-a7cc-a8b15e394d1a": {
       "count": "0",
       "date": "2026-10-08T23:00:00+00:00",
@@ -120,6 +130,16 @@
       "type": "Volleyball Pickup - 6v6 - Coed",
       "venue": "Pier 6"
     },
+    "c0681c79-f3aa-4f55-897c-d8ffdf595c49": {
+      "count": "15",
+      "date": "2026-10-01T22:00:00+00:00",
+      "end": "19:00",
+      "full_name": "Thursday 10/1 - Volleyball Pickup (All Levels) - The Post BK - 100 Dobbin St 6:00pm",
+      "max": "16",
+      "start": "18:00",
+      "type": "Volleyball Pickup - 6v6 - Coed",
+      "venue": "The Post BK - 100 Dobbin St"
+    },
     "c9033d79-7c64-430c-b458-65c452ec273a": {
       "count": "6",
       "date": "2026-10-04T16:00:00+00:00",
@@ -139,6 +159,16 @@
       "start": "18:00",
       "type": "Volleyball Pickup - 6v6 - Coed",
       "venue": "La Salle Academy"
+    },
+    "d58b0911-24a8-44d9-b7d8-9b00bf4e191b": {
+      "count": "17",
+      "date": "2026-10-01T23:00:00+00:00",
+      "end": "21:00",
+      "full_name": "Thursday 10/1 - Volleyball Pickup (All Levels) - The Post BK - 53 Knickerbocker Ave 7:00pm",
+      "max": "18",
+      "start": "19:00",
+      "type": "Volleyball Pickup - 6v6 - Coed",
+      "venue": "The Post BK - 53 Knickerbocker Ave"
     },
     "e5c26413-97bb-4bcd-83a1-d2ecb07dfec2": {
       "count": "12",
