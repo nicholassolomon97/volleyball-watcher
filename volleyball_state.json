@@ -11,7 +11,7 @@
       "venue": "Liberty Harbor Courts @ Surf City"
     },
     "180314bb-5241-46a0-b792-7c6d32aa11ab": {
-      "count": "2",
+      "count": "3",
       "date": "2026-10-04T19:00:00+00:00",
       "end": "16:00",
       "full_name": "Sunday 10/4 - Volleyball Pickup (All Levels) - Riverside Park South 3:00pm",
@@ -90,16 +90,6 @@
       "type": "Volleyball Pickup - 6v6 - Coed",
       "venue": "Liberty Harbor Courts @ Surf City"
     },
-    "860aecac-9e6f-46dd-aaff-5d13e7de2b4d": {
-      "count": "1",
-      "date": "2026-09-30T00:30:00+00:00",
-      "end": "22:00",
-      "full_name": "Tuesday 9/29 - Volleyball Pickup (All Levels) - Liberty Harbor Courts @ Surf City 8:30pm",
-      "max": "16",
-      "start": "20:30",
-      "type": "Volleyball Pickup - 6v6 - Coed",
-      "venue": "Liberty Harbor Courts @ Surf City"
-    },
     "b5d32e5f-5b16-451a-9f6c-759fd1d77b72": {
       "count": "9",
       "date": "2026-10-06T22:15:00+00:00",
@@ -111,7 +101,7 @@
       "venue": "1405 Atlantic Ave"
     },
     "baecf84d-4207-4246-9961-beb3ef02ab2e": {
-      "count": "14",
+      "count": "15",
       "date": "2026-09-30T22:00:00+00:00",
       "end": "19:00",
       "full_name": "Wednesday 9/30 - Volleyball Pickup (All Levels) - St. Patrick's Youth Center 6:00pm",
