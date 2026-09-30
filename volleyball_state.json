@@ -61,7 +61,7 @@
       "venue": "Liberty Harbor Courts @ Surf City"
     },
     "42ec9276-72c1-4e64-a44a-e3c09fb158d0": {
-      "count": "13",
+      "count": "14",
       "date": "2026-10-06T01:45:00+00:00",
       "end": "23:00",
       "full_name": "Monday 10/5 - Volleyball Pickup (All Levels) - La Salle Academy 9:45pm",
@@ -97,16 +97,6 @@
       "full_name": "Tuesday 10/6 - Volleyball Pickup (All Levels) - St. Patrick's Youth Center 6:15pm",
       "max": "16",
       "start": "18:15",
-      "type": "Volleyball Pickup - 6v6 - Coed",
-      "venue": "1405 Atlantic Ave"
-    },
-    "baecf84d-4207-4246-9961-beb3ef02ab2e": {
-      "count": "15",
-      "date": "2026-09-30T22:00:00+00:00",
-      "end": "19:00",
-      "full_name": "Wednesday 9/30 - Volleyball Pickup (All Levels) - St. Patrick's Youth Center 6:00pm",
-      "max": "16",
-      "start": "18:00",
       "type": "Volleyball Pickup - 6v6 - Coed",
       "venue": "St. Patrick's Youth Center"
     },
