@@ -160,6 +160,16 @@
       "type": "Volleyball Pickup - 6v6 - Coed",
       "venue": "Pier 6"
     },
+    "e0c8425f-2d5f-40eb-8458-2da1b19b6c99": {
+      "count": "0",
+      "date": "2026-10-17T17:00:00+00:00",
+      "end": "14:00",
+      "full_name": "Saturday 10/17 - Volleyball - Kotofit - 88 Bishop Jersey City 1PM",
+      "max": "18",
+      "start": "13:00",
+      "type": "Saturday - Volleyball - Jersey City",
+      "venue": "88 Bishop Jersey City 1PM"
+    },
     "eae4976f-7c4b-46e8-bb5a-a486b0916349": {
       "count": "1",
       "date": "2026-10-11T16:00:00+00:00",
@@ -218,6 +228,7 @@
     "d58b0911-24a8-44d9-b7d8-9b00bf4e191b": "2026-10-01",
     "d98b0f17-c113-47ca-9bc2-32b09624db43": "2026-10-06",
     "df0e2ecb-cf78-45f7-a6ae-aa4016e7a20b": "2026-10-10",
+    "e0c8425f-2d5f-40eb-8458-2da1b19b6c99": "2026-10-17",
     "e5c26413-97bb-4bcd-83a1-d2ecb07dfec2": "2026-10-03",
     "eae4976f-7c4b-46e8-bb5a-a486b0916349": "2026-10-11",
     "fb8deb7b-19a8-44c3-b5f1-07a54cfbd27b": "2026-10-01",
