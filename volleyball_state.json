@@ -90,6 +90,16 @@
       "type": "Volleyball Pickup - 6v6 - Coed",
       "venue": "La Salle Academy"
     },
+    "b13781d7-ae79-4f21-9750-dc607db44978": {
+      "count": "0",
+      "date": "2026-10-11T19:00:00+00:00",
+      "end": "16:00",
+      "full_name": "Sunday 10/11 - Volleyball Pickup (All Levels) - Riverside Park South 3:00pm",
+      "max": "16",
+      "start": "15:00",
+      "type": "Volleyball Pickup - Coed",
+      "venue": "Riverside Park South"
+    },
     "b252e67c-15e6-4d2b-abab-86c41f181199": {
       "count": "2",
       "date": "2026-10-10T20:15:00+00:00",
@@ -150,6 +160,16 @@
       "type": "Volleyball Pickup - 6v6 - Coed",
       "venue": "Pier 6"
     },
+    "eae4976f-7c4b-46e8-bb5a-a486b0916349": {
+      "count": "0",
+      "date": "2026-10-11T16:00:00+00:00",
+      "end": "13:00",
+      "full_name": "Sunday 10/11 - Volleyball Pickup (All Levels) - Hunter's Point South 12:00pm",
+      "max": "16",
+      "start": "12:00",
+      "type": "Volleyball Pickup - 6v6 - Coed",
+      "venue": "Hunter's Point South"
+    },
     "fb8deb7b-19a8-44c3-b5f1-07a54cfbd27b": {
       "count": "1",
       "date": "2026-10-01T23:00:00+00:00",
@@ -183,6 +203,7 @@
     "6db98d7c-f7c9-4503-b44e-1737735650a8": "2026-10-22",
     "7ab0e566-23f7-4ade-a3f2-b978140c255f": "2026-10-05",
     "91e83ed4-c009-45a4-9795-db7930ab7cd6": "2026-10-01",
+    "b13781d7-ae79-4f21-9750-dc607db44978": "2026-10-11",
     "b252e67c-15e6-4d2b-abab-86c41f181199": "2026-10-10",
     "b26d4c95-f455-4b78-9c3c-ca65c566b47e": "2026-10-06",
     "b361ca1f-ba4d-4e97-ba06-6d484208471d": "2026-10-02",
@@ -196,6 +217,7 @@
     "d98b0f17-c113-47ca-9bc2-32b09624db43": "2026-10-06",
     "df0e2ecb-cf78-45f7-a6ae-aa4016e7a20b": "2026-10-10",
     "e5c26413-97bb-4bcd-83a1-d2ecb07dfec2": "2026-10-03",
+    "eae4976f-7c4b-46e8-bb5a-a486b0916349": "2026-10-11",
     "fb8deb7b-19a8-44c3-b5f1-07a54cfbd27b": "2026-10-01",
     "fe1310b9-12cd-40bd-8370-a96cbdd201b7": "2026-10-06",
     "fe1b466e-fec9-4206-bc9b-2e3ac262dcc0": "2026-10-07"
