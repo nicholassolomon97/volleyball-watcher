@@ -10,6 +10,26 @@
       "type": "Volleyball Pickup - 6v6 - Coed",
       "venue": "Liberty Harbor Courts @ Surf City"
     },
+    "0bdb3544-1136-4a1d-be12-3e14f9238ae6": {
+      "count": "0",
+      "date": "2026-10-11T19:00:00+00:00",
+      "end": "16:00",
+      "full_name": "Sunday 10/11 - Volleyball - St. Patrick's Youth Center Lower East Side 3PM",
+      "max": "16",
+      "start": "15:00",
+      "type": "Sunday - Volleyball - Lower East Side",
+      "venue": "1405 Atlantic Ave"
+    },
+    "178513c2-34b0-447b-a7ce-ce021fabdb5b": {
+      "count": "0",
+      "date": "2026-10-04T19:00:00+00:00",
+      "end": "16:00",
+      "full_name": "Sunday 10/4 - Volleyball - St. Patrick's Youth Center Lower East Side 3PM",
+      "max": "16",
+      "start": "15:00",
+      "type": "Sunday - Volleyball - Lower East Side",
+      "venue": "St. Patrick's Youth Center"
+    },
     "180314bb-5241-46a0-b792-7c6d32aa11ab": {
       "count": "4",
       "date": "2026-10-04T19:00:00+00:00",
@@ -154,6 +174,8 @@
   "seen": {
     "02bcbd0e-a778-4bf8-8ea3-ff9eed72adb7": "2026-10-09",
     "075ed063-3fc4-4735-b443-02a7922744bb": "2026-10-03",
+    "0bdb3544-1136-4a1d-be12-3e14f9238ae6": "2026-10-11",
+    "178513c2-34b0-447b-a7ce-ce021fabdb5b": "2026-10-04",
     "180314bb-5241-46a0-b792-7c6d32aa11ab": "2026-10-04",
     "1c922d00-9139-4f02-b1ca-38ee953cbc55": "2026-10-02",
     "20c5fbf6-71c1-4506-8493-46cbf6a8b7b5": "2026-10-05",
