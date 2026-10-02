@@ -10,16 +10,6 @@
       "type": "Volleyball Pickup - 6v6 - Coed",
       "venue": "Liberty Harbor Courts @ Surf City"
     },
-    "075ed063-3fc4-4735-b443-02a7922744bb": {
-      "count": "15",
-      "date": "2026-10-03T16:00:00+00:00",
-      "end": "13:45",
-      "full_name": "Saturday 10/3 - Volleyball Pickup (All Levels) - The Door 12:00pm",
-      "max": "16",
-      "start": "12:00",
-      "type": "Volleyball Pickup - 6v6 - Coed",
-      "venue": "The Door"
-    },
     "180314bb-5241-46a0-b792-7c6d32aa11ab": {
       "count": "4",
       "date": "2026-10-04T19:00:00+00:00",
@@ -149,6 +139,16 @@
       "start": "13:00",
       "type": "Saturday - Volleyball - Jersey City",
       "venue": "88 Bishop Jersey City 1PM"
+    },
+    "e5c26413-97bb-4bcd-83a1-d2ecb07dfec2": {
+      "count": "15",
+      "date": "2026-10-03T18:00:00+00:00",
+      "end": "16:00",
+      "full_name": "Saturday 10/3 - Volleyball Pickup (All Levels) - Pier 6 2:00pm",
+      "max": "16",
+      "start": "14:00",
+      "type": "Volleyball Pickup - 6v6 - Coed",
+      "venue": "Pier 6"
     },
     "eae4976f-7c4b-46e8-bb5a-a486b0916349": {
       "count": "4",
