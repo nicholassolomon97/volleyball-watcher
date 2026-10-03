@@ -1,7 +1,7 @@
 {
   "current": {
     "0bdb3544-1136-4a1d-be12-3e14f9238ae6": {
-      "count": "6",
+      "count": "7",
       "date": "2026-10-11T19:00:00+00:00",
       "end": "16:00",
       "full_name": "Sunday 10/11 - Volleyball - St. Patrick's Youth Center Lower East Side 3PM",
@@ -19,16 +19,6 @@
       "start": "15:00",
       "type": "Sunday - Volleyball - Lower East Side",
       "venue": "St. Patrick's Youth Center"
-    },
-    "35ddd0fe-44cc-45c6-baf1-c57e6a4ef3dd": {
-      "count": "12",
-      "date": "2026-10-14T01:15:00+00:00",
-      "end": "23:00",
-      "full_name": "Tuesday 10/13 - Volleyball Pickup (All Levels) - The Post BK - 100 Dobbin St 9:15pm",
-      "max": "16",
-      "start": "21:15",
-      "type": "Volleyball Pickup - 6v6 - Coed",
-      "venue": "1405 Atlantic Ave"
     },
     "3762c456-7533-4ce6-8aa9-37c7f364be75": {
       "count": "0",
@@ -61,7 +51,7 @@
       "venue": "Xavier High School"
     },
     "a1b8cef4-986a-45fd-be89-c61706a20f15": {
-      "count": "7",
+      "count": "12",
       "date": "2026-10-13T22:00:00+00:00",
       "end": "19:00",
       "full_name": "Tuesday 10/13 - Volleyball Pickup (All Levels) - The Post BK - 100 Dobbin St 6:00pm",
@@ -78,7 +68,7 @@
       "max": "16",
       "start": "18:30",
       "type": "Volleyball Pickup - 6v6 - Coed",
-      "venue": "Xavier High School"
+      "venue": "1405 Atlantic Ave"
     },
     "c8b2f688-d7c7-4bd4-b4af-d5f568efe461": {
       "count": "1",
