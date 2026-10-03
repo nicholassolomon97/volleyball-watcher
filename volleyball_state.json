@@ -50,6 +50,26 @@
       "type": "Sunday - Volleyball - Union Square",
       "venue": "Xavier High School"
     },
+    "b99c13eb-f17e-4d8c-bebf-e74c837ba5ee": {
+      "count": "0",
+      "date": "2026-10-13T22:30:00+00:00",
+      "end": "19:15",
+      "full_name": "Tuesday 10/13 - Volleyball Pickup (All Levels) - Xavier High School 6:30pm",
+      "max": "16",
+      "start": "18:30",
+      "type": "Volleyball Pickup - 6v6 - Coed",
+      "venue": "1405 Atlantic Ave"
+    },
+    "c8b2f688-d7c7-4bd4-b4af-d5f568efe461": {
+      "count": "0",
+      "date": "2026-10-13T22:15:00+00:00",
+      "end": "19:00",
+      "full_name": "Tuesday 10/13 - Volleyball Pickup (All Levels) - St. Patrick's Youth Center 6:15pm",
+      "max": "16",
+      "start": "18:15",
+      "type": "Volleyball Pickup - 6v6 - Coed",
+      "venue": "St. Patrick's Youth Center"
+    },
     "fda79482-5008-4f2b-aaf3-e965e356fb65": {
       "count": "1",
       "date": "2026-10-06T00:00:00+00:00",
@@ -94,7 +114,9 @@
     "b26d4c95-f455-4b78-9c3c-ca65c566b47e": "2026-10-06",
     "b5d32e5f-5b16-451a-9f6c-759fd1d77b72": "2026-10-06",
     "b6dd41a4-b230-4aae-8393-37ee3014d5d2": "2026-10-08",
+    "b99c13eb-f17e-4d8c-bebf-e74c837ba5ee": "2026-10-13",
     "bd7bdf97-0318-4331-8ae6-d8ee35bd3953": "2026-10-03",
+    "c8b2f688-d7c7-4bd4-b4af-d5f568efe461": "2026-10-13",
     "c9033d79-7c64-430c-b458-65c452ec273a": "2026-10-04",
     "cfec61cc-46ad-492f-aa44-989f6d8d8669": "2026-10-08",
     "d31b9839-3aa0-4159-b62d-763a71fdff87": "2026-10-11",
