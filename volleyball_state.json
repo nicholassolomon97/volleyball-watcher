@@ -20,6 +20,16 @@
       "type": "Sunday - Volleyball - Lower East Side",
       "venue": "St. Patrick's Youth Center"
     },
+    "1ef68ffd-f3a6-460e-bbd0-f95fb37b5582": {
+      "count": "3",
+      "date": "2026-10-14T23:00:00+00:00",
+      "end": "20:00",
+      "full_name": "Wednesday 10/14 - Volleyball Pickup (All Levels) - Avenues 7:00pm",
+      "max": "16",
+      "start": "19:00",
+      "type": "Volleyball Pickup - 6v6 - Coed",
+      "venue": "Avenues"
+    },
     "3762c456-7533-4ce6-8aa9-37c7f364be75": {
       "count": "7",
       "date": "2026-10-13T00:00:00+00:00",
@@ -68,7 +78,7 @@
       "max": "16",
       "start": "18:30",
       "type": "Volleyball Pickup - 6v6 - Coed",
-      "venue": "1405 Atlantic Ave"
+      "venue": "Xavier High School"
     },
     "c8b2f688-d7c7-4bd4-b4af-d5f568efe461": {
       "count": "4",
@@ -96,6 +106,7 @@
     "0bdb3544-1136-4a1d-be12-3e14f9238ae6": "2026-10-11",
     "178513c2-34b0-447b-a7ce-ce021fabdb5b": "2026-10-04",
     "180314bb-5241-46a0-b792-7c6d32aa11ab": "2026-10-04",
+    "1ef68ffd-f3a6-460e-bbd0-f95fb37b5582": "2026-10-14",
     "20c5fbf6-71c1-4506-8493-46cbf6a8b7b5": "2026-10-05",
     "356d0d78-8b0f-49d1-9dea-f0534609b3c1": "2026-10-04",
     "35ddd0fe-44cc-45c6-baf1-c57e6a4ef3dd": "2026-10-14",
