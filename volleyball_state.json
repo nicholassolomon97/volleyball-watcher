@@ -30,6 +30,16 @@
       "type": "Monday - Volleyball - Lower East Side",
       "venue": "St. Patrick's Youth Center Lower East Side 8PM"
     },
+    "5a83e5c4-6b6b-4a46-942f-8616f518bfbf": {
+      "count": "5",
+      "date": "2026-10-15T22:00:00+00:00",
+      "end": "19:00",
+      "full_name": "Thursday 10/15 - Volleyball Pickup (All Levels) - The Post BK - 100 Dobbin St 6:00pm",
+      "max": "16",
+      "start": "18:00",
+      "type": "Volleyball Pickup - 6v6 - Coed",
+      "venue": "The Post BK - 100 Dobbin St"
+    },
     "b99c13eb-f17e-4d8c-bebf-e74c837ba5ee": {
       "count": "4",
       "date": "2026-10-13T22:30:00+00:00",
@@ -74,6 +84,7 @@
     "42ec9276-72c1-4e64-a44a-e3c09fb158d0": "2026-10-06",
     "53b7d8b5-ace5-41c4-805c-10e2949502b9": "2026-10-06",
     "583fa083-6b67-4657-8841-c54b9599e37c": "2026-10-07",
+    "5a83e5c4-6b6b-4a46-942f-8616f518bfbf": "2026-10-15",
     "5b9c064a-52c7-4a62-aeb3-b8e2e7787252": "2026-10-15",
     "64ec2eb4-1a9b-4405-a04d-87e1356b3fa4": "2026-10-07",
     "68c5c635-6584-48d8-a7ba-f6d2bb8a2666": "2026-10-10",
