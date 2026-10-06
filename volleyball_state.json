@@ -8,7 +8,7 @@
       "max": "16",
       "start": "15:00",
       "type": "Sunday - Volleyball - Lower East Side",
-      "venue": "St. Patrick's Youth Center Lower East Side 3PM"
+      "venue": "St. Patrick's Youth Center"
     },
     "1ef68ffd-f3a6-460e-bbd0-f95fb37b5582": {
       "count": "14",
@@ -58,16 +58,6 @@
       "max": "16",
       "start": "18:15",
       "type": "Volleyball Pickup - 6v6 - Coed",
-      "venue": "St. Patrick's Youth Center"
-    },
-    "fda79482-5008-4f2b-aaf3-e965e356fb65": {
-      "count": "27",
-      "date": "2026-10-06T00:00:00+00:00",
-      "end": "21:00",
-      "full_name": "Monday 10/5 - Volleyball (6v6) - St. Patrick's Youth Center Lower East Side 8PM",
-      "max": "32",
-      "start": "20:00",
-      "type": "Monday - Volleyball - Lower East Side",
       "venue": "St. Patrick's Youth Center"
     }
   },
