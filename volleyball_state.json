@@ -50,16 +50,6 @@
       "type": "Volleyball Pickup - 6v6 - Coed",
       "venue": "La Salle Academy"
     },
-    "53b7d8b5-ace5-41c4-805c-10e2949502b9": {
-      "count": "15",
-      "date": "2026-10-06T22:30:00+00:00",
-      "end": "19:15",
-      "full_name": "Tuesday 10/6 - Volleyball Pickup (All Levels) - Xavier High School 6:30pm",
-      "max": "16",
-      "start": "18:30",
-      "type": "Volleyball Pickup - 6v6 - Coed",
-      "venue": "Xavier High School"
-    },
     "583fa083-6b67-4657-8841-c54b9599e37c": {
       "count": "0",
       "date": "2026-10-07T00:30:00+00:00",
@@ -158,7 +148,7 @@
       "max": "16",
       "start": "18:30",
       "type": "Volleyball Pickup - 6v6 - Coed",
-      "venue": "1405 Atlantic Ave"
+      "venue": "Xavier High School"
     },
     "c8b2f688-d7c7-4bd4-b4af-d5f568efe461": {
       "count": "9",
