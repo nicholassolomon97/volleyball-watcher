@@ -80,6 +80,16 @@
       "type": "Saturday - Volleyball - Long Island City",
       "venue": "Hunter's Point South Long Island City 2PM"
     },
+    "8a84dafb-e958-46ad-a189-9f9441aeba5e": {
+      "count": "0",
+      "date": "2026-10-17T18:00:00+00:00",
+      "end": "16:00",
+      "full_name": "Saturday 10/17 - Volleyball Pickup (All Levels) - Pier 6 2:00pm",
+      "max": "16",
+      "start": "14:00",
+      "type": "Volleyball Pickup - 6v6 - Coed",
+      "venue": "Pier 6"
+    },
     "8f4ef742-64a4-4a08-9099-a0f835ec2a49": {
       "count": "0",
       "date": "2026-10-14T22:00:00+00:00",
@@ -179,16 +189,6 @@
       "start": "18:15",
       "type": "Volleyball Pickup - 6v6 - Coed",
       "venue": "St. Patrick's Youth Center"
-    },
-    "cfec61cc-46ad-492f-aa44-989f6d8d8669": {
-      "count": "15",
-      "date": "2026-10-08T22:00:00+00:00",
-      "end": "19:00",
-      "full_name": "Thursday 10/8 - Volleyball Pickup (All Levels) - La Salle Academy 6:00pm",
-      "max": "16",
-      "start": "18:00",
-      "type": "Volleyball Pickup - 6v6 - Coed",
-      "venue": "La Salle Academy"
     },
     "d31b9839-3aa0-4159-b62d-763a71fdff87": {
       "count": "1",
