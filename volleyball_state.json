@@ -150,6 +150,16 @@
       "type": "Volleyball Pickup - 6v6 - Coed",
       "venue": "Pier 6"
     },
+    "a76bffde-788e-44c7-8212-eb3120e29317": {
+      "count": "1",
+      "date": "2026-10-17T18:00:00+00:00",
+      "end": "16:00",
+      "full_name": "Saturday 10/17 - Volleyball (6v6) - Hunter's Point South Long Island City 2PM",
+      "max": "16",
+      "start": "14:00",
+      "type": "Saturday - Volleyball - Long Island City",
+      "venue": "Hunter's Point South Long Island City 2PM"
+    },
     "b13781d7-ae79-4f21-9750-dc607db44978": {
       "count": "2",
       "date": "2026-10-11T19:00:00+00:00",
@@ -169,16 +179,6 @@
       "start": "16:15",
       "type": "Volleyball Pickup - 6v6 - Coed",
       "venue": "Pier 6"
-    },
-    "b99c13eb-f17e-4d8c-bebf-e74c837ba5ee": {
-      "count": "15",
-      "date": "2026-10-13T22:30:00+00:00",
-      "end": "19:15",
-      "full_name": "Tuesday 10/13 - Volleyball Pickup (All Levels) - Xavier High School 6:30pm",
-      "max": "16",
-      "start": "18:30",
-      "type": "Volleyball Pickup - 6v6 - Coed",
-      "venue": "Xavier High School"
     },
     "c8b2f688-d7c7-4bd4-b4af-d5f568efe461": {
       "count": "14",
@@ -272,6 +272,7 @@
     "a1b8cef4-986a-45fd-be89-c61706a20f15": "2026-10-13",
     "a2c89005-8045-438e-b377-b295a5b0100c": "2026-10-14",
     "a6036208-0f45-40f0-8938-ce57776dd635": "2026-10-12",
+    "a76bffde-788e-44c7-8212-eb3120e29317": "2026-10-17",
     "b13781d7-ae79-4f21-9750-dc607db44978": "2026-10-11",
     "b252e67c-15e6-4d2b-abab-86c41f181199": "2026-10-10",
     "b6dd41a4-b230-4aae-8393-37ee3014d5d2": "2026-10-08",
