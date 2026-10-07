@@ -130,16 +130,6 @@
       "type": "Sunday - Volleyball - Upper West Side",
       "venue": "Riverside North Beach Volleyball"
     },
-    "a2c89005-8045-438e-b377-b295a5b0100c": {
-      "count": "4",
-      "date": "2026-10-14T23:00:00+00:00",
-      "end": "20:00",
-      "full_name": "Wednesday 10/14 - Volleyball Pickup- Kotofit - 88 Bishop Jersey City 7PM",
-      "max": "18",
-      "start": "19:00",
-      "type": "Wednesday - Volleyball Pickup - Jersey City",
-      "venue": "Kotofit - 88 Bishop"
-    },
     "a6036208-0f45-40f0-8938-ce57776dd635": {
       "count": "0",
       "date": "2026-10-12T23:00:00+00:00",
@@ -149,6 +139,16 @@
       "start": "19:00",
       "type": "Volleyball Pickup - 6v6 - Coed",
       "venue": "Pier 6"
+    },
+    "a76bffde-788e-44c7-8212-eb3120e29317": {
+      "count": "1",
+      "date": "2026-10-17T18:00:00+00:00",
+      "end": "16:00",
+      "full_name": "Saturday 10/17 - Volleyball (6v6) - Hunter's Point South Long Island City 2PM",
+      "max": "16",
+      "start": "14:00",
+      "type": "Saturday - Volleyball - Long Island City",
+      "venue": "Hunter's Point South Long Island City 2PM"
     },
     "b13781d7-ae79-4f21-9750-dc607db44978": {
       "count": "2",
@@ -208,7 +208,7 @@
       "max": "16",
       "start": "13:00",
       "type": "Saturday - Volleyball - Jersey City",
-      "venue": "88 Bishop Jersey City 1PM"
+      "venue": "Kotofit - 88 Bishop"
     },
     "eae4976f-7c4b-46e8-bb5a-a486b0916349": {
       "count": "6",
