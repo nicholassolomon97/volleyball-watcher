@@ -1,5 +1,35 @@
 {
   "current": {
+    "02bcbd0e-a778-4bf8-8ea3-ff9eed72adb7": {
+      "count": "1",
+      "date": "2026-10-09T00:30:00+00:00",
+      "end": "22:00",
+      "full_name": "Thursday 10/8 - Volleyball Pickup (All Levels) - Liberty Harbor Courts @ Surf City 8:30pm",
+      "max": "16",
+      "start": "20:30",
+      "type": "Volleyball Pickup - 6v6 - Coed",
+      "venue": "Liberty Harbor Courts @ Surf City"
+    },
+    "07ba8438-8449-4cfd-8d5c-9b4c262cf49c": {
+      "count": "1",
+      "date": "2026-10-17T16:00:00+00:00",
+      "end": "14:00",
+      "full_name": "Saturday 10/17 - Volleyball (6v6) - Hunter's Point South Long Island City 12PM",
+      "max": "16",
+      "start": "12:00",
+      "type": "Saturday - Volleyball - Long Island City",
+      "venue": "Hunter's Point South Long Island City 12PM"
+    },
+    "1111e5dc-97e5-4db0-befe-edca342fea29": {
+      "count": "5",
+      "date": "2026-10-10T16:00:00+00:00",
+      "end": "14:00",
+      "full_name": "Saturday 10/10 - Volleyball (6v6) - Hunter's Point South Long Island City 12PM",
+      "max": "16",
+      "start": "12:00",
+      "type": "Saturday - Volleyball - Long Island City",
+      "venue": "Hunter's Point South"
+    },
     "35e70e7b-e998-4c20-871e-2b982a6d984e": {
       "count": "1",
       "date": "2026-10-13T22:15:00+00:00",
@@ -20,6 +50,16 @@
       "type": "Monday - Volleyball - Lower East Side",
       "venue": "St. Patrick's Youth Center"
     },
+    "38b10eda-dbc3-49c3-a7cc-a8b15e394d1a": {
+      "count": "7",
+      "date": "2026-10-08T23:00:00+00:00",
+      "end": "20:30",
+      "full_name": "Thursday 10/8 - Volleyball Pickup (All Levels) - Liberty Harbor Courts @ Surf City 7:00pm",
+      "max": "16",
+      "start": "19:00",
+      "type": "Volleyball Pickup - 6v6 - Coed",
+      "venue": "Liberty Harbor Courts @ Surf City"
+    },
     "3ca88bee-17c7-471c-8ce4-8f1300ba5c33": {
       "count": "2",
       "date": "2026-10-14T22:15:00+00:00",
@@ -29,6 +69,36 @@
       "start": "18:15",
       "type": "Wednesday - Volleyball - Lower East Side",
       "venue": "St. Patrick's Youth Center Lower East Side"
+    },
+    "781de2df-873a-40eb-8e05-452afbab5e4d": {
+      "count": "5",
+      "date": "2026-10-10T18:00:00+00:00",
+      "end": "16:00",
+      "full_name": "Saturday 10/10 - Volleyball (6v6) - Hunter's Point South Long Island City 2PM",
+      "max": "16",
+      "start": "14:00",
+      "type": "Saturday - Volleyball - Long Island City",
+      "venue": "Hunter's Point South Long Island City 2PM"
+    },
+    "8a84dafb-e958-46ad-a189-9f9441aeba5e": {
+      "count": "1",
+      "date": "2026-10-17T18:00:00+00:00",
+      "end": "16:00",
+      "full_name": "Saturday 10/17 - Volleyball Pickup (All Levels) - Pier 6 2:00pm",
+      "max": "16",
+      "start": "14:00",
+      "type": "Volleyball Pickup - 6v6 - Coed",
+      "venue": "Pier 6"
+    },
+    "8f4ef742-64a4-4a08-9099-a0f835ec2a49": {
+      "count": "1",
+      "date": "2026-10-14T22:00:00+00:00",
+      "end": "18:45",
+      "full_name": "Wednesday 10/14 - Volleyball (6v6) - Pier 25 West Village 6PM",
+      "max": "14",
+      "start": "18:00",
+      "type": "Wednesday - Volleyball - West Village",
+      "venue": "Pier 25"
     },
     "949543f5-8050-4a62-8a02-90ced64769de": {
       "count": "6",
@@ -40,15 +110,135 @@
       "type": "Volleyball Pickup - 6v6 - Coed",
       "venue": "The Door"
     },
-    "c8b2f688-d7c7-4bd4-b4af-d5f568efe461": {
-      "count": "15",
-      "date": "2026-10-13T22:15:00+00:00",
-      "end": "19:00",
-      "full_name": "Tuesday 10/13 - Volleyball Pickup (All Levels) - St. Patrick's Youth Center 6:15pm",
+    "96d459aa-23ae-424d-b047-3ca07c3c8a29": {
+      "count": "0",
+      "date": "2026-10-14T00:30:00+00:00",
+      "end": "22:00",
+      "full_name": "Tuesday 10/13 - Volleyball Pickup (All Levels) - Liberty Harbor Courts @ Surf City 8:30pm",
       "max": "16",
-      "start": "18:15",
+      "start": "20:30",
       "type": "Volleyball Pickup - 6v6 - Coed",
-      "venue": "St. Patrick's Youth Center"
+      "venue": "Liberty Harbor Courts @ Surf City"
+    },
+    "9986d859-a347-42fc-8f97-9c6fffbfe14c": {
+      "count": "0",
+      "date": "2026-10-11T18:15:00+00:00",
+      "end": "16:00",
+      "full_name": "Sunday 10/11 - Volleyball - Riverside North Beach Volleyball Upper West Side 2:15PM",
+      "max": "16",
+      "start": "14:15",
+      "type": "Sunday - Volleyball - Upper West Side",
+      "venue": "Riverside North Beach Volleyball"
+    },
+    "a6036208-0f45-40f0-8938-ce57776dd635": {
+      "count": "0",
+      "date": "2026-10-12T23:00:00+00:00",
+      "end": "20:00",
+      "full_name": "Monday 10/12 - Volleyball Pickup (All Levels) - Pier 6 7:00pm",
+      "max": "16",
+      "start": "19:00",
+      "type": "Volleyball Pickup - 6v6 - Coed",
+      "venue": "Pier 6"
+    },
+    "a76bffde-788e-44c7-8212-eb3120e29317": {
+      "count": "1",
+      "date": "2026-10-17T18:00:00+00:00",
+      "end": "16:00",
+      "full_name": "Saturday 10/17 - Volleyball (6v6) - Hunter's Point South Long Island City 2PM",
+      "max": "16",
+      "start": "14:00",
+      "type": "Saturday - Volleyball - Long Island City",
+      "venue": "Hunter's Point South Long Island City 2PM"
+    },
+    "b13781d7-ae79-4f21-9750-dc607db44978": {
+      "count": "2",
+      "date": "2026-10-11T19:00:00+00:00",
+      "end": "16:00",
+      "full_name": "Sunday 10/11 - Volleyball Pickup (All Levels) - Riverside Park South 3:00pm",
+      "max": "16",
+      "start": "15:00",
+      "type": "Volleyball Pickup - Coed",
+      "venue": "Riverside Park South"
+    },
+    "b252e67c-15e6-4d2b-abab-86c41f181199": {
+      "count": "11",
+      "date": "2026-10-10T20:15:00+00:00",
+      "end": "18:00",
+      "full_name": "Saturday 10/10 - Volleyball Pickup (All Levels) - Pier 6 4:15pm",
+      "max": "32",
+      "start": "16:15",
+      "type": "Volleyball Pickup - 6v6 - Coed",
+      "venue": "Pier 6"
+    },
+    "d31b9839-3aa0-4159-b62d-763a71fdff87": {
+      "count": "2",
+      "date": "2026-10-11T21:00:00+00:00",
+      "end": "18:00",
+      "full_name": "Sunday 10/11 - Volleyball (4v4) - John Jay High School Prospect Park 5PM",
+      "max": "12",
+      "start": "17:00",
+      "type": "Sunday - Volleyball - Prospect Park",
+      "venue": "John Jay High School"
+    },
+    "df0e2ecb-cf78-45f7-a6ae-aa4016e7a20b": {
+      "count": "11",
+      "date": "2026-10-10T18:00:00+00:00",
+      "end": "16:00",
+      "full_name": "Saturday 10/10 - Volleyball Pickup (All Levels) - Pier 6 2:00pm",
+      "max": "16",
+      "start": "14:00",
+      "type": "Volleyball Pickup - 6v6 - Coed",
+      "venue": "Pier 6"
+    },
+    "e0c8425f-2d5f-40eb-8458-2da1b19b6c99": {
+      "count": "14",
+      "date": "2026-10-17T17:00:00+00:00",
+      "end": "14:00",
+      "full_name": "Saturday 10/17 - Volleyball - Kotofit - 88 Bishop Jersey City 1PM",
+      "max": "16",
+      "start": "13:00",
+      "type": "Saturday - Volleyball - Jersey City",
+      "venue": "Kotofit - 88 Bishop"
+    },
+    "eae4976f-7c4b-46e8-bb5a-a486b0916349": {
+      "count": "7",
+      "date": "2026-10-11T16:00:00+00:00",
+      "end": "13:00",
+      "full_name": "Sunday 10/11 - Volleyball Pickup (All Levels) - Hunter's Point South 12:00pm",
+      "max": "16",
+      "start": "12:00",
+      "type": "Volleyball Pickup - 6v6 - Coed",
+      "venue": "Hunter's Point South"
+    },
+    "eeda8f18-fa51-49ea-b540-c4dab5d22c0d": {
+      "count": "12",
+      "date": "2026-10-15T23:00:00+00:00",
+      "end": "21:00",
+      "full_name": "Thursday 10/15 - Volleyball (6v6) - New Design High School Lower East Side 7PM",
+      "max": "16",
+      "start": "19:00",
+      "type": "Thursday - Volleyball - Lower East Side",
+      "venue": "New Design High School"
+    },
+    "f64016ef-cb12-41c1-9c1c-28d08edb737e": {
+      "count": "1",
+      "date": "2026-10-17T20:15:00+00:00",
+      "end": "18:00",
+      "full_name": "Saturday 10/17 - Volleyball Pickup (All Levels) - Pier 6 4:15pm",
+      "max": "32",
+      "start": "16:15",
+      "type": "Volleyball Pickup - 6v6 - Coed",
+      "venue": "Pier 6"
+    },
+    "fa9c6c07-227b-4fdc-b455-11c78c89e830": {
+      "count": "0",
+      "date": "2026-10-13T23:00:00+00:00",
+      "end": "20:30",
+      "full_name": "Tuesday 10/13 - Volleyball Pickup (All Levels) - Liberty Harbor Courts @ Surf City 7:00pm",
+      "max": "16",
+      "start": "19:00",
+      "type": "Volleyball Pickup - 6v6 - Coed",
+      "venue": "Liberty Harbor Courts @ Surf City"
     }
   },
   "seen": {
@@ -94,6 +284,7 @@
     "e0c8425f-2d5f-40eb-8458-2da1b19b6c99": "2026-10-17",
     "eae4976f-7c4b-46e8-bb5a-a486b0916349": "2026-10-11",
     "eeda8f18-fa51-49ea-b540-c4dab5d22c0d": "2026-10-15",
+    "f64016ef-cb12-41c1-9c1c-28d08edb737e": "2026-10-17",
     "fa9c6c07-227b-4fdc-b455-11c78c89e830": "2026-10-13"
   }
 }
