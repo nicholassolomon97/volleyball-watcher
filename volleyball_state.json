@@ -34,15 +34,15 @@
       "venue_slug": "st-patricks-youth-center"
     },
     "11a3c971-c271-4f5a-a366-77c0cedc4dc4": {
-      "count": null,
+      "count": "0",
       "date": "2026-10-18T21:00:00+00:00",
-      "end": null,
-      "full_name": null,
-      "max": null,
-      "start": null,
-      "type": null,
-      "venue": null,
-      "venue_slug": null
+      "end": "18:00",
+      "full_name": "Sunday 10/18 - Volleyball (4v4) - John Jay High School Prospect Park 5PM",
+      "max": "12",
+      "start": "17:00",
+      "type": "Sunday - Volleyball - Prospect Park",
+      "venue": "John Jay High School Prospect Park 5PM",
+      "venue_slug": "john-jay-high-school"
     },
     "35e70e7b-e998-4c20-871e-2b982a6d984e": {
       "count": "5",
@@ -54,17 +54,6 @@
       "type": "Tuesday - Volleyball - Lower East Side",
       "venue": "St. Patrick's Youth Center",
       "venue_slug": "st-patricks-youth-center"
-    },
-    "38b10eda-dbc3-49c3-a7cc-a8b15e394d1a": {
-      "count": "10",
-      "date": "2026-10-08T23:00:00+00:00",
-      "end": "20:30",
-      "full_name": "Thursday 10/8 - Volleyball Pickup (All Levels) - Liberty Harbor Courts @ Surf City 7:00pm",
-      "max": "16",
-      "start": "19:00",
-      "type": "Volleyball Pickup - 6v6 - Coed",
-      "venue": "Liberty Harbor Courts @ Surf City",
-      "venue_slug": "liberty-harbor-courts-surf-city"
     },
     "3ca88bee-17c7-471c-8ce4-8f1300ba5c33": {
       "count": "4",
