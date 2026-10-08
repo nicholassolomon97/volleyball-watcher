@@ -170,16 +170,6 @@
       "type": "Volleyball Pickup - 6v6 - Coed",
       "venue": "Pier 6"
     },
-    "cfec61cc-46ad-492f-aa44-989f6d8d8669": {
-      "count": "15",
-      "date": "2026-10-08T22:00:00+00:00",
-      "end": "19:00",
-      "full_name": "Thursday 10/8 - Volleyball Pickup (All Levels) - La Salle Academy 6:00pm",
-      "max": "16",
-      "start": "18:00",
-      "type": "Volleyball Pickup - 6v6 - Coed",
-      "venue": "La Salle Academy"
-    },
     "d31b9839-3aa0-4159-b62d-763a71fdff87": {
       "count": "2",
       "date": "2026-10-11T21:00:00+00:00",
@@ -229,6 +219,16 @@
       "start": "19:00",
       "type": "Thursday - Volleyball - Lower East Side",
       "venue": "New Design High School"
+    },
+    "f64016ef-cb12-41c1-9c1c-28d08edb737e": {
+      "count": "1",
+      "date": "2026-10-17T20:15:00+00:00",
+      "end": "18:00",
+      "full_name": "Saturday 10/17 - Volleyball Pickup (All Levels) - Pier 6 4:15pm",
+      "max": "32",
+      "start": "16:15",
+      "type": "Volleyball Pickup - 6v6 - Coed",
+      "venue": "Pier 6"
     },
     "fa9c6c07-227b-4fdc-b455-11c78c89e830": {
       "count": "0",
