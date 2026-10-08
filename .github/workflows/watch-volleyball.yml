@@ -6,7 +6,7 @@ on:
   workflow_dispatch: {}
 
 permissions:
-  contents: write            # lets the workflow commit the saved state back to the repo
+  contents: write        # lets the workflow commit the saved state back to the repo
 
 jobs:
   check:
@@ -17,7 +17,20 @@ jobs:
 
       - name: Check for new/removed games
         env:
-          TARGET_URL: "https://www.volosports.com/discover/new-york-metro-area?category=daily-sports&programType=pickup&sports=volleyball&venues=avenues,baruch-college,chelsea-piers-1,st-patricks-youth-center,the-door,the-post-bk-100-dobbin-st,xavier-high-school"
+          # No venues= filter here - fetches every pickup volleyball
+          # listing citywide, and every game notifies the same way (new +
+          # reopened spots), all on one topic. PRIORITY_VENUES only decides
+          # which ones get a ⭐ in the title - no difference in loudness,
+          # topic, or anything else.
+          TARGET_URL: "https://www.volosports.com/discover/new-york-metro-area?category=daily-sports&programType=pickup&sports=volleyball"
+
+          # Comma-separated venue slugs (no spaces needed around commas -
+          # they're trimmed). Edit anytime, just change the value and
+          # commit. To find a venue's slug: open the Volosports site,
+          # filter to just that venue, and copy the value after "venues="
+          # in the URL.
+          PRIORITY_VENUES: "avenues,baruch-college,the-post-bk-100-dobbin-st,the-post-53-knickerbocker-ave,xavier-high-school"
+
           NTFY_TOPIC: "nick-volo-pickup-8x2q"   # <-- change this to your own topic
         run: python3 scripts/check_volleyball.py
 
