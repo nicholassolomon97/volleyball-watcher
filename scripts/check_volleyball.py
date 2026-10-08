@@ -1,6 +1,7 @@
 import json
 import os
 import re
+import urllib.parse
 import urllib.request
 from datetime import date as date_cls, datetime, timedelta, timezone
 from zoneinfo import ZoneInfo
@@ -9,14 +10,15 @@ URL = os.environ["TARGET_URL"]
 NTFY_TOPIC = os.environ["NTFY_TOPIC"]
 STATE_FILE = os.environ.get("STATE_FILE", "volleyball_state.json")
 
-WEEKDAY_ABBR = {0: "Mon", 1: "Tue", 2: "Wed", 3: "Thurs", 4: "Fri", 5: "Sat", 6: "Sun"}
 
-# event_start_date comes through as a UTC timestamp of the actual event
-# start moment (not a plain local calendar date), so any evening game in
-# Eastern time can roll over to the next UTC day. Convert to Eastern before
-# reading off the date, or displayed dates end up off by one for anything
-# starting ~8pm or later.
+# .strip() so an accidental space after a comma (easy to introduce when
+# hand-editing the list on GitHub) doesn't silently drop a venue.
+PRIORITY_VENUES = {
+    s.strip() for s in os.environ.get("PRIORITY_VENUES", "").split(",") if s.strip()
+}
+
 EASTERN = ZoneInfo("America/New_York")
+WEEKDAY_ABBR = {0: "Mon", 1: "Tue", 2: "Wed", 3: "Thurs", 4: "Fri", 5: "Sat", 6: "Sun"}
 
 
 def extract_venue_from_name(full_name):
@@ -42,6 +44,13 @@ def fetch_events(url):
     with urllib.request.urlopen(req, timeout=30) as resp:
         html = resp.read().decode("utf-8", errors="ignore")
 
+    # Build a venue-name -> slug lookup from every fully-inlined venue object
+    # anywhere on the page, since some events only reference their venue by
+    # pointer (no inline slug in that event's own chunk).
+    venue_slug_by_name = {}
+    for m in re.finditer(r'slug:"([^"]+)",shorthand_name:"([^"]+)",latitude:', html):
+        venue_slug_by_name[m.group(2)] = m.group(1)
+
     anchor = '__typename:"discover_daily",_id:"'
     parts = html.split(anchor)[1:]
     events = {}
@@ -51,8 +60,17 @@ def fetch_events(url):
             continue
         eid = m_id.group(1)
 
-        def grab(pattern, window=part):
-            m = re.search(pattern, window)
+        # Each "part" runs from this event's own id all the way to the end of
+        # the page, not just to its own object - the page repeats the same
+        # handful of events many times (list view, map pins, etc.), so an
+        # unbounded search can "find" a field that actually belongs to a
+        # different, later event. A real event's own fields all sit within
+        # the first ~3000 chars of its chunk (verified empirically), so the
+        # window is capped there to stop that cross-event bleed.
+        local_window = part[:3000]
+
+        def grab(pattern, window=local_window):
+            m = re.search(pattern, window, re.DOTALL)
             return m.group(1) if m else None
 
         fields = {
@@ -60,6 +78,7 @@ def fetch_events(url):
             "start": grab(r'event_start_time_str:"([^"]+)"'),
             "end": grab(r'event_end_time_str:"([^"]+)"'),
             "venue": grab(r'shorthand_name:"([^"]+)"'),
+            "venue_slug": grab(r'slug:"([^"]+)",shorthand_name:"[^"]+",latitude:'),
             "full_name": grab(r'__typename:"leagues".*?name:"([^"]+)",display_name:'),
             "type": grab(r'display_name:"([^"]+)"'),
             "count": grab(r'__typename:"registrants_aggregate_fields",count:(\d+)'),
@@ -74,11 +93,38 @@ def fetch_events(url):
                 if events[eid].get(k) is None and v is not None:
                     events[eid][k] = v
 
+    def slug_for(name):
+        """Resolve a venue name to its slug. Exact match first; falling back
+        to prefix matching, since the name extracted from an event's full
+        session title is often a longer variant of the venue's own shorthand
+        name (e.g. "St. Patrick's Youth Center Lower East Side" vs. the
+        known "St. Patrick's Youth Center")."""
+        if name in venue_slug_by_name:
+            return venue_slug_by_name[name]
+        for known_name, slug in venue_slug_by_name.items():
+            if name.startswith(known_name):
+                return slug
+        return None
+
     for eid, e in events.items():
         if not e.get("venue"):
             e["venue"] = extract_venue_from_name(e.get("full_name"))
-    # Only keep entries that resolved to a real event (has a date).
+        if not e.get("venue_slug") and e.get("venue"):
+            e["venue_slug"] = slug_for(e["venue"])
+
+    # Keep every event citywide that resolved to a real date. Venue is used
+    # only to decide priority star/topic/loudness below - it's never a
+    # reason to drop a game.
     return {eid: e for eid, e in events.items() if e.get("date")}
+
+
+def local_date(iso_str):
+    """Convert a UTC event_start_date to the correct US/Eastern calendar
+    date. Naively slicing the date off the raw UTC string is wrong for any
+    game starting at 8pm ET or later, since its UTC timestamp has already
+    rolled into the next calendar day."""
+    dt = datetime.fromisoformat(iso_str)
+    return dt.astimezone(EASTERN).date()
 
 
 def format_time(t):
@@ -101,21 +147,8 @@ def format_duration(start_str, end_str):
     return f"{hours:g} hrs"
 
 
-def local_event_date(raw_date):
-    """Convert the raw event_start_date (a UTC timestamp) to the correct
-    Eastern-time calendar date. Falls back to a naive date-only parse if the
-    value ever comes through without time/timezone info."""
-    try:
-        dt = datetime.fromisoformat(raw_date.replace("Z", "+00:00"))
-    except ValueError:
-        return date_cls.fromisoformat(raw_date[:10])
-    if dt.tzinfo is None:
-        dt = dt.replace(tzinfo=timezone.utc)
-    return dt.astimezone(EASTERN).date()
-
-
 def describe(e):
-    d = local_event_date(e["date"])
+    d = local_date(e["date"])
     when = f"{WEEKDAY_ABBR[d.weekday()]} {d.strftime('%m/%d')}"
     time_str = format_time(e["start"])
     duration = format_duration(e["start"], e["end"])
@@ -125,6 +158,10 @@ def describe(e):
 
 def booking_link(eid):
     return f"https://www.volosports.com/d/{eid}"
+
+
+def is_priority(e):
+    return e.get("venue_slug") in PRIORITY_VENUES
 
 
 def notify(title, message, click_url=None):
@@ -156,7 +193,7 @@ def save_state(current, seen):
 
 def main():
     current = fetch_events(URL)
-    print(f"Fetched {len(current)} current listing(s).")
+    print(f"Fetched {len(current)} current listing(s) citywide.")
 
     state = load_state()
     previous_current = state.get("current", {}) if state else None
@@ -171,10 +208,9 @@ def main():
         for eid in new_ids:
             e = current[eid]
             msg = describe(e)
-            if eid in seen:
-                title = "\U0001F513 Spot Opened"  # 🔓
-            else:
-                title = "\U0001F195 New Game"  # 🆕
+            star = "⭐" if is_priority(e) else ""  # ⭐ marks a priority venue, nothing else differs
+            kind = "\U0001F513 Spot Opened" if eid in seen else "\U0001F195 New Game"  # 🔓 / 🆕
+            title = f"{star}{kind}"
             print(f"{title}: {msg}")
             notify(title, msg, click_url=booking_link(eid))
 
@@ -188,11 +224,11 @@ def main():
     # Track every id ever seen (by its game date) so a game that disappears
     # and later reappears is recognized as "Spot Opened" rather than "New".
     for eid, e in current.items():
-        seen[eid] = e["date"][:10]
+        seen[eid] = local_date(e["date"]).isoformat()
 
     # Prune ids whose game date has already passed - they can't come back,
     # so there's no reason to keep tracking them forever.
-    today_str = datetime.now(timezone.utc).date().isoformat()
+    today_str = datetime.now(EASTERN).date().isoformat()
     seen = {eid: d for eid, d in seen.items() if d >= today_str}
 
     save_state(current, seen)
