@@ -40,7 +40,7 @@
       "full_name": "Monday 10/19 - Volleyball Pickup (All Levels) - Pier 6 7:00pm",
       "max": "16",
       "start": "19:00",
-      "type": null,
+      "type": "Volleyball Pickup - 6v6 - Coed",
       "venue": "Pier 6",
       "venue_slug": "pier-6"
     },
@@ -131,17 +131,6 @@
       "type": "Wednesday - Volleyball - West Village",
       "venue": "Pier 25",
       "venue_slug": "pier-25"
-    },
-    "92de3dd1-863d-4243-bd99-2eeb38487e6b": {
-      "count": "15",
-      "date": "2026-10-18T21:15:00+00:00",
-      "end": "19:00",
-      "full_name": "Sunday 10/18 - Volleyball - Xavier High School Union Square 5:15PM",
-      "max": "16",
-      "start": "17:15",
-      "type": "Sunday - Volleyball - Union Square",
-      "venue": "Xavier High School",
-      "venue_slug": "xavier-high-school"
     },
     "949543f5-8050-4a62-8a02-90ced64769de": {
       "count": "11",
