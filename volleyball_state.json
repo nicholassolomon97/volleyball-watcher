@@ -11,6 +11,17 @@
       "venue": "Hunter's Point South Long Island City 12PM",
       "venue_slug": "hunters-point-south"
     },
+    "086e7dd0-e2d5-482c-920f-ffef87141c4f": {
+      "count": "15",
+      "date": "2026-10-17T19:30:00+00:00",
+      "end": "17:00",
+      "full_name": "Saturday 10/17 - Volleyball (6v6) - The Post BK - 100 Dobbin St Williamsburg 4:15PM",
+      "max": "16",
+      "start": "16:15",
+      "type": "Saturday - Volleyball - Williamsburg",
+      "venue": "100 Dobbin St Williamsburg",
+      "venue_slug": null
+    },
     "09ab83f3-62f5-4ab3-9069-bcc6213b28a1": {
       "count": "8",
       "date": "2026-10-18T19:00:00+00:00",
@@ -18,8 +29,8 @@
       "full_name": "Sunday 10/18 - Volleyball - St. Patrick's Youth Center Lower East Side 3PM",
       "max": "16",
       "start": "15:00",
-      "type": "Sunday - Volleyball - Lower East Side",
-      "venue": "St. Patrick's Youth Center Lower East Side 3PM",
+      "type": null,
+      "venue": "St. Patrick's Youth Center",
       "venue_slug": "st-patricks-youth-center"
     },
     "11a3c971-c271-4f5a-a366-77c0cedc4dc4": {
@@ -311,6 +322,7 @@
   },
   "seen": {
     "07ba8438-8449-4cfd-8d5c-9b4c262cf49c": "2026-10-17",
+    "086e7dd0-e2d5-482c-920f-ffef87141c4f": "2026-10-17",
     "09ab83f3-62f5-4ab3-9069-bcc6213b28a1": "2026-10-18",
     "1111e5dc-97e5-4db0-befe-edca342fea29": "2026-10-10",
     "11a3c971-c271-4f5a-a366-77c0cedc4dc4": "2026-10-18",
