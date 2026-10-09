@@ -33,6 +33,17 @@
       "venue": "John Jay High School Prospect Park 5PM",
       "venue_slug": "john-jay-high-school"
     },
+    "19601f68-5409-4191-b35e-088db3857ba4": {
+      "count": "0",
+      "date": "2026-10-19T23:00:00+00:00",
+      "end": "20:00",
+      "full_name": "Monday 10/19 - Volleyball Pickup (All Levels) - Pier 6 7:00pm",
+      "max": "16",
+      "start": "19:00",
+      "type": null,
+      "venue": "Pier 6",
+      "venue_slug": "pier-6"
+    },
     "35e70e7b-e998-4c20-871e-2b982a6d984e": {
       "count": "6",
       "date": "2026-10-13T22:15:00+00:00",
@@ -41,6 +52,17 @@
       "max": "32",
       "start": "18:15",
       "type": "Tuesday - Volleyball - Lower East Side",
+      "venue": "St. Patrick's Youth Center Lower East Side",
+      "venue_slug": "st-patricks-youth-center"
+    },
+    "3762c456-7533-4ce6-8aa9-37c7f364be75": {
+      "count": "31",
+      "date": "2026-10-13T00:00:00+00:00",
+      "end": "21:00",
+      "full_name": "Monday 10/12 - Volleyball (6v6) - St. Patrick's Youth Center Lower East Side 8PM",
+      "max": "32",
+      "start": "20:00",
+      "type": "Monday - Volleyball - Lower East Side",
       "venue": "St. Patrick's Youth Center",
       "venue_slug": "st-patricks-youth-center"
     },
@@ -65,6 +87,17 @@
       "type": "Sunday - Volleyball - Upper West Side",
       "venue": "Riverside North Beach Volleyball Upper West Side",
       "venue_slug": "riverside-north-beach-volleyball"
+    },
+    "5f9c7dce-2976-48bc-bcc5-a22893b2f278": {
+      "count": "2",
+      "date": "2026-10-20T00:00:00+00:00",
+      "end": "21:00",
+      "full_name": "Monday 10/19 - Volleyball (6v6) - St. Patrick's Youth Center Lower East Side 8PM",
+      "max": "32",
+      "start": "20:00",
+      "type": null,
+      "venue": "St. Patrick's Youth Center",
+      "venue_slug": "st-patricks-youth-center"
     },
     "89f1c2db-ceec-4b76-b733-6c5d99880541": {
       "count": "0",
@@ -106,9 +139,9 @@
       "full_name": "Sunday 10/18 - Volleyball - Xavier High School Union Square 5:15PM",
       "max": "16",
       "start": "17:15",
-      "type": "Sunday - Volleyball - Union Square",
+      "type": null,
       "venue": "Xavier High School",
-      "venue_slug": "xavier-high-school"
+      "venue_slug": null
     },
     "949543f5-8050-4a62-8a02-90ced64769de": {
       "count": "9",
@@ -266,16 +299,17 @@
     }
   },
   "seen": {
-    "02bcbd0e-a778-4bf8-8ea3-ff9eed72adb7": "2026-10-08",
     "07ba8438-8449-4cfd-8d5c-9b4c262cf49c": "2026-10-17",
     "09ab83f3-62f5-4ab3-9069-bcc6213b28a1": "2026-10-18",
     "1111e5dc-97e5-4db0-befe-edca342fea29": "2026-10-10",
     "11a3c971-c271-4f5a-a366-77c0cedc4dc4": "2026-10-18",
+    "19601f68-5409-4191-b35e-088db3857ba4": "2026-10-19",
     "35e70e7b-e998-4c20-871e-2b982a6d984e": "2026-10-13",
-    "38b10eda-dbc3-49c3-a7cc-a8b15e394d1a": "2026-10-08",
+    "3762c456-7533-4ce6-8aa9-37c7f364be75": "2026-10-12",
     "3bd7227f-0a08-438d-a4e6-86967823d887": "2026-10-11",
     "3ca88bee-17c7-471c-8ce4-8f1300ba5c33": "2026-10-14",
     "555bd638-c766-43c0-aa31-7ea1719d39f2": "2026-10-18",
+    "5f9c7dce-2976-48bc-bcc5-a22893b2f278": "2026-10-19",
     "68c5c635-6584-48d8-a7ba-f6d2bb8a2666": "2026-10-10",
     "781de2df-873a-40eb-8e05-452afbab5e4d": "2026-10-10",
     "89f1c2db-ceec-4b76-b733-6c5d99880541": "2026-10-18",
