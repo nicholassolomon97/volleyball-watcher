@@ -66,6 +66,17 @@
       "venue": "Riverside North Beach Volleyball Upper West Side",
       "venue_slug": "riverside-north-beach-volleyball"
     },
+    "68c5c635-6584-48d8-a7ba-f6d2bb8a2666": {
+      "count": "15",
+      "date": "2026-10-10T16:00:00+00:00",
+      "end": "13:45",
+      "full_name": "Saturday 10/10 - Volleyball Pickup (All Levels) - The Door 12:00pm",
+      "max": "16",
+      "start": "12:00",
+      "type": "Volleyball Pickup - 6v6 - Coed",
+      "venue": "The Door",
+      "venue_slug": "the-door"
+    },
     "89f1c2db-ceec-4b76-b733-6c5d99880541": {
       "count": "0",
       "date": "2026-10-18T16:00:00+00:00",
@@ -100,15 +111,15 @@
       "venue_slug": "pier-25"
     },
     "92de3dd1-863d-4243-bd99-2eeb38487e6b": {
-      "count": "13",
+      "count": null,
       "date": "2026-10-18T21:15:00+00:00",
-      "end": "19:00",
-      "full_name": "Sunday 10/18 - Volleyball - Xavier High School Union Square 5:15PM",
-      "max": "16",
-      "start": "17:15",
-      "type": "Sunday - Volleyball - Union Square",
-      "venue": "Xavier High School",
-      "venue_slug": "xavier-high-school"
+      "end": null,
+      "full_name": null,
+      "max": null,
+      "start": null,
+      "type": null,
+      "venue": null,
+      "venue_slug": null
     },
     "949543f5-8050-4a62-8a02-90ced64769de": {
       "count": "9",
@@ -276,6 +287,7 @@
     "3bd7227f-0a08-438d-a4e6-86967823d887": "2026-10-11",
     "3ca88bee-17c7-471c-8ce4-8f1300ba5c33": "2026-10-14",
     "555bd638-c766-43c0-aa31-7ea1719d39f2": "2026-10-18",
+    "68c5c635-6584-48d8-a7ba-f6d2bb8a2666": "2026-10-10",
     "781de2df-873a-40eb-8e05-452afbab5e4d": "2026-10-10",
     "89f1c2db-ceec-4b76-b733-6c5d99880541": "2026-10-18",
     "8a84dafb-e958-46ad-a189-9f9441aeba5e": "2026-10-17",
