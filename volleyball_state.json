@@ -52,17 +52,6 @@
       "max": "32",
       "start": "18:15",
       "type": "Tuesday - Volleyball - Lower East Side",
-      "venue": "St. Patrick's Youth Center Lower East Side",
-      "venue_slug": "st-patricks-youth-center"
-    },
-    "3762c456-7533-4ce6-8aa9-37c7f364be75": {
-      "count": "31",
-      "date": "2026-10-13T00:00:00+00:00",
-      "end": "21:00",
-      "full_name": "Monday 10/12 - Volleyball (6v6) - St. Patrick's Youth Center Lower East Side 8PM",
-      "max": "32",
-      "start": "20:00",
-      "type": "Monday - Volleyball - Lower East Side",
       "venue": "St. Patrick's Youth Center",
       "venue_slug": "st-patricks-youth-center"
     },
@@ -89,7 +78,7 @@
       "venue_slug": "riverside-north-beach-volleyball"
     },
     "5f9c7dce-2976-48bc-bcc5-a22893b2f278": {
-      "count": "2",
+      "count": "3",
       "date": "2026-10-20T00:00:00+00:00",
       "end": "21:00",
       "full_name": "Monday 10/19 - Volleyball (6v6) - St. Patrick's Youth Center Lower East Side 8PM",
@@ -139,9 +128,9 @@
       "full_name": "Sunday 10/18 - Volleyball - Xavier High School Union Square 5:15PM",
       "max": "16",
       "start": "17:15",
-      "type": null,
+      "type": "Sunday - Volleyball - Union Square",
       "venue": "Xavier High School",
-      "venue_slug": null
+      "venue_slug": "xavier-high-school"
     },
     "949543f5-8050-4a62-8a02-90ced64769de": {
       "count": "9",
