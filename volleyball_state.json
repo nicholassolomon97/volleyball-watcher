@@ -29,8 +29,8 @@
       "full_name": "Sunday 10/18 - Volleyball (4v4) - John Jay High School Prospect Park 5PM",
       "max": "12",
       "start": "17:00",
-      "type": "Sunday - Volleyball - Prospect Park",
-      "venue": "John Jay High School Prospect Park 5PM",
+      "type": null,
+      "venue": "John Jay High School",
       "venue_slug": "john-jay-high-school"
     },
     "19601f68-5409-4191-b35e-088db3857ba4": {
@@ -65,6 +65,17 @@
       "type": "Monday - Volleyball - Lower East Side",
       "venue": "St. Patrick's Youth Center",
       "venue_slug": "st-patricks-youth-center"
+    },
+    "3bd7227f-0a08-438d-a4e6-86967823d887": {
+      "count": "15",
+      "date": "2026-10-11T15:00:00+00:00",
+      "end": "12:00",
+      "full_name": "Sunday 10/11 - Volleyball Pickup (All Levels) - Baruch College 11:00am",
+      "max": "16",
+      "start": "11:00",
+      "type": "Volleyball Pickup - 6v6 - Coed",
+      "venue": "Baruch College",
+      "venue_slug": "baruch-college"
     },
     "3ca88bee-17c7-471c-8ce4-8f1300ba5c33": {
       "count": "4",
@@ -243,7 +254,7 @@
       "venue_slug": "john-jay-high-school"
     },
     "df0e2ecb-cf78-45f7-a6ae-aa4016e7a20b": {
-      "count": "12",
+      "count": "11",
       "date": "2026-10-10T18:00:00+00:00",
       "end": "16:00",
       "full_name": "Saturday 10/10 - Volleyball Pickup (All Levels) - Pier 6 2:00pm",
