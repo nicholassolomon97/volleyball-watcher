@@ -22,16 +22,27 @@
       "venue": "St. Patrick's Youth Center Lower East Side 3PM",
       "venue_slug": "st-patricks-youth-center"
     },
+    "1111e5dc-97e5-4db0-befe-edca342fea29": {
+      "count": "15",
+      "date": "2026-10-10T16:00:00+00:00",
+      "end": "14:00",
+      "full_name": "Saturday 10/10 - Volleyball (6v6) - Hunter's Point South Long Island City 12PM",
+      "max": "16",
+      "start": "12:00",
+      "type": "Saturday - Volleyball - Long Island City",
+      "venue": "Hunter's Point South",
+      "venue_slug": "hunters-point-south"
+    },
     "11a3c971-c271-4f5a-a366-77c0cedc4dc4": {
-      "count": "0",
+      "count": null,
       "date": "2026-10-18T21:00:00+00:00",
-      "end": "18:00",
-      "full_name": "Sunday 10/18 - Volleyball (4v4) - John Jay High School Prospect Park 5PM",
-      "max": "12",
-      "start": "17:00",
-      "type": "Sunday - Volleyball - Prospect Park",
-      "venue": "John Jay High School Prospect Park 5PM",
-      "venue_slug": "john-jay-high-school"
+      "end": null,
+      "full_name": null,
+      "max": null,
+      "start": null,
+      "type": null,
+      "venue": null,
+      "venue_slug": null
     },
     "35e70e7b-e998-4c20-871e-2b982a6d984e": {
       "count": "6",
@@ -74,7 +85,7 @@
       "max": "16",
       "start": "14:00",
       "type": "Saturday - Volleyball - Long Island City",
-      "venue": "Hunter's Point South",
+      "venue": "Hunter's Point South Long Island City 2PM",
       "venue_slug": "hunters-point-south"
     },
     "89f1c2db-ceec-4b76-b733-6c5d99880541": {
@@ -280,6 +291,7 @@
     "02bcbd0e-a778-4bf8-8ea3-ff9eed72adb7": "2026-10-08",
     "07ba8438-8449-4cfd-8d5c-9b4c262cf49c": "2026-10-17",
     "09ab83f3-62f5-4ab3-9069-bcc6213b28a1": "2026-10-18",
+    "1111e5dc-97e5-4db0-befe-edca342fea29": "2026-10-10",
     "11a3c971-c271-4f5a-a366-77c0cedc4dc4": "2026-10-18",
     "35e70e7b-e998-4c20-871e-2b982a6d984e": "2026-10-13",
     "38b10eda-dbc3-49c3-a7cc-a8b15e394d1a": "2026-10-08",
