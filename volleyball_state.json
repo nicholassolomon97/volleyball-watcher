@@ -29,8 +29,8 @@
       "full_name": "Sunday 10/18 - Volleyball (4v4) - John Jay High School Prospect Park 5PM",
       "max": "12",
       "start": "17:00",
-      "type": null,
-      "venue": "John Jay High School",
+      "type": "Sunday - Volleyball - Prospect Park",
+      "venue": "John Jay High School Prospect Park 5PM",
       "venue_slug": "john-jay-high-school"
     },
     "19601f68-5409-4191-b35e-088db3857ba4": {
@@ -109,17 +109,6 @@
       "type": null,
       "venue": "St. Patrick's Youth Center",
       "venue_slug": "st-patricks-youth-center"
-    },
-    "73cd21ad-175a-4b62-9e48-5ce5a4011475": {
-      "count": "15",
-      "date": "2026-10-11T21:15:00+00:00",
-      "end": "19:00",
-      "full_name": "Sunday 10/11 - Volleyball - Xavier High School Union Square 5:15PM",
-      "max": "16",
-      "start": "17:15",
-      "type": "Sunday - Volleyball - Union Square",
-      "venue": "Xavier High School",
-      "venue_slug": "xavier-high-school"
     },
     "89f1c2db-ceec-4b76-b733-6c5d99880541": {
       "count": "0",
