@@ -1,3 +1,4 @@
+import html as html_lib
 import json
 import os
 import re
@@ -112,10 +113,79 @@ def fetch_events(url):
         if not e.get("venue_slug") and e.get("venue"):
             e["venue_slug"] = slug_for(e["venue"])
 
+    # The list page sometimes sends only a partial record for a listing (just
+    # a date and venue id). For those, fall back to the listing's own booking
+    # page, which always carries the full details.
+    incomplete = [eid for eid, e in events.items() if e.get("date") and not is_complete(e)]
+    for eid in incomplete[:MAX_DETAIL_FETCHES]:
+        detail = fetch_detail(eid)
+        if not detail:
+            continue
+        e = events[eid]
+        for k, v in detail.items():
+            if e.get(k) is None and v is not None:
+                e[k] = v
+        if not e.get("venue_slug") and e.get("venue"):
+            e["venue_slug"] = slug_for(e["venue"])
+        print(f"DETAIL PAGE used for {eid}: {e.get('venue')} {e.get('start')}-{e.get('end')} {e.get('count')}/{e.get('max')}")
+
     # Keep every event citywide that resolved to a real date. Venue is used
-    # only to decide priority star/topic/loudness below - it's never a
-    # reason to drop a game.
+    # only to decide the priority star below - it's never a reason to drop a
+    # game. (Completeness is checked separately in main(), for any listing
+    # even the booking page couldn't fill in.)
     return {eid: e for eid, e in events.items() if e.get("date")}
+
+
+MAX_DETAIL_FETCHES = 10  # safety cap on extra page loads per run
+
+
+def fetch_detail(eid):
+    """Read one listing's own booking page (the same page the notification
+    taps through to) and pull out the fields the list page left out. Returns
+    {} on any failure so the caller just treats the listing as incomplete."""
+    try:
+        req = urllib.request.Request(
+            booking_link(eid),
+            headers={
+                "User-Agent": (
+                    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
+                    "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36"
+                )
+            },
+        )
+        with urllib.request.urlopen(req, timeout=30) as resp:
+            page = resp.read().decode("utf-8", errors="ignore")
+
+        def grab(pattern):
+            m = re.search(pattern, page)
+            return m.group(1) if m else None
+
+        h1 = grab(r"<h1[^>]*>([^<]+)</h1>")
+        # First Google-Maps link on the page is the venue; its text is the
+        # clean venue name (e.g. "Pier 6"), same as the list page's shorthand.
+        venue = grab(r'href="https://www\.google\.com/maps/[^"]*"[^>]*>([^<]+)<')
+        return {
+            "start": grab(r'startTimeEstimate:"(\d{1,2}:\d{2})"'),
+            "end": grab(r'endTimeEstimate:"(\d{1,2}:\d{2})"'),
+            "count": grab(r"registered:(\d+)"),
+            "max": grab(r"capacity:(\d+)"),
+            "full_name": html_lib.unescape(h1) if h1 else None,
+            "venue": html_lib.unescape(venue) if venue else None,
+        }
+    except Exception as exc:
+        print(f"DETAIL PAGE failed for {eid}: {exc!r}")
+        return {}
+
+
+REQUIRED_FIELDS = ("date", "start", "end", "count", "max")
+
+
+def is_complete(e):
+    """The page occasionally delivers only a partial record for a listing
+    (e.g. just its date and venue id, with no time or spot count). Those
+    can't be described or booked from, so they're treated as 'not ready yet'
+    rather than crashing the run."""
+    return all(e.get(k) for k in REQUIRED_FIELDS)
 
 
 def local_date(iso_str):
@@ -192,12 +262,27 @@ def save_state(current, seen):
 
 
 def main():
-    current = fetch_events(URL)
-    print(f"Fetched {len(current)} current listing(s) citywide.")
+    fetched = fetch_events(URL)
 
     state = load_state()
     previous_current = state.get("current", {}) if state else None
     seen = state.get("seen", {}) if state else {}
+
+    # Split out listings the page only sent partially. If we already knew a
+    # listing from an earlier run, carry its last good record forward so a
+    # one-off partial response doesn't look like it filled up and reopened.
+    # Otherwise skip it for now - it'll be picked up (and announced as new)
+    # on the first run where its full details are present.
+    current = {}
+    for eid, e in fetched.items():
+        if is_complete(e):
+            current[eid] = e
+        elif previous_current and eid in previous_current:
+            current[eid] = previous_current[eid]
+            print(f"PARTIAL (kept previous data): {eid}")
+        else:
+            print(f"PARTIAL (skipped until details appear): {eid}")
+    print(f"Fetched {len(current)} usable listing(s) citywide.")
 
     if previous_current is None:
         print(f"First run - saving baseline of {len(current)} listing(s), no alert sent.")
@@ -207,16 +292,26 @@ def main():
 
         for eid in new_ids:
             e = current[eid]
-            msg = describe(e)
+            try:
+                msg = describe(e)
+            except Exception as exc:  # a malformed listing must never kill the whole run
+                print(f"SKIPPED {eid}: could not format listing ({exc!r})")
+                continue
             star = "⭐" if is_priority(e) else ""  # ⭐ marks a priority venue, nothing else differs
             kind = "\U0001F513 Spot Opened" if eid in seen else "\U0001F195 New Game"  # 🔓 / 🆕
             title = f"{star}{kind}"
             print(f"{title}: {msg}")
+            # Not wrapped on purpose: if ntfy itself is down, the run fails
+            # before saving state, so the alert is retried on the next run
+            # instead of being silently lost.
             notify(title, msg, click_url=booking_link(eid))
 
         for eid in gone_ids:
             # Filled up (or removed) - no notification, nothing to book.
-            print(f"FILLED (no alert): {describe(previous_current[eid])}")
+            try:
+                print(f"FILLED (no alert): {describe(previous_current[eid])}")
+            except Exception:
+                print(f"FILLED (no alert): {eid}")
 
         if not new_ids:
             print("No new listings or reopened spots.")
