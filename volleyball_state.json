@@ -11,17 +11,6 @@
       "venue": "Hunter's Point South Long Island City 12PM",
       "venue_slug": "hunters-point-south"
     },
-    "086e7dd0-e2d5-482c-920f-ffef87141c4f": {
-      "count": "15",
-      "date": "2026-10-17T19:30:00+00:00",
-      "end": "17:00",
-      "full_name": "Saturday 10/17 - Volleyball (6v6) - The Post BK - 100 Dobbin St Williamsburg 4:15PM",
-      "max": "16",
-      "start": "16:15",
-      "type": "Saturday - Volleyball - Williamsburg",
-      "venue": "100 Dobbin St Williamsburg",
-      "venue_slug": null
-    },
     "09ab83f3-62f5-4ab3-9069-bcc6213b28a1": {
       "count": "8",
       "date": "2026-10-18T19:00:00+00:00",
@@ -249,7 +238,7 @@
       "full_name": "Sunday 10/18 - Volleyball Pickup (All Levels) - Riverside Park South 3:00pm",
       "max": "16",
       "start": "15:00",
-      "type": null,
+      "type": "Volleyball Pickup - Coed",
       "venue": "Riverside Park South",
       "venue_slug": "riverside-park-south"
     },
