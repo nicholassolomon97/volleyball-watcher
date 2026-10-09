@@ -139,9 +139,9 @@
       "full_name": "Sunday 10/18 - Volleyball - Xavier High School Union Square 5:15PM",
       "max": "16",
       "start": "17:15",
-      "type": null,
+      "type": "Sunday - Volleyball - Union Square",
       "venue": "Xavier High School",
-      "venue_slug": null
+      "venue_slug": "xavier-high-school"
     },
     "949543f5-8050-4a62-8a02-90ced64769de": {
       "count": "10",
@@ -252,17 +252,6 @@
       "type": "Volleyball Pickup - 6v6 - Coed",
       "venue": "Pier 6",
       "venue_slug": "pier-6"
-    },
-    "e0c8425f-2d5f-40eb-8458-2da1b19b6c99": {
-      "count": "15",
-      "date": "2026-10-17T17:00:00+00:00",
-      "end": "14:00",
-      "full_name": "Saturday 10/17 - Volleyball - Kotofit - 88 Bishop Jersey City 1PM",
-      "max": "16",
-      "start": "13:00",
-      "type": "Saturday - Volleyball - Jersey City",
-      "venue": "Kotofit - 88 Bishop",
-      "venue_slug": "kotofit-88-bishop"
     },
     "eae4976f-7c4b-46e8-bb5a-a486b0916349": {
       "count": "7",
