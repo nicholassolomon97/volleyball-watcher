@@ -44,6 +44,17 @@
       "venue": "St. Patrick's Youth Center",
       "venue_slug": "st-patricks-youth-center"
     },
+    "3bd7227f-0a08-438d-a4e6-86967823d887": {
+      "count": "15",
+      "date": "2026-10-11T15:00:00+00:00",
+      "end": "12:00",
+      "full_name": "Sunday 10/11 - Volleyball Pickup (All Levels) - Baruch College 11:00am",
+      "max": "16",
+      "start": "11:00",
+      "type": "Volleyball Pickup - 6v6 - Coed",
+      "venue": "Baruch College",
+      "venue_slug": "baruch-college"
+    },
     "3ca88bee-17c7-471c-8ce4-8f1300ba5c33": {
       "count": "4",
       "date": "2026-10-14T22:15:00+00:00",
@@ -100,15 +111,15 @@
       "venue_slug": "pier-25"
     },
     "92de3dd1-863d-4243-bd99-2eeb38487e6b": {
-      "count": "13",
+      "count": null,
       "date": "2026-10-18T21:15:00+00:00",
-      "end": "19:00",
-      "full_name": "Sunday 10/18 - Volleyball - Xavier High School Union Square 5:15PM",
-      "max": "16",
-      "start": "17:15",
-      "type": "Sunday - Volleyball - Union Square",
-      "venue": "Xavier High School",
-      "venue_slug": "xavier-high-school"
+      "end": null,
+      "full_name": null,
+      "max": null,
+      "start": null,
+      "type": null,
+      "venue": null,
+      "venue_slug": null
     },
     "949543f5-8050-4a62-8a02-90ced64769de": {
       "count": "9",
@@ -273,6 +284,7 @@
     "11a3c971-c271-4f5a-a366-77c0cedc4dc4": "2026-10-18",
     "35e70e7b-e998-4c20-871e-2b982a6d984e": "2026-10-13",
     "38b10eda-dbc3-49c3-a7cc-a8b15e394d1a": "2026-10-08",
+    "3bd7227f-0a08-438d-a4e6-86967823d887": "2026-10-11",
     "3ca88bee-17c7-471c-8ce4-8f1300ba5c33": "2026-10-14",
     "555bd638-c766-43c0-aa31-7ea1719d39f2": "2026-10-18",
     "781de2df-873a-40eb-8e05-452afbab5e4d": "2026-10-10",
