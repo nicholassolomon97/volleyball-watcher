@@ -40,7 +40,7 @@
       "full_name": "Monday 10/19 - Volleyball Pickup (All Levels) - Pier 6 7:00pm",
       "max": "16",
       "start": "19:00",
-      "type": "Volleyball Pickup - 6v6 - Coed",
+      "type": null,
       "venue": "Pier 6",
       "venue_slug": "pier-6"
     },
@@ -98,6 +98,17 @@
       "type": null,
       "venue": "St. Patrick's Youth Center",
       "venue_slug": "st-patricks-youth-center"
+    },
+    "68c5c635-6584-48d8-a7ba-f6d2bb8a2666": {
+      "count": "15",
+      "date": "2026-10-10T16:00:00+00:00",
+      "end": "13:45",
+      "full_name": "Saturday 10/10 - Volleyball Pickup (All Levels) - The Door 12:00pm",
+      "max": "16",
+      "start": "12:00",
+      "type": "Volleyball Pickup - 6v6 - Coed",
+      "venue": "The Door",
+      "venue_slug": "the-door"
     },
     "89f1c2db-ceec-4b76-b733-6c5d99880541": {
       "count": "0",
