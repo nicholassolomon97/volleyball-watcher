@@ -29,8 +29,8 @@
       "full_name": "Sunday 10/18 - Volleyball (4v4) - John Jay High School Prospect Park 5PM",
       "max": "12",
       "start": "17:00",
-      "type": null,
-      "venue": "John Jay High School",
+      "type": "Sunday - Volleyball - Prospect Park",
+      "venue": "John Jay High School Prospect Park 5PM",
       "venue_slug": "john-jay-high-school"
     },
     "19601f68-5409-4191-b35e-088db3857ba4": {
@@ -45,24 +45,13 @@
       "venue_slug": "pier-6"
     },
     "35e70e7b-e998-4c20-871e-2b982a6d984e": {
-      "count": "7",
+      "count": "8",
       "date": "2026-10-13T22:15:00+00:00",
       "end": "19:00",
       "full_name": "Tuesday 10/13 - Volleyball (6v6) - St. Patrick's Youth Center Lower East Side 6:15PM",
       "max": "32",
       "start": "18:15",
       "type": "Tuesday - Volleyball - Lower East Side",
-      "venue": "St. Patrick's Youth Center Lower East Side",
-      "venue_slug": "st-patricks-youth-center"
-    },
-    "3762c456-7533-4ce6-8aa9-37c7f364be75": {
-      "count": "31",
-      "date": "2026-10-13T00:00:00+00:00",
-      "end": "21:00",
-      "full_name": "Monday 10/12 - Volleyball (6v6) - St. Patrick's Youth Center Lower East Side 8PM",
-      "max": "32",
-      "start": "20:00",
-      "type": "Monday - Volleyball - Lower East Side",
       "venue": "St. Patrick's Youth Center",
       "venue_slug": "st-patricks-youth-center"
     },
