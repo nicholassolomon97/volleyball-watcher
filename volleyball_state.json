@@ -1,16 +1,5 @@
 {
   "current": {
-    "02bcbd0e-a778-4bf8-8ea3-ff9eed72adb7": {
-      "count": "1",
-      "date": "2026-10-09T00:30:00+00:00",
-      "end": "22:00",
-      "full_name": "Thursday 10/8 - Volleyball Pickup (All Levels) - Liberty Harbor Courts @ Surf City 8:30pm",
-      "max": "16",
-      "start": "20:30",
-      "type": "Volleyball Pickup - 6v6 - Coed",
-      "venue": "Liberty Harbor Courts @ Surf City",
-      "venue_slug": "liberty-harbor-courts-surf-city"
-    },
     "07ba8438-8449-4cfd-8d5c-9b4c262cf49c": {
       "count": "2",
       "date": "2026-10-17T16:00:00+00:00",
@@ -111,15 +100,15 @@
       "venue_slug": "pier-25"
     },
     "92de3dd1-863d-4243-bd99-2eeb38487e6b": {
-      "count": null,
+      "count": "11",
       "date": "2026-10-18T21:15:00+00:00",
-      "end": null,
-      "full_name": null,
-      "max": null,
-      "start": null,
-      "type": null,
-      "venue": null,
-      "venue_slug": null
+      "end": "19:00",
+      "full_name": "Sunday 10/18 - Volleyball - Xavier High School Union Square 5:15PM",
+      "max": "16",
+      "start": "17:15",
+      "type": "Sunday - Volleyball - Union Square",
+      "venue": "Xavier High School",
+      "venue_slug": "xavier-high-school"
     },
     "949543f5-8050-4a62-8a02-90ced64769de": {
       "count": "9",
