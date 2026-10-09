@@ -66,17 +66,6 @@
       "venue": "Riverside North Beach Volleyball Upper West Side",
       "venue_slug": "riverside-north-beach-volleyball"
     },
-    "781de2df-873a-40eb-8e05-452afbab5e4d": {
-      "count": "15",
-      "date": "2026-10-10T18:00:00+00:00",
-      "end": "16:00",
-      "full_name": "Saturday 10/10 - Volleyball (6v6) - Hunter's Point South Long Island City 2PM",
-      "max": "16",
-      "start": "14:00",
-      "type": "Saturday - Volleyball - Long Island City",
-      "venue": "Hunter's Point South",
-      "venue_slug": "hunters-point-south"
-    },
     "89f1c2db-ceec-4b76-b733-6c5d99880541": {
       "count": "0",
       "date": "2026-10-18T16:00:00+00:00",
@@ -111,15 +100,15 @@
       "venue_slug": "pier-25"
     },
     "92de3dd1-863d-4243-bd99-2eeb38487e6b": {
-      "count": null,
+      "count": "12",
       "date": "2026-10-18T21:15:00+00:00",
-      "end": null,
-      "full_name": null,
-      "max": null,
-      "start": null,
-      "type": null,
-      "venue": null,
-      "venue_slug": null
+      "end": "19:00",
+      "full_name": "Sunday 10/18 - Volleyball - Xavier High School Union Square 5:15PM",
+      "max": "16",
+      "start": "17:15",
+      "type": "Sunday - Volleyball - Union Square",
+      "venue": "Xavier High School",
+      "venue_slug": "xavier-high-school"
     },
     "949543f5-8050-4a62-8a02-90ced64769de": {
       "count": "9",
