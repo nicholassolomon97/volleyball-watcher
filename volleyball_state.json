@@ -29,8 +29,8 @@
       "full_name": "Sunday 10/18 - Volleyball - St. Patrick's Youth Center Lower East Side 3PM",
       "max": "16",
       "start": "15:00",
-      "type": null,
-      "venue": "St. Patrick's Youth Center",
+      "type": "Sunday - Volleyball - Lower East Side",
+      "venue": "St. Patrick's Youth Center Lower East Side 3PM",
       "venue_slug": "st-patricks-youth-center"
     },
     "11a3c971-c271-4f5a-a366-77c0cedc4dc4": {
@@ -76,17 +76,6 @@
       "type": "Monday - Volleyball - Lower East Side",
       "venue": "St. Patrick's Youth Center",
       "venue_slug": "st-patricks-youth-center"
-    },
-    "3bd7227f-0a08-438d-a4e6-86967823d887": {
-      "count": "15",
-      "date": "2026-10-11T15:00:00+00:00",
-      "end": "12:00",
-      "full_name": "Sunday 10/11 - Volleyball Pickup (All Levels) - Baruch College 11:00am",
-      "max": "16",
-      "start": "11:00",
-      "type": "Volleyball Pickup - 6v6 - Coed",
-      "venue": "Baruch College",
-      "venue_slug": "baruch-college"
     },
     "3ca88bee-17c7-471c-8ce4-8f1300ba5c33": {
       "count": "4",
