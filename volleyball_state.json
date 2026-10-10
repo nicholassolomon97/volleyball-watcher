@@ -88,17 +88,6 @@
       "venue": "Riverside North Beach Volleyball Upper West Side",
       "venue_slug": "riverside-north-beach-volleyball"
     },
-    "5f1d9b48-fe86-47c0-8755-feb8ff5d2ff7": {
-      "count": "4",
-      "date": "2026-10-10T19:30:00+00:00",
-      "end": "17:00",
-      "full_name": "Saturday 10/10 - Volleyball (6v6) - The Post BK - 100 Dobbin St Williamsburg 4:15PM",
-      "max": "16",
-      "start": "16:15",
-      "type": "Saturday - Volleyball - Williamsburg",
-      "venue": "The Post BK - 100 Dobbin St",
-      "venue_slug": "the-post-bk-100-dobbin-st"
-    },
     "5f9c7dce-2976-48bc-bcc5-a22893b2f278": {
       "count": "7",
       "date": "2026-10-20T00:00:00+00:00",
@@ -260,7 +249,7 @@
       "full_name": "Tuesday 10/20 - Volleyball Pickup (All Levels) - St. Patrick's Youth Center 6:15pm",
       "max": "16",
       "start": "18:15",
-      "type": null,
+      "type": "Volleyball Pickup - 6v6 - Coed",
       "venue": "St. Patrick's Youth Center",
       "venue_slug": "st-patricks-youth-center"
     },
