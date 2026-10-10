@@ -260,7 +260,7 @@
       "full_name": "Sunday 10/18 - Volleyball Pickup (All Levels) - Riverside Park South 3:00pm",
       "max": "16",
       "start": "15:00",
-      "type": null,
+      "type": "Volleyball Pickup - Coed",
       "venue": "Riverside Park South",
       "venue_slug": "riverside-park-south"
     },
@@ -296,17 +296,6 @@
       "type": null,
       "venue": "Xavier High School",
       "venue_slug": "xavier-high-school"
-    },
-    "df0e2ecb-cf78-45f7-a6ae-aa4016e7a20b": {
-      "count": "15",
-      "date": "2026-10-10T18:00:00+00:00",
-      "end": "16:00",
-      "full_name": "Saturday 10/10 - Volleyball Pickup (All Levels) - Pier 6 2:00pm",
-      "max": "16",
-      "start": "14:00",
-      "type": "Volleyball Pickup - 6v6 - Coed",
-      "venue": "Pier 6",
-      "venue_slug": "pier-6"
     },
     "e2a1e723-9b97-4e1c-86b2-0d907b8c9bad": {
       "count": "1",
