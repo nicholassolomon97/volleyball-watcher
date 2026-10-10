@@ -133,7 +133,7 @@
       "venue_slug": "st-patricks-youth-center"
     },
     "64ebc119-eac8-44fb-9cae-cb7668a3861f": {
-      "count": "10",
+      "count": "13",
       "date": "2026-10-20T22:00:00+00:00",
       "end": "19:00",
       "full_name": "Tuesday 10/20 - Volleyball Pickup (All Levels) - The Post BK - 100 Dobbin St 6:00pm",
@@ -153,17 +153,6 @@
       "type": "Volleyball Pickup - 6v6 - Coed",
       "venue": "The Door",
       "venue_slug": "the-door"
-    },
-    "847c0081-7ade-449b-9fb9-3564072c5079": {
-      "count": "14",
-      "date": "2026-10-21T01:15:00+00:00",
-      "end": "23:00",
-      "full_name": "Tuesday 10/20 - Volleyball Pickup (All Levels) - The Post BK - 100 Dobbin St 9:15pm",
-      "max": "16",
-      "start": "21:15",
-      "type": null,
-      "venue": "The Post BK - 100 Dobbin St",
-      "venue_slug": "the-post-bk-100-dobbin-st"
     },
     "89f1c2db-ceec-4b76-b733-6c5d99880541": {
       "count": "0",
@@ -297,6 +286,17 @@
       "venue": "Riverside Park South",
       "venue_slug": "riverside-park-south"
     },
+    "cf6a2b7f-bd98-4a4c-9798-45c1dfa3e77c": {
+      "count": "1",
+      "date": "2026-10-20T22:15:00+00:00",
+      "end": "19:00",
+      "full_name": "Tuesday 10/20 - Volleyball (6v6) - St. Patrick's Youth Center Lower East Side 6:15PM",
+      "max": "32",
+      "start": "18:15",
+      "type": null,
+      "venue": "St. Patrick's Youth Center",
+      "venue_slug": "st-patricks-youth-center"
+    },
     "d31b9839-3aa0-4159-b62d-763a71fdff87": {
       "count": "3",
       "date": "2026-10-11T21:00:00+00:00",
@@ -421,6 +421,7 @@
     "b252e67c-15e6-4d2b-abab-86c41f181199": "2026-10-10",
     "b99c13eb-f17e-4d8c-bebf-e74c837ba5ee": "2026-10-13",
     "c89312a9-0388-46a4-8a2d-8d700e7cac15": "2026-10-18",
+    "cf6a2b7f-bd98-4a4c-9798-45c1dfa3e77c": "2026-10-20",
     "d31b9839-3aa0-4159-b62d-763a71fdff87": "2026-10-11",
     "d6390d52-3017-4c2f-a4af-6d1acd026b7f": "2026-10-20",
     "df0e2ecb-cf78-45f7-a6ae-aa4016e7a20b": "2026-10-10",
