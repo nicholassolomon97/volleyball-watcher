@@ -154,17 +154,6 @@
       "venue": "St. Patrick's Youth Center",
       "venue_slug": "st-patricks-youth-center"
     },
-    "64ebc119-eac8-44fb-9cae-cb7668a3861f": {
-      "count": "14",
-      "date": "2026-10-20T22:00:00+00:00",
-      "end": "19:00",
-      "full_name": "Tuesday 10/20 - Volleyball Pickup (All Levels) - The Post BK - 100 Dobbin St 6:00pm",
-      "max": "16",
-      "start": "18:00",
-      "type": null,
-      "venue": "The Post BK - 100 Dobbin St",
-      "venue_slug": "the-post-bk-100-dobbin-st"
-    },
     "68c5c635-6584-48d8-a7ba-f6d2bb8a2666": {
       "count": "15",
       "date": "2026-10-10T16:00:00+00:00",
@@ -304,7 +293,7 @@
       "full_name": "Sunday 10/18 - Volleyball Pickup (All Levels) - Riverside Park South 3:00pm",
       "max": "16",
       "start": "15:00",
-      "type": "Volleyball Pickup - Coed",
+      "type": null,
       "venue": "Riverside Park South",
       "venue_slug": "riverside-park-south"
     },
