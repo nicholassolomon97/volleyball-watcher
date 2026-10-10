@@ -18,8 +18,8 @@
       "full_name": "Sunday 10/18 - Volleyball - St. Patrick's Youth Center Lower East Side 3PM",
       "max": "16",
       "start": "15:00",
-      "type": "Sunday - Volleyball - Lower East Side",
-      "venue": "St. Patrick's Youth Center Lower East Side 3PM",
+      "type": null,
+      "venue": "St. Patrick's Youth Center",
       "venue_slug": "st-patricks-youth-center"
     },
     "0bdb3544-1136-4a1d-be12-3e14f9238ae6": {
@@ -77,6 +77,28 @@
       "venue": "St. Patrick's Youth Center Lower East Side",
       "venue_slug": "st-patricks-youth-center"
     },
+    "43189458-1663-4ca9-9c11-c13611642e01": {
+      "count": "15",
+      "date": "2026-10-15T22:00:00+00:00",
+      "end": "19:00",
+      "full_name": "Thursday 10/15 - Volleyball Pickup (All Levels) - La Salle Academy 6:00pm",
+      "max": "16",
+      "start": "18:00",
+      "type": "Volleyball Pickup - 6v6 - Coed",
+      "venue": "La Salle Academy",
+      "venue_slug": "la-salle-academy"
+    },
+    "52a0c9ba-3e36-4379-8363-af995a33b2fe": {
+      "count": "0",
+      "date": "2026-10-21T00:30:00+00:00",
+      "end": "22:00",
+      "full_name": "Tuesday 10/20 - Volleyball Pickup (All Levels) - Liberty Harbor Courts @ Surf City 8:30pm",
+      "max": "16",
+      "start": "20:30",
+      "type": null,
+      "venue": "Liberty Harbor Courts @ Surf City",
+      "venue_slug": "liberty-harbor-courts-surf-city"
+    },
     "555bd638-c766-43c0-aa31-7ea1719d39f2": {
       "count": "0",
       "date": "2026-10-18T18:15:00+00:00",
@@ -110,6 +132,17 @@
       "venue": "St. Patrick's Youth Center",
       "venue_slug": "st-patricks-youth-center"
     },
+    "64ebc119-eac8-44fb-9cae-cb7668a3861f": {
+      "count": "2",
+      "date": "2026-10-20T22:00:00+00:00",
+      "end": "19:00",
+      "full_name": "Tuesday 10/20 - Volleyball Pickup (All Levels) - The Post BK - 100 Dobbin St 6:00pm",
+      "max": "16",
+      "start": "18:00",
+      "type": null,
+      "venue": "The Post BK - 100 Dobbin St",
+      "venue_slug": "the-post-bk-100-dobbin-st"
+    },
     "68c5c635-6584-48d8-a7ba-f6d2bb8a2666": {
       "count": "15",
       "date": "2026-10-10T16:00:00+00:00",
@@ -120,6 +153,17 @@
       "type": "Volleyball Pickup - 6v6 - Coed",
       "venue": "The Door",
       "venue_slug": "the-door"
+    },
+    "847c0081-7ade-449b-9fb9-3564072c5079": {
+      "count": "2",
+      "date": "2026-10-21T01:15:00+00:00",
+      "end": "23:00",
+      "full_name": "Tuesday 10/20 - Volleyball Pickup (All Levels) - The Post BK - 100 Dobbin St 9:15pm",
+      "max": "16",
+      "start": "21:15",
+      "type": null,
+      "venue": "The Post BK - 100 Dobbin St",
+      "venue_slug": "the-post-bk-100-dobbin-st"
     },
     "89f1c2db-ceec-4b76-b733-6c5d99880541": {
       "count": "0",
@@ -231,6 +275,17 @@
       "venue": "Pier 6",
       "venue_slug": "pier-6"
     },
+    "b99c13eb-f17e-4d8c-bebf-e74c837ba5ee": {
+      "count": "15",
+      "date": "2026-10-13T22:30:00+00:00",
+      "end": "19:15",
+      "full_name": "Tuesday 10/13 - Volleyball Pickup (All Levels) - Xavier High School 6:30pm",
+      "max": "16",
+      "start": "18:30",
+      "type": "Volleyball Pickup - 6v6 - Coed",
+      "venue": "Xavier High School",
+      "venue_slug": "xavier-high-school"
+    },
     "c89312a9-0388-46a4-8a2d-8d700e7cac15": {
       "count": "0",
       "date": "2026-10-18T19:00:00+00:00",
@@ -252,6 +307,28 @@
       "type": "Sunday - Volleyball - Prospect Park",
       "venue": "John Jay High School",
       "venue_slug": "john-jay-high-school"
+    },
+    "d6390d52-3017-4c2f-a4af-6d1acd026b7f": {
+      "count": "0",
+      "date": "2026-10-20T22:30:00+00:00",
+      "end": "19:15",
+      "full_name": "Tuesday 10/20 - Volleyball Pickup (All Levels) - Xavier High School 6:30pm",
+      "max": "16",
+      "start": "18:30",
+      "type": null,
+      "venue": "Xavier High School",
+      "venue_slug": "xavier-high-school"
+    },
+    "e2a1e723-9b97-4e1c-86b2-0d907b8c9bad": {
+      "count": "0",
+      "date": "2026-10-20T22:15:00+00:00",
+      "end": "19:00",
+      "full_name": "Tuesday 10/20 - Volleyball Pickup (All Levels) - St. Patrick's Youth Center 6:15pm",
+      "max": "16",
+      "start": "18:15",
+      "type": null,
+      "venue": "St. Patrick's Youth Center",
+      "venue_slug": "st-patricks-youth-center"
     },
     "eae4976f-7c4b-46e8-bb5a-a486b0916349": {
       "count": "6",
@@ -286,6 +363,17 @@
       "venue": "Pier 6",
       "venue_slug": "pier-6"
     },
+    "f7aaceaf-af35-4574-bd11-0587975aa874": {
+      "count": "0",
+      "date": "2026-10-20T23:00:00+00:00",
+      "end": "20:30",
+      "full_name": "Tuesday 10/20 - Volleyball Pickup (All Levels) - Liberty Harbor Courts @ Surf City 7:00pm",
+      "max": "16",
+      "start": "19:00",
+      "type": null,
+      "venue": "Liberty Harbor Courts @ Surf City",
+      "venue_slug": "liberty-harbor-courts-surf-city"
+    },
     "fa9c6c07-227b-4fdc-b455-11c78c89e830": {
       "count": "0",
       "date": "2026-10-13T23:00:00+00:00",
@@ -310,12 +398,16 @@
     "3762c456-7533-4ce6-8aa9-37c7f364be75": "2026-10-12",
     "3bd7227f-0a08-438d-a4e6-86967823d887": "2026-10-11",
     "3ca88bee-17c7-471c-8ce4-8f1300ba5c33": "2026-10-14",
+    "43189458-1663-4ca9-9c11-c13611642e01": "2026-10-15",
+    "52a0c9ba-3e36-4379-8363-af995a33b2fe": "2026-10-20",
     "555bd638-c766-43c0-aa31-7ea1719d39f2": "2026-10-18",
     "5f1d9b48-fe86-47c0-8755-feb8ff5d2ff7": "2026-10-10",
     "5f9c7dce-2976-48bc-bcc5-a22893b2f278": "2026-10-19",
+    "64ebc119-eac8-44fb-9cae-cb7668a3861f": "2026-10-20",
     "68c5c635-6584-48d8-a7ba-f6d2bb8a2666": "2026-10-10",
     "73cd21ad-175a-4b62-9e48-5ce5a4011475": "2026-10-11",
     "781de2df-873a-40eb-8e05-452afbab5e4d": "2026-10-10",
+    "847c0081-7ade-449b-9fb9-3564072c5079": "2026-10-20",
     "89f1c2db-ceec-4b76-b733-6c5d99880541": "2026-10-18",
     "8a84dafb-e958-46ad-a189-9f9441aeba5e": "2026-10-17",
     "8f4ef742-64a4-4a08-9099-a0f835ec2a49": "2026-10-14",
@@ -327,13 +419,17 @@
     "a76bffde-788e-44c7-8212-eb3120e29317": "2026-10-17",
     "b13781d7-ae79-4f21-9750-dc607db44978": "2026-10-11",
     "b252e67c-15e6-4d2b-abab-86c41f181199": "2026-10-10",
+    "b99c13eb-f17e-4d8c-bebf-e74c837ba5ee": "2026-10-13",
     "c89312a9-0388-46a4-8a2d-8d700e7cac15": "2026-10-18",
     "d31b9839-3aa0-4159-b62d-763a71fdff87": "2026-10-11",
+    "d6390d52-3017-4c2f-a4af-6d1acd026b7f": "2026-10-20",
     "df0e2ecb-cf78-45f7-a6ae-aa4016e7a20b": "2026-10-10",
     "e0c8425f-2d5f-40eb-8458-2da1b19b6c99": "2026-10-17",
+    "e2a1e723-9b97-4e1c-86b2-0d907b8c9bad": "2026-10-20",
     "eae4976f-7c4b-46e8-bb5a-a486b0916349": "2026-10-11",
     "eeda8f18-fa51-49ea-b540-c4dab5d22c0d": "2026-10-15",
     "f64016ef-cb12-41c1-9c1c-28d08edb737e": "2026-10-17",
+    "f7aaceaf-af35-4574-bd11-0587975aa874": "2026-10-20",
     "fa9c6c07-227b-4fdc-b455-11c78c89e830": "2026-10-13"
   }
 }
