@@ -154,17 +154,6 @@
       "venue": "Pier 25",
       "venue_slug": "pier-25"
     },
-    "92de3dd1-863d-4243-bd99-2eeb38487e6b": {
-      "count": "15",
-      "date": "2026-10-18T21:15:00+00:00",
-      "end": "19:00",
-      "full_name": "Sunday 10/18 - Volleyball - Xavier High School Union Square 5:15PM",
-      "max": "16",
-      "start": "17:15",
-      "type": null,
-      "venue": "Xavier High School",
-      "venue_slug": null
-    },
     "949543f5-8050-4a62-8a02-90ced64769de": {
       "count": "10",
       "date": "2026-10-17T16:00:00+00:00",
