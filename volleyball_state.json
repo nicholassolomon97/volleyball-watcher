@@ -18,20 +18,9 @@
       "full_name": "Sunday 10/18 - Volleyball - St. Patrick's Youth Center Lower East Side 3PM",
       "max": "16",
       "start": "15:00",
-      "type": null,
-      "venue": "St. Patrick's Youth Center",
+      "type": "Sunday - Volleyball - Lower East Side",
+      "venue": "St. Patrick's Youth Center Lower East Side 3PM",
       "venue_slug": "st-patricks-youth-center"
-    },
-    "1111e5dc-97e5-4db0-befe-edca342fea29": {
-      "count": "15",
-      "date": "2026-10-10T16:00:00+00:00",
-      "end": "14:00",
-      "full_name": "Saturday 10/10 - Volleyball (6v6) - Hunter's Point South Long Island City 12PM",
-      "max": "16",
-      "start": "12:00",
-      "type": "Saturday - Volleyball - Long Island City",
-      "venue": "Hunter's Point South",
-      "venue_slug": "hunters-point-south"
     },
     "11a3c971-c271-4f5a-a366-77c0cedc4dc4": {
       "count": "0",
