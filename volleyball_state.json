@@ -33,17 +33,6 @@
       "venue": "St. Patrick's Youth Center",
       "venue_slug": "st-patricks-youth-center"
     },
-    "0bdb3544-1136-4a1d-be12-3e14f9238ae6": {
-      "count": "15",
-      "date": "2026-10-11T19:00:00+00:00",
-      "end": "16:00",
-      "full_name": "Sunday 10/11 - Volleyball - St. Patrick's Youth Center Lower East Side 3PM",
-      "max": "16",
-      "start": "15:00",
-      "type": "Sunday - Volleyball - Lower East Side",
-      "venue": "St. Patrick's Youth Center",
-      "venue_slug": "st-patricks-youth-center"
-    },
     "1111e5dc-97e5-4db0-befe-edca342fea29": {
       "count": "15",
       "date": "2026-10-10T16:00:00+00:00",
@@ -85,7 +74,7 @@
       "max": "32",
       "start": "18:15",
       "type": "Tuesday - Volleyball - Lower East Side",
-      "venue": "St. Patrick's Youth Center Lower East Side",
+      "venue": "St. Patrick's Youth Center",
       "venue_slug": "st-patricks-youth-center"
     },
     "3ca88bee-17c7-471c-8ce4-8f1300ba5c33": {
