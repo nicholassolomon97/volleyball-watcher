@@ -139,9 +139,9 @@
       "full_name": "Sunday 10/18 - Volleyball - Xavier High School Union Square 5:15PM",
       "max": "16",
       "start": "17:15",
-      "type": null,
+      "type": "Sunday - Volleyball - Union Square",
       "venue": "Xavier High School",
-      "venue_slug": null
+      "venue_slug": "xavier-high-school"
     },
     "949543f5-8050-4a62-8a02-90ced64769de": {
       "count": "10",
@@ -241,17 +241,6 @@
       "type": "Sunday - Volleyball - Prospect Park",
       "venue": "John Jay High School",
       "venue_slug": "john-jay-high-school"
-    },
-    "df0e2ecb-cf78-45f7-a6ae-aa4016e7a20b": {
-      "count": "15",
-      "date": "2026-10-10T18:00:00+00:00",
-      "end": "16:00",
-      "full_name": "Saturday 10/10 - Volleyball Pickup (All Levels) - Pier 6 2:00pm",
-      "max": "16",
-      "start": "14:00",
-      "type": "Volleyball Pickup - 6v6 - Coed",
-      "venue": "Pier 6",
-      "venue_slug": "pier-6"
     },
     "eae4976f-7c4b-46e8-bb5a-a486b0916349": {
       "count": "7",
