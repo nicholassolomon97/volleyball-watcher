@@ -66,17 +66,6 @@
       "venue": "St. Patrick's Youth Center Lower East Side",
       "venue_slug": "st-patricks-youth-center"
     },
-    "43189458-1663-4ca9-9c11-c13611642e01": {
-      "count": "15",
-      "date": "2026-10-15T22:00:00+00:00",
-      "end": "19:00",
-      "full_name": "Thursday 10/15 - Volleyball Pickup (All Levels) - La Salle Academy 6:00pm",
-      "max": "16",
-      "start": "18:00",
-      "type": "Volleyball Pickup - 6v6 - Coed",
-      "venue": "La Salle Academy",
-      "venue_slug": "la-salle-academy"
-    },
     "52a0c9ba-3e36-4379-8363-af995a33b2fe": {
       "count": "0",
       "date": "2026-10-21T00:30:00+00:00",
@@ -117,8 +106,8 @@
       "full_name": "Monday 10/19 - Volleyball (6v6) - St. Patrick's Youth Center Lower East Side 8PM",
       "max": "32",
       "start": "20:00",
-      "type": null,
-      "venue": "St. Patrick's Youth Center",
+      "type": "Monday - Volleyball - Lower East Side",
+      "venue": "St. Patrick's Youth Center Lower East Side 8PM",
       "venue_slug": "st-patricks-youth-center"
     },
     "89f1c2db-ceec-4b76-b733-6c5d99880541": {
