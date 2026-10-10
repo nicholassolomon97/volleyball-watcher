@@ -29,8 +29,8 @@
       "full_name": "Sunday 10/18 - Volleyball (4v4) - John Jay High School Prospect Park 5PM",
       "max": "12",
       "start": "17:00",
-      "type": "Sunday - Volleyball - Prospect Park",
-      "venue": "John Jay High School Prospect Park 5PM",
+      "type": null,
+      "venue": "John Jay High School",
       "venue_slug": "john-jay-high-school"
     },
     "19601f68-5409-4191-b35e-088db3857ba4": {
@@ -131,6 +131,17 @@
       "type": "Volleyball Pickup - 6v6 - Coed",
       "venue": "The Door",
       "venue_slug": "the-door"
+    },
+    "781de2df-873a-40eb-8e05-452afbab5e4d": {
+      "count": "15",
+      "date": "2026-10-10T18:00:00+00:00",
+      "end": "16:00",
+      "full_name": "Saturday 10/10 - Volleyball (6v6) - Hunter's Point South Long Island City 2PM",
+      "max": "16",
+      "start": "14:00",
+      "type": "Saturday - Volleyball - Long Island City",
+      "venue": "Hunter's Point South",
+      "venue_slug": "hunters-point-south"
     },
     "89f1c2db-ceec-4b76-b733-6c5d99880541": {
       "count": "0",
