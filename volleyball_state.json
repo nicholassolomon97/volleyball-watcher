@@ -29,8 +29,8 @@
       "full_name": "Sunday 10/18 - Volleyball (4v4) - John Jay High School Prospect Park 5PM",
       "max": "12",
       "start": "17:00",
-      "type": null,
-      "venue": "John Jay High School",
+      "type": "Sunday - Volleyball - Prospect Park",
+      "venue": "John Jay High School Prospect Park 5PM",
       "venue_slug": "john-jay-high-school"
     },
     "19601f68-5409-4191-b35e-088db3857ba4": {
@@ -120,17 +120,6 @@
       "type": null,
       "venue": "St. Patrick's Youth Center",
       "venue_slug": "st-patricks-youth-center"
-    },
-    "68c5c635-6584-48d8-a7ba-f6d2bb8a2666": {
-      "count": "13",
-      "date": "2026-10-10T16:00:00+00:00",
-      "end": "13:45",
-      "full_name": "Saturday 10/10 - Volleyball Pickup (All Levels) - The Door 12:00pm",
-      "max": "16",
-      "start": "12:00",
-      "type": "Volleyball Pickup - 6v6 - Coed",
-      "venue": "The Door",
-      "venue_slug": "the-door"
     },
     "781de2df-873a-40eb-8e05-452afbab5e4d": {
       "count": "14",
