@@ -99,6 +99,17 @@
       "venue": "Riverside North Beach Volleyball Upper West Side",
       "venue_slug": "riverside-north-beach-volleyball"
     },
+    "5a83e5c4-6b6b-4a46-942f-8616f518bfbf": {
+      "count": "15",
+      "date": "2026-10-15T22:00:00+00:00",
+      "end": "19:00",
+      "full_name": "Thursday 10/15 - Volleyball Pickup (All Levels) - The Post BK - 100 Dobbin St 6:00pm",
+      "max": "16",
+      "start": "18:00",
+      "type": "Volleyball Pickup - 6v6 - Coed",
+      "venue": "The Post BK - 100 Dobbin St",
+      "venue_slug": "the-post-bk-100-dobbin-st"
+    },
     "5f9c7dce-2976-48bc-bcc5-a22893b2f278": {
       "count": "8",
       "date": "2026-10-20T00:00:00+00:00",
@@ -249,7 +260,7 @@
       "full_name": "Tuesday 10/20 - Volleyball Pickup (All Levels) - St. Patrick's Youth Center 6:15pm",
       "max": "16",
       "start": "18:15",
-      "type": "Volleyball Pickup - 6v6 - Coed",
+      "type": null,
       "venue": "St. Patrick's Youth Center",
       "venue_slug": "st-patricks-youth-center"
     },
@@ -313,6 +324,7 @@
     "43189458-1663-4ca9-9c11-c13611642e01": "2026-10-15",
     "52a0c9ba-3e36-4379-8363-af995a33b2fe": "2026-10-20",
     "555bd638-c766-43c0-aa31-7ea1719d39f2": "2026-10-18",
+    "5a83e5c4-6b6b-4a46-942f-8616f518bfbf": "2026-10-15",
     "5f1d9b48-fe86-47c0-8755-feb8ff5d2ff7": "2026-10-10",
     "5f9c7dce-2976-48bc-bcc5-a22893b2f278": "2026-10-19",
     "64ebc119-eac8-44fb-9cae-cb7668a3861f": "2026-10-20",
