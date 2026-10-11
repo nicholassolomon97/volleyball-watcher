@@ -129,7 +129,7 @@
       "max": "16",
       "start": "14:15",
       "type": "Sunday - Volleyball - Upper West Side",
-      "venue": "Riverside North Beach Volleyball Upper West Side",
+      "venue": "Riverside North Beach Volleyball",
       "venue_slug": "riverside-north-beach-volleyball"
     },
     "5f9c7dce-2976-48bc-bcc5-a22893b2f278": {
@@ -209,17 +209,6 @@
       "venue": "Liberty Harbor Courts @ Surf City",
       "venue_slug": "liberty-harbor-courts-surf-city"
     },
-    "9986d859-a347-42fc-8f97-9c6fffbfe14c": {
-      "count": "0",
-      "date": "2026-10-11T18:15:00+00:00",
-      "end": "16:00",
-      "full_name": "Sunday 10/11 - Volleyball - Riverside North Beach Volleyball Upper West Side 2:15PM",
-      "max": "16",
-      "start": "14:15",
-      "type": "Sunday - Volleyball - Upper West Side",
-      "venue": "Riverside North Beach Volleyball",
-      "venue_slug": "riverside-north-beach-volleyball"
-    },
     "a6036208-0f45-40f0-8938-ce57776dd635": {
       "count": "2",
       "date": "2026-10-12T23:00:00+00:00",
@@ -241,17 +230,6 @@
       "type": "Saturday - Volleyball - Long Island City",
       "venue": "Hunter's Point South Long Island City 2PM",
       "venue_slug": "hunters-point-south"
-    },
-    "b13781d7-ae79-4f21-9750-dc607db44978": {
-      "count": "2",
-      "date": "2026-10-11T19:00:00+00:00",
-      "end": "16:00",
-      "full_name": "Sunday 10/11 - Volleyball Pickup (All Levels) - Riverside Park South 3:00pm",
-      "max": "16",
-      "start": "15:00",
-      "type": "Volleyball Pickup - Coed",
-      "venue": "Riverside Park South",
-      "venue_slug": "riverside-park-south"
     },
     "c89312a9-0388-46a4-8a2d-8d700e7cac15": {
       "count": "0",
@@ -282,7 +260,7 @@
       "full_name": "Tuesday 10/20 - Volleyball Pickup (All Levels) - Xavier High School 6:30pm",
       "max": "16",
       "start": "18:30",
-      "type": null,
+      "type": "Volleyball Pickup - 6v6 - Coed",
       "venue": "Xavier High School",
       "venue_slug": "xavier-high-school"
     },
@@ -326,7 +304,7 @@
       "full_name": "Tuesday 10/20 - Volleyball Pickup (All Levels) - Liberty Harbor Courts @ Surf City 7:00pm",
       "max": "16",
       "start": "19:00",
-      "type": null,
+      "type": "Volleyball Pickup - 6v6 - Coed",
       "venue": "Liberty Harbor Courts @ Surf City",
       "venue_slug": "liberty-harbor-courts-surf-city"
     },
