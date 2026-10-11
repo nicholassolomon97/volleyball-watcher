@@ -8,7 +8,7 @@
       "max": "16",
       "start": "12:00",
       "type": "Saturday - Volleyball - Long Island City",
-      "venue": "Hunter's Point South Long Island City 12PM",
+      "venue": "Hunter's Point South",
       "venue_slug": "hunters-point-south"
     },
     "09ab83f3-62f5-4ab3-9069-bcc6213b28a1": {
@@ -304,20 +304,9 @@
       "full_name": "Tuesday 10/20 - Volleyball Pickup (All Levels) - St. Patrick's Youth Center 6:15pm",
       "max": "16",
       "start": "18:15",
-      "type": null,
+      "type": "Volleyball Pickup - 6v6 - Coed",
       "venue": "St. Patrick's Youth Center",
       "venue_slug": "st-patricks-youth-center"
-    },
-    "eae4976f-7c4b-46e8-bb5a-a486b0916349": {
-      "count": "1",
-      "date": "2026-10-11T16:00:00+00:00",
-      "end": "13:00",
-      "full_name": "Sunday 10/11 - Volleyball Pickup (All Levels) - Hunter's Point South 12:00pm",
-      "max": "16",
-      "start": "12:00",
-      "type": "Volleyball Pickup - 6v6 - Coed",
-      "venue": "Hunter's Point South",
-      "venue_slug": "hunters-point-south"
     },
     "f64016ef-cb12-41c1-9c1c-28d08edb737e": {
       "count": "11",
