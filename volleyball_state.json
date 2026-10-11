@@ -176,17 +176,6 @@
       "venue": "Pier 25",
       "venue_slug": "pier-25"
     },
-    "949543f5-8050-4a62-8a02-90ced64769de": {
-      "count": "15",
-      "date": "2026-10-17T16:00:00+00:00",
-      "end": "13:45",
-      "full_name": "Saturday 10/17 - Volleyball Pickup (All Levels) - The Door 12:00pm",
-      "max": "16",
-      "start": "12:00",
-      "type": "Volleyball Pickup - 6v6 - Coed",
-      "venue": "The Door",
-      "venue_slug": "the-door"
-    },
     "96d459aa-23ae-424d-b047-3ca07c3c8a29": {
       "count": "0",
       "date": "2026-10-14T00:30:00+00:00",
@@ -271,9 +260,9 @@
       "full_name": "Tuesday 10/20 - Volleyball Pickup (All Levels) - Xavier High School 6:30pm",
       "max": "16",
       "start": "18:30",
-      "type": null,
+      "type": "Volleyball Pickup - 6v6 - Coed",
       "venue": "Xavier High School",
-      "venue_slug": null
+      "venue_slug": "xavier-high-school"
     },
     "e24042ec-6f18-45cc-9472-de56f3378baa": {
       "count": "0",
