@@ -143,6 +143,17 @@
       "venue": "Kotofit - 88 Bishop",
       "venue_slug": null
     },
+    "73cd21ad-175a-4b62-9e48-5ce5a4011475": {
+      "count": "15",
+      "date": "2026-10-11T21:15:00+00:00",
+      "end": "19:00",
+      "full_name": "Sunday 10/11 - Volleyball - Xavier High School Union Square 5:15PM",
+      "max": "16",
+      "start": "17:15",
+      "type": "Sunday - Volleyball - Union Square",
+      "venue": "Xavier High School",
+      "venue_slug": "xavier-high-school"
+    },
     "89f1c2db-ceec-4b76-b733-6c5d99880541": {
       "count": "0",
       "date": "2026-10-18T16:00:00+00:00",
@@ -260,7 +271,7 @@
       "full_name": "Tuesday 10/20 - Volleyball Pickup (All Levels) - Xavier High School 6:30pm",
       "max": "16",
       "start": "18:30",
-      "type": "Volleyball Pickup - 6v6 - Coed",
+      "type": null,
       "venue": "Xavier High School",
       "venue_slug": "xavier-high-school"
     },
