@@ -22,6 +22,17 @@
       "venue": "St. Patrick's Youth Center Lower East Side 3PM",
       "venue_slug": "st-patricks-youth-center"
     },
+    "0bdb3544-1136-4a1d-be12-3e14f9238ae6": {
+      "count": "15",
+      "date": "2026-10-11T19:00:00+00:00",
+      "end": "16:00",
+      "full_name": "Sunday 10/11 - Volleyball - St. Patrick's Youth Center Lower East Side 3PM",
+      "max": "16",
+      "start": "15:00",
+      "type": "Sunday - Volleyball - Lower East Side",
+      "venue": "St. Patrick's Youth Center",
+      "venue_slug": "st-patricks-youth-center"
+    },
     "11a3c971-c271-4f5a-a366-77c0cedc4dc4": {
       "count": "0",
       "date": "2026-10-18T21:00:00+00:00",
@@ -52,7 +63,7 @@
       "max": "32",
       "start": "18:15",
       "type": "Tuesday - Volleyball - Lower East Side",
-      "venue": "St. Patrick's Youth Center",
+      "venue": "St. Patrick's Youth Center Lower East Side",
       "venue_slug": "st-patricks-youth-center"
     },
     "3bd7227f-0a08-438d-a4e6-86967823d887": {
@@ -106,9 +117,20 @@
       "full_name": "Monday 10/19 - Volleyball (6v6) - St. Patrick's Youth Center Lower East Side 8PM",
       "max": "32",
       "start": "20:00",
-      "type": "Monday - Volleyball - Lower East Side",
-      "venue": "St. Patrick's Youth Center Lower East Side 8PM",
+      "type": null,
+      "venue": "St. Patrick's Youth Center",
       "venue_slug": "st-patricks-youth-center"
+    },
+    "73cd21ad-175a-4b62-9e48-5ce5a4011475": {
+      "count": "15",
+      "date": "2026-10-11T21:15:00+00:00",
+      "end": "19:00",
+      "full_name": "Sunday 10/11 - Volleyball - Xavier High School Union Square 5:15PM",
+      "max": "16",
+      "start": "17:15",
+      "type": "Sunday - Volleyball - Union Square",
+      "venue": "Xavier High School",
+      "venue_slug": "xavier-high-school"
     },
     "89f1c2db-ceec-4b76-b733-6c5d99880541": {
       "count": "0",
@@ -240,7 +262,7 @@
       "start": "18:30",
       "type": null,
       "venue": "Xavier High School",
-      "venue_slug": null
+      "venue_slug": "xavier-high-school"
     },
     "e2a1e723-9b97-4e1c-86b2-0d907b8c9bad": {
       "count": "1",
@@ -249,7 +271,7 @@
       "full_name": "Tuesday 10/20 - Volleyball Pickup (All Levels) - St. Patrick's Youth Center 6:15pm",
       "max": "16",
       "start": "18:15",
-      "type": "Volleyball Pickup - 6v6 - Coed",
+      "type": null,
       "venue": "St. Patrick's Youth Center",
       "venue_slug": "st-patricks-youth-center"
     },
