@@ -117,9 +117,9 @@
       "full_name": "Thursday 10/22 - Volleyball (6v6) - New Design High School Lower East Side 7PM",
       "max": "16",
       "start": "19:00",
-      "type": null,
+      "type": "Thursday - Volleyball - Lower East Side",
       "venue": "New Design High School",
-      "venue_slug": null
+      "venue_slug": "new-design-high-school"
     },
     "5f9c7dce-2976-48bc-bcc5-a22893b2f278": {
       "count": "13",
@@ -131,17 +131,6 @@
       "type": "Monday - Volleyball - Lower East Side",
       "venue": "St. Patrick's Youth Center Lower East Side 8PM",
       "venue_slug": "st-patricks-youth-center"
-    },
-    "61e78dc7-d520-43ba-b9e5-5a9b7ebf7cdf": {
-      "count": "15",
-      "date": "2026-10-13T01:45:00+00:00",
-      "end": "23:00",
-      "full_name": "Monday 10/12 - Volleyball Pickup (All Levels) - La Salle Academy 9:45pm",
-      "max": "16",
-      "start": "21:45",
-      "type": "Volleyball Pickup - 6v6 - Coed",
-      "venue": "La Salle Academy",
-      "venue_slug": "la-salle-academy"
     },
     "696b0aae-37d5-41d4-b856-13555c1ce807": {
       "count": "5",
