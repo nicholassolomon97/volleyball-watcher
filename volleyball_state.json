@@ -117,9 +117,9 @@
       "full_name": "Wednesday 10/21 - Volleyball Pickup- Kotofit - 88 Bishop Jersey City 7PM",
       "max": "18",
       "start": "19:00",
-      "type": "Wednesday - Volleyball Pickup - Jersey City",
+      "type": null,
       "venue": "Kotofit - 88 Bishop",
-      "venue_slug": "kotofit-88-bishop"
+      "venue_slug": null
     },
     "89f1c2db-ceec-4b76-b733-6c5d99880541": {
       "count": "0",
@@ -230,6 +230,17 @@
       "type": "Volleyball Pickup - 6v6 - Coed",
       "venue": "St. Patrick's Youth Center",
       "venue_slug": "st-patricks-youth-center"
+    },
+    "eeda8f18-fa51-49ea-b540-c4dab5d22c0d": {
+      "count": "15",
+      "date": "2026-10-15T23:00:00+00:00",
+      "end": "21:00",
+      "full_name": "Thursday 10/15 - Volleyball (6v6) - New Design High School Lower East Side 7PM",
+      "max": "16",
+      "start": "19:00",
+      "type": "Thursday - Volleyball - Lower East Side",
+      "venue": "New Design High School",
+      "venue_slug": "new-design-high-school"
     },
     "f64016ef-cb12-41c1-9c1c-28d08edb737e": {
       "count": "11",
