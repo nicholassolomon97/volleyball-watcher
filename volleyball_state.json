@@ -62,8 +62,8 @@
       "full_name": "Wednesday 10/21 - Volleyball (6v6) - Pier 25 West Village 6PM",
       "max": "14",
       "start": "18:00",
-      "type": null,
-      "venue": "Pier 25",
+      "type": "Wednesday - Volleyball - West Village",
+      "venue": "Pier 25 West Village 6PM",
       "venue_slug": "pier-25"
     },
     "35e70e7b-e998-4c20-871e-2b982a6d984e": {
@@ -144,7 +144,7 @@
       "venue_slug": "st-patricks-youth-center"
     },
     "61e78dc7-d520-43ba-b9e5-5a9b7ebf7cdf": {
-      "count": "10",
+      "count": "11",
       "date": "2026-10-13T01:45:00+00:00",
       "end": "23:00",
       "full_name": "Monday 10/12 - Volleyball Pickup (All Levels) - La Salle Academy 9:45pm",
@@ -164,17 +164,6 @@
       "type": null,
       "venue": "Kotofit - 88 Bishop",
       "venue_slug": null
-    },
-    "6e69f90e-1481-4eb6-9fda-bbb165031007": {
-      "count": "15",
-      "date": "2026-10-13T00:30:00+00:00",
-      "end": "21:45",
-      "full_name": "Monday 10/12 - Volleyball Pickup (All Levels) - La Salle Academy 8:30pm",
-      "max": "16",
-      "start": "20:30",
-      "type": "Volleyball Pickup - 6v6 - Coed",
-      "venue": "La Salle Academy",
-      "venue_slug": "la-salle-academy"
     },
     "89f1c2db-ceec-4b76-b733-6c5d99880541": {
       "count": "0",
