@@ -88,6 +88,17 @@
       "venue": "St. Patrick's Youth Center Lower East Side",
       "venue_slug": "st-patricks-youth-center"
     },
+    "43189458-1663-4ca9-9c11-c13611642e01": {
+      "count": "15",
+      "date": "2026-10-15T22:00:00+00:00",
+      "end": "19:00",
+      "full_name": "Thursday 10/15 - Volleyball Pickup (All Levels) - La Salle Academy 6:00pm",
+      "max": "16",
+      "start": "18:00",
+      "type": "Volleyball Pickup - 6v6 - Coed",
+      "venue": "La Salle Academy",
+      "venue_slug": "la-salle-academy"
+    },
     "52a0c9ba-3e36-4379-8363-af995a33b2fe": {
       "count": "1",
       "date": "2026-10-21T00:30:00+00:00",
@@ -150,9 +161,9 @@
       "full_name": "Wednesday 10/21 - Volleyball Pickup- Kotofit - 88 Bishop Jersey City 7PM",
       "max": "18",
       "start": "19:00",
-      "type": "Wednesday - Volleyball Pickup - Jersey City",
+      "type": null,
       "venue": "Kotofit - 88 Bishop",
-      "venue_slug": "kotofit-88-bishop"
+      "venue_slug": null
     },
     "89f1c2db-ceec-4b76-b733-6c5d99880541": {
       "count": "1",
@@ -220,6 +231,17 @@
       "venue": "Riverside Park South",
       "venue_slug": "riverside-park-south"
     },
+    "c8b2f688-d7c7-4bd4-b4af-d5f568efe461": {
+      "count": "15",
+      "date": "2026-10-13T22:15:00+00:00",
+      "end": "19:00",
+      "full_name": "Tuesday 10/13 - Volleyball Pickup (All Levels) - St. Patrick's Youth Center 6:15pm",
+      "max": "16",
+      "start": "18:15",
+      "type": "Volleyball Pickup - 6v6 - Coed",
+      "venue": "St. Patrick's Youth Center",
+      "venue_slug": "st-patricks-youth-center"
+    },
     "d6390d52-3017-4c2f-a4af-6d1acd026b7f": {
       "count": "9",
       "date": "2026-10-20T22:30:00+00:00",
@@ -238,8 +260,8 @@
       "full_name": "Wednesday 10/21 - Volleyball (6v6) - St. Patrick's Youth Center Lower East Side 6:15PM",
       "max": "32",
       "start": "18:15",
-      "type": "Wednesday - Volleyball - Lower East Side",
-      "venue": "St. Patrick's Youth Center Lower East Side",
+      "type": null,
+      "venue": "St. Patrick's Youth Center",
       "venue_slug": "st-patricks-youth-center"
     },
     "e2a1e723-9b97-4e1c-86b2-0d907b8c9bad": {
@@ -322,6 +344,7 @@
     "a76bffde-788e-44c7-8212-eb3120e29317": "2026-10-17",
     "b99c13eb-f17e-4d8c-bebf-e74c837ba5ee": "2026-10-13",
     "c89312a9-0388-46a4-8a2d-8d700e7cac15": "2026-10-18",
+    "c8b2f688-d7c7-4bd4-b4af-d5f568efe461": "2026-10-13",
     "cf6a2b7f-bd98-4a4c-9798-45c1dfa3e77c": "2026-10-20",
     "d6390d52-3017-4c2f-a4af-6d1acd026b7f": "2026-10-20",
     "e0c8425f-2d5f-40eb-8458-2da1b19b6c99": "2026-10-17",
