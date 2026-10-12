@@ -74,6 +74,17 @@
       "max": "32",
       "start": "18:15",
       "type": "Tuesday - Volleyball - Lower East Side",
+      "venue": "St. Patrick's Youth Center Lower East Side",
+      "venue_slug": "st-patricks-youth-center"
+    },
+    "3762c456-7533-4ce6-8aa9-37c7f364be75": {
+      "count": "31",
+      "date": "2026-10-13T00:00:00+00:00",
+      "end": "21:00",
+      "full_name": "Monday 10/12 - Volleyball (6v6) - St. Patrick's Youth Center Lower East Side 8PM",
+      "max": "32",
+      "start": "20:00",
+      "type": "Monday - Volleyball - Lower East Side",
       "venue": "St. Patrick's Youth Center",
       "venue_slug": "st-patricks-youth-center"
     },
@@ -139,9 +150,9 @@
       "full_name": "Wednesday 10/21 - Volleyball Pickup- Kotofit - 88 Bishop Jersey City 7PM",
       "max": "18",
       "start": "19:00",
-      "type": "Wednesday - Volleyball Pickup - Jersey City",
+      "type": null,
       "venue": "Kotofit - 88 Bishop",
-      "venue_slug": "kotofit-88-bishop"
+      "venue_slug": null
     },
     "89f1c2db-ceec-4b76-b733-6c5d99880541": {
       "count": "0",
