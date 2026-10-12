@@ -154,17 +154,6 @@
       "venue": "Kotofit - 88 Bishop",
       "venue_slug": null
     },
-    "6e69f90e-1481-4eb6-9fda-bbb165031007": {
-      "count": "15",
-      "date": "2026-10-13T00:30:00+00:00",
-      "end": "21:45",
-      "full_name": "Monday 10/12 - Volleyball Pickup (All Levels) - La Salle Academy 8:30pm",
-      "max": "16",
-      "start": "20:30",
-      "type": "Volleyball Pickup - 6v6 - Coed",
-      "venue": "La Salle Academy",
-      "venue_slug": "la-salle-academy"
-    },
     "89f1c2db-ceec-4b76-b733-6c5d99880541": {
       "count": "0",
       "date": "2026-10-18T16:00:00+00:00",
@@ -260,8 +249,8 @@
       "full_name": "Wednesday 10/21 - Volleyball (6v6) - St. Patrick's Youth Center Lower East Side 6:15PM",
       "max": "32",
       "start": "18:15",
-      "type": null,
-      "venue": "St. Patrick's Youth Center",
+      "type": "Wednesday - Volleyball - Lower East Side",
+      "venue": "St. Patrick's Youth Center Lower East Side",
       "venue_slug": "st-patricks-youth-center"
     },
     "e2a1e723-9b97-4e1c-86b2-0d907b8c9bad": {
