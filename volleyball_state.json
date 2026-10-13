@@ -1,5 +1,16 @@
 {
   "current": {
+    "05e198b6-beb4-4f22-9a24-a3cb9dd03113": {
+      "count": "0",
+      "date": "2026-10-28T01:15:00+00:00",
+      "end": "23:00",
+      "full_name": "Tuesday 10/27 - Volleyball Pickup (All Levels) - The Post BK - 100 Dobbin St 9:15pm",
+      "max": "12",
+      "start": "21:15",
+      "type": "Volleyball Pickup - 6v6 - Coed",
+      "venue": "The Post BK - 100 Dobbin St",
+      "venue_slug": "the-post-bk-100-dobbin-st"
+    },
     "07ba8438-8449-4cfd-8d5c-9b4c262cf49c": {
       "count": "6",
       "date": "2026-10-17T16:00:00+00:00",
@@ -244,6 +255,7 @@
     }
   },
   "seen": {
+    "05e198b6-beb4-4f22-9a24-a3cb9dd03113": "2026-10-27",
     "07ba8438-8449-4cfd-8d5c-9b4c262cf49c": "2026-10-17",
     "086e7dd0-e2d5-482c-920f-ffef87141c4f": "2026-10-17",
     "09ab83f3-62f5-4ab3-9069-bcc6213b28a1": "2026-10-18",
