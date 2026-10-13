@@ -66,26 +66,15 @@
       "venue": "Pier 25 West Village 6PM",
       "venue_slug": "pier-25"
     },
-    "35e70e7b-e998-4c20-871e-2b982a6d984e": {
-      "count": "15",
-      "date": "2026-10-13T22:15:00+00:00",
-      "end": "19:00",
-      "full_name": "Tuesday 10/13 - Volleyball (6v6) - St. Patrick's Youth Center Lower East Side 6:15PM (1)",
-      "max": "16",
-      "start": "18:15",
-      "type": "Tuesday - Volleyball - Lower East Side",
-      "venue": "St. Patrick's Youth Center",
-      "venue_slug": "st-patricks-youth-center"
-    },
     "3ca88bee-17c7-471c-8ce4-8f1300ba5c33": {
-      "count": "11",
+      "count": "12",
       "date": "2026-10-14T22:15:00+00:00",
       "end": "19:00",
       "full_name": "Wednesday 10/14 - Volleyball (6v6) - St. Patrick's Youth Center Lower East Side 6:15PM",
       "max": "32",
       "start": "18:15",
       "type": "Wednesday - Volleyball - Lower East Side",
-      "venue": "St. Patrick's Youth Center Lower East Side",
+      "venue": "St. Patrick's Youth Center",
       "venue_slug": "st-patricks-youth-center"
     },
     "52a0c9ba-3e36-4379-8363-af995a33b2fe": {
@@ -175,17 +164,6 @@
       "type": "Saturday - Volleyball - Long Island City",
       "venue": "Hunter's Point South Long Island City 2PM",
       "venue_slug": "hunters-point-south"
-    },
-    "b99c13eb-f17e-4d8c-bebf-e74c837ba5ee": {
-      "count": "15",
-      "date": "2026-10-13T22:30:00+00:00",
-      "end": "19:15",
-      "full_name": "Tuesday 10/13 - Volleyball Pickup (All Levels) - Xavier High School 6:30pm",
-      "max": "16",
-      "start": "18:30",
-      "type": "Volleyball Pickup - 6v6 - Coed",
-      "venue": "Xavier High School",
-      "venue_slug": "xavier-high-school"
     },
     "c89312a9-0388-46a4-8a2d-8d700e7cac15": {
       "count": "2",
