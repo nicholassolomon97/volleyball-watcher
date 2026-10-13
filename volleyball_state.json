@@ -8,8 +8,8 @@
       "max": "16",
       "start": "21:15",
       "type": "Volleyball Pickup - 6v6 - Coed",
-      "venue": "The Post BK - 100 Dobbin St",
-      "venue_slug": "the-post-bk-100-dobbin-st"
+      "venue": "100 Dobbin St",
+      "venue_slug": null
     },
     "07ba8438-8449-4cfd-8d5c-9b4c262cf49c": {
       "count": "6",
@@ -76,6 +76,17 @@
       "type": "Wednesday - Volleyball - West Village",
       "venue": "Pier 25 West Village 6PM",
       "venue_slug": "pier-25"
+    },
+    "35ddd0fe-44cc-45c6-baf1-c57e6a4ef3dd": {
+      "count": "15",
+      "date": "2026-10-14T01:15:00+00:00",
+      "end": "23:00",
+      "full_name": "Tuesday 10/13 - Volleyball Pickup (All Levels) - The Post BK - 100 Dobbin St 9:15pm",
+      "max": "16",
+      "start": "21:15",
+      "type": "Volleyball Pickup - 6v6 - Coed",
+      "venue": "The Post BK - 100 Dobbin St",
+      "venue_slug": "the-post-bk-100-dobbin-st"
     },
     "3ca88bee-17c7-471c-8ce4-8f1300ba5c33": {
       "count": "11",
@@ -263,6 +274,7 @@
     "19601f68-5409-4191-b35e-088db3857ba4": "2026-10-19",
     "30f432eb-24cd-478c-ac10-a6e66405883d": "2026-10-22",
     "351f488a-03cc-4131-af49-45e4f4af0584": "2026-10-21",
+    "35ddd0fe-44cc-45c6-baf1-c57e6a4ef3dd": "2026-10-13",
     "35e70e7b-e998-4c20-871e-2b982a6d984e": "2026-10-13",
     "37404812-5e22-4876-bdb4-3e1ae991ac0d": "2026-10-21",
     "3762c456-7533-4ce6-8aa9-37c7f364be75": "2026-10-12",
