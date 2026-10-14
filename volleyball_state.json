@@ -44,6 +44,17 @@
       "venue": "John Jay High School",
       "venue_slug": "john-jay-high-school"
     },
+    "19257e6a-aac3-4790-ad93-0380bc9b1c4f": {
+      "count": "0",
+      "date": "2026-10-24T18:00:00+00:00",
+      "end": "16:00",
+      "full_name": "Saturday 10/24 - Volleyball (6v6) - Hunter's Point South Long Island City 2PM",
+      "max": "16",
+      "start": "14:00",
+      "type": "Saturday - Volleyball - Long Island City",
+      "venue": "Hunter's Point South Long Island City 2PM",
+      "venue_slug": "hunters-point-south"
+    },
     "19601f68-5409-4191-b35e-088db3857ba4": {
       "count": "0",
       "date": "2026-10-19T23:00:00+00:00",
@@ -54,6 +65,17 @@
       "type": "Volleyball Pickup - 6v6 - Coed",
       "venue": "Pier 6",
       "venue_slug": "pier-6"
+    },
+    "2008ca85-66e1-4186-8bd8-ac093e0d2b54": {
+      "count": "2",
+      "date": "2026-10-24T19:30:00+00:00",
+      "end": "14:45",
+      "full_name": "Saturday 10/24 - Volleyball (6v6) - The Post BK - 100 Dobbin St Williamsburg 2:00PM",
+      "max": "16",
+      "start": "14:00",
+      "type": null,
+      "venue": "The Post BK - 100 Dobbin St",
+      "venue_slug": null
     },
     "30f432eb-24cd-478c-ac10-a6e66405883d": {
       "count": "12",
@@ -77,6 +99,17 @@
       "venue": "Pier 25 West Village 6PM",
       "venue_slug": "pier-25"
     },
+    "3c1fcb20-b001-4e40-8218-e96a60738eb2": {
+      "count": "0",
+      "date": "2026-10-24T16:00:00+00:00",
+      "end": "14:00",
+      "full_name": "Saturday 10/24 - Volleyball (6v6) - Hunter's Point South Long Island City 12PM",
+      "max": "16",
+      "start": "12:00",
+      "type": "Saturday - Volleyball - Long Island City",
+      "venue": "Hunter's Point South Long Island City 12PM",
+      "venue_slug": "hunters-point-south"
+    },
     "3ca88bee-17c7-471c-8ce4-8f1300ba5c33": {
       "count": "15",
       "date": "2026-10-14T22:15:00+00:00",
@@ -87,6 +120,17 @@
       "type": "Wednesday - Volleyball - Lower East Side",
       "venue": "St. Patrick's Youth Center",
       "venue_slug": "st-patricks-youth-center"
+    },
+    "44fc9533-9c82-4967-b478-e60e9bcb8965": {
+      "count": "0",
+      "date": "2026-10-24T18:00:00+00:00",
+      "end": "16:00",
+      "full_name": "Saturday 10/24 - Volleyball Pickup (All Levels) - Pier 6 2:00pm",
+      "max": "16",
+      "start": "14:00",
+      "type": "Volleyball Pickup - 6v6 - Coed",
+      "venue": "Pier 6",
+      "venue_slug": "pier-6"
     },
     "52a0c9ba-3e36-4379-8363-af995a33b2fe": {
       "count": "1",
@@ -120,6 +164,28 @@
       "type": "Wednesday - Volleyball Pickup - Jersey City",
       "venue": "Kotofit - 88 Bishop",
       "venue_slug": "kotofit-88-bishop"
+    },
+    "6ed2b722-e265-4d0c-90c1-c025e97849bc": {
+      "count": "0",
+      "date": "2026-10-24T16:00:00+00:00",
+      "end": "13:45",
+      "full_name": "Saturday 10/24 - Volleyball Pickup (All Levels) - The Door 12:00pm",
+      "max": "16",
+      "start": "12:00",
+      "type": "Volleyball Pickup - 6v6 - Coed",
+      "venue": "The Door",
+      "venue_slug": "the-door"
+    },
+    "83f10573-4282-40e8-bb89-380d7075b44d": {
+      "count": "0",
+      "date": "2026-10-24T20:15:00+00:00",
+      "end": "18:00",
+      "full_name": "Saturday 10/24 - Volleyball Pickup (All Levels) - Pier 6 4:15pm",
+      "max": "32",
+      "start": "16:15",
+      "type": null,
+      "venue": "Pier 6",
+      "venue_slug": "pier-6"
     },
     "89f1c2db-ceec-4b76-b733-6c5d99880541": {
       "count": "1",
@@ -164,6 +230,17 @@
       "type": "Saturday - Volleyball - Long Island City",
       "venue": "Hunter's Point South Long Island City 2PM",
       "venue_slug": "hunters-point-south"
+    },
+    "aab7cde6-ed48-4cc0-8071-de084425c8a3": {
+      "count": "0",
+      "date": "2026-10-24T18:30:00+00:00",
+      "end": "16:00",
+      "full_name": "Saturday 10/24 - Volleyball (6v6) - La Salle Academy Lower East Side 2:30PM",
+      "max": "16",
+      "start": "14:30",
+      "type": "Saturday - Volleyball - Lower East Side",
+      "venue": "La Salle Academy Lower East Side",
+      "venue_slug": "la-salle-academy"
     },
     "c89312a9-0388-46a4-8a2d-8d700e7cac15": {
       "count": "2",
@@ -217,16 +294,18 @@
     "086e7dd0-e2d5-482c-920f-ffef87141c4f": "2026-10-17",
     "09ab83f3-62f5-4ab3-9069-bcc6213b28a1": "2026-10-18",
     "11a3c971-c271-4f5a-a366-77c0cedc4dc4": "2026-10-18",
+    "19257e6a-aac3-4790-ad93-0380bc9b1c4f": "2026-10-24",
     "19601f68-5409-4191-b35e-088db3857ba4": "2026-10-19",
     "1ef68ffd-f3a6-460e-bbd0-f95fb37b5582": "2026-10-14",
+    "2008ca85-66e1-4186-8bd8-ac093e0d2b54": "2026-10-24",
     "30f432eb-24cd-478c-ac10-a6e66405883d": "2026-10-22",
     "351f488a-03cc-4131-af49-45e4f4af0584": "2026-10-21",
-    "35ddd0fe-44cc-45c6-baf1-c57e6a4ef3dd": "2026-10-13",
-    "35e70e7b-e998-4c20-871e-2b982a6d984e": "2026-10-13",
     "37404812-5e22-4876-bdb4-3e1ae991ac0d": "2026-10-21",
+    "3c1fcb20-b001-4e40-8218-e96a60738eb2": "2026-10-24",
     "3ca88bee-17c7-471c-8ce4-8f1300ba5c33": "2026-10-14",
     "3f4de82d-5d7b-49a8-adb7-8441c1756e27": "2026-10-21",
     "43189458-1663-4ca9-9c11-c13611642e01": "2026-10-15",
+    "44fc9533-9c82-4967-b478-e60e9bcb8965": "2026-10-24",
     "52a0c9ba-3e36-4379-8363-af995a33b2fe": "2026-10-20",
     "555bd638-c766-43c0-aa31-7ea1719d39f2": "2026-10-18",
     "574d57ee-eb22-4f82-9361-a866b05b5d9b": "2026-10-14",
@@ -236,18 +315,17 @@
     "64ebc119-eac8-44fb-9cae-cb7668a3861f": "2026-10-20",
     "67f313aa-b015-421a-829c-80e104b6ef10": "2026-10-22",
     "696b0aae-37d5-41d4-b856-13555c1ce807": "2026-10-21",
+    "6ed2b722-e265-4d0c-90c1-c025e97849bc": "2026-10-24",
+    "83f10573-4282-40e8-bb89-380d7075b44d": "2026-10-24",
     "847c0081-7ade-449b-9fb9-3564072c5079": "2026-10-20",
     "89f1c2db-ceec-4b76-b733-6c5d99880541": "2026-10-18",
     "8a84dafb-e958-46ad-a189-9f9441aeba5e": "2026-10-17",
     "8f4ef742-64a4-4a08-9099-a0f835ec2a49": "2026-10-14",
     "92de3dd1-863d-4243-bd99-2eeb38487e6b": "2026-10-18",
     "949543f5-8050-4a62-8a02-90ced64769de": "2026-10-17",
-    "96d459aa-23ae-424d-b047-3ca07c3c8a29": "2026-10-13",
-    "a1b8cef4-986a-45fd-be89-c61706a20f15": "2026-10-13",
     "a76bffde-788e-44c7-8212-eb3120e29317": "2026-10-17",
-    "b99c13eb-f17e-4d8c-bebf-e74c837ba5ee": "2026-10-13",
+    "aab7cde6-ed48-4cc0-8071-de084425c8a3": "2026-10-24",
     "c89312a9-0388-46a4-8a2d-8d700e7cac15": "2026-10-18",
-    "c8b2f688-d7c7-4bd4-b4af-d5f568efe461": "2026-10-13",
     "cf6a2b7f-bd98-4a4c-9798-45c1dfa3e77c": "2026-10-20",
     "d6390d52-3017-4c2f-a4af-6d1acd026b7f": "2026-10-20",
     "e0c8425f-2d5f-40eb-8458-2da1b19b6c99": "2026-10-17",
@@ -255,7 +333,6 @@
     "e2a1e723-9b97-4e1c-86b2-0d907b8c9bad": "2026-10-20",
     "eeda8f18-fa51-49ea-b540-c4dab5d22c0d": "2026-10-15",
     "f64016ef-cb12-41c1-9c1c-28d08edb737e": "2026-10-17",
-    "f7aaceaf-af35-4574-bd11-0587975aa874": "2026-10-20",
-    "fa9c6c07-227b-4fdc-b455-11c78c89e830": "2026-10-13"
+    "f7aaceaf-af35-4574-bd11-0587975aa874": "2026-10-20"
   }
 }
