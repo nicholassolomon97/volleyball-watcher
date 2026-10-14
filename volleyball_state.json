@@ -106,7 +106,7 @@
       "full_name": "Saturday 10/24 - Volleyball Pickup (All Levels) - Pier 6 2:00pm",
       "max": "16",
       "start": "14:00",
-      "type": null,
+      "type": "Volleyball Pickup - 6v6 - Coed",
       "venue": "Pier 6",
       "venue_slug": "pier-6"
     },
@@ -131,17 +131,6 @@
       "type": "Sunday - Volleyball - Upper West Side",
       "venue": "Riverside North Beach Volleyball",
       "venue_slug": "riverside-north-beach-volleyball"
-    },
-    "5f9c7dce-2976-48bc-bcc5-a22893b2f278": {
-      "count": "15",
-      "date": "2026-10-20T00:00:00+00:00",
-      "end": "20:45",
-      "full_name": "Monday 10/19 - Volleyball (6v6) - St. Patrick's Youth Center Lower East Side 8PM",
-      "max": "16",
-      "start": "20:00",
-      "type": "Monday - Volleyball - Lower East Side",
-      "venue": "St. Patrick's Youth Center Lower East Side 8PM",
-      "venue_slug": "st-patricks-youth-center"
     },
     "696b0aae-37d5-41d4-b856-13555c1ce807": {
       "count": "5",
