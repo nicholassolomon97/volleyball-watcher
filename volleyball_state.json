@@ -64,7 +64,7 @@
       "start": "17:15",
       "type": null,
       "venue": "Xavier High School",
-      "venue_slug": null
+      "venue_slug": "xavier-high-school"
     },
     "351f488a-03cc-4131-af49-45e4f4af0584": {
       "count": "2",
@@ -198,6 +198,17 @@
       "venue": "Pier 6",
       "venue_slug": "pier-6"
     },
+    "92de3dd1-863d-4243-bd99-2eeb38487e6b": {
+      "count": "15",
+      "date": "2026-10-18T21:15:00+00:00",
+      "end": "19:00",
+      "full_name": "Sunday 10/18 - Volleyball - Xavier High School Union Square 5:15PM",
+      "max": "16",
+      "start": "17:15",
+      "type": "Sunday - Volleyball - Union Square",
+      "venue": "Xavier High School",
+      "venue_slug": "xavier-high-school"
+    },
     "9ff35bf9-a3a7-4090-a821-93f7a8d45c0e": {
       "count": "0",
       "date": "2026-10-25T18:15:00+00:00",
@@ -227,8 +238,8 @@
       "full_name": "Sunday 10/25 - Volleyball - St. Patrick's Youth Center Lower East Side 3PM",
       "max": "16",
       "start": "15:00",
-      "type": "Sunday - Volleyball - Lower East Side",
-      "venue": "St. Patrick's Youth Center Lower East Side 3PM",
+      "type": null,
+      "venue": "St. Patrick's Youth Center",
       "venue_slug": "st-patricks-youth-center"
     },
     "c30af857-9c5f-4dbc-85fd-f6c15e4b21ed": {
