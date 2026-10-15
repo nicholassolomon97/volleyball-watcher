@@ -22,17 +22,6 @@
       "venue": "Hunter's Point South",
       "venue_slug": "hunters-point-south"
     },
-    "09ab83f3-62f5-4ab3-9069-bcc6213b28a1": {
-      "count": "15",
-      "date": "2026-10-18T19:00:00+00:00",
-      "end": "16:00",
-      "full_name": "Sunday 10/18 - Volleyball - St. Patrick's Youth Center Lower East Side 3PM",
-      "max": "16",
-      "start": "15:00",
-      "type": "Sunday - Volleyball - Lower East Side",
-      "venue": "St. Patrick's Youth Center",
-      "venue_slug": "st-patricks-youth-center"
-    },
     "11a3c971-c271-4f5a-a366-77c0cedc4dc4": {
       "count": "0",
       "date": "2026-10-18T21:00:00+00:00",
@@ -238,8 +227,8 @@
       "full_name": "Sunday 10/25 - Volleyball - St. Patrick's Youth Center Lower East Side 3PM",
       "max": "16",
       "start": "15:00",
-      "type": null,
-      "venue": "St. Patrick's Youth Center",
+      "type": "Sunday - Volleyball - Lower East Side",
+      "venue": "St. Patrick's Youth Center Lower East Side 3PM",
       "venue_slug": "st-patricks-youth-center"
     },
     "c30af857-9c5f-4dbc-85fd-f6c15e4b21ed": {
@@ -283,7 +272,7 @@
       "max": "32",
       "start": "18:15",
       "type": "Wednesday - Volleyball - Lower East Side",
-      "venue": "St. Patrick's Youth Center Lower East Side",
+      "venue": "St. Patrick's Youth Center",
       "venue_slug": "st-patricks-youth-center"
     },
     "f64016ef-cb12-41c1-9c1c-28d08edb737e": {
