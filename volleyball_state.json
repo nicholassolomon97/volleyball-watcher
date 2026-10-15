@@ -66,17 +66,6 @@
       "venue": "Xavier High School",
       "venue_slug": null
     },
-    "30f432eb-24cd-478c-ac10-a6e66405883d": {
-      "count": "15",
-      "date": "2026-10-22T22:00:00+00:00",
-      "end": "19:00",
-      "full_name": "Thursday 10/22 - Volleyball Pickup (All Levels) - La Salle Academy 6:00pm",
-      "max": "16",
-      "start": "18:00",
-      "type": "Volleyball Pickup - 6v6 - Coed",
-      "venue": "La Salle Academy",
-      "venue_slug": "la-salle-academy"
-    },
     "351f488a-03cc-4131-af49-45e4f4af0584": {
       "count": "2",
       "date": "2026-10-21T22:00:00+00:00",
@@ -260,7 +249,7 @@
       "full_name": "Sunday 10/25 - Volleyball Pickup (All Levels) - Riverside Park South 3:00pm",
       "max": "16",
       "start": "15:00",
-      "type": null,
+      "type": "Volleyball Pickup - Coed",
       "venue": "Riverside Park South",
       "venue_slug": "riverside-park-south"
     },
