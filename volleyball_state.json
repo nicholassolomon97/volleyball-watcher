@@ -64,7 +64,7 @@
       "start": "17:15",
       "type": null,
       "venue": "Xavier High School",
-      "venue_slug": "xavier-high-school"
+      "venue_slug": null
     },
     "351f488a-03cc-4131-af49-45e4f4af0584": {
       "count": "2",
@@ -198,17 +198,6 @@
       "venue": "Pier 6",
       "venue_slug": "pier-6"
     },
-    "92de3dd1-863d-4243-bd99-2eeb38487e6b": {
-      "count": "15",
-      "date": "2026-10-18T21:15:00+00:00",
-      "end": "19:00",
-      "full_name": "Sunday 10/18 - Volleyball - Xavier High School Union Square 5:15PM",
-      "max": "16",
-      "start": "17:15",
-      "type": "Sunday - Volleyball - Union Square",
-      "venue": "Xavier High School",
-      "venue_slug": "xavier-high-school"
-    },
     "949543f5-8050-4a62-8a02-90ced64769de": {
       "count": "15",
       "date": "2026-10-17T16:00:00+00:00",
@@ -227,8 +216,8 @@
       "full_name": "Sunday 10/25 - Volleyball - Riverside North Beach Volleyball Upper West Side 2:15PM",
       "max": "16",
       "start": "14:15",
-      "type": null,
-      "venue": "Riverside North Beach Volleyball",
+      "type": "Sunday - Volleyball - Upper West Side",
+      "venue": "Riverside North Beach Volleyball Upper West Side",
       "venue_slug": "riverside-north-beach-volleyball"
     },
     "a76bffde-788e-44c7-8212-eb3120e29317": {
