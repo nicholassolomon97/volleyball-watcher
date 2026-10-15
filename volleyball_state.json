@@ -88,6 +88,17 @@
       "venue": "Hunter's Point South Long Island City 12PM",
       "venue_slug": "hunters-point-south"
     },
+    "43189458-1663-4ca9-9c11-c13611642e01": {
+      "count": "15",
+      "date": "2026-10-15T22:00:00+00:00",
+      "end": "19:00",
+      "full_name": "Thursday 10/15 - Volleyball Pickup (All Levels) - La Salle Academy 6:00pm",
+      "max": "16",
+      "start": "18:00",
+      "type": "Volleyball Pickup - 6v6 - Coed",
+      "venue": "La Salle Academy",
+      "venue_slug": "la-salle-academy"
+    },
     "44fc9533-9c82-4967-b478-e60e9bcb8965": {
       "count": "2",
       "date": "2026-10-24T18:00:00+00:00",
@@ -227,8 +238,8 @@
       "full_name": "Sunday 10/25 - Volleyball - St. Patrick's Youth Center Lower East Side 3PM",
       "max": "16",
       "start": "15:00",
-      "type": "Sunday - Volleyball - Lower East Side",
-      "venue": "St. Patrick's Youth Center Lower East Side 3PM",
+      "type": null,
+      "venue": "St. Patrick's Youth Center",
       "venue_slug": "st-patricks-youth-center"
     },
     "c30af857-9c5f-4dbc-85fd-f6c15e4b21ed": {
@@ -239,7 +250,7 @@
       "max": "16",
       "start": "21:15",
       "type": "Thursday - Volleyball - Lower East Side",
-      "venue": "La Salle Academy",
+      "venue": "La Salle Academy Lower East Side",
       "venue_slug": "la-salle-academy"
     },
     "c89312a9-0388-46a4-8a2d-8d700e7cac15": {
