@@ -173,8 +173,8 @@
       "max": "18",
       "start": "19:00",
       "type": "Wednesday - Volleyball Pickup - Jersey City",
-      "venue": "Kotofit - 88 Bishop",
-      "venue_slug": "kotofit-88-bishop"
+      "venue": "88 Bishop Jersey City 7PM",
+      "venue_slug": null
     },
     "6ed2b722-e265-4d0c-90c1-c025e97849bc": {
       "count": "13",
@@ -194,9 +194,9 @@
       "full_name": "Sunday 10/25 - Volleyball Pickup (All Levels) - Baruch College 11:00am",
       "max": "16",
       "start": "11:00",
-      "type": "Volleyball Pickup - 6v6 - Coed",
+      "type": null,
       "venue": "Baruch College",
-      "venue_slug": "baruch-college"
+      "venue_slug": null
     },
     "83f10573-4282-40e8-bb89-380d7075b44d": {
       "count": "3",
@@ -318,6 +318,17 @@
       "type": null,
       "venue": "La Salle Academy",
       "venue_slug": "la-salle-academy"
+    },
+    "e0c8425f-2d5f-40eb-8458-2da1b19b6c99": {
+      "count": "15",
+      "date": "2026-10-17T17:00:00+00:00",
+      "end": "14:00",
+      "full_name": "Saturday 10/17 - Volleyball - Kotofit - 88 Bishop Jersey City 1PM",
+      "max": "16",
+      "start": "13:00",
+      "type": "Saturday - Volleyball - Jersey City",
+      "venue": "Kotofit - 88 Bishop",
+      "venue_slug": "kotofit-88-bishop"
     },
     "e24042ec-6f18-45cc-9472-de56f3378baa": {
       "count": "14",
