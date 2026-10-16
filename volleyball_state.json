@@ -209,6 +209,17 @@
       "venue": "Pier 6",
       "venue_slug": "pier-6"
     },
+    "949543f5-8050-4a62-8a02-90ced64769de": {
+      "count": "15",
+      "date": "2026-10-17T16:00:00+00:00",
+      "end": "13:45",
+      "full_name": "Saturday 10/17 - Volleyball Pickup (All Levels) - The Door 12:00pm",
+      "max": "16",
+      "start": "12:00",
+      "type": "Volleyball Pickup - 6v6 - Coed",
+      "venue": "The Door",
+      "venue_slug": "the-door"
+    },
     "9ff35bf9-a3a7-4090-a821-93f7a8d45c0e": {
       "count": "0",
       "date": "2026-10-25T18:15:00+00:00",
@@ -260,7 +271,7 @@
       "full_name": "Sunday 10/25 - Volleyball Pickup (All Levels) - Riverside Park South 3:00pm",
       "max": "16",
       "start": "15:00",
-      "type": "Volleyball Pickup - Coed",
+      "type": null,
       "venue": "Riverside Park South",
       "venue_slug": "riverside-park-south"
     },
