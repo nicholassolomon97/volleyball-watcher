@@ -165,17 +165,6 @@
       "venue": "The Door",
       "venue_slug": "the-door"
     },
-    "7920c312-ac6f-40ed-9979-b016f727d0cd": {
-      "count": "13",
-      "date": "2026-10-25T17:00:00+00:00",
-      "end": "15:00",
-      "full_name": "Sunday 10/25 - Volleyball Pickup (Advanced/competitive) - Boys and Girls Club Jersey City 1:00pm",
-      "max": "14",
-      "start": "13:00",
-      "type": "Volleyball Pickup - 6v6 - Coed",
-      "venue": "Boys and Girls Club Jersey City",
-      "venue_slug": "boys-and-girls-club-jersey-city"
-    },
     "7ac10035-6e7a-4958-8c90-de9eadda7525": {
       "count": "14",
       "date": "2026-10-25T15:00:00+00:00",
@@ -232,7 +221,7 @@
       "venue_slug": "riverside-north-beach-volleyball"
     },
     "a76bffde-788e-44c7-8212-eb3120e29317": {
-      "count": "0",
+      "count": "2",
       "date": "2026-10-17T18:00:00+00:00",
       "end": "16:00",
       "full_name": "Saturday 10/17 - Volleyball (6v6) - Hunter's Point South Long Island City 2PM",
@@ -271,7 +260,7 @@
       "full_name": "Sunday 10/25 - Volleyball Pickup (All Levels) - Riverside Park South 3:00pm",
       "max": "16",
       "start": "15:00",
-      "type": null,
+      "type": "Volleyball Pickup - Coed",
       "venue": "Riverside Park South",
       "venue_slug": "riverside-park-south"
     },
@@ -298,7 +287,7 @@
       "venue_slug": "st-patricks-youth-center"
     },
     "ed7b90ca-742a-4038-ba47-1c27a48ea7d9": {
-      "count": "12",
+      "count": "13",
       "date": "2026-10-25T19:00:00+00:00",
       "end": "17:00",
       "full_name": "Sunday 10/25 - Volleyball Pickup (Intermediate) - Boys and Girls Club Jersey City 3:00pm",
@@ -306,7 +295,7 @@
       "start": "15:00",
       "type": null,
       "venue": "Boys and Girls Club Jersey City",
-      "venue_slug": "boys-and-girls-club-jersey-city"
+      "venue_slug": null
     },
     "f64016ef-cb12-41c1-9c1c-28d08edb737e": {
       "count": "15",
