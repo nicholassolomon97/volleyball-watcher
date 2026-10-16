@@ -132,6 +132,17 @@
       "venue": "Riverside North Beach Volleyball",
       "venue_slug": "riverside-north-beach-volleyball"
     },
+    "662b750c-6367-4099-a28d-a192a16b8db6": {
+      "count": "0",
+      "date": "2026-10-27T01:45:00+00:00",
+      "end": "23:00",
+      "full_name": "Monday 10/26 - Volleyball Pickup (All Levels) - La Salle Academy 9:45pm",
+      "max": "16",
+      "start": "21:45",
+      "type": null,
+      "venue": "La Salle Academy",
+      "venue_slug": null
+    },
     "696b0aae-37d5-41d4-b856-13555c1ce807": {
       "count": "7",
       "date": "2026-10-21T23:00:00+00:00",
@@ -275,6 +286,17 @@
       "venue": "Riverside Park South",
       "venue_slug": "riverside-park-south"
     },
+    "d1adc638-7afc-4495-9edd-7b343b5149af": {
+      "count": "0",
+      "date": "2026-10-27T00:30:00+00:00",
+      "end": "21:09",
+      "full_name": "Monday 10/26 - Volleyball Pickup (All Levels) - La Salle Academy 8:30pm",
+      "max": "16",
+      "start": "20:30",
+      "type": null,
+      "venue": "La Salle Academy",
+      "venue_slug": null
+    },
     "e24042ec-6f18-45cc-9472-de56f3378baa": {
       "count": "12",
       "date": "2026-10-21T22:15:00+00:00",
@@ -333,6 +355,7 @@
     "57920c67-b787-4cd9-820c-ea5038de5fdd": "2026-10-22",
     "5f9c7dce-2976-48bc-bcc5-a22893b2f278": "2026-10-19",
     "64ebc119-eac8-44fb-9cae-cb7668a3861f": "2026-10-20",
+    "662b750c-6367-4099-a28d-a192a16b8db6": "2026-10-26",
     "67f313aa-b015-421a-829c-80e104b6ef10": "2026-10-22",
     "696b0aae-37d5-41d4-b856-13555c1ce807": "2026-10-21",
     "6ed2b722-e265-4d0c-90c1-c025e97849bc": "2026-10-24",
@@ -351,6 +374,7 @@
     "c89312a9-0388-46a4-8a2d-8d700e7cac15": "2026-10-18",
     "cd4e7b5b-fbf1-4548-b0da-cc95b3f5ac44": "2026-10-25",
     "cf6a2b7f-bd98-4a4c-9798-45c1dfa3e77c": "2026-10-20",
+    "d1adc638-7afc-4495-9edd-7b343b5149af": "2026-10-26",
     "d6390d52-3017-4c2f-a4af-6d1acd026b7f": "2026-10-20",
     "e0c8425f-2d5f-40eb-8458-2da1b19b6c99": "2026-10-17",
     "e24042ec-6f18-45cc-9472-de56f3378baa": "2026-10-21",
