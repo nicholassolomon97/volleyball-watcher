@@ -99,6 +99,17 @@
       "venue": "Hunter's Point South Long Island City 12PM",
       "venue_slug": "hunters-point-south"
     },
+    "3e66db04-fb1b-4b15-866b-ae64ae66fe59": {
+      "count": "2",
+      "date": "2026-10-17T18:30:00+00:00",
+      "end": "16:00",
+      "full_name": "Saturday 10/17 - Volleyball (6v6) - La Salle Academy Lower East Side 2:30PM",
+      "max": "16",
+      "start": "14:30",
+      "type": "Saturday - Volleyball - Lower East Side",
+      "venue": "La Salle Academy",
+      "venue_slug": "la-salle-academy"
+    },
     "44fc9533-9c82-4967-b478-e60e9bcb8965": {
       "count": "2",
       "date": "2026-10-24T18:00:00+00:00",
@@ -141,7 +152,7 @@
       "start": "21:45",
       "type": null,
       "venue": "La Salle Academy",
-      "venue_slug": null
+      "venue_slug": "la-salle-academy"
     },
     "696b0aae-37d5-41d4-b856-13555c1ce807": {
       "count": "7",
@@ -194,8 +205,8 @@
       "full_name": "Sunday 10/25 - Volleyball (4v4) - John Jay High School Prospect Park 5PM",
       "max": "12",
       "start": "17:00",
-      "type": "Sunday - Volleyball - Prospect Park",
-      "venue": "John Jay High School Prospect Park 5PM",
+      "type": null,
+      "venue": "John Jay High School",
       "venue_slug": "john-jay-high-school"
     },
     "89f1c2db-ceec-4b76-b733-6c5d99880541": {
@@ -273,7 +284,7 @@
       "start": "20:30",
       "type": null,
       "venue": "La Salle Academy",
-      "venue_slug": null
+      "venue_slug": "la-salle-academy"
     },
     "e24042ec-6f18-45cc-9472-de56f3378baa": {
       "count": "12",
@@ -326,6 +337,7 @@
     "351f488a-03cc-4131-af49-45e4f4af0584": "2026-10-21",
     "37404812-5e22-4876-bdb4-3e1ae991ac0d": "2026-10-21",
     "3c1fcb20-b001-4e40-8218-e96a60738eb2": "2026-10-24",
+    "3e66db04-fb1b-4b15-866b-ae64ae66fe59": "2026-10-17",
     "3f4de82d-5d7b-49a8-adb7-8441c1756e27": "2026-10-21",
     "44fc9533-9c82-4967-b478-e60e9bcb8965": "2026-10-24",
     "52a0c9ba-3e36-4379-8363-af995a33b2fe": "2026-10-20",
