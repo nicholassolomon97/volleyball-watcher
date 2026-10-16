@@ -165,6 +165,17 @@
       "venue": "The Door",
       "venue_slug": "the-door"
     },
+    "7920c312-ac6f-40ed-9979-b016f727d0cd": {
+      "count": "12",
+      "date": "2026-10-25T17:00:00+00:00",
+      "end": "15:00",
+      "full_name": "Sunday 10/25 - Volleyball Pickup (Advanced/competitive) - Boys and Girls Club Jersey City 1:00pm",
+      "max": "14",
+      "start": "13:00",
+      "type": "Volleyball Pickup - 6v6 - Coed",
+      "venue": "Boys and Girls Club Jersey City",
+      "venue_slug": "boys-and-girls-club-jersey-city"
+    },
     "7ac10035-6e7a-4958-8c90-de9eadda7525": {
       "count": "14",
       "date": "2026-10-25T15:00:00+00:00",
@@ -260,7 +271,7 @@
       "full_name": "Sunday 10/25 - Volleyball Pickup (All Levels) - Riverside Park South 3:00pm",
       "max": "16",
       "start": "15:00",
-      "type": "Volleyball Pickup - Coed",
+      "type": null,
       "venue": "Riverside Park South",
       "venue_slug": "riverside-park-south"
     },
@@ -285,6 +296,17 @@
       "type": "Wednesday - Volleyball - Lower East Side",
       "venue": "St. Patrick's Youth Center",
       "venue_slug": "st-patricks-youth-center"
+    },
+    "ed7b90ca-742a-4038-ba47-1c27a48ea7d9": {
+      "count": "11",
+      "date": "2026-10-25T19:00:00+00:00",
+      "end": "17:00",
+      "full_name": "Sunday 10/25 - Volleyball Pickup (Intermediate) - Boys and Girls Club Jersey City 3:00pm",
+      "max": "13",
+      "start": "15:00",
+      "type": null,
+      "venue": "Boys and Girls Club Jersey City",
+      "venue_slug": "boys-and-girls-club-jersey-city"
     },
     "f64016ef-cb12-41c1-9c1c-28d08edb737e": {
       "count": "15",
@@ -338,6 +360,7 @@
     "67f313aa-b015-421a-829c-80e104b6ef10": "2026-10-22",
     "696b0aae-37d5-41d4-b856-13555c1ce807": "2026-10-21",
     "6ed2b722-e265-4d0c-90c1-c025e97849bc": "2026-10-24",
+    "7920c312-ac6f-40ed-9979-b016f727d0cd": "2026-10-25",
     "7ac10035-6e7a-4958-8c90-de9eadda7525": "2026-10-25",
     "83f10573-4282-40e8-bb89-380d7075b44d": "2026-10-24",
     "847c0081-7ade-449b-9fb9-3564072c5079": "2026-10-20",
@@ -358,6 +381,7 @@
     "e0c8425f-2d5f-40eb-8458-2da1b19b6c99": "2026-10-17",
     "e24042ec-6f18-45cc-9472-de56f3378baa": "2026-10-21",
     "e2a1e723-9b97-4e1c-86b2-0d907b8c9bad": "2026-10-20",
+    "ed7b90ca-742a-4038-ba47-1c27a48ea7d9": "2026-10-25",
     "f64016ef-cb12-41c1-9c1c-28d08edb737e": "2026-10-17",
     "f7aaceaf-af35-4574-bd11-0587975aa874": "2026-10-20"
   }
