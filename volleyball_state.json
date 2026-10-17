@@ -7,7 +7,7 @@
       "full_name": "Sunday 10/25 - Volleyball Pickup (All Levels) - Hunter's Point South 12:00pm",
       "max": "16",
       "start": "12:00",
-      "type": null,
+      "type": "Volleyball Pickup - 6v6 - Coed",
       "venue": "Hunter's Point South",
       "venue_slug": "hunters-point-south"
     },
@@ -264,17 +264,6 @@
       "venue": "Riverside North Beach Volleyball",
       "venue_slug": "riverside-north-beach-volleyball"
     },
-    "a76bffde-788e-44c7-8212-eb3120e29317": {
-      "count": "2",
-      "date": "2026-10-17T18:00:00+00:00",
-      "end": "16:00",
-      "full_name": "Saturday 10/17 - Volleyball (6v6) - Hunter's Point South Long Island City 2PM",
-      "max": "16",
-      "start": "14:00",
-      "type": "Saturday - Volleyball - Long Island City",
-      "venue": "Hunter's Point South Long Island City 2PM",
-      "venue_slug": "hunters-point-south"
-    },
     "bc44b49b-2369-4db3-9aca-5adf81584dc1": {
       "count": "4",
       "date": "2026-10-25T19:00:00+00:00",
@@ -309,7 +298,7 @@
       "venue_slug": "riverside-park-south"
     },
     "d1adc638-7afc-4495-9edd-7b343b5149af": {
-      "count": "8",
+      "count": "9",
       "date": "2026-10-27T00:30:00+00:00",
       "end": "21:09",
       "full_name": "Monday 10/26 - Volleyball Pickup (All Levels) - La Salle Academy 8:30pm",
