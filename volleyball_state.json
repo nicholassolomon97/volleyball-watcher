@@ -143,17 +143,6 @@
       "venue": "Kotofit - 88 Bishop",
       "venue_slug": "kotofit-88-bishop"
     },
-    "6ed2b722-e265-4d0c-90c1-c025e97849bc": {
-      "count": "15",
-      "date": "2026-10-24T16:00:00+00:00",
-      "end": "13:45",
-      "full_name": "Saturday 10/24 - Volleyball Pickup (All Levels) - The Door 12:00pm",
-      "max": "16",
-      "start": "12:00",
-      "type": "Volleyball Pickup - 6v6 - Coed",
-      "venue": "The Door",
-      "venue_slug": "the-door"
-    },
     "83f10573-4282-40e8-bb89-380d7075b44d": {
       "count": "3",
       "date": "2026-10-24T20:15:00+00:00",
@@ -249,7 +238,7 @@
       "full_name": "Tuesday 10/27 - Volleyball Pickup (All Levels) - St. Patrick's Youth Center 6:15pm",
       "max": "16",
       "start": "18:15",
-      "type": null,
+      "type": "Volleyball Pickup - 6v6 - Coed",
       "venue": "St. Patrick's Youth Center",
       "venue_slug": "st-patricks-youth-center"
     },
