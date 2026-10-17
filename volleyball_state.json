@@ -11,17 +11,6 @@
       "venue": "Hunter's Point South",
       "venue_slug": "hunters-point-south"
     },
-    "07ba8438-8449-4cfd-8d5c-9b4c262cf49c": {
-      "count": "8",
-      "date": "2026-10-17T16:00:00+00:00",
-      "end": "14:00",
-      "full_name": "Saturday 10/17 - Volleyball (6v6) - Hunter's Point South Long Island City 12PM",
-      "max": "16",
-      "start": "12:00",
-      "type": "Saturday - Volleyball - Long Island City",
-      "venue": "Hunter's Point South",
-      "venue_slug": "hunters-point-south"
-    },
     "09ab83f3-62f5-4ab3-9069-bcc6213b28a1": {
       "count": "14",
       "date": "2026-10-18T19:00:00+00:00",
@@ -231,17 +220,6 @@
       "venue": "Hunter's Point South",
       "venue_slug": "hunters-point-south"
     },
-    "949543f5-8050-4a62-8a02-90ced64769de": {
-      "count": "14",
-      "date": "2026-10-17T16:00:00+00:00",
-      "end": "13:45",
-      "full_name": "Saturday 10/17 - Volleyball Pickup (All Levels) - The Door 12:00pm",
-      "max": "16",
-      "start": "12:00",
-      "type": "Volleyball Pickup - 6v6 - Coed",
-      "venue": "The Door",
-      "venue_slug": "the-door"
-    },
     "9ff35bf9-a3a7-4090-a821-93f7a8d45c0e": {
       "count": "0",
       "date": "2026-10-25T18:15:00+00:00",
@@ -260,8 +238,8 @@
       "full_name": "Sunday 10/25 - Volleyball - St. Patrick's Youth Center Lower East Side 3PM",
       "max": "16",
       "start": "15:00",
-      "type": null,
-      "venue": "St. Patrick's Youth Center",
+      "type": "Sunday - Volleyball - Lower East Side",
+      "venue": "St. Patrick's Youth Center Lower East Side 3PM",
       "venue_slug": "st-patricks-youth-center"
     },
     "c89312a9-0388-46a4-8a2d-8d700e7cac15": {
@@ -282,7 +260,7 @@
       "full_name": "Sunday 10/25 - Volleyball Pickup (All Levels) - Riverside Park South 3:00pm",
       "max": "16",
       "start": "15:00",
-      "type": null,
+      "type": "Volleyball Pickup - Coed",
       "venue": "Riverside Park South",
       "venue_slug": "riverside-park-south"
     },
