@@ -97,7 +97,7 @@
       "start": "18:30",
       "type": null,
       "venue": "Xavier High School",
-      "venue_slug": null
+      "venue_slug": "xavier-high-school"
     },
     "44fc9533-9c82-4967-b478-e60e9bcb8965": {
       "count": "3",
@@ -187,6 +187,17 @@
       "venue": "Hunter's Point South",
       "venue_slug": "hunters-point-south"
     },
+    "92de3dd1-863d-4243-bd99-2eeb38487e6b": {
+      "count": "15",
+      "date": "2026-10-18T21:15:00+00:00",
+      "end": "19:00",
+      "full_name": "Sunday 10/18 - Volleyball - Xavier High School Union Square 5:15PM",
+      "max": "16",
+      "start": "17:15",
+      "type": "Sunday - Volleyball - Union Square",
+      "venue": "Xavier High School",
+      "venue_slug": "xavier-high-school"
+    },
     "9ff35bf9-a3a7-4090-a821-93f7a8d45c0e": {
       "count": "0",
       "date": "2026-10-25T18:15:00+00:00",
@@ -249,7 +260,7 @@
       "full_name": "Tuesday 10/27 - Volleyball Pickup (All Levels) - St. Patrick's Youth Center 6:15pm",
       "max": "16",
       "start": "18:15",
-      "type": "Volleyball Pickup - 6v6 - Coed",
+      "type": null,
       "venue": "St. Patrick's Youth Center",
       "venue_slug": "st-patricks-youth-center"
     },
