@@ -12,7 +12,7 @@
       "venue_slug": "hunters-point-south"
     },
     "09ab83f3-62f5-4ab3-9069-bcc6213b28a1": {
-      "count": "14",
+      "count": "15",
       "date": "2026-10-18T19:00:00+00:00",
       "end": "16:00",
       "full_name": "Sunday 10/18 - Volleyball - St. Patrick's Youth Center Lower East Side 3PM",
@@ -100,7 +100,7 @@
       "venue_slug": "la-salle-academy"
     },
     "41e9a35c-9da0-49dd-bb84-33c0f0b90892": {
-      "count": "1",
+      "count": "2",
       "date": "2026-10-27T22:30:00+00:00",
       "end": "19:15",
       "full_name": "Tuesday 10/27 - Volleyball Pickup (All Levels) - Xavier High School 6:30pm",
@@ -108,7 +108,7 @@
       "start": "18:30",
       "type": null,
       "venue": "Xavier High School",
-      "venue_slug": null
+      "venue_slug": "xavier-high-school"
     },
     "44fc9533-9c82-4967-b478-e60e9bcb8965": {
       "count": "3",
@@ -205,8 +205,8 @@
       "full_name": "Sunday 10/25 - Volleyball (4v4) - John Jay High School Prospect Park 5PM",
       "max": "12",
       "start": "17:00",
-      "type": "Sunday - Volleyball - Prospect Park",
-      "venue": "John Jay High School Prospect Park 5PM",
+      "type": null,
+      "venue": "John Jay High School",
       "venue_slug": "john-jay-high-school"
     },
     "89f1c2db-ceec-4b76-b733-6c5d99880541": {
@@ -219,6 +219,17 @@
       "type": "Volleyball Pickup - 6v6 - Coed",
       "venue": "Hunter's Point South",
       "venue_slug": "hunters-point-south"
+    },
+    "92de3dd1-863d-4243-bd99-2eeb38487e6b": {
+      "count": "15",
+      "date": "2026-10-18T21:15:00+00:00",
+      "end": "19:00",
+      "full_name": "Sunday 10/18 - Volleyball - Xavier High School Union Square 5:15PM",
+      "max": "16",
+      "start": "17:15",
+      "type": "Sunday - Volleyball - Union Square",
+      "venue": "Xavier High School",
+      "venue_slug": "xavier-high-school"
     },
     "9ff35bf9-a3a7-4090-a821-93f7a8d45c0e": {
       "count": "0",
