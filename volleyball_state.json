@@ -139,7 +139,7 @@
       "full_name": "Monday 10/26 - Volleyball Pickup (All Levels) - La Salle Academy 9:45pm",
       "max": "16",
       "start": "21:45",
-      "type": null,
+      "type": "Volleyball Pickup - 6v6 - Coed",
       "venue": "La Salle Academy",
       "venue_slug": "la-salle-academy"
     },
@@ -285,17 +285,6 @@
       "type": null,
       "venue": "Liberty Harbor Courts @ Surf City",
       "venue_slug": "liberty-harbor-courts-surf-city"
-    },
-    "f64016ef-cb12-41c1-9c1c-28d08edb737e": {
-      "count": "20",
-      "date": "2026-10-17T20:15:00+00:00",
-      "end": "18:00",
-      "full_name": "Saturday 10/17 - Volleyball Pickup (All Levels) - Pier 6 4:15pm",
-      "max": "32",
-      "start": "16:15",
-      "type": "Volleyball Pickup - 6v6 - Coed",
-      "venue": "Pier 6",
-      "venue_slug": "pier-6"
     },
     "f708537f-8aa2-4a6e-b15e-7cb303515d7d": {
       "count": "0",
