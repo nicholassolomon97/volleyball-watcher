@@ -162,8 +162,8 @@
       "max": "18",
       "start": "19:00",
       "type": "Wednesday - Volleyball Pickup - Jersey City",
-      "venue": "88 Bishop Jersey City 7PM",
-      "venue_slug": null
+      "venue": "Kotofit - 88 Bishop",
+      "venue_slug": "kotofit-88-bishop"
     },
     "6ed2b722-e265-4d0c-90c1-c025e97849bc": {
       "count": "15",
@@ -205,8 +205,8 @@
       "full_name": "Sunday 10/25 - Volleyball (4v4) - John Jay High School Prospect Park 5PM",
       "max": "12",
       "start": "17:00",
-      "type": null,
-      "venue": "John Jay High School",
+      "type": "Sunday - Volleyball - Prospect Park",
+      "venue": "John Jay High School Prospect Park 5PM",
       "venue_slug": "john-jay-high-school"
     },
     "89f1c2db-ceec-4b76-b733-6c5d99880541": {
@@ -285,17 +285,6 @@
       "type": null,
       "venue": "St. Patrick's Youth Center",
       "venue_slug": "st-patricks-youth-center"
-    },
-    "e0c8425f-2d5f-40eb-8458-2da1b19b6c99": {
-      "count": "10",
-      "date": "2026-10-17T17:00:00+00:00",
-      "end": "14:00",
-      "full_name": "Saturday 10/17 - Volleyball - Kotofit - 88 Bishop Jersey City 1PM",
-      "max": "16",
-      "start": "13:00",
-      "type": "Saturday - Volleyball - Jersey City",
-      "venue": "Kotofit - 88 Bishop",
-      "venue_slug": "kotofit-88-bishop"
     },
     "e24042ec-6f18-45cc-9472-de56f3378baa": {
       "count": "16",
