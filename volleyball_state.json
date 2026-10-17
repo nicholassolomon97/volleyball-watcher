@@ -1,5 +1,16 @@
 {
   "current": {
+    "02acf82c-76d7-441c-b292-020862108fa2": {
+      "count": "15",
+      "date": "2026-10-18T15:00:00+00:00",
+      "end": "12:00",
+      "full_name": "Sunday 10/18 - Volleyball Pickup (All Levels) - Baruch College 11:00am",
+      "max": "16",
+      "start": "11:00",
+      "type": "Volleyball Pickup - 6v6 - Coed",
+      "venue": "Baruch College",
+      "venue_slug": "baruch-college"
+    },
     "06b72962-32ce-462e-bfb2-bb0e3a121a0e": {
       "count": "0",
       "date": "2026-10-25T16:00:00+00:00",
@@ -238,7 +249,7 @@
       "full_name": "Tuesday 10/27 - Volleyball Pickup (All Levels) - St. Patrick's Youth Center 6:15pm",
       "max": "16",
       "start": "18:15",
-      "type": "Volleyball Pickup - 6v6 - Coed",
+      "type": null,
       "venue": "St. Patrick's Youth Center",
       "venue_slug": "st-patricks-youth-center"
     },
