@@ -22,17 +22,6 @@
       "venue": "Hunter's Point South",
       "venue_slug": "hunters-point-south"
     },
-    "086e7dd0-e2d5-482c-920f-ffef87141c4f": {
-      "count": "2",
-      "date": "2026-10-17T19:30:00+00:00",
-      "end": "17:00",
-      "full_name": "Saturday 10/17 - Volleyball (6v6) - The Post BK - 100 Dobbin St Williamsburg 4:15PM",
-      "max": "16",
-      "start": "16:15",
-      "type": "Saturday - Volleyball - Williamsburg",
-      "venue": "The Post BK - 100 Dobbin St",
-      "venue_slug": "the-post-bk-100-dobbin-st"
-    },
     "09ab83f3-62f5-4ab3-9069-bcc6213b28a1": {
       "count": "14",
       "date": "2026-10-18T19:00:00+00:00",
@@ -205,9 +194,9 @@
       "full_name": "Sunday 10/25 - Volleyball Pickup (All Levels) - Baruch College 11:00am",
       "max": "16",
       "start": "11:00",
-      "type": null,
+      "type": "Volleyball Pickup - 6v6 - Coed",
       "venue": "Baruch College",
-      "venue_slug": null
+      "venue_slug": "baruch-college"
     },
     "83f10573-4282-40e8-bb89-380d7075b44d": {
       "count": "3",
