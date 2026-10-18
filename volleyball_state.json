@@ -118,7 +118,7 @@
       "max": "16",
       "start": "12:00",
       "type": "Saturday - Volleyball - Long Island City",
-      "venue": "Hunter's Point South Long Island City 12PM",
+      "venue": "Hunter's Point South",
       "venue_slug": "hunters-point-south"
     },
     "41e9a35c-9da0-49dd-bb84-33c0f0b90892": {
@@ -128,9 +128,9 @@
       "full_name": "Tuesday 10/27 - Volleyball Pickup (All Levels) - Xavier High School 6:30pm",
       "max": "16",
       "start": "18:30",
-      "type": null,
+      "type": "Volleyball Pickup - 6v6 - Coed",
       "venue": "Xavier High School",
-      "venue_slug": null
+      "venue_slug": "xavier-high-school"
     },
     "44fc9533-9c82-4967-b478-e60e9bcb8965": {
       "count": "3",
@@ -208,17 +208,6 @@
       "type": "Sunday - Volleyball - Prospect Park",
       "venue": "John Jay High School Prospect Park 5PM",
       "venue_slug": "john-jay-high-school"
-    },
-    "89f1c2db-ceec-4b76-b733-6c5d99880541": {
-      "count": "0",
-      "date": "2026-10-18T16:00:00+00:00",
-      "end": "13:00",
-      "full_name": "Sunday 10/18 - Volleyball Pickup (All Levels) - Hunter's Point South 12:00pm",
-      "max": "16",
-      "start": "12:00",
-      "type": "Volleyball Pickup - 6v6 - Coed",
-      "venue": "Hunter's Point South",
-      "venue_slug": "hunters-point-south"
     },
     "9ff35bf9-a3a7-4090-a821-93f7a8d45c0e": {
       "count": "0",
