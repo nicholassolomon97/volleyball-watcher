@@ -55,6 +55,17 @@
       "venue": "Pier 6",
       "venue_slug": "pier-6"
     },
+    "23c5c2d6-fa60-411d-8fec-7f8bacec7d87": {
+      "count": "0",
+      "date": "2026-10-28T23:00:00+00:00",
+      "end": "20:00",
+      "full_name": "Wednesday 10/28 - Volleyball Pickup- Kotofit - 88 Bishop Jersey City 7PM",
+      "max": "18",
+      "start": "19:00",
+      "type": null,
+      "venue": "Kotofit - 88 Bishop",
+      "venue_slug": "kotofit-88-bishop"
+    },
     "29056485-bdf2-41da-9ece-59f7d73b8783": {
       "count": "0",
       "date": "2026-10-26T23:00:00+00:00",
@@ -65,6 +76,17 @@
       "type": "Volleyball Pickup - 6v6 - Coed",
       "venue": "Pier 6",
       "venue_slug": "pier-6"
+    },
+    "2e046629-fabf-4022-8b68-f06bac9acc9b": {
+      "count": "0",
+      "date": "2026-10-28T22:15:00+00:00",
+      "end": "19:00",
+      "full_name": "Wednesday 10/28 - Volleyball (6v6) - St. Patrick's Youth Center Lower East Side 6:15PM",
+      "max": "32",
+      "start": "18:15",
+      "type": null,
+      "venue": "St. Patrick's Youth Center",
+      "venue_slug": "st-patricks-youth-center"
     },
     "351f488a-03cc-4131-af49-45e4f4af0584": {
       "count": "2",
@@ -286,6 +308,17 @@
       "venue": "Liberty Harbor Courts @ Surf City",
       "venue_slug": "liberty-harbor-courts-surf-city"
     },
+    "f5017c89-db3c-4020-9fec-0641d74d88f0": {
+      "count": "0",
+      "date": "2026-10-28T22:00:00+00:00",
+      "end": "18:45",
+      "full_name": "Wednesday 10/28 - Volleyball (6v6) - Pier 25 West Village 6PM",
+      "max": "14",
+      "start": "18:00",
+      "type": null,
+      "venue": "Pier 25",
+      "venue_slug": "pier-25"
+    },
     "f708537f-8aa2-4a6e-b15e-7cb303515d7d": {
       "count": "0",
       "date": "2026-10-27T23:00:00+00:00",
@@ -313,20 +346,19 @@
     "02acf82c-76d7-441c-b292-020862108fa2": "2026-10-18",
     "05e198b6-beb4-4f22-9a24-a3cb9dd03113": "2026-10-27",
     "06b72962-32ce-462e-bfb2-bb0e3a121a0e": "2026-10-25",
-    "07ba8438-8449-4cfd-8d5c-9b4c262cf49c": "2026-10-17",
-    "086e7dd0-e2d5-482c-920f-ffef87141c4f": "2026-10-17",
     "09ab83f3-62f5-4ab3-9069-bcc6213b28a1": "2026-10-18",
     "11a3c971-c271-4f5a-a366-77c0cedc4dc4": "2026-10-18",
     "19257e6a-aac3-4790-ad93-0380bc9b1c4f": "2026-10-24",
     "19601f68-5409-4191-b35e-088db3857ba4": "2026-10-19",
     "2008ca85-66e1-4186-8bd8-ac093e0d2b54": "2026-10-24",
+    "23c5c2d6-fa60-411d-8fec-7f8bacec7d87": "2026-10-28",
     "29056485-bdf2-41da-9ece-59f7d73b8783": "2026-10-26",
     "2b7d4928-1a6e-469b-831e-349f2571cf37": "2026-10-25",
+    "2e046629-fabf-4022-8b68-f06bac9acc9b": "2026-10-28",
     "30f432eb-24cd-478c-ac10-a6e66405883d": "2026-10-22",
     "351f488a-03cc-4131-af49-45e4f4af0584": "2026-10-21",
     "37404812-5e22-4876-bdb4-3e1ae991ac0d": "2026-10-21",
     "3c1fcb20-b001-4e40-8218-e96a60738eb2": "2026-10-24",
-    "3e66db04-fb1b-4b15-866b-ae64ae66fe59": "2026-10-17",
     "3f4de82d-5d7b-49a8-adb7-8441c1756e27": "2026-10-21",
     "41e9a35c-9da0-49dd-bb84-33c0f0b90892": "2026-10-27",
     "44fc9533-9c82-4967-b478-e60e9bcb8965": "2026-10-24",
@@ -345,12 +377,9 @@
     "847c0081-7ade-449b-9fb9-3564072c5079": "2026-10-20",
     "879cdcee-5926-4266-8d27-039ff414aed1": "2026-10-25",
     "89f1c2db-ceec-4b76-b733-6c5d99880541": "2026-10-18",
-    "8a84dafb-e958-46ad-a189-9f9441aeba5e": "2026-10-17",
     "90a82c97-d6d2-4029-8688-4f92b6f156a4": "2026-10-27",
     "92de3dd1-863d-4243-bd99-2eeb38487e6b": "2026-10-18",
-    "949543f5-8050-4a62-8a02-90ced64769de": "2026-10-17",
     "9ff35bf9-a3a7-4090-a821-93f7a8d45c0e": "2026-10-25",
-    "a76bffde-788e-44c7-8212-eb3120e29317": "2026-10-17",
     "aab7cde6-ed48-4cc0-8071-de084425c8a3": "2026-10-24",
     "bc44b49b-2369-4db3-9aca-5adf81584dc1": "2026-10-25",
     "c89312a9-0388-46a4-8a2d-8d700e7cac15": "2026-10-18",
@@ -359,12 +388,11 @@
     "d1adc638-7afc-4495-9edd-7b343b5149af": "2026-10-26",
     "d6390d52-3017-4c2f-a4af-6d1acd026b7f": "2026-10-20",
     "da541991-217b-4e5e-bbcb-674804c79da1": "2026-10-27",
-    "e0c8425f-2d5f-40eb-8458-2da1b19b6c99": "2026-10-17",
     "e24042ec-6f18-45cc-9472-de56f3378baa": "2026-10-21",
     "e2a1e723-9b97-4e1c-86b2-0d907b8c9bad": "2026-10-20",
     "e6e6f8d4-fb40-448f-a4d3-721e82516abb": "2026-10-27",
     "ed7b90ca-742a-4038-ba47-1c27a48ea7d9": "2026-10-25",
-    "f64016ef-cb12-41c1-9c1c-28d08edb737e": "2026-10-17",
+    "f5017c89-db3c-4020-9fec-0641d74d88f0": "2026-10-28",
     "f708537f-8aa2-4a6e-b15e-7cb303515d7d": "2026-10-27",
     "f7aaceaf-af35-4574-bd11-0587975aa874": "2026-10-20"
   }
