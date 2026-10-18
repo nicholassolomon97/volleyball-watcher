@@ -63,8 +63,8 @@
       "max": "16",
       "start": "14:00",
       "type": "Saturday - Volleyball - Williamsburg",
-      "venue": "The Post BK - 100 Dobbin St",
-      "venue_slug": "the-post-bk-100-dobbin-st"
+      "venue": "100 Dobbin St Williamsburg",
+      "venue_slug": null
     },
     "23c5c2d6-fa60-411d-8fec-7f8bacec7d87": {
       "count": "1",
@@ -153,6 +153,17 @@
       "type": "Volleyball Pickup - 6v6 - Coed",
       "venue": "Liberty Harbor Courts @ Surf City",
       "venue_slug": "liberty-harbor-courts-surf-city"
+    },
+    "64ebc119-eac8-44fb-9cae-cb7668a3861f": {
+      "count": "15",
+      "date": "2026-10-20T22:00:00+00:00",
+      "end": "19:00",
+      "full_name": "Tuesday 10/20 - Volleyball Pickup (All Levels) - The Post BK - 100 Dobbin St 6:00pm",
+      "max": "16",
+      "start": "18:00",
+      "type": "Volleyball Pickup - 6v6 - Coed",
+      "venue": "The Post BK - 100 Dobbin St",
+      "venue_slug": "the-post-bk-100-dobbin-st"
     },
     "662b750c-6367-4099-a28d-a192a16b8db6": {
       "count": "13",
@@ -260,7 +271,7 @@
       "full_name": "Tuesday 10/27 - Volleyball Pickup (All Levels) - Liberty Harbor Courts @ Surf City 8:30pm",
       "max": "16",
       "start": "20:30",
-      "type": "Volleyball Pickup - 6v6 - Coed",
+      "type": null,
       "venue": "Liberty Harbor Courts @ Surf City",
       "venue_slug": "liberty-harbor-courts-surf-city"
     },
