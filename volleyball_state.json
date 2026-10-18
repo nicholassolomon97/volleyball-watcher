@@ -340,6 +340,17 @@
       "type": "Volleyball Pickup - 6v6 - Coed",
       "venue": "Liberty Harbor Courts @ Surf City",
       "venue_slug": "liberty-harbor-courts-surf-city"
+    },
+    "f9960230-e57e-442e-b5a5-7820fe7b1b0d": {
+      "count": "1",
+      "date": "2026-11-01T18:00:00+00:00",
+      "end": "15:00",
+      "full_name": "Sunday 11/1 - Volleyball Pickup (Advanced/competitive) - Boys and Girls Club Jersey City 1:00pm",
+      "max": "18",
+      "start": "13:00",
+      "type": null,
+      "venue": "Boys and Girls Club Jersey City",
+      "venue_slug": null
     }
   },
   "seen": {
@@ -394,6 +405,7 @@
     "ed7b90ca-742a-4038-ba47-1c27a48ea7d9": "2026-10-25",
     "f5017c89-db3c-4020-9fec-0641d74d88f0": "2026-10-28",
     "f708537f-8aa2-4a6e-b15e-7cb303515d7d": "2026-10-27",
-    "f7aaceaf-af35-4574-bd11-0587975aa874": "2026-10-20"
+    "f7aaceaf-af35-4574-bd11-0587975aa874": "2026-10-20",
+    "f9960230-e57e-442e-b5a5-7820fe7b1b0d": "2026-11-01"
   }
 }
