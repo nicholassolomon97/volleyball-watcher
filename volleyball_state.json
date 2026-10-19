@@ -128,7 +128,7 @@
       "full_name": "Thursday 10/29 - Volleyball Pickup (All Levels) - Liberty Harbor Courts @ Surf City 7:00pm",
       "max": "16",
       "start": "19:00",
-      "type": null,
+      "type": "Volleyball Pickup - 6v6 - Coed",
       "venue": "Liberty Harbor Courts @ Surf City",
       "venue_slug": "liberty-harbor-courts-surf-city"
     },
@@ -208,17 +208,6 @@
       "type": "Volleyball Pickup - Coed",
       "venue": "Riverside Park South",
       "venue_slug": "riverside-park-south"
-    },
-    "d829d1ac-2e23-49bb-8306-1ae98b65a6ad": {
-      "count": "11",
-      "date": "2026-10-29T22:00:00+00:00",
-      "end": "19:00",
-      "full_name": "Thursday 10/29 - Volleyball Pickup (All Levels) - The Post BK - 100 Dobbin St 6:00pm",
-      "max": "16",
-      "start": "18:00",
-      "type": "Volleyball Pickup - 6v6 - Coed",
-      "venue": "The Post BK - 100 Dobbin St",
-      "venue_slug": "the-post-bk-100-dobbin-st"
     },
     "da541991-217b-4e5e-bbcb-674804c79da1": {
       "count": "1",
