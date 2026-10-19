@@ -40,9 +40,9 @@
       "full_name": "Wednesday 10/28 - Volleyball Pickup- Kotofit - 88 Bishop Jersey City 7PM",
       "max": "18",
       "start": "19:00",
-      "type": "Wednesday - Volleyball Pickup - Jersey City",
-      "venue": "88 Bishop Jersey City 7PM",
-      "venue_slug": null
+      "type": null,
+      "venue": "Kotofit - 88 Bishop",
+      "venue_slug": "kotofit-88-bishop"
     },
     "29056485-bdf2-41da-9ece-59f7d73b8783": {
       "count": "0",
@@ -62,8 +62,8 @@
       "full_name": "Wednesday 10/28 - Volleyball (6v6) - St. Patrick's Youth Center Lower East Side 6:15PM",
       "max": "32",
       "start": "18:15",
-      "type": "Wednesday - Volleyball - Lower East Side",
-      "venue": "St. Patrick's Youth Center Lower East Side",
+      "type": null,
+      "venue": "St. Patrick's Youth Center",
       "venue_slug": "st-patricks-youth-center"
     },
     "351f488a-03cc-4131-af49-45e4f4af0584": {
@@ -99,6 +99,17 @@
       "venue": "Xavier High School",
       "venue_slug": "xavier-high-school"
     },
+    "424fa3d2-3f35-42ce-b852-e921e0b439d6": {
+      "count": "11",
+      "date": "2026-10-20T00:30:00+00:00",
+      "end": "21:45",
+      "full_name": "Monday 10/19 - Volleyball Pickup (All Levels) - La Salle Academy 8:30pm",
+      "max": "16",
+      "start": "20:30",
+      "type": "Volleyball Pickup - 6v6 - Coed",
+      "venue": "La Salle Academy",
+      "venue_slug": "la-salle-academy"
+    },
     "44fc9533-9c82-4967-b478-e60e9bcb8965": {
       "count": "5",
       "date": "2026-10-24T18:00:00+00:00",
@@ -131,6 +142,17 @@
       "type": null,
       "venue": "Liberty Harbor Courts @ Surf City",
       "venue_slug": "liberty-harbor-courts-surf-city"
+    },
+    "68085273-113c-411a-b935-b125014574c6": {
+      "count": "10",
+      "date": "2026-10-20T01:45:00+00:00",
+      "end": "23:00",
+      "full_name": "Monday 10/19 - Volleyball Pickup (All Levels) - La Salle Academy 9:45pm",
+      "max": "16",
+      "start": "21:45",
+      "type": "Volleyball Pickup - 6v6 - Coed",
+      "venue": "La Salle Academy",
+      "venue_slug": "la-salle-academy"
     },
     "696b0aae-37d5-41d4-b856-13555c1ce807": {
       "count": "7",
@@ -303,6 +325,7 @@
     "3c1fcb20-b001-4e40-8218-e96a60738eb2": "2026-10-24",
     "3f4de82d-5d7b-49a8-adb7-8441c1756e27": "2026-10-21",
     "41e9a35c-9da0-49dd-bb84-33c0f0b90892": "2026-10-27",
+    "424fa3d2-3f35-42ce-b852-e921e0b439d6": "2026-10-19",
     "44fc9533-9c82-4967-b478-e60e9bcb8965": "2026-10-24",
     "52a0c9ba-3e36-4379-8363-af995a33b2fe": "2026-10-20",
     "574f44ac-9a62-4aac-9e14-700002e4d964": "2026-10-29",
@@ -311,6 +334,7 @@
     "64ebc119-eac8-44fb-9cae-cb7668a3861f": "2026-10-20",
     "662b750c-6367-4099-a28d-a192a16b8db6": "2026-10-26",
     "67f313aa-b015-421a-829c-80e104b6ef10": "2026-10-22",
+    "68085273-113c-411a-b935-b125014574c6": "2026-10-19",
     "696b0aae-37d5-41d4-b856-13555c1ce807": "2026-10-21",
     "6ed2b722-e265-4d0c-90c1-c025e97849bc": "2026-10-24",
     "6f86cb01-9d1d-4a7a-b56d-b3ba634ebe91": "2026-10-29",
