@@ -55,6 +55,17 @@
       "venue": "Pier 6",
       "venue_slug": "pier-6"
     },
+    "2a24e2c1-f757-4250-b072-cf61bd6e7e9e": {
+      "count": "0",
+      "date": "2026-10-19T23:00:00+00:00",
+      "end": "20:30",
+      "full_name": "Monday 10/19 - Volleyball (6v6) - Chelsea Piers Chelsea 7PM",
+      "max": "16",
+      "start": "19:00",
+      "type": "Monday - Volleyball - Chelsea",
+      "venue": "Chelsea Piers",
+      "venue_slug": "chelsea-piers-1"
+    },
     "2e046629-fabf-4022-8b68-f06bac9acc9b": {
       "count": "2",
       "date": "2026-10-28T22:15:00+00:00",
@@ -106,9 +117,9 @@
       "full_name": "Tuesday 10/27 - Volleyball Pickup (All Levels) - Xavier High School 6:30pm",
       "max": "16",
       "start": "18:30",
-      "type": "Volleyball Pickup - 6v6 - Coed",
+      "type": null,
       "venue": "Xavier High School",
-      "venue_slug": "xavier-high-school"
+      "venue_slug": null
     },
     "44fc9533-9c82-4967-b478-e60e9bcb8965": {
       "count": "5",
@@ -350,6 +361,7 @@
     "2008ca85-66e1-4186-8bd8-ac093e0d2b54": "2026-10-24",
     "23c5c2d6-fa60-411d-8fec-7f8bacec7d87": "2026-10-28",
     "29056485-bdf2-41da-9ece-59f7d73b8783": "2026-10-26",
+    "2a24e2c1-f757-4250-b072-cf61bd6e7e9e": "2026-10-19",
     "2b7d4928-1a6e-469b-831e-349f2571cf37": "2026-10-25",
     "2e046629-fabf-4022-8b68-f06bac9acc9b": "2026-10-28",
     "30f432eb-24cd-478c-ac10-a6e66405883d": "2026-10-22",
