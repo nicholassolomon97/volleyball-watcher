@@ -51,8 +51,8 @@
       "full_name": "Wednesday 10/28 - Volleyball (6v6) - St. Patrick's Youth Center Lower East Side 6:15PM",
       "max": "32",
       "start": "18:15",
-      "type": null,
-      "venue": "St. Patrick's Youth Center",
+      "type": "Wednesday - Volleyball - Lower East Side",
+      "venue": "St. Patrick's Youth Center Lower East Side",
       "venue_slug": "st-patricks-youth-center"
     },
     "351f488a-03cc-4131-af49-45e4f4af0584": {
@@ -307,17 +307,6 @@
       "type": null,
       "venue": "Boys and Girls Club Jersey City",
       "venue_slug": null
-    },
-    "fc078af1-7062-4672-a68e-7aa4b601e5bf": {
-      "count": "4",
-      "date": "2026-10-19T23:00:00+00:00",
-      "end": "20:00",
-      "full_name": "Monday 10/19 - Volleyball (6v6) - Avenues Chelsea 7PM",
-      "max": "16",
-      "start": "19:00",
-      "type": "Monday - Volleyball - Chelsea",
-      "venue": "Avenues",
-      "venue_slug": "avenues"
     }
   },
   "seen": {
