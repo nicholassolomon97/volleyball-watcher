@@ -66,6 +66,17 @@
       "venue": "Chelsea Piers",
       "venue_slug": "chelsea-piers-1"
     },
+    "2b7d4928-1a6e-469b-831e-349f2571cf37": {
+      "count": "15",
+      "date": "2026-10-25T21:15:00+00:00",
+      "end": "19:00",
+      "full_name": "Sunday 10/25 - Volleyball - Xavier High School Union Square 5:15PM",
+      "max": "16",
+      "start": "17:15",
+      "type": "Sunday - Volleyball - Union Square",
+      "venue": "Xavier High School",
+      "venue_slug": "xavier-high-school"
+    },
     "2e046629-fabf-4022-8b68-f06bac9acc9b": {
       "count": "2",
       "date": "2026-10-28T22:15:00+00:00",
@@ -117,7 +128,7 @@
       "full_name": "Tuesday 10/27 - Volleyball Pickup (All Levels) - Xavier High School 6:30pm",
       "max": "16",
       "start": "18:30",
-      "type": "Volleyball Pickup - 6v6 - Coed",
+      "type": null,
       "venue": "Xavier High School",
       "venue_slug": "xavier-high-school"
     },
