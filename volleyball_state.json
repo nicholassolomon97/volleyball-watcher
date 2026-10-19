@@ -117,9 +117,9 @@
       "full_name": "Tuesday 10/27 - Volleyball Pickup (All Levels) - Xavier High School 6:30pm",
       "max": "16",
       "start": "18:30",
-      "type": null,
+      "type": "Volleyball Pickup - 6v6 - Coed",
       "venue": "Xavier High School",
-      "venue_slug": null
+      "venue_slug": "xavier-high-school"
     },
     "44fc9533-9c82-4967-b478-e60e9bcb8965": {
       "count": "5",
@@ -164,28 +164,6 @@
       "type": "Thursday - Volleyball - Lower East Side",
       "venue": "New Design High School",
       "venue_slug": "new-design-high-school"
-    },
-    "5f9c7dce-2976-48bc-bcc5-a22893b2f278": {
-      "count": "15",
-      "date": "2026-10-20T00:00:00+00:00",
-      "end": "20:45",
-      "full_name": "Monday 10/19 - Volleyball (6v6) - St. Patrick's Youth Center Lower East Side 8PM",
-      "max": "16",
-      "start": "20:00",
-      "type": "Monday - Volleyball - Lower East Side",
-      "venue": "St. Patrick's Youth Center",
-      "venue_slug": "st-patricks-youth-center"
-    },
-    "68085273-113c-411a-b935-b125014574c6": {
-      "count": "15",
-      "date": "2026-10-20T01:45:00+00:00",
-      "end": "23:00",
-      "full_name": "Monday 10/19 - Volleyball Pickup (All Levels) - La Salle Academy 9:45pm",
-      "max": "16",
-      "start": "21:45",
-      "type": "Volleyball Pickup - 6v6 - Coed",
-      "venue": "La Salle Academy",
-      "venue_slug": "la-salle-academy"
     },
     "696b0aae-37d5-41d4-b856-13555c1ce807": {
       "count": "8",
@@ -294,7 +272,7 @@
       "max": "32",
       "start": "18:15",
       "type": "Wednesday - Volleyball - Lower East Side",
-      "venue": "St. Patrick's Youth Center Lower East Side",
+      "venue": "St. Patrick's Youth Center",
       "venue_slug": "st-patricks-youth-center"
     },
     "e6e6f8d4-fb40-448f-a4d3-721e82516abb": {
@@ -309,7 +287,7 @@
       "venue_slug": "liberty-harbor-courts-surf-city"
     },
     "f5017c89-db3c-4020-9fec-0641d74d88f0": {
-      "count": "0",
+      "count": "1",
       "date": "2026-10-28T22:00:00+00:00",
       "end": "18:45",
       "full_name": "Wednesday 10/28 - Volleyball (6v6) - Pier 25 West Village 6PM",
@@ -326,7 +304,7 @@
       "full_name": "Tuesday 10/27 - Volleyball Pickup (All Levels) - Liberty Harbor Courts @ Surf City 7:00pm",
       "max": "16",
       "start": "19:00",
-      "type": null,
+      "type": "Volleyball Pickup - 6v6 - Coed",
       "venue": "Liberty Harbor Courts @ Surf City",
       "venue_slug": "liberty-harbor-courts-surf-city"
     },
