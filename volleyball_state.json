@@ -121,6 +121,17 @@
       "venue": "Xavier High School",
       "venue_slug": "xavier-high-school"
     },
+    "424fa3d2-3f35-42ce-b852-e921e0b439d6": {
+      "count": "15",
+      "date": "2026-10-20T00:30:00+00:00",
+      "end": "21:45",
+      "full_name": "Monday 10/19 - Volleyball Pickup (All Levels) - La Salle Academy 8:30pm",
+      "max": "16",
+      "start": "20:30",
+      "type": "Volleyball Pickup - 6v6 - Coed",
+      "venue": "La Salle Academy",
+      "venue_slug": "la-salle-academy"
+    },
     "44fc9533-9c82-4967-b478-e60e9bcb8965": {
       "count": "5",
       "date": "2026-10-24T18:00:00+00:00",
@@ -315,7 +326,7 @@
       "full_name": "Tuesday 10/27 - Volleyball Pickup (All Levels) - Liberty Harbor Courts @ Surf City 7:00pm",
       "max": "16",
       "start": "19:00",
-      "type": "Volleyball Pickup - 6v6 - Coed",
+      "type": null,
       "venue": "Liberty Harbor Courts @ Surf City",
       "venue_slug": "liberty-harbor-courts-surf-city"
     },
