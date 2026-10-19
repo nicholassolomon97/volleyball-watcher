@@ -77,17 +77,6 @@
       "venue": "St. Patrick's Youth Center",
       "venue_slug": "st-patricks-youth-center"
     },
-    "30f432eb-24cd-478c-ac10-a6e66405883d": {
-      "count": "15",
-      "date": "2026-10-22T22:00:00+00:00",
-      "end": "19:00",
-      "full_name": "Thursday 10/22 - Volleyball Pickup (All Levels) - La Salle Academy 6:00pm",
-      "max": "16",
-      "start": "18:00",
-      "type": "Volleyball Pickup - 6v6 - Coed",
-      "venue": "La Salle Academy",
-      "venue_slug": "la-salle-academy"
-    },
     "351f488a-03cc-4131-af49-45e4f4af0584": {
       "count": "2",
       "date": "2026-10-21T22:00:00+00:00",
@@ -153,6 +142,17 @@
       "type": null,
       "venue": "Liberty Harbor Courts @ Surf City",
       "venue_slug": "liberty-harbor-courts-surf-city"
+    },
+    "57920c67-b787-4cd9-820c-ea5038de5fdd": {
+      "count": "15",
+      "date": "2026-10-22T23:00:00+00:00",
+      "end": "21:00",
+      "full_name": "Thursday 10/22 - Volleyball (6v6) - New Design High School Lower East Side 7PM",
+      "max": "16",
+      "start": "19:00",
+      "type": "Thursday - Volleyball - Lower East Side",
+      "venue": "New Design High School",
+      "venue_slug": "new-design-high-school"
     },
     "696b0aae-37d5-41d4-b856-13555c1ce807": {
       "count": "8",
@@ -320,7 +320,7 @@
       "venue_slug": "liberty-harbor-courts-surf-city"
     },
     "f9960230-e57e-442e-b5a5-7820fe7b1b0d": {
-      "count": "16",
+      "count": "17",
       "date": "2026-11-01T18:00:00+00:00",
       "end": "15:00",
       "full_name": "Sunday 11/1 - Volleyball Pickup (Advanced/competitive) - Boys and Girls Club Jersey City 1:00pm",
