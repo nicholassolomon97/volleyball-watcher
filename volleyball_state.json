@@ -22,17 +22,6 @@
       "venue": "Hunter's Point South Long Island City 2PM",
       "venue_slug": "hunters-point-south"
     },
-    "19601f68-5409-4191-b35e-088db3857ba4": {
-      "count": "2",
-      "date": "2026-10-19T23:00:00+00:00",
-      "end": "20:00",
-      "full_name": "Monday 10/19 - Volleyball Pickup (All Levels) - Pier 6 7:00pm",
-      "max": "16",
-      "start": "19:00",
-      "type": "Volleyball Pickup - 6v6 - Coed",
-      "venue": "Pier 6",
-      "venue_slug": "pier-6"
-    },
     "23c5c2d6-fa60-411d-8fec-7f8bacec7d87": {
       "count": "1",
       "date": "2026-10-28T23:00:00+00:00",
@@ -54,17 +43,6 @@
       "type": "Volleyball Pickup - 6v6 - Coed",
       "venue": "Pier 6",
       "venue_slug": "pier-6"
-    },
-    "2a24e2c1-f757-4250-b072-cf61bd6e7e9e": {
-      "count": "0",
-      "date": "2026-10-19T23:00:00+00:00",
-      "end": "20:30",
-      "full_name": "Monday 10/19 - Volleyball (6v6) - Chelsea Piers Chelsea 7PM",
-      "max": "16",
-      "start": "19:00",
-      "type": "Monday - Volleyball - Chelsea",
-      "venue": "Chelsea Piers",
-      "venue_slug": "chelsea-piers-1"
     },
     "2e046629-fabf-4022-8b68-f06bac9acc9b": {
       "count": "3",
@@ -282,7 +260,7 @@
       "full_name": "Tuesday 10/27 - Volleyball Pickup (All Levels) - Liberty Harbor Courts @ Surf City 8:30pm",
       "max": "16",
       "start": "20:30",
-      "type": null,
+      "type": "Volleyball Pickup - 6v6 - Coed",
       "venue": "Liberty Harbor Courts @ Surf City",
       "venue_slug": "liberty-harbor-courts-surf-city"
     },
@@ -293,8 +271,8 @@
       "full_name": "Wednesday 10/28 - Volleyball (6v6) - Pier 25 West Village 6PM",
       "max": "14",
       "start": "18:00",
-      "type": null,
-      "venue": "Pier 25",
+      "type": "Wednesday - Volleyball - West Village",
+      "venue": "Pier 25 West Village 6PM",
       "venue_slug": "pier-25"
     },
     "f708537f-8aa2-4a6e-b15e-7cb303515d7d": {
