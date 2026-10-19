@@ -143,17 +143,6 @@
       "venue": "Liberty Harbor Courts @ Surf City",
       "venue_slug": "liberty-harbor-courts-surf-city"
     },
-    "5f9c7dce-2976-48bc-bcc5-a22893b2f278": {
-      "count": "15",
-      "date": "2026-10-20T00:00:00+00:00",
-      "end": "20:45",
-      "full_name": "Monday 10/19 - Volleyball (6v6) - St. Patrick's Youth Center Lower East Side 8PM",
-      "max": "16",
-      "start": "20:00",
-      "type": "Monday - Volleyball - Lower East Side",
-      "venue": "St. Patrick's Youth Center",
-      "venue_slug": "st-patricks-youth-center"
-    },
     "68085273-113c-411a-b935-b125014574c6": {
       "count": "12",
       "date": "2026-10-20T01:45:00+00:00",
@@ -272,7 +261,7 @@
       "max": "32",
       "start": "18:15",
       "type": "Wednesday - Volleyball - Lower East Side",
-      "venue": "St. Patrick's Youth Center Lower East Side",
+      "venue": "St. Patrick's Youth Center",
       "venue_slug": "st-patricks-youth-center"
     },
     "e6e6f8d4-fb40-448f-a4d3-721e82516abb": {
@@ -293,8 +282,8 @@
       "full_name": "Wednesday 10/28 - Volleyball (6v6) - Pier 25 West Village 6PM",
       "max": "14",
       "start": "18:00",
-      "type": null,
-      "venue": "Pier 25",
+      "type": "Wednesday - Volleyball - West Village",
+      "venue": "Pier 25 West Village 6PM",
       "venue_slug": "pier-25"
     },
     "f708537f-8aa2-4a6e-b15e-7cb303515d7d": {
