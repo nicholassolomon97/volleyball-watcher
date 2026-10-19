@@ -154,6 +154,17 @@
       "venue": "New Design High School",
       "venue_slug": "new-design-high-school"
     },
+    "68085273-113c-411a-b935-b125014574c6": {
+      "count": "15",
+      "date": "2026-10-20T01:45:00+00:00",
+      "end": "23:00",
+      "full_name": "Monday 10/19 - Volleyball Pickup (All Levels) - La Salle Academy 9:45pm",
+      "max": "16",
+      "start": "21:45",
+      "type": "Volleyball Pickup - 6v6 - Coed",
+      "venue": "La Salle Academy",
+      "venue_slug": "la-salle-academy"
+    },
     "696b0aae-37d5-41d4-b856-13555c1ce807": {
       "count": "8",
       "date": "2026-10-21T23:00:00+00:00",
@@ -271,7 +282,7 @@
       "full_name": "Tuesday 10/27 - Volleyball Pickup (All Levels) - Liberty Harbor Courts @ Surf City 8:30pm",
       "max": "16",
       "start": "20:30",
-      "type": "Volleyball Pickup - 6v6 - Coed",
+      "type": null,
       "venue": "Liberty Harbor Courts @ Surf City",
       "venue_slug": "liberty-harbor-courts-surf-city"
     },
@@ -307,17 +318,6 @@
       "type": "Volleyball Pickup - 6v6 - Coed",
       "venue": "Liberty Harbor Courts @ Surf City",
       "venue_slug": "liberty-harbor-courts-surf-city"
-    },
-    "f9960230-e57e-442e-b5a5-7820fe7b1b0d": {
-      "count": "18",
-      "date": "2026-11-01T18:00:00+00:00",
-      "end": "15:00",
-      "full_name": "Sunday 11/1 - Volleyball Pickup (Advanced/competitive) - Boys and Girls Club Jersey City 1:00pm",
-      "max": "18",
-      "start": "13:00",
-      "type": null,
-      "venue": "Boys and Girls Club Jersey City",
-      "venue_slug": null
     },
     "fc078af1-7062-4672-a68e-7aa4b601e5bf": {
       "count": "3",
