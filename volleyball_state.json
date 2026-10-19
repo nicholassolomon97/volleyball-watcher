@@ -187,6 +187,17 @@
       "venue": "Liberty Harbor Courts @ Surf City",
       "venue_slug": "liberty-harbor-courts-surf-city"
     },
+    "7c6855db-59a9-4d0f-b68a-821c8d7903b2": {
+      "count": "6",
+      "date": "2026-11-01T20:00:00+00:00",
+      "end": "17:00",
+      "full_name": "Sunday 11/1 - Volleyball Pickup (Intermediate) - Boys and Girls Club Jersey City 3:00pm",
+      "max": "18",
+      "start": "15:00",
+      "type": null,
+      "venue": "Boys and Girls Club Jersey City",
+      "venue_slug": null
+    },
     "83f10573-4282-40e8-bb89-380d7075b44d": {
       "count": "7",
       "date": "2026-10-24T20:15:00+00:00",
@@ -319,6 +330,17 @@
       "venue": "Liberty Harbor Courts @ Surf City",
       "venue_slug": "liberty-harbor-courts-surf-city"
     },
+    "f9960230-e57e-442e-b5a5-7820fe7b1b0d": {
+      "count": "5",
+      "date": "2026-11-01T18:00:00+00:00",
+      "end": "15:00",
+      "full_name": "Sunday 11/1 - Volleyball Pickup (Advanced/competitive) - Boys and Girls Club Jersey City 1:00pm",
+      "max": "18",
+      "start": "13:00",
+      "type": null,
+      "venue": "Boys and Girls Club Jersey City",
+      "venue_slug": null
+    },
     "fc078af1-7062-4672-a68e-7aa4b601e5bf": {
       "count": "3",
       "date": "2026-10-19T23:00:00+00:00",
@@ -363,6 +385,7 @@
     "6f86cb01-9d1d-4a7a-b56d-b3ba634ebe91": "2026-10-29",
     "7920c312-ac6f-40ed-9979-b016f727d0cd": "2026-10-25",
     "7ac10035-6e7a-4958-8c90-de9eadda7525": "2026-10-25",
+    "7c6855db-59a9-4d0f-b68a-821c8d7903b2": "2026-11-01",
     "83f10573-4282-40e8-bb89-380d7075b44d": "2026-10-24",
     "847c0081-7ade-449b-9fb9-3564072c5079": "2026-10-20",
     "879cdcee-5926-4266-8d27-039ff414aed1": "2026-10-25",
