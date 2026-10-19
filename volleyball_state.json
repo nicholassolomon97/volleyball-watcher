@@ -40,9 +40,9 @@
       "full_name": "Wednesday 10/28 - Volleyball Pickup- Kotofit - 88 Bishop Jersey City 7PM",
       "max": "18",
       "start": "19:00",
-      "type": null,
-      "venue": "Kotofit - 88 Bishop",
-      "venue_slug": "kotofit-88-bishop"
+      "type": "Wednesday - Volleyball Pickup - Jersey City",
+      "venue": "88 Bishop Jersey City 7PM",
+      "venue_slug": null
     },
     "29056485-bdf2-41da-9ece-59f7d73b8783": {
       "count": "1",
@@ -65,17 +65,6 @@
       "type": "Wednesday - Volleyball - Lower East Side",
       "venue": "St. Patrick's Youth Center Lower East Side",
       "venue_slug": "st-patricks-youth-center"
-    },
-    "30f432eb-24cd-478c-ac10-a6e66405883d": {
-      "count": "15",
-      "date": "2026-10-22T22:00:00+00:00",
-      "end": "19:00",
-      "full_name": "Thursday 10/22 - Volleyball Pickup (All Levels) - La Salle Academy 6:00pm",
-      "max": "16",
-      "start": "18:00",
-      "type": "Volleyball Pickup - 6v6 - Coed",
-      "venue": "La Salle Academy",
-      "venue_slug": "la-salle-academy"
     },
     "351f488a-03cc-4131-af49-45e4f4af0584": {
       "count": "2",
