@@ -62,8 +62,8 @@
       "full_name": "Wednesday 10/28 - Volleyball (6v6) - St. Patrick's Youth Center Lower East Side 6:15PM",
       "max": "32",
       "start": "18:15",
-      "type": "Wednesday - Volleyball - Lower East Side",
-      "venue": "St. Patrick's Youth Center Lower East Side",
+      "type": null,
+      "venue": "St. Patrick's Youth Center",
       "venue_slug": "st-patricks-youth-center"
     },
     "351f488a-03cc-4131-af49-45e4f4af0584": {
@@ -231,6 +231,17 @@
       "venue": "La Salle Academy",
       "venue_slug": "la-salle-academy"
     },
+    "d1c2997e-acd5-4787-8cbc-1ce1478ed0a9": {
+      "count": "0",
+      "date": "2026-10-26T23:00:00+00:00",
+      "end": "20:00",
+      "full_name": "Monday 10/26 - Volleyball (6v6) - Avenues Chelsea 7PM",
+      "max": "16",
+      "start": "19:00",
+      "type": "Monday - Volleyball - Chelsea",
+      "venue": "Avenues Chelsea 7PM",
+      "venue_slug": "avenues"
+    },
     "da541991-217b-4e5e-bbcb-674804c79da1": {
       "count": "1",
       "date": "2026-10-27T22:15:00+00:00",
@@ -271,8 +282,8 @@
       "full_name": "Wednesday 10/28 - Volleyball (6v6) - Pier 25 West Village 6PM",
       "max": "14",
       "start": "18:00",
-      "type": "Wednesday - Volleyball - West Village",
-      "venue": "Pier 25 West Village 6PM",
+      "type": null,
+      "venue": "Pier 25",
       "venue_slug": "pier-25"
     },
     "f708537f-8aa2-4a6e-b15e-7cb303515d7d": {
@@ -296,6 +307,17 @@
       "type": "Volleyball Pickup - 6v6 - Coed",
       "venue": "Liberty Harbor Courts @ Surf City",
       "venue_slug": "liberty-harbor-courts-surf-city"
+    },
+    "fc078af1-7062-4672-a68e-7aa4b601e5bf": {
+      "count": "0",
+      "date": "2026-10-19T23:00:00+00:00",
+      "end": "20:00",
+      "full_name": "Monday 10/19 - Volleyball (6v6) - Avenues Chelsea 7PM",
+      "max": "16",
+      "start": "19:00",
+      "type": "Monday - Volleyball - Chelsea",
+      "venue": "Avenues",
+      "venue_slug": "avenues"
     }
   },
   "seen": {
@@ -339,6 +361,7 @@
     "cd4e7b5b-fbf1-4548-b0da-cc95b3f5ac44": "2026-10-25",
     "cf6a2b7f-bd98-4a4c-9798-45c1dfa3e77c": "2026-10-20",
     "d1adc638-7afc-4495-9edd-7b343b5149af": "2026-10-26",
+    "d1c2997e-acd5-4787-8cbc-1ce1478ed0a9": "2026-10-26",
     "d6390d52-3017-4c2f-a4af-6d1acd026b7f": "2026-10-20",
     "d829d1ac-2e23-49bb-8306-1ae98b65a6ad": "2026-10-29",
     "da541991-217b-4e5e-bbcb-674804c79da1": "2026-10-27",
@@ -349,6 +372,7 @@
     "f5017c89-db3c-4020-9fec-0641d74d88f0": "2026-10-28",
     "f708537f-8aa2-4a6e-b15e-7cb303515d7d": "2026-10-27",
     "f7aaceaf-af35-4574-bd11-0587975aa874": "2026-10-20",
-    "f9960230-e57e-442e-b5a5-7820fe7b1b0d": "2026-11-01"
+    "f9960230-e57e-442e-b5a5-7820fe7b1b0d": "2026-11-01",
+    "fc078af1-7062-4672-a68e-7aa4b601e5bf": "2026-10-19"
   }
 }
