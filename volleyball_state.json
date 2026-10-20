@@ -139,7 +139,7 @@
       "full_name": "Thursday 10/29 - Volleyball Pickup (All Levels) - Liberty Harbor Courts @ Surf City 8:30pm",
       "max": "16",
       "start": "20:30",
-      "type": "Volleyball Pickup - 6v6 - Coed",
+      "type": null,
       "venue": "Liberty Harbor Courts @ Surf City",
       "venue_slug": "liberty-harbor-courts-surf-city"
     },
@@ -197,6 +197,17 @@
       "type": "Tuesday - Volleyball - Lower East Side",
       "venue": "St. Patrick's Youth Center",
       "venue_slug": "st-patricks-youth-center"
+    },
+    "d6390d52-3017-4c2f-a4af-6d1acd026b7f": {
+      "count": "15",
+      "date": "2026-10-20T22:30:00+00:00",
+      "end": "19:15",
+      "full_name": "Tuesday 10/20 - Volleyball Pickup (All Levels) - Xavier High School 6:30pm",
+      "max": "16",
+      "start": "18:30",
+      "type": "Volleyball Pickup - 6v6 - Coed",
+      "venue": "Xavier High School",
+      "venue_slug": "xavier-high-school"
     },
     "da541991-217b-4e5e-bbcb-674804c79da1": {
       "count": "3",
