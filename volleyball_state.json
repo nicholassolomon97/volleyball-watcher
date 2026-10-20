@@ -132,17 +132,6 @@
       "venue": "Kotofit - 88 Bishop",
       "venue_slug": "kotofit-88-bishop"
     },
-    "6ed2b722-e265-4d0c-90c1-c025e97849bc": {
-      "count": "15",
-      "date": "2026-10-24T16:00:00+00:00",
-      "end": "13:45",
-      "full_name": "Saturday 10/24 - Volleyball Pickup (All Levels) - The Door 12:00pm",
-      "max": "16",
-      "start": "12:00",
-      "type": "Volleyball Pickup - 6v6 - Coed",
-      "venue": "The Door",
-      "venue_slug": "the-door"
-    },
     "6f86cb01-9d1d-4a7a-b56d-b3ba634ebe91": {
       "count": "0",
       "date": "2026-10-30T00:30:00+00:00",
@@ -150,7 +139,7 @@
       "full_name": "Thursday 10/29 - Volleyball Pickup (All Levels) - Liberty Harbor Courts @ Surf City 8:30pm",
       "max": "16",
       "start": "20:30",
-      "type": null,
+      "type": "Volleyball Pickup - 6v6 - Coed",
       "venue": "Liberty Harbor Courts @ Surf City",
       "venue_slug": "liberty-harbor-courts-surf-city"
     },
@@ -188,7 +177,7 @@
       "venue_slug": "riverside-north-beach-volleyball"
     },
     "bc44b49b-2369-4db3-9aca-5adf81584dc1": {
-      "count": "12",
+      "count": "13",
       "date": "2026-10-25T19:00:00+00:00",
       "end": "16:00",
       "full_name": "Sunday 10/25 - Volleyball - St. Patrick's Youth Center Lower East Side 3PM",
