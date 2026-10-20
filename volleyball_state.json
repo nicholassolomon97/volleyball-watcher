@@ -121,6 +121,17 @@
       "venue": "Liberty Harbor Courts @ Surf City",
       "venue_slug": "liberty-harbor-courts-surf-city"
     },
+    "64ebc119-eac8-44fb-9cae-cb7668a3861f": {
+      "count": "15",
+      "date": "2026-10-20T22:00:00+00:00",
+      "end": "19:00",
+      "full_name": "Tuesday 10/20 - Volleyball Pickup (All Levels) - The Post BK - 100 Dobbin St 6:00pm",
+      "max": "16",
+      "start": "18:00",
+      "type": "Volleyball Pickup - 6v6 - Coed",
+      "venue": "The Post BK - 100 Dobbin St",
+      "venue_slug": "the-post-bk-100-dobbin-st"
+    },
     "696b0aae-37d5-41d4-b856-13555c1ce807": {
       "count": "9",
       "date": "2026-10-21T23:00:00+00:00",
