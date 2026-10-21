@@ -18,8 +18,8 @@
       "full_name": "Saturday 10/31 - Volleyball (6v6) - La Salle Academy Lower East Side 3:15PM",
       "max": "16",
       "start": "15:15",
-      "type": null,
-      "venue": "La Salle Academy",
+      "type": "Saturday - Volleyball - Lower East Side",
+      "venue": "La Salle Academy Lower East Side",
       "venue_slug": "la-salle-academy"
     },
     "19257e6a-aac3-4790-ad93-0380bc9b1c4f": {
@@ -99,17 +99,6 @@
       "venue": "Liberty Harbor Courts @ Surf City",
       "venue_slug": "liberty-harbor-courts-surf-city"
     },
-    "67f313aa-b015-421a-829c-80e104b6ef10": {
-      "count": "15",
-      "date": "2026-10-22T22:00:00+00:00",
-      "end": "19:00",
-      "full_name": "Thursday 10/22 - Volleyball Pickup (All Levels) - The Post BK - 100 Dobbin St 6:00pm",
-      "max": "16",
-      "start": "18:00",
-      "type": "Volleyball Pickup - 6v6 - Coed",
-      "venue": "The Post BK - 100 Dobbin St",
-      "venue_slug": "the-post-bk-100-dobbin-st"
-    },
     "696b0aae-37d5-41d4-b856-13555c1ce807": {
       "count": "7",
       "date": "2026-10-21T23:00:00+00:00",
@@ -185,7 +174,7 @@
       "start": "14:00",
       "type": null,
       "venue": "The Post BK - 100 Dobbin St",
-      "venue_slug": "the-post-bk-100-dobbin-st"
+      "venue_slug": null
     },
     "93b0d955-ed85-465c-8135-d5715285c8fe": {
       "count": "1",
@@ -221,7 +210,7 @@
       "venue_slug": "riverside-park-south"
     },
     "da541991-217b-4e5e-bbcb-674804c79da1": {
-      "count": "6",
+      "count": "7",
       "date": "2026-10-27T22:15:00+00:00",
       "end": "19:00",
       "full_name": "Tuesday 10/27 - Volleyball Pickup (All Levels) - St. Patrick's Youth Center 6:15pm",
