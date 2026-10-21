@@ -100,7 +100,7 @@
       "venue_slug": "hunters-point-south"
     },
     "3f4de82d-5d7b-49a8-adb7-8441c1756e27": {
-      "count": "10",
+      "count": "11",
       "date": "2026-10-21T23:15:00+00:00",
       "end": "20:45",
       "full_name": "Wednesday 10/21 - Volleyball Pickup (All Levels) - Art and Design 7:15pm",
@@ -188,7 +188,7 @@
       "venue_slug": "john-jay-high-school"
     },
     "8b3cc738-932a-4c25-9d5c-dfe24b9f6cff": {
-      "count": "0",
+      "count": "1",
       "date": "2026-10-31T18:00:00+00:00",
       "end": "16:00",
       "full_name": "Saturday 10/31 - Volleyball (6v6) - Hunter's Point South Long Island City 2PM",
@@ -216,8 +216,8 @@
       "full_name": "Saturday 10/31 - Volleyball (6v6) - Hunter's Point South Long Island City 12PM",
       "max": "16",
       "start": "12:00",
-      "type": "Saturday - Volleyball - Long Island City",
-      "venue": "Hunter's Point South Long Island City 12PM",
+      "type": null,
+      "venue": "Hunter's Point South",
       "venue_slug": "hunters-point-south"
     },
     "9ff35bf9-a3a7-4090-a821-93f7a8d45c0e": {
@@ -230,6 +230,17 @@
       "type": "Sunday - Volleyball - Upper West Side",
       "venue": "Riverside North Beach Volleyball",
       "venue_slug": "riverside-north-beach-volleyball"
+    },
+    "bc44b49b-2369-4db3-9aca-5adf81584dc1": {
+      "count": "15",
+      "date": "2026-10-25T19:00:00+00:00",
+      "end": "16:00",
+      "full_name": "Sunday 10/25 - Volleyball - St. Patrick's Youth Center Lower East Side 3PM",
+      "max": "16",
+      "start": "15:00",
+      "type": "Sunday - Volleyball - Lower East Side",
+      "venue": "St. Patrick's Youth Center Lower East Side 3PM",
+      "venue_slug": "st-patricks-youth-center"
     },
     "cd4e7b5b-fbf1-4548-b0da-cc95b3f5ac44": {
       "count": "3",
