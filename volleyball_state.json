@@ -78,7 +78,7 @@
       "venue_slug": "hunters-point-south"
     },
     "3f4de82d-5d7b-49a8-adb7-8441c1756e27": {
-      "count": "13",
+      "count": "14",
       "date": "2026-10-21T23:15:00+00:00",
       "end": "20:45",
       "full_name": "Wednesday 10/21 - Volleyball Pickup (All Levels) - Art and Design 7:15pm",
@@ -109,6 +109,17 @@
       "type": "Volleyball Pickup - 6v6 - Coed",
       "venue": "Liberty Harbor Courts @ Surf City",
       "venue_slug": "liberty-harbor-courts-surf-city"
+    },
+    "67f313aa-b015-421a-829c-80e104b6ef10": {
+      "count": "15",
+      "date": "2026-10-22T22:00:00+00:00",
+      "end": "19:00",
+      "full_name": "Thursday 10/22 - Volleyball Pickup (All Levels) - The Post BK - 100 Dobbin St 6:00pm",
+      "max": "16",
+      "start": "18:00",
+      "type": "Volleyball Pickup - 6v6 - Coed",
+      "venue": "The Post BK - 100 Dobbin St",
+      "venue_slug": "the-post-bk-100-dobbin-st"
     },
     "696b0aae-37d5-41d4-b856-13555c1ce807": {
       "count": "7",
@@ -172,8 +183,8 @@
       "full_name": "Saturday 10/31 - Volleyball (6v6) - Hunter's Point South Long Island City 2PM",
       "max": "16",
       "start": "14:00",
-      "type": "Saturday - Volleyball - Long Island City",
-      "venue": "Hunter's Point South Long Island City 2PM",
+      "type": null,
+      "venue": "Hunter's Point South",
       "venue_slug": "hunters-point-south"
     },
     "8e3463a7-e828-40a3-aaf9-2c2c3ab0f2fa": {
@@ -185,7 +196,7 @@
       "start": "14:00",
       "type": null,
       "venue": "The Post BK - 100 Dobbin St",
-      "venue_slug": null
+      "venue_slug": "the-post-bk-100-dobbin-st"
     },
     "93b0d955-ed85-465c-8135-d5715285c8fe": {
       "count": "1",
