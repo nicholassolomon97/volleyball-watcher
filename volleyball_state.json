@@ -66,17 +66,6 @@
       "venue": "St. Patrick's Youth Center Lower East Side",
       "venue_slug": "st-patricks-youth-center"
     },
-    "37404812-5e22-4876-bdb4-3e1ae991ac0d": {
-      "count": "15",
-      "date": "2026-10-21T23:00:00+00:00",
-      "end": "20:00",
-      "full_name": "Wednesday 10/21 - Volleyball Pickup (All Levels) - Avenues 7:00pm",
-      "max": "16",
-      "start": "19:00",
-      "type": "Volleyball Pickup - 6v6 - Coed",
-      "venue": "Avenues",
-      "venue_slug": "avenues"
-    },
     "3c1fcb20-b001-4e40-8218-e96a60738eb2": {
       "count": "2",
       "date": "2026-10-24T16:00:00+00:00",
@@ -183,8 +172,8 @@
       "full_name": "Saturday 10/31 - Volleyball (6v6) - Hunter's Point South Long Island City 2PM",
       "max": "16",
       "start": "14:00",
-      "type": null,
-      "venue": "Hunter's Point South",
+      "type": "Saturday - Volleyball - Long Island City",
+      "venue": "Hunter's Point South Long Island City 2PM",
       "venue_slug": "hunters-point-south"
     },
     "8e3463a7-e828-40a3-aaf9-2c2c3ab0f2fa": {
