@@ -41,8 +41,8 @@
       "max": "18",
       "start": "19:00",
       "type": "Wednesday - Volleyball Pickup - Jersey City",
-      "venue": "88 Bishop Jersey City 7PM",
-      "venue_slug": null
+      "venue": "Kotofit - 88 Bishop",
+      "venue_slug": "kotofit-88-bishop"
     },
     "29056485-bdf2-41da-9ece-59f7d73b8783": {
       "count": "6",
@@ -98,17 +98,6 @@
       "type": "Volleyball Pickup - 6v6 - Coed",
       "venue": "Liberty Harbor Courts @ Surf City",
       "venue_slug": "liberty-harbor-courts-surf-city"
-    },
-    "696b0aae-37d5-41d4-b856-13555c1ce807": {
-      "count": "7",
-      "date": "2026-10-21T23:00:00+00:00",
-      "end": "20:00",
-      "full_name": "Wednesday 10/21 - Volleyball Pickup- Kotofit - 88 Bishop Jersey City 7PM",
-      "max": "18",
-      "start": "19:00",
-      "type": "Wednesday - Volleyball Pickup - Jersey City",
-      "venue": "Kotofit - 88 Bishop",
-      "venue_slug": "kotofit-88-bishop"
     },
     "6f86cb01-9d1d-4a7a-b56d-b3ba634ebe91": {
       "count": "0",
