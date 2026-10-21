@@ -67,7 +67,7 @@
       "venue_slug": "st-patricks-youth-center"
     },
     "351f488a-03cc-4131-af49-45e4f4af0584": {
-      "count": "2",
+      "count": "1",
       "date": "2026-10-21T22:00:00+00:00",
       "end": "18:45",
       "full_name": "Wednesday 10/21 - Volleyball (6v6) - Pier 25 West Village 6PM",
@@ -98,6 +98,17 @@
       "type": "Saturday - Volleyball - Long Island City",
       "venue": "Hunter's Point South",
       "venue_slug": "hunters-point-south"
+    },
+    "3f4de82d-5d7b-49a8-adb7-8441c1756e27": {
+      "count": "15",
+      "date": "2026-10-21T23:15:00+00:00",
+      "end": "20:45",
+      "full_name": "Wednesday 10/21 - Volleyball Pickup (All Levels) - Art and Design 7:15pm",
+      "max": "16",
+      "start": "19:15",
+      "type": "Volleyball Pickup - 6v6 - Coed",
+      "venue": "Art and Design",
+      "venue_slug": "art-and-design"
     },
     "44fc9533-9c82-4967-b478-e60e9bcb8965": {
       "count": "9",
@@ -249,9 +260,9 @@
       "full_name": "Saturday 10/31 - Volleyball - Kotofit - 88 Bishop Jersey City 1PM",
       "max": "18",
       "start": "13:00",
-      "type": "Saturday - Volleyball - Jersey City",
-      "venue": "88 Bishop Jersey City 1PM",
-      "venue_slug": null
+      "type": null,
+      "venue": "Kotofit - 88 Bishop",
+      "venue_slug": "kotofit-88-bishop"
     },
     "e24042ec-6f18-45cc-9472-de56f3378baa": {
       "count": "24",
