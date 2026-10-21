@@ -18,7 +18,7 @@
       "full_name": "Saturday 10/31 - Volleyball (6v6) - La Salle Academy Lower East Side 3:15PM",
       "max": "16",
       "start": "15:15",
-      "type": "Saturday - Volleyball - Lower East Side",
+      "type": null,
       "venue": "La Salle Academy",
       "venue_slug": "la-salle-academy"
     },
@@ -110,6 +110,17 @@
       "venue": "Liberty Harbor Courts @ Surf City",
       "venue_slug": "liberty-harbor-courts-surf-city"
     },
+    "57920c67-b787-4cd9-820c-ea5038de5fdd": {
+      "count": "15",
+      "date": "2026-10-22T23:00:00+00:00",
+      "end": "21:00",
+      "full_name": "Thursday 10/22 - Volleyball (6v6) - New Design High School Lower East Side 7PM",
+      "max": "16",
+      "start": "19:00",
+      "type": "Thursday - Volleyball - Lower East Side",
+      "venue": "New Design High School",
+      "venue_slug": "new-design-high-school"
+    },
     "696b0aae-37d5-41d4-b856-13555c1ce807": {
       "count": "6",
       "date": "2026-10-21T23:00:00+00:00",
@@ -143,6 +154,17 @@
       "venue": "Pier 6",
       "venue_slug": "pier-6"
     },
+    "844170c0-f25f-4a00-9307-0db73b33a31e": {
+      "count": "0",
+      "date": "2026-10-23T01:15:00+00:00",
+      "end": "23:00",
+      "full_name": "Thursday 10/22 - Volleyball (6v6) - La Salle Academy Lower East Side 9:15PM",
+      "max": "16",
+      "start": "21:15",
+      "type": "Thursday - Volleyball - Lower East Side",
+      "venue": "La Salle Academy",
+      "venue_slug": "la-salle-academy"
+    },
     "879cdcee-5926-4266-8d27-039ff414aed1": {
       "count": "1",
       "date": "2026-10-25T21:00:00+00:00",
@@ -161,8 +183,8 @@
       "full_name": "Saturday 10/31 - Volleyball (6v6) - Hunter's Point South Long Island City 2PM",
       "max": "16",
       "start": "14:00",
-      "type": "Saturday - Volleyball - Long Island City",
-      "venue": "Hunter's Point South Long Island City 2PM",
+      "type": null,
+      "venue": "Hunter's Point South",
       "venue_slug": "hunters-point-south"
     },
     "8e3463a7-e828-40a3-aaf9-2c2c3ab0f2fa": {
@@ -304,6 +326,7 @@
     "7ac10035-6e7a-4958-8c90-de9eadda7525": "2026-10-25",
     "7c6855db-59a9-4d0f-b68a-821c8d7903b2": "2026-11-01",
     "83f10573-4282-40e8-bb89-380d7075b44d": "2026-10-24",
+    "844170c0-f25f-4a00-9307-0db73b33a31e": "2026-10-22",
     "879cdcee-5926-4266-8d27-039ff414aed1": "2026-10-25",
     "8b3cc738-932a-4c25-9d5c-dfe24b9f6cff": "2026-10-31",
     "8e3463a7-e828-40a3-aaf9-2c2c3ab0f2fa": "2026-10-31",
