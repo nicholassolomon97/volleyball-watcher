@@ -66,17 +66,6 @@
       "venue": "St. Patrick's Youth Center Lower East Side",
       "venue_slug": "st-patricks-youth-center"
     },
-    "351f488a-03cc-4131-af49-45e4f4af0584": {
-      "count": "1",
-      "date": "2026-10-21T22:00:00+00:00",
-      "end": "18:45",
-      "full_name": "Wednesday 10/21 - Volleyball (6v6) - Pier 25 West Village 6PM",
-      "max": "14",
-      "start": "18:00",
-      "type": "Wednesday - Volleyball - West Village",
-      "venue": "Pier 25",
-      "venue_slug": "pier-25"
-    },
     "37404812-5e22-4876-bdb4-3e1ae991ac0d": {
       "count": "14",
       "date": "2026-10-21T23:00:00+00:00",
@@ -260,9 +249,9 @@
       "full_name": "Saturday 10/31 - Volleyball - Kotofit - 88 Bishop Jersey City 1PM",
       "max": "18",
       "start": "13:00",
-      "type": null,
-      "venue": "Kotofit - 88 Bishop",
-      "venue_slug": "kotofit-88-bishop"
+      "type": "Saturday - Volleyball - Jersey City",
+      "venue": "88 Bishop Jersey City 1PM",
+      "venue_slug": null
     },
     "e24042ec-6f18-45cc-9472-de56f3378baa": {
       "count": "24",
@@ -294,7 +283,7 @@
       "max": "14",
       "start": "18:00",
       "type": "Wednesday - Volleyball - West Village",
-      "venue": "Pier 25 West Village 6PM",
+      "venue": "Pier 25",
       "venue_slug": "pier-25"
     },
     "f708537f-8aa2-4a6e-b15e-7cb303515d7d": {
