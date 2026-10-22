@@ -143,17 +143,6 @@
       "venue": "Riverside North Beach Volleyball",
       "venue_slug": "riverside-north-beach-volleyball"
     },
-    "67f313aa-b015-421a-829c-80e104b6ef10": {
-      "count": "15",
-      "date": "2026-10-22T22:00:00+00:00",
-      "end": "19:00",
-      "full_name": "Thursday 10/22 - Volleyball Pickup (All Levels) - The Post BK - 100 Dobbin St 6:00pm",
-      "max": "16",
-      "start": "18:00",
-      "type": "Volleyball Pickup - 6v6 - Coed",
-      "venue": "The Post BK - 100 Dobbin St",
-      "venue_slug": "the-post-bk-100-dobbin-st"
-    },
     "6f86cb01-9d1d-4a7a-b56d-b3ba634ebe91": {
       "count": "0",
       "date": "2026-10-30T00:30:00+00:00",
@@ -205,7 +194,7 @@
       "full_name": "Saturday 10/31 - Volleyball (6v6) - The Post BK - 100 Dobbin St Williamsburg 2:00PM",
       "max": "18",
       "start": "14:00",
-      "type": null,
+      "type": "Saturday - Volleyball - Williamsburg",
       "venue": "The Post BK - 100 Dobbin St",
       "venue_slug": "the-post-bk-100-dobbin-st"
     },
