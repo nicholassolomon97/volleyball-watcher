@@ -30,7 +30,7 @@
       "max": "16",
       "start": "15:15",
       "type": "Saturday - Volleyball - Lower East Side",
-      "venue": "La Salle Academy",
+      "venue": "La Salle Academy Lower East Side",
       "venue_slug": "la-salle-academy"
     },
     "19257e6a-aac3-4790-ad93-0380bc9b1c4f": {
@@ -88,6 +88,17 @@
       "venue": "St. Patrick's Youth Center Lower East Side",
       "venue_slug": "st-patricks-youth-center"
     },
+    "30f432eb-24cd-478c-ac10-a6e66405883d": {
+      "count": "15",
+      "date": "2026-10-22T22:00:00+00:00",
+      "end": "19:00",
+      "full_name": "Thursday 10/22 - Volleyball Pickup (All Levels) - La Salle Academy 6:00pm",
+      "max": "16",
+      "start": "18:00",
+      "type": "Volleyball Pickup - 6v6 - Coed",
+      "venue": "La Salle Academy",
+      "venue_slug": "la-salle-academy"
+    },
     "3c1fcb20-b001-4e40-8218-e96a60738eb2": {
       "count": "5",
       "date": "2026-10-24T16:00:00+00:00",
@@ -128,8 +139,8 @@
       "full_name": "Sunday 11/1 - Volleyball - Riverside North Beach Volleyball Upper West Side 2:15PM",
       "max": "16",
       "start": "14:15",
-      "type": "Sunday - Volleyball - Upper West Side",
-      "venue": "Riverside North Beach Volleyball Upper West Side",
+      "type": null,
+      "venue": "Riverside North Beach Volleyball",
       "venue_slug": "riverside-north-beach-volleyball"
     },
     "6f86cb01-9d1d-4a7a-b56d-b3ba634ebe91": {
@@ -153,6 +164,17 @@
       "type": "Volleyball Pickup - 6v6 - Coed",
       "venue": "Pier 6",
       "venue_slug": "pier-6"
+    },
+    "844170c0-f25f-4a00-9307-0db73b33a31e": {
+      "count": "15",
+      "date": "2026-10-23T01:15:00+00:00",
+      "end": "23:00",
+      "full_name": "Thursday 10/22 - Volleyball (6v6) - La Salle Academy Lower East Side 9:15PM",
+      "max": "16",
+      "start": "21:15",
+      "type": "Thursday - Volleyball - Lower East Side",
+      "venue": "La Salle Academy Lower East Side",
+      "venue_slug": "la-salle-academy"
     },
     "879cdcee-5926-4266-8d27-039ff414aed1": {
       "count": "1",
@@ -183,9 +205,9 @@
       "full_name": "Saturday 10/31 - Volleyball (6v6) - The Post BK - 100 Dobbin St Williamsburg 2:00PM",
       "max": "18",
       "start": "14:00",
-      "type": "Saturday - Volleyball - Williamsburg",
-      "venue": "100 Dobbin St Williamsburg",
-      "venue_slug": null
+      "type": null,
+      "venue": "The Post BK - 100 Dobbin St",
+      "venue_slug": "the-post-bk-100-dobbin-st"
     },
     "93b0d955-ed85-465c-8135-d5715285c8fe": {
       "count": "1",
