@@ -29,8 +29,8 @@
       "full_name": "Saturday 10/31 - Volleyball (6v6) - La Salle Academy Lower East Side 3:15PM",
       "max": "16",
       "start": "15:15",
-      "type": null,
-      "venue": "La Salle Academy",
+      "type": "Saturday - Volleyball - Lower East Side",
+      "venue": "La Salle Academy Lower East Side",
       "venue_slug": "la-salle-academy"
     },
     "19257e6a-aac3-4790-ad93-0380bc9b1c4f": {
@@ -43,17 +43,6 @@
       "type": "Saturday - Volleyball - Long Island City",
       "venue": "Hunter's Point South Long Island City 2PM",
       "venue_slug": "hunters-point-south"
-    },
-    "2008ca85-66e1-4186-8bd8-ac093e0d2b54": {
-      "count": "15",
-      "date": "2026-10-24T19:30:00+00:00",
-      "end": "14:45",
-      "full_name": "Saturday 10/24 - Volleyball (6v6) - The Post BK - 100 Dobbin St Williamsburg 2:00PM",
-      "max": "16",
-      "start": "14:00",
-      "type": "Saturday - Volleyball - Williamsburg",
-      "venue": "100 Dobbin St Williamsburg",
-      "venue_slug": null
     },
     "23c5c2d6-fa60-411d-8fec-7f8bacec7d87": {
       "count": "4",
