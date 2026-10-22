@@ -19,7 +19,7 @@
       "max": "16",
       "start": "15:15",
       "type": "Saturday - Volleyball - Lower East Side",
-      "venue": "La Salle Academy",
+      "venue": "La Salle Academy Lower East Side",
       "venue_slug": "la-salle-academy"
     },
     "19257e6a-aac3-4790-ad93-0380bc9b1c4f": {
@@ -55,6 +55,17 @@
       "venue": "Pier 6",
       "venue_slug": "pier-6"
     },
+    "2b7d4928-1a6e-469b-831e-349f2571cf37": {
+      "count": "15",
+      "date": "2026-10-25T21:15:00+00:00",
+      "end": "19:00",
+      "full_name": "Sunday 10/25 - Volleyball - Xavier High School Union Square 5:15PM",
+      "max": "16",
+      "start": "17:15",
+      "type": "Sunday - Volleyball - Union Square",
+      "venue": "Xavier High School",
+      "venue_slug": "xavier-high-school"
+    },
     "2e046629-fabf-4022-8b68-f06bac9acc9b": {
       "count": "7",
       "date": "2026-10-28T22:15:00+00:00",
@@ -65,6 +76,17 @@
       "type": "Wednesday - Volleyball - Lower East Side",
       "venue": "St. Patrick's Youth Center Lower East Side",
       "venue_slug": "st-patricks-youth-center"
+    },
+    "30f432eb-24cd-478c-ac10-a6e66405883d": {
+      "count": "15",
+      "date": "2026-10-22T22:00:00+00:00",
+      "end": "19:00",
+      "full_name": "Thursday 10/22 - Volleyball Pickup (All Levels) - La Salle Academy 6:00pm",
+      "max": "16",
+      "start": "18:00",
+      "type": "Volleyball Pickup - 6v6 - Coed",
+      "venue": "La Salle Academy",
+      "venue_slug": "la-salle-academy"
     },
     "3c1fcb20-b001-4e40-8218-e96a60738eb2": {
       "count": "3",
@@ -121,6 +143,17 @@
       "venue": "Pier 6",
       "venue_slug": "pier-6"
     },
+    "844170c0-f25f-4a00-9307-0db73b33a31e": {
+      "count": "15",
+      "date": "2026-10-23T01:15:00+00:00",
+      "end": "23:00",
+      "full_name": "Thursday 10/22 - Volleyball (6v6) - La Salle Academy Lower East Side 9:15PM",
+      "max": "16",
+      "start": "21:15",
+      "type": "Thursday - Volleyball - Lower East Side",
+      "venue": "La Salle Academy Lower East Side",
+      "venue_slug": "la-salle-academy"
+    },
     "879cdcee-5926-4266-8d27-039ff414aed1": {
       "count": "1",
       "date": "2026-10-25T21:00:00+00:00",
@@ -150,9 +183,9 @@
       "full_name": "Saturday 10/31 - Volleyball (6v6) - The Post BK - 100 Dobbin St Williamsburg 2:00PM",
       "max": "18",
       "start": "14:00",
-      "type": "Saturday - Volleyball - Williamsburg",
+      "type": null,
       "venue": "The Post BK - 100 Dobbin St",
-      "venue_slug": "the-post-bk-100-dobbin-st"
+      "venue_slug": null
     },
     "93b0d955-ed85-465c-8135-d5715285c8fe": {
       "count": "1",
