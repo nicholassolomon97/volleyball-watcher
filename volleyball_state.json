@@ -122,7 +122,7 @@
       "venue_slug": "liberty-harbor-courts-surf-city"
     },
     "57920c67-b787-4cd9-820c-ea5038de5fdd": {
-      "count": "4",
+      "count": "5",
       "date": "2026-10-22T23:00:00+00:00",
       "end": "21:00",
       "full_name": "Thursday 10/22 - Volleyball (6v6) - New Design High School Lower East Side 7PM",
@@ -165,17 +165,6 @@
       "venue": "Pier 6",
       "venue_slug": "pier-6"
     },
-    "844170c0-f25f-4a00-9307-0db73b33a31e": {
-      "count": "15",
-      "date": "2026-10-23T01:15:00+00:00",
-      "end": "23:00",
-      "full_name": "Thursday 10/22 - Volleyball (6v6) - La Salle Academy Lower East Side 9:15PM",
-      "max": "16",
-      "start": "21:15",
-      "type": "Thursday - Volleyball - Lower East Side",
-      "venue": "La Salle Academy Lower East Side",
-      "venue_slug": "la-salle-academy"
-    },
     "879cdcee-5926-4266-8d27-039ff414aed1": {
       "count": "1",
       "date": "2026-10-25T21:00:00+00:00",
@@ -205,9 +194,9 @@
       "full_name": "Saturday 10/31 - Volleyball (6v6) - The Post BK - 100 Dobbin St Williamsburg 2:00PM",
       "max": "18",
       "start": "14:00",
-      "type": null,
+      "type": "Saturday - Volleyball - Williamsburg",
       "venue": "The Post BK - 100 Dobbin St",
-      "venue_slug": null
+      "venue_slug": "the-post-bk-100-dobbin-st"
     },
     "93b0d955-ed85-465c-8135-d5715285c8fe": {
       "count": "1",
