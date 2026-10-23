@@ -7,8 +7,8 @@
       "full_name": "Sunday 11/1 - Volleyball (4v4) - John Jay High School Prospect Park 5PM",
       "max": "12",
       "start": "17:00",
-      "type": "Sunday - Volleyball - Prospect Park",
-      "venue": "John Jay High School Prospect Park 5PM",
+      "type": null,
+      "venue": "John Jay High School",
       "venue_slug": "john-jay-high-school"
     },
     "06b72962-32ce-462e-bfb2-bb0e3a121a0e": {
@@ -66,6 +66,17 @@
       "venue": "Pier 6",
       "venue_slug": "pier-6"
     },
+    "2b7d4928-1a6e-469b-831e-349f2571cf37": {
+      "count": "15",
+      "date": "2026-10-25T21:15:00+00:00",
+      "end": "19:00",
+      "full_name": "Sunday 10/25 - Volleyball - Xavier High School Union Square 5:15PM",
+      "max": "16",
+      "start": "17:15",
+      "type": "Sunday - Volleyball - Union Square",
+      "venue": "Xavier High School",
+      "venue_slug": "xavier-high-school"
+    },
     "2e046629-fabf-4022-8b68-f06bac9acc9b": {
       "count": "11",
       "date": "2026-10-28T22:15:00+00:00",
@@ -117,8 +128,8 @@
       "full_name": "Sunday 11/1 - Volleyball - Riverside North Beach Volleyball Upper West Side 2:15PM",
       "max": "16",
       "start": "14:15",
-      "type": "Sunday - Volleyball - Upper West Side",
-      "venue": "Riverside North Beach Volleyball Upper West Side",
+      "type": null,
+      "venue": "Riverside North Beach Volleyball",
       "venue_slug": "riverside-north-beach-volleyball"
     },
     "6f86cb01-9d1d-4a7a-b56d-b3ba634ebe91": {
@@ -131,6 +142,17 @@
       "type": "Volleyball Pickup - 6v6 - Coed",
       "venue": "Liberty Harbor Courts @ Surf City",
       "venue_slug": "liberty-harbor-courts-surf-city"
+    },
+    "7920c312-ac6f-40ed-9979-b016f727d0cd": {
+      "count": "17",
+      "date": "2026-10-25T17:00:00+00:00",
+      "end": "15:00",
+      "full_name": "Sunday 10/25 - Volleyball Pickup (Advanced/competitive) - Boys and Girls Club Jersey City 1:00pm",
+      "max": "18",
+      "start": "13:00",
+      "type": "Volleyball Pickup - 6v6 - Coed",
+      "venue": "Boys and Girls Club Jersey City",
+      "venue_slug": "boys-and-girls-club-jersey-city"
     },
     "83f10573-4282-40e8-bb89-380d7075b44d": {
       "count": "7",
