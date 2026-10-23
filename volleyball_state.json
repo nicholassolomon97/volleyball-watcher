@@ -128,8 +128,8 @@
       "full_name": "Sunday 11/1 - Volleyball - Riverside North Beach Volleyball Upper West Side 2:15PM",
       "max": "16",
       "start": "14:15",
-      "type": "Sunday - Volleyball - Upper West Side",
-      "venue": "Riverside North Beach Volleyball Upper West Side",
+      "type": null,
+      "venue": "Riverside North Beach Volleyball",
       "venue_slug": "riverside-north-beach-volleyball"
     },
     "6f86cb01-9d1d-4a7a-b56d-b3ba634ebe91": {
@@ -142,6 +142,17 @@
       "type": "Volleyball Pickup - 6v6 - Coed",
       "venue": "Liberty Harbor Courts @ Surf City",
       "venue_slug": "liberty-harbor-courts-surf-city"
+    },
+    "7ac10035-6e7a-4958-8c90-de9eadda7525": {
+      "count": "15",
+      "date": "2026-10-25T15:00:00+00:00",
+      "end": "12:00",
+      "full_name": "Sunday 10/25 - Volleyball Pickup (All Levels) - Baruch College 11:00am",
+      "max": "16",
+      "start": "11:00",
+      "type": "Volleyball Pickup - 6v6 - Coed",
+      "venue": "Baruch College",
+      "venue_slug": "baruch-college"
     },
     "83f10573-4282-40e8-bb89-380d7075b44d": {
       "count": "7",
