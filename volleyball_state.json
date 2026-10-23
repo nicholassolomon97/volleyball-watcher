@@ -7,8 +7,8 @@
       "full_name": "Sunday 11/1 - Volleyball (4v4) - John Jay High School Prospect Park 5PM",
       "max": "12",
       "start": "17:00",
-      "type": "Sunday - Volleyball - Prospect Park",
-      "venue": "John Jay High School Prospect Park 5PM",
+      "type": null,
+      "venue": "John Jay High School",
       "venue_slug": "john-jay-high-school"
     },
     "06b72962-32ce-462e-bfb2-bb0e3a121a0e": {
@@ -263,6 +263,17 @@
       "type": "Volleyball Pickup - 6v6 - Coed",
       "venue": "Liberty Harbor Courts @ Surf City",
       "venue_slug": "liberty-harbor-courts-surf-city"
+    },
+    "f9960230-e57e-442e-b5a5-7820fe7b1b0d": {
+      "count": "17",
+      "date": "2026-11-01T18:00:00+00:00",
+      "end": "15:00",
+      "full_name": "Sunday 11/1 - Volleyball Pickup (Advanced/competitive) - Boys and Girls Club Jersey City 1:00pm",
+      "max": "18",
+      "start": "13:00",
+      "type": "Volleyball Pickup - 6v6 - Coed",
+      "venue": "Boys and Girls Club Jersey City",
+      "venue_slug": "boys-and-girls-club-jersey-city"
     }
   },
   "seen": {
