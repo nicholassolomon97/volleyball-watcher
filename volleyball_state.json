@@ -66,6 +66,17 @@
       "venue": "Pier 6",
       "venue_slug": "pier-6"
     },
+    "2b7d4928-1a6e-469b-831e-349f2571cf37": {
+      "count": "15",
+      "date": "2026-10-25T21:15:00+00:00",
+      "end": "19:00",
+      "full_name": "Sunday 10/25 - Volleyball - Xavier High School Union Square 5:15PM",
+      "max": "16",
+      "start": "17:15",
+      "type": "Sunday - Volleyball - Union Square",
+      "venue": "Xavier High School",
+      "venue_slug": "xavier-high-school"
+    },
     "2e046629-fabf-4022-8b68-f06bac9acc9b": {
       "count": "11",
       "date": "2026-10-28T22:15:00+00:00",
@@ -194,9 +205,9 @@
       "full_name": "Saturday 10/31 - Volleyball (6v6) - The Post BK - 100 Dobbin St Williamsburg 2:00PM",
       "max": "18",
       "start": "14:00",
-      "type": "Saturday - Volleyball - Williamsburg",
+      "type": null,
       "venue": "The Post BK - 100 Dobbin St",
-      "venue_slug": "the-post-bk-100-dobbin-st"
+      "venue_slug": null
     },
     "93b0d955-ed85-465c-8135-d5715285c8fe": {
       "count": "1",
