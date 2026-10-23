@@ -30,7 +30,7 @@
       "max": "16",
       "start": "15:15",
       "type": "Saturday - Volleyball - Lower East Side",
-      "venue": "La Salle Academy Lower East Side",
+      "venue": "La Salle Academy",
       "venue_slug": "la-salle-academy"
     },
     "19257e6a-aac3-4790-ad93-0380bc9b1c4f": {
@@ -128,20 +128,9 @@
       "full_name": "Sunday 11/1 - Volleyball - Riverside North Beach Volleyball Upper West Side 2:15PM",
       "max": "16",
       "start": "14:15",
-      "type": null,
-      "venue": "Riverside North Beach Volleyball",
+      "type": "Sunday - Volleyball - Upper West Side",
+      "venue": "Riverside North Beach Volleyball Upper West Side",
       "venue_slug": "riverside-north-beach-volleyball"
-    },
-    "662b750c-6367-4099-a28d-a192a16b8db6": {
-      "count": "15",
-      "date": "2026-10-27T01:45:00+00:00",
-      "end": "23:00",
-      "full_name": "Monday 10/26 - Volleyball Pickup (All Levels) - La Salle Academy 9:45pm",
-      "max": "16",
-      "start": "21:45",
-      "type": "Volleyball Pickup - 6v6 - Coed",
-      "venue": "La Salle Academy",
-      "venue_slug": "la-salle-academy"
     },
     "6f86cb01-9d1d-4a7a-b56d-b3ba634ebe91": {
       "count": "0",
