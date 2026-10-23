@@ -66,17 +66,6 @@
       "venue": "Pier 6",
       "venue_slug": "pier-6"
     },
-    "2b7d4928-1a6e-469b-831e-349f2571cf37": {
-      "count": "15",
-      "date": "2026-10-25T21:15:00+00:00",
-      "end": "19:00",
-      "full_name": "Sunday 10/25 - Volleyball - Xavier High School Union Square 5:15PM",
-      "max": "16",
-      "start": "17:15",
-      "type": "Sunday - Volleyball - Union Square",
-      "venue": "Xavier High School",
-      "venue_slug": "xavier-high-school"
-    },
     "2e046629-fabf-4022-8b68-f06bac9acc9b": {
       "count": "11",
       "date": "2026-10-28T22:15:00+00:00",
@@ -139,8 +128,8 @@
       "full_name": "Sunday 11/1 - Volleyball - Riverside North Beach Volleyball Upper West Side 2:15PM",
       "max": "16",
       "start": "14:15",
-      "type": null,
-      "venue": "Riverside North Beach Volleyball",
+      "type": "Sunday - Volleyball - Upper West Side",
+      "venue": "Riverside North Beach Volleyball Upper West Side",
       "venue_slug": "riverside-north-beach-volleyball"
     },
     "6f86cb01-9d1d-4a7a-b56d-b3ba634ebe91": {
@@ -153,17 +142,6 @@
       "type": "Volleyball Pickup - 6v6 - Coed",
       "venue": "Liberty Harbor Courts @ Surf City",
       "venue_slug": "liberty-harbor-courts-surf-city"
-    },
-    "7ac10035-6e7a-4958-8c90-de9eadda7525": {
-      "count": "15",
-      "date": "2026-10-25T15:00:00+00:00",
-      "end": "12:00",
-      "full_name": "Sunday 10/25 - Volleyball Pickup (All Levels) - Baruch College 11:00am",
-      "max": "16",
-      "start": "11:00",
-      "type": "Volleyball Pickup - 6v6 - Coed",
-      "venue": "Baruch College",
-      "venue_slug": "baruch-college"
     },
     "83f10573-4282-40e8-bb89-380d7075b44d": {
       "count": "7",
@@ -205,9 +183,9 @@
       "full_name": "Saturday 10/31 - Volleyball (6v6) - The Post BK - 100 Dobbin St Williamsburg 2:00PM",
       "max": "18",
       "start": "14:00",
-      "type": null,
+      "type": "Saturday - Volleyball - Williamsburg",
       "venue": "The Post BK - 100 Dobbin St",
-      "venue_slug": null
+      "venue_slug": "the-post-bk-100-dobbin-st"
     },
     "93b0d955-ed85-465c-8135-d5715285c8fe": {
       "count": "1",
