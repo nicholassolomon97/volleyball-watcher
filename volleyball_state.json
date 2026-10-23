@@ -7,8 +7,8 @@
       "full_name": "Sunday 11/1 - Volleyball (4v4) - John Jay High School Prospect Park 5PM",
       "max": "12",
       "start": "17:00",
-      "type": null,
-      "venue": "John Jay High School",
+      "type": "Sunday - Volleyball - Prospect Park",
+      "venue": "John Jay High School Prospect Park 5PM",
       "venue_slug": "john-jay-high-school"
     },
     "06b72962-32ce-462e-bfb2-bb0e3a121a0e": {
@@ -65,17 +65,6 @@
       "type": "Volleyball Pickup - 6v6 - Coed",
       "venue": "Pier 6",
       "venue_slug": "pier-6"
-    },
-    "2b7d4928-1a6e-469b-831e-349f2571cf37": {
-      "count": "15",
-      "date": "2026-10-25T21:15:00+00:00",
-      "end": "19:00",
-      "full_name": "Sunday 10/25 - Volleyball - Xavier High School Union Square 5:15PM",
-      "max": "16",
-      "start": "17:15",
-      "type": "Sunday - Volleyball - Union Square",
-      "venue": "Xavier High School",
-      "venue_slug": "xavier-high-school"
     },
     "2e046629-fabf-4022-8b68-f06bac9acc9b": {
       "count": "11",
