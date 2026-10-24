@@ -51,7 +51,7 @@
       "full_name": "Tuesday 11/3 - Volleyball Pickup (All Levels) - Liberty Harbor Courts @ Surf City 8:30pm",
       "max": "16",
       "start": "20:30",
-      "type": "Volleyball Pickup - 6v6 - Coed",
+      "type": null,
       "venue": "Liberty Harbor Courts @ Surf City",
       "venue_slug": "liberty-harbor-courts-surf-city"
     },
@@ -74,7 +74,7 @@
       "max": "32",
       "start": "18:15",
       "type": "Wednesday - Volleyball - Lower East Side",
-      "venue": "St. Patrick's Youth Center",
+      "venue": "St. Patrick's Youth Center Lower East Side",
       "venue_slug": "st-patricks-youth-center"
     },
     "574f44ac-9a62-4aac-9e14-700002e4d964": {
@@ -186,6 +186,17 @@
       "type": "Sunday - Volleyball - Upper West Side",
       "venue": "Riverside North Beach Volleyball",
       "venue_slug": "riverside-north-beach-volleyball"
+    },
+    "bc44b49b-2369-4db3-9aca-5adf81584dc1": {
+      "count": "15",
+      "date": "2026-10-25T19:00:00+00:00",
+      "end": "16:00",
+      "full_name": "Sunday 10/25 - Volleyball - St. Patrick's Youth Center Lower East Side 3PM",
+      "max": "16",
+      "start": "15:00",
+      "type": "Sunday - Volleyball - Lower East Side",
+      "venue": "St. Patrick's Youth Center",
+      "venue_slug": "st-patricks-youth-center"
     },
     "c7738259-8578-4763-a1ab-1d40a1319995": {
       "count": "2",
