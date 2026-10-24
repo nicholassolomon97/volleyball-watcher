@@ -55,6 +55,17 @@
       "venue": "Kotofit - 88 Bishop",
       "venue_slug": "kotofit-88-bishop"
     },
+    "286e2157-c366-45ae-830e-8efc314cdf13": {
+      "count": "0",
+      "date": "2026-11-04T01:30:00+00:00",
+      "end": "22:00",
+      "full_name": "Tuesday 11/3 - Volleyball Pickup (All Levels) - Liberty Harbor Courts @ Surf City 8:30pm",
+      "max": "16",
+      "start": "20:30",
+      "type": null,
+      "venue": "Liberty Harbor Courts @ Surf City",
+      "venue_slug": "liberty-harbor-courts-surf-city"
+    },
     "29056485-bdf2-41da-9ece-59f7d73b8783": {
       "count": "8",
       "date": "2026-10-26T23:00:00+00:00",
@@ -120,6 +131,17 @@
       "type": "Sunday - Volleyball - Upper West Side",
       "venue": "Riverside North Beach Volleyball Upper West Side",
       "venue_slug": "riverside-north-beach-volleyball"
+    },
+    "5e57b849-fcab-4549-9e89-acaeafde7ee0": {
+      "count": "0",
+      "date": "2026-11-04T00:00:00+00:00",
+      "end": "20:30",
+      "full_name": "Tuesday 11/3 - Volleyball Pickup (All Levels) - Liberty Harbor Courts @ Surf City 7:00pm",
+      "max": "16",
+      "start": "19:00",
+      "type": null,
+      "venue": "Liberty Harbor Courts @ Surf City",
+      "venue_slug": "liberty-harbor-courts-surf-city"
     },
     "662b750c-6367-4099-a28d-a192a16b8db6": {
       "count": "15",
@@ -209,6 +231,17 @@
       "venue": "Riverside North Beach Volleyball",
       "venue_slug": "riverside-north-beach-volleyball"
     },
+    "c7738259-8578-4763-a1ab-1d40a1319995": {
+      "count": "0",
+      "date": "2026-11-03T23:30:00+00:00",
+      "end": "19:15",
+      "full_name": "Tuesday 11/3 - Volleyball (6v6) - Xavier High School Union Square 6:30PM",
+      "max": "16",
+      "start": "18:30",
+      "type": null,
+      "venue": "Xavier High School",
+      "venue_slug": null
+    },
     "cd4e7b5b-fbf1-4548-b0da-cc95b3f5ac44": {
       "count": "2",
       "date": "2026-10-25T19:00:00+00:00",
@@ -253,6 +286,17 @@
       "venue": "Liberty Harbor Courts @ Surf City",
       "venue_slug": "liberty-harbor-courts-surf-city"
     },
+    "ea668b85-b958-4ea9-89b8-37176506bbe9": {
+      "count": "0",
+      "date": "2026-11-03T23:15:00+00:00",
+      "end": "19:00",
+      "full_name": "Tuesday 11/3 - Volleyball Pickup (All Levels) - St. Patrick's Youth Center 6:15pm",
+      "max": "16",
+      "start": "18:15",
+      "type": null,
+      "venue": "St. Patrick's Youth Center",
+      "venue_slug": "st-patricks-youth-center"
+    },
     "f5017c89-db3c-4020-9fec-0641d74d88f0": {
       "count": "1",
       "date": "2026-10-28T22:00:00+00:00",
@@ -284,6 +328,7 @@
     "19257e6a-aac3-4790-ad93-0380bc9b1c4f": "2026-10-24",
     "2008ca85-66e1-4186-8bd8-ac093e0d2b54": "2026-10-24",
     "23c5c2d6-fa60-411d-8fec-7f8bacec7d87": "2026-10-28",
+    "286e2157-c366-45ae-830e-8efc314cdf13": "2026-11-03",
     "29056485-bdf2-41da-9ece-59f7d73b8783": "2026-10-26",
     "2b7d4928-1a6e-469b-831e-349f2571cf37": "2026-10-25",
     "2e046629-fabf-4022-8b68-f06bac9acc9b": "2026-10-28",
@@ -292,6 +337,7 @@
     "44fc9533-9c82-4967-b478-e60e9bcb8965": "2026-10-24",
     "574f44ac-9a62-4aac-9e14-700002e4d964": "2026-10-29",
     "5cbf17a1-05ea-42a8-b1f1-e14bbdf938e2": "2026-11-01",
+    "5e57b849-fcab-4549-9e89-acaeafde7ee0": "2026-11-03",
     "662b750c-6367-4099-a28d-a192a16b8db6": "2026-10-26",
     "6ed2b722-e265-4d0c-90c1-c025e97849bc": "2026-10-24",
     "6f86cb01-9d1d-4a7a-b56d-b3ba634ebe91": "2026-10-29",
@@ -307,6 +353,7 @@
     "9ff35bf9-a3a7-4090-a821-93f7a8d45c0e": "2026-10-25",
     "aab7cde6-ed48-4cc0-8071-de084425c8a3": "2026-10-24",
     "bc44b49b-2369-4db3-9aca-5adf81584dc1": "2026-10-25",
+    "c7738259-8578-4763-a1ab-1d40a1319995": "2026-11-03",
     "cd4e7b5b-fbf1-4548-b0da-cc95b3f5ac44": "2026-10-25",
     "d1adc638-7afc-4495-9edd-7b343b5149af": "2026-10-26",
     "d1c2997e-acd5-4787-8cbc-1ce1478ed0a9": "2026-10-26",
@@ -314,6 +361,7 @@
     "da541991-217b-4e5e-bbcb-674804c79da1": "2026-10-27",
     "db95eb8e-2918-4dec-9ec3-128db740e707": "2026-10-31",
     "e6e6f8d4-fb40-448f-a4d3-721e82516abb": "2026-10-27",
+    "ea668b85-b958-4ea9-89b8-37176506bbe9": "2026-11-03",
     "ed7b90ca-742a-4038-ba47-1c27a48ea7d9": "2026-10-25",
     "f5017c89-db3c-4020-9fec-0641d74d88f0": "2026-10-28",
     "f708537f-8aa2-4a6e-b15e-7cb303515d7d": "2026-10-27",
