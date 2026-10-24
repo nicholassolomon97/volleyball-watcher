@@ -77,17 +77,6 @@
       "venue": "St. Patrick's Youth Center",
       "venue_slug": "st-patricks-youth-center"
     },
-    "41e9a35c-9da0-49dd-bb84-33c0f0b90892": {
-      "count": "15",
-      "date": "2026-10-27T22:30:00+00:00",
-      "end": "19:15",
-      "full_name": "Tuesday 10/27 - Volleyball Pickup (All Levels) - Xavier High School 6:30pm",
-      "max": "16",
-      "start": "18:30",
-      "type": "Volleyball Pickup - 6v6 - Coed",
-      "venue": "Xavier High School",
-      "venue_slug": "xavier-high-school"
-    },
     "44fc9533-9c82-4967-b478-e60e9bcb8965": {
       "count": "10",
       "date": "2026-10-24T18:00:00+00:00",
@@ -128,7 +117,7 @@
       "full_name": "Tuesday 11/3 - Volleyball Pickup (All Levels) - Liberty Harbor Courts @ Surf City 7:00pm",
       "max": "16",
       "start": "19:00",
-      "type": null,
+      "type": "Volleyball Pickup - 6v6 - Coed",
       "venue": "Liberty Harbor Courts @ Surf City",
       "venue_slug": "liberty-harbor-courts-surf-city"
     },
@@ -210,14 +199,14 @@
       "venue_slug": "riverside-north-beach-volleyball"
     },
     "c7738259-8578-4763-a1ab-1d40a1319995": {
-      "count": "1",
+      "count": "2",
       "date": "2026-11-03T23:30:00+00:00",
       "end": "19:15",
       "full_name": "Tuesday 11/3 - Volleyball (6v6) - Xavier High School Union Square 6:30PM",
       "max": "16",
       "start": "18:30",
       "type": "Tuesday - Volleyball - Union Square",
-      "venue": "Xavier High School Union Square",
+      "venue": "Xavier High School",
       "venue_slug": "xavier-high-school"
     },
     "cd4e7b5b-fbf1-4548-b0da-cc95b3f5ac44": {
