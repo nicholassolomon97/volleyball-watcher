@@ -7,8 +7,8 @@
       "full_name": "Sunday 11/1 - Volleyball (4v4) - John Jay High School Prospect Park 5PM",
       "max": "12",
       "start": "17:00",
-      "type": "Sunday - Volleyball - Prospect Park",
-      "venue": "John Jay High School Prospect Park 5PM",
+      "type": null,
+      "venue": "John Jay High School",
       "venue_slug": "john-jay-high-school"
     },
     "06b72962-32ce-462e-bfb2-bb0e3a121a0e": {
@@ -30,7 +30,7 @@
       "max": "16",
       "start": "15:15",
       "type": "Saturday - Volleyball - Lower East Side",
-      "venue": "La Salle Academy",
+      "venue": "La Salle Academy Lower East Side",
       "venue_slug": "la-salle-academy"
     },
     "19257e6a-aac3-4790-ad93-0380bc9b1c4f": {
@@ -117,9 +117,20 @@
       "full_name": "Sunday 11/1 - Volleyball - Riverside North Beach Volleyball Upper West Side 2:15PM",
       "max": "16",
       "start": "14:15",
-      "type": "Sunday - Volleyball - Upper West Side",
-      "venue": "Riverside North Beach Volleyball Upper West Side",
+      "type": null,
+      "venue": "Riverside North Beach Volleyball",
       "venue_slug": "riverside-north-beach-volleyball"
+    },
+    "662b750c-6367-4099-a28d-a192a16b8db6": {
+      "count": "15",
+      "date": "2026-10-27T01:45:00+00:00",
+      "end": "23:00",
+      "full_name": "Monday 10/26 - Volleyball Pickup (All Levels) - La Salle Academy 9:45pm",
+      "max": "16",
+      "start": "21:45",
+      "type": "Volleyball Pickup - 6v6 - Coed",
+      "venue": "La Salle Academy",
+      "venue_slug": "la-salle-academy"
     },
     "6f86cb01-9d1d-4a7a-b56d-b3ba634ebe91": {
       "count": "0",
@@ -208,6 +219,17 @@
       "type": "Volleyball Pickup - Coed",
       "venue": "Riverside Park South",
       "venue_slug": "riverside-park-south"
+    },
+    "d1adc638-7afc-4495-9edd-7b343b5149af": {
+      "count": "15",
+      "date": "2026-10-27T00:30:00+00:00",
+      "end": "21:09",
+      "full_name": "Monday 10/26 - Volleyball Pickup (All Levels) - La Salle Academy 8:30pm",
+      "max": "16",
+      "start": "20:30",
+      "type": "Volleyball Pickup - 6v6 - Coed",
+      "venue": "La Salle Academy",
+      "venue_slug": "la-salle-academy"
     },
     "da541991-217b-4e5e-bbcb-674804c79da1": {
       "count": "14",
