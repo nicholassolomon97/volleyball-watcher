@@ -8,7 +8,7 @@
       "max": "12",
       "start": "17:00",
       "type": "Sunday - Volleyball - Prospect Park",
-      "venue": "John Jay High School Prospect Park 5PM",
+      "venue": "John Jay High School",
       "venue_slug": "john-jay-high-school"
     },
     "04726ade-cbf3-426d-911a-74b5cc946aab": {
@@ -142,17 +142,6 @@
       "type": "Volleyball Pickup - 6v6 - Coed",
       "venue": "Liberty Harbor Courts @ Surf City",
       "venue_slug": "liberty-harbor-courts-surf-city"
-    },
-    "879cdcee-5926-4266-8d27-039ff414aed1": {
-      "count": "2",
-      "date": "2026-10-25T21:00:00+00:00",
-      "end": "18:00",
-      "full_name": "Sunday 10/25 - Volleyball (4v4) - John Jay High School Prospect Park 5PM",
-      "max": "12",
-      "start": "17:00",
-      "type": "Sunday - Volleyball - Prospect Park",
-      "venue": "John Jay High School",
-      "venue_slug": "john-jay-high-school"
     },
     "8b3cc738-932a-4c25-9d5c-dfe24b9f6cff": {
       "count": "1",
