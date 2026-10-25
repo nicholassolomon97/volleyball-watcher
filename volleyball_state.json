@@ -139,7 +139,7 @@
       "full_name": "Tuesday 11/3 - Volleyball Pickup (All Levels) - Liberty Harbor Courts @ Surf City 7:00pm",
       "max": "16",
       "start": "19:00",
-      "type": "Volleyball Pickup - 6v6 - Coed",
+      "type": null,
       "venue": "Liberty Harbor Courts @ Surf City",
       "venue_slug": "liberty-harbor-courts-surf-city"
     },
@@ -153,6 +153,17 @@
       "type": "Volleyball Pickup - 6v6 - Coed",
       "venue": "Liberty Harbor Courts @ Surf City",
       "venue_slug": "liberty-harbor-courts-surf-city"
+    },
+    "7ac10035-6e7a-4958-8c90-de9eadda7525": {
+      "count": "15",
+      "date": "2026-10-25T15:00:00+00:00",
+      "end": "12:00",
+      "full_name": "Sunday 10/25 - Volleyball Pickup (All Levels) - Baruch College 11:00am",
+      "max": "16",
+      "start": "11:00",
+      "type": "Volleyball Pickup - 6v6 - Coed",
+      "venue": "Baruch College",
+      "venue_slug": "baruch-college"
     },
     "879cdcee-5926-4266-8d27-039ff414aed1": {
       "count": "4",
