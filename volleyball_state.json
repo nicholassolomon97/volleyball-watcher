@@ -62,7 +62,7 @@
       "full_name": "Tuesday 11/3 - Volleyball Pickup (All Levels) - Liberty Harbor Courts @ Surf City 8:30pm",
       "max": "16",
       "start": "20:30",
-      "type": "Volleyball Pickup - 6v6 - Coed",
+      "type": null,
       "venue": "Liberty Harbor Courts @ Surf City",
       "venue_slug": "liberty-harbor-courts-surf-city"
     },
@@ -154,6 +154,17 @@
       "venue": "Liberty Harbor Courts @ Surf City",
       "venue_slug": "liberty-harbor-courts-surf-city"
     },
+    "7920c312-ac6f-40ed-9979-b016f727d0cd": {
+      "count": "17",
+      "date": "2026-10-25T17:00:00+00:00",
+      "end": "15:00",
+      "full_name": "Sunday 10/25 - Volleyball Pickup (Advanced/competitive) - Boys and Girls Club Jersey City 1:00pm",
+      "max": "18",
+      "start": "13:00",
+      "type": "Volleyball Pickup - 6v6 - Coed",
+      "venue": "Boys and Girls Club Jersey City",
+      "venue_slug": "boys-and-girls-club-jersey-city"
+    },
     "879cdcee-5926-4266-8d27-039ff414aed1": {
       "count": "3",
       "date": "2026-10-25T21:00:00+00:00",
@@ -183,8 +194,8 @@
       "full_name": "Wednesday 11/4 - Volleyball (6v6) - Pier 25 West Village 6PM",
       "max": "14",
       "start": "18:00",
-      "type": "Wednesday - Volleyball - West Village",
-      "venue": "Pier 25 West Village 6PM",
+      "type": null,
+      "venue": "Pier 25",
       "venue_slug": "pier-25"
     },
     "8e3463a7-e828-40a3-aaf9-2c2c3ab0f2fa": {
@@ -263,6 +274,17 @@
       "type": "Volleyball Pickup - 6v6 - Coed",
       "venue": "St. Patrick's Youth Center",
       "venue_slug": "st-patricks-youth-center"
+    },
+    "ed7b90ca-742a-4038-ba47-1c27a48ea7d9": {
+      "count": "17",
+      "date": "2026-10-25T19:00:00+00:00",
+      "end": "17:00",
+      "full_name": "Sunday 10/25 - Volleyball Pickup (Intermediate) - Boys and Girls Club Jersey City 3:00pm",
+      "max": "18",
+      "start": "15:00",
+      "type": "Volleyball Pickup - 6v6 - Coed",
+      "venue": "Boys and Girls Club Jersey City",
+      "venue_slug": "boys-and-girls-club-jersey-city"
     },
     "f5017c89-db3c-4020-9fec-0641d74d88f0": {
       "count": "1",
