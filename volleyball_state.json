@@ -129,7 +129,7 @@
       "max": "16",
       "start": "14:15",
       "type": "Sunday - Volleyball - Upper West Side",
-      "venue": "Riverside North Beach Volleyball Upper West Side",
+      "venue": "Riverside North Beach Volleyball",
       "venue_slug": "riverside-north-beach-volleyball"
     },
     "5e57b849-fcab-4549-9e89-acaeafde7ee0": {
@@ -139,7 +139,7 @@
       "full_name": "Tuesday 11/3 - Volleyball Pickup (All Levels) - Liberty Harbor Courts @ Surf City 7:00pm",
       "max": "16",
       "start": "19:00",
-      "type": null,
+      "type": "Volleyball Pickup - 6v6 - Coed",
       "venue": "Liberty Harbor Courts @ Surf City",
       "venue_slug": "liberty-harbor-courts-surf-city"
     },
@@ -219,17 +219,6 @@
       "type": "Saturday - Volleyball - Long Island City",
       "venue": "Hunter's Point South Long Island City 12PM",
       "venue_slug": "hunters-point-south"
-    },
-    "9ff35bf9-a3a7-4090-a821-93f7a8d45c0e": {
-      "count": "1",
-      "date": "2026-10-25T18:15:00+00:00",
-      "end": "16:00",
-      "full_name": "Sunday 10/25 - Volleyball - Riverside North Beach Volleyball Upper West Side 2:15PM",
-      "max": "16",
-      "start": "14:15",
-      "type": "Sunday - Volleyball - Upper West Side",
-      "venue": "Riverside North Beach Volleyball",
-      "venue_slug": "riverside-north-beach-volleyball"
     },
     "bc44b49b-2369-4db3-9aca-5adf81584dc1": {
       "count": "10",
