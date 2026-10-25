@@ -62,7 +62,7 @@
       "full_name": "Tuesday 11/3 - Volleyball Pickup (All Levels) - Liberty Harbor Courts @ Surf City 8:30pm",
       "max": "16",
       "start": "20:30",
-      "type": null,
+      "type": "Volleyball Pickup - 6v6 - Coed",
       "venue": "Liberty Harbor Courts @ Surf City",
       "venue_slug": "liberty-harbor-courts-surf-city"
     },
@@ -274,17 +274,6 @@
       "type": "Volleyball Pickup - 6v6 - Coed",
       "venue": "St. Patrick's Youth Center",
       "venue_slug": "st-patricks-youth-center"
-    },
-    "ed7b90ca-742a-4038-ba47-1c27a48ea7d9": {
-      "count": "17",
-      "date": "2026-10-25T19:00:00+00:00",
-      "end": "17:00",
-      "full_name": "Sunday 10/25 - Volleyball Pickup (Intermediate) - Boys and Girls Club Jersey City 3:00pm",
-      "max": "18",
-      "start": "15:00",
-      "type": "Volleyball Pickup - 6v6 - Coed",
-      "venue": "Boys and Girls Club Jersey City",
-      "venue_slug": "boys-and-girls-club-jersey-city"
     },
     "f5017c89-db3c-4020-9fec-0641d74d88f0": {
       "count": "1",
