@@ -55,17 +55,6 @@
       "venue": "Liberty Harbor Courts @ Surf City",
       "venue_slug": "liberty-harbor-courts-surf-city"
     },
-    "29056485-bdf2-41da-9ece-59f7d73b8783": {
-      "count": "12",
-      "date": "2026-10-26T23:00:00+00:00",
-      "end": "20:00",
-      "full_name": "Monday 10/26 - Volleyball Pickup (All Levels) - Pier 6 7:00pm",
-      "max": "16",
-      "start": "19:00",
-      "type": "Volleyball Pickup - 6v6 - Coed",
-      "venue": "Pier 6",
-      "venue_slug": "pier-6"
-    },
     "2e046629-fabf-4022-8b68-f06bac9acc9b": {
       "count": "25",
       "date": "2026-10-28T22:15:00+00:00",
@@ -216,7 +205,7 @@
       "full_name": "Thursday 11/5 - Volleyball Pickup (All Levels) - Liberty Harbor Courts @ Surf City 7:00pm",
       "max": "16",
       "start": "19:00",
-      "type": null,
+      "type": "Volleyball Pickup - 6v6 - Coed",
       "venue": "Liberty Harbor Courts @ Surf City",
       "venue_slug": "liberty-harbor-courts-surf-city"
     },
