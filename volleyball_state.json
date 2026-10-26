@@ -88,6 +88,17 @@
       "venue": "New Design High School",
       "venue_slug": null
     },
+    "41e9a35c-9da0-49dd-bb84-33c0f0b90892": {
+      "count": "15",
+      "date": "2026-10-27T22:30:00+00:00",
+      "end": "19:15",
+      "full_name": "Tuesday 10/27 - Volleyball Pickup (All Levels) - Xavier High School 6:30pm",
+      "max": "16",
+      "start": "18:30",
+      "type": "Volleyball Pickup - 6v6 - Coed",
+      "venue": "Xavier High School",
+      "venue_slug": "xavier-high-school"
+    },
     "4ee380ee-65f2-46e3-a59b-db78f1b1b75b": {
       "count": "1",
       "date": "2026-11-05T00:00:00+00:00",
@@ -95,9 +106,9 @@
       "full_name": "Wednesday 11/4 - Volleyball Pickup- Kotofit - 88 Bishop Jersey City 7PM",
       "max": "18",
       "start": "19:00",
-      "type": "Wednesday - Volleyball Pickup - Jersey City",
-      "venue": "88 Bishop Jersey City 7PM",
-      "venue_slug": null
+      "type": null,
+      "venue": "Kotofit - 88 Bishop",
+      "venue_slug": "kotofit-88-bishop"
     },
     "574f44ac-9a62-4aac-9e14-700002e4d964": {
       "count": "0",
@@ -228,11 +239,11 @@
       "max": "16",
       "start": "18:30",
       "type": "Tuesday - Volleyball - Union Square",
-      "venue": "Xavier High School",
+      "venue": "Xavier High School Union Square",
       "venue_slug": "xavier-high-school"
     },
     "d1adc638-7afc-4495-9edd-7b343b5149af": {
-      "count": "15",
+      "count": "14",
       "date": "2026-10-27T00:30:00+00:00",
       "end": "21:09",
       "full_name": "Monday 10/26 - Volleyball Pickup (All Levels) - La Salle Academy 8:30pm",
