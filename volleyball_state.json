@@ -22,6 +22,17 @@
       "venue": "St. Patrick's Youth Center Lower East Side",
       "venue_slug": "st-patricks-youth-center"
     },
+    "05e198b6-beb4-4f22-9a24-a3cb9dd03113": {
+      "count": "15",
+      "date": "2026-10-28T01:15:00+00:00",
+      "end": "23:00",
+      "full_name": "Tuesday 10/27 - Volleyball Pickup (All Levels) - The Post BK - 100 Dobbin St 9:15pm",
+      "max": "16",
+      "start": "21:15",
+      "type": "Volleyball Pickup - 6v6 - Coed",
+      "venue": "The Post BK - 100 Dobbin St",
+      "venue_slug": "the-post-bk-100-dobbin-st"
+    },
     "10013622-a93a-4579-9334-584021ce5ec9": {
       "count": "6",
       "date": "2026-10-31T19:15:00+00:00",
@@ -162,8 +173,8 @@
       "max": "18",
       "start": "14:00",
       "type": "Saturday - Volleyball - Williamsburg",
-      "venue": "The Post BK - 100 Dobbin St",
-      "venue_slug": "the-post-bk-100-dobbin-st"
+      "venue": "100 Dobbin St Williamsburg",
+      "venue_slug": null
     },
     "93b0d955-ed85-465c-8135-d5715285c8fe": {
       "count": "1",
@@ -205,7 +216,7 @@
       "full_name": "Thursday 11/5 - Volleyball Pickup (All Levels) - Liberty Harbor Courts @ Surf City 7:00pm",
       "max": "16",
       "start": "19:00",
-      "type": "Volleyball Pickup - 6v6 - Coed",
+      "type": null,
       "venue": "Liberty Harbor Courts @ Surf City",
       "venue_slug": "liberty-harbor-courts-surf-city"
     },
