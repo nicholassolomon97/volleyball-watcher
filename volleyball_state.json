@@ -74,7 +74,7 @@
       "max": "32",
       "start": "18:15",
       "type": "Wednesday - Volleyball - Lower East Side",
-      "venue": "St. Patrick's Youth Center",
+      "venue": "St. Patrick's Youth Center Lower East Side",
       "venue_slug": "st-patricks-youth-center"
     },
     "38c2dd0c-b650-4e4a-93fb-45862089d7aa": {
@@ -183,8 +183,8 @@
       "full_name": "Wednesday 11/4 - Volleyball (6v6) - Pier 25 West Village 6PM",
       "max": "14",
       "start": "18:00",
-      "type": "Wednesday - Volleyball - West Village",
-      "venue": "Pier 25 West Village 6PM",
+      "type": null,
+      "venue": "Pier 25",
       "venue_slug": "pier-25"
     },
     "8e3463a7-e828-40a3-aaf9-2c2c3ab0f2fa": {
@@ -274,6 +274,17 @@
       "type": null,
       "venue": "Liberty Harbor Courts @ Surf City",
       "venue_slug": "liberty-harbor-courts-surf-city"
+    },
+    "da541991-217b-4e5e-bbcb-674804c79da1": {
+      "count": "15",
+      "date": "2026-10-27T22:15:00+00:00",
+      "end": "19:00",
+      "full_name": "Tuesday 10/27 - Volleyball Pickup (All Levels) - St. Patrick's Youth Center 6:15pm",
+      "max": "16",
+      "start": "18:15",
+      "type": "Volleyball Pickup - 6v6 - Coed",
+      "venue": "St. Patrick's Youth Center",
+      "venue_slug": "st-patricks-youth-center"
     },
     "db95eb8e-2918-4dec-9ec3-128db740e707": {
       "count": "0",
