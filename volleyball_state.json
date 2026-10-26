@@ -30,7 +30,7 @@
       "max": "16",
       "start": "15:15",
       "type": "Saturday - Volleyball - Lower East Side",
-      "venue": "La Salle Academy",
+      "venue": "La Salle Academy Lower East Side",
       "venue_slug": "la-salle-academy"
     },
     "23c5c2d6-fa60-411d-8fec-7f8bacec7d87": {
@@ -84,9 +84,9 @@
       "full_name": "Thursday 11/5 - Volleyball (6v6) - New Design High School Lower East Side 7PM",
       "max": "16",
       "start": "19:00",
-      "type": "Thursday - Volleyball - Lower East Side",
+      "type": null,
       "venue": "New Design High School",
-      "venue_slug": "new-design-high-school"
+      "venue_slug": null
     },
     "4ee380ee-65f2-46e3-a59b-db78f1b1b75b": {
       "count": "1",
@@ -195,6 +195,17 @@
       "max": "16",
       "start": "21:15",
       "type": null,
+      "venue": "La Salle Academy",
+      "venue_slug": "la-salle-academy"
+    },
+    "a4750fae-2b86-414a-b1b3-4ed697295c95": {
+      "count": "1",
+      "date": "2026-10-29T22:00:00+00:00",
+      "end": "19:00",
+      "full_name": "Thursday 10/29 - Volleyball Pickup (All Levels) - La Salle Academy 6:00pm",
+      "max": "16",
+      "start": "18:00",
+      "type": "Volleyball Pickup - 6v6 - Coed",
       "venue": "La Salle Academy",
       "venue_slug": "la-salle-academy"
     },
@@ -311,6 +322,7 @@
     "90a82c97-d6d2-4029-8688-4f92b6f156a4": "2026-10-27",
     "93b0d955-ed85-465c-8135-d5715285c8fe": "2026-10-31",
     "a07fcd17-9f56-4714-b6d0-f47266e293ff": "2026-11-05",
+    "a4750fae-2b86-414a-b1b3-4ed697295c95": "2026-10-29",
     "aa2ddcff-62dd-4a39-9c18-514908e1d37d": "2026-11-05",
     "c7738259-8578-4763-a1ab-1d40a1319995": "2026-11-03",
     "d1adc638-7afc-4495-9edd-7b343b5149af": "2026-10-26",
