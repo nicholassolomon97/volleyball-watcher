@@ -183,8 +183,8 @@
       "full_name": "Wednesday 11/4 - Volleyball (6v6) - Pier 25 West Village 6PM",
       "max": "14",
       "start": "18:00",
-      "type": null,
-      "venue": "Pier 25",
+      "type": "Wednesday - Volleyball - West Village",
+      "venue": "Pier 25 West Village 6PM",
       "venue_slug": "pier-25"
     },
     "8e3463a7-e828-40a3-aaf9-2c2c3ab0f2fa": {
@@ -252,17 +252,6 @@
       "type": "Tuesday - Volleyball - Union Square",
       "venue": "Xavier High School",
       "venue_slug": "xavier-high-school"
-    },
-    "d1adc638-7afc-4495-9edd-7b343b5149af": {
-      "count": "15",
-      "date": "2026-10-27T00:30:00+00:00",
-      "end": "21:09",
-      "full_name": "Monday 10/26 - Volleyball Pickup (All Levels) - La Salle Academy 8:30pm",
-      "max": "16",
-      "start": "20:30",
-      "type": "Volleyball Pickup - 6v6 - Coed",
-      "venue": "La Salle Academy",
-      "venue_slug": "la-salle-academy"
     },
     "d36e617b-0a49-4638-95e1-830c66824103": {
       "count": "0",
