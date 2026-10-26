@@ -18,8 +18,8 @@
       "full_name": "Wednesday 11/4 - Volleyball (6v6) - St. Patrick's Youth Center Lower East Side 6:15PM",
       "max": "32",
       "start": "18:15",
-      "type": "Wednesday - Volleyball - Lower East Side",
-      "venue": "St. Patrick's Youth Center Lower East Side",
+      "type": null,
+      "venue": "St. Patrick's Youth Center",
       "venue_slug": "st-patricks-youth-center"
     },
     "10013622-a93a-4579-9334-584021ce5ec9": {
@@ -87,6 +87,17 @@
       "type": null,
       "venue": "New Design High School",
       "venue_slug": null
+    },
+    "41e9a35c-9da0-49dd-bb84-33c0f0b90892": {
+      "count": "15",
+      "date": "2026-10-27T22:30:00+00:00",
+      "end": "19:15",
+      "full_name": "Tuesday 10/27 - Volleyball Pickup (All Levels) - Xavier High School 6:30pm",
+      "max": "16",
+      "start": "18:30",
+      "type": "Volleyball Pickup - 6v6 - Coed",
+      "venue": "Xavier High School",
+      "venue_slug": "xavier-high-school"
     },
     "4ee380ee-65f2-46e3-a59b-db78f1b1b75b": {
       "count": "1",
@@ -239,7 +250,7 @@
       "max": "16",
       "start": "18:30",
       "type": "Tuesday - Volleyball - Union Square",
-      "venue": "Xavier High School",
+      "venue": "Xavier High School Union Square",
       "venue_slug": "xavier-high-school"
     },
     "d1adc638-7afc-4495-9edd-7b343b5149af": {
