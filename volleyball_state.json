@@ -151,6 +151,17 @@
       "max": "18",
       "start": "14:00",
       "type": "Saturday - Volleyball - Williamsburg",
+      "venue": "100 Dobbin St Williamsburg",
+      "venue_slug": null
+    },
+    "90a82c97-d6d2-4029-8688-4f92b6f156a4": {
+      "count": "15",
+      "date": "2026-10-27T22:00:00+00:00",
+      "end": "19:00",
+      "full_name": "Tuesday 10/27 - Volleyball Pickup (All Levels) - The Post BK - 100 Dobbin St 6:00pm",
+      "max": "16",
+      "start": "18:00",
+      "type": "Volleyball Pickup - 6v6 - Coed",
       "venue": "The Post BK - 100 Dobbin St",
       "venue_slug": "the-post-bk-100-dobbin-st"
     },
@@ -194,7 +205,7 @@
       "full_name": "Thursday 11/5 - Volleyball Pickup (All Levels) - Liberty Harbor Courts @ Surf City 7:00pm",
       "max": "16",
       "start": "19:00",
-      "type": "Volleyball Pickup - 6v6 - Coed",
+      "type": null,
       "venue": "Liberty Harbor Courts @ Surf City",
       "venue_slug": "liberty-harbor-courts-surf-city"
     },
