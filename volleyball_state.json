@@ -30,7 +30,7 @@
       "max": "16",
       "start": "15:15",
       "type": "Saturday - Volleyball - Lower East Side",
-      "venue": "La Salle Academy Lower East Side",
+      "venue": "La Salle Academy",
       "venue_slug": "la-salle-academy"
     },
     "286e2157-c366-45ae-830e-8efc314cdf13": {
@@ -172,19 +172,8 @@
       "full_name": "Thursday 11/5 - Volleyball (6v6) - La Salle Academy Lower East Side 9:15PM",
       "max": "16",
       "start": "21:15",
-      "type": null,
-      "venue": "La Salle Academy",
-      "venue_slug": "la-salle-academy"
-    },
-    "a4750fae-2b86-414a-b1b3-4ed697295c95": {
-      "count": "15",
-      "date": "2026-10-29T22:00:00+00:00",
-      "end": "19:00",
-      "full_name": "Thursday 10/29 - Volleyball Pickup (All Levels) - La Salle Academy 6:00pm",
-      "max": "16",
-      "start": "18:00",
-      "type": "Volleyball Pickup - 6v6 - Coed",
-      "venue": "La Salle Academy",
+      "type": "Thursday - Volleyball - Lower East Side",
+      "venue": "La Salle Academy Lower East Side",
       "venue_slug": "la-salle-academy"
     },
     "aa2ddcff-62dd-4a39-9c18-514908e1d37d": {
