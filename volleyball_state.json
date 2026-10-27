@@ -22,17 +22,6 @@
       "venue": "St. Patrick's Youth Center Lower East Side",
       "venue_slug": "st-patricks-youth-center"
     },
-    "05e198b6-beb4-4f22-9a24-a3cb9dd03113": {
-      "count": "15",
-      "date": "2026-10-28T01:15:00+00:00",
-      "end": "23:00",
-      "full_name": "Tuesday 10/27 - Volleyball Pickup (All Levels) - The Post BK - 100 Dobbin St 9:15pm",
-      "max": "16",
-      "start": "21:15",
-      "type": "Volleyball Pickup - 6v6 - Coed",
-      "venue": "The Post BK - 100 Dobbin St",
-      "venue_slug": "the-post-bk-100-dobbin-st"
-    },
     "10013622-a93a-4579-9334-584021ce5ec9": {
       "count": "9",
       "date": "2026-10-31T19:15:00+00:00",
@@ -95,9 +84,9 @@
       "full_name": "Wednesday 11/4 - Volleyball Pickup- Kotofit - 88 Bishop Jersey City 7PM",
       "max": "18",
       "start": "19:00",
-      "type": null,
-      "venue": "Kotofit - 88 Bishop",
-      "venue_slug": "kotofit-88-bishop"
+      "type": "Wednesday - Volleyball Pickup - Jersey City",
+      "venue": "88 Bishop Jersey City 7PM",
+      "venue_slug": null
     },
     "574f44ac-9a62-4aac-9e14-700002e4d964": {
       "count": "0",
@@ -173,8 +162,8 @@
       "max": "18",
       "start": "14:00",
       "type": "Saturday - Volleyball - Williamsburg",
-      "venue": "100 Dobbin St Williamsburg",
-      "venue_slug": null
+      "venue": "The Post BK - 100 Dobbin St",
+      "venue_slug": "the-post-bk-100-dobbin-st"
     },
     "93b0d955-ed85-465c-8135-d5715285c8fe": {
       "count": "1",
