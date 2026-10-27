@@ -66,17 +66,6 @@
       "venue": "La Salle Academy Lower East Side",
       "venue_slug": "la-salle-academy"
     },
-    "41e9a35c-9da0-49dd-bb84-33c0f0b90892": {
-      "count": "15",
-      "date": "2026-10-27T22:30:00+00:00",
-      "end": "19:15",
-      "full_name": "Tuesday 10/27 - Volleyball Pickup (All Levels) - Xavier High School 6:30pm",
-      "max": "16",
-      "start": "18:30",
-      "type": "Volleyball Pickup - 6v6 - Coed",
-      "venue": "Xavier High School",
-      "venue_slug": "xavier-high-school"
-    },
     "4ee380ee-65f2-46e3-a59b-db78f1b1b75b": {
       "count": "1",
       "date": "2026-11-05T00:00:00+00:00",
@@ -217,7 +206,7 @@
       "max": "16",
       "start": "18:30",
       "type": "Tuesday - Volleyball - Union Square",
-      "venue": "Xavier High School Union Square",
+      "venue": "Xavier High School",
       "venue_slug": "xavier-high-school"
     },
     "d36e617b-0a49-4638-95e1-830c66824103": {
@@ -227,7 +216,7 @@
       "full_name": "Thursday 11/5 - Volleyball Pickup (All Levels) - Liberty Harbor Courts @ Surf City 8:30pm",
       "max": "16",
       "start": "20:30",
-      "type": null,
+      "type": "Volleyball Pickup - 6v6 - Coed",
       "venue": "Liberty Harbor Courts @ Surf City",
       "venue_slug": "liberty-harbor-courts-surf-city"
     },
