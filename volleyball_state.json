@@ -33,6 +33,17 @@
       "venue": "Liberty Harbor Courts @ Surf City",
       "venue_slug": "liberty-harbor-courts-surf-city"
     },
+    "2e046629-fabf-4022-8b68-f06bac9acc9b": {
+      "count": "31",
+      "date": "2026-10-28T22:15:00+00:00",
+      "end": "19:00",
+      "full_name": "Wednesday 10/28 - Volleyball (6v6) - St. Patrick's Youth Center Lower East Side 6:15PM",
+      "max": "32",
+      "start": "18:15",
+      "type": "Wednesday - Volleyball - Lower East Side",
+      "venue": "St. Patrick's Youth Center",
+      "venue_slug": "st-patricks-youth-center"
+    },
     "4ee380ee-65f2-46e3-a59b-db78f1b1b75b": {
       "count": "1",
       "date": "2026-11-05T00:00:00+00:00",
@@ -106,8 +117,8 @@
       "full_name": "Saturday 11/7 - Volleyball (6v6) - Hunter's Point South Long Island City 2PM",
       "max": "16",
       "start": "14:00",
-      "type": "Saturday - Volleyball - Long Island City",
-      "venue": "Hunter's Point South Long Island City 2PM",
+      "type": null,
+      "venue": "Hunter's Point South",
       "venue_slug": "hunters-point-south"
     },
     "8b3cc738-932a-4c25-9d5c-dfe24b9f6cff": {
