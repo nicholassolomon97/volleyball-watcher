@@ -77,6 +77,17 @@
       "venue": "Liberty Harbor Courts @ Surf City",
       "venue_slug": "liberty-harbor-courts-surf-city"
     },
+    "61f67f09-f4f5-49f1-9717-61aeadf03b73": {
+      "count": "14",
+      "date": "2026-10-28T16:00:00+00:00",
+      "end": "20:00",
+      "full_name": "Wednesday 10/28 - Volleyball Pickup () - Art and Design 7:15pm",
+      "max": "16",
+      "start": "19:15",
+      "type": "Volleyball  Pickup - 6v6 - Coed",
+      "venue": "Art and Design",
+      "venue_slug": "art-and-design"
+    },
     "6f86cb01-9d1d-4a7a-b56d-b3ba634ebe91": {
       "count": "0",
       "date": "2026-10-30T00:30:00+00:00",
@@ -267,6 +278,7 @@
     "574f44ac-9a62-4aac-9e14-700002e4d964": "2026-10-29",
     "5cbf17a1-05ea-42a8-b1f1-e14bbdf938e2": "2026-11-01",
     "5e57b849-fcab-4549-9e89-acaeafde7ee0": "2026-11-03",
+    "61f67f09-f4f5-49f1-9717-61aeadf03b73": "2026-10-28",
     "6f86cb01-9d1d-4a7a-b56d-b3ba634ebe91": "2026-10-29",
     "7c6855db-59a9-4d0f-b68a-821c8d7903b2": "2026-11-01",
     "826444e9-e01c-4699-bd43-04d0e6cb75ca": "2026-11-07",
