@@ -44,17 +44,6 @@
       "venue": "88 Bishop Jersey City 7PM",
       "venue_slug": null
     },
-    "574f44ac-9a62-4aac-9e14-700002e4d964": {
-      "count": "0",
-      "date": "2026-10-29T23:00:00+00:00",
-      "end": "20:30",
-      "full_name": "Thursday 10/29 - Volleyball Pickup (All Levels) - Liberty Harbor Courts @ Surf City 7:00pm",
-      "max": "16",
-      "start": "19:00",
-      "type": "Volleyball Pickup - 6v6 - Coed",
-      "venue": "Liberty Harbor Courts @ Surf City",
-      "venue_slug": "liberty-harbor-courts-surf-city"
-    },
     "5cbf17a1-05ea-42a8-b1f1-e14bbdf938e2": {
       "count": "3",
       "date": "2026-11-01T19:15:00+00:00",
@@ -201,7 +190,7 @@
     "d829d1ac-2e23-49bb-8306-1ae98b65a6ad": {
       "count": "11",
       "date": "2026-10-29T22:00:00+00:00",
-      "end": "19:00",
+      "end": "20:00",
       "full_name": "Thursday 10/29 - Volleyball Pickup (All Levels) - The Post BK - 100 Dobbin St 6:00pm",
       "max": "16",
       "start": "18:00",
