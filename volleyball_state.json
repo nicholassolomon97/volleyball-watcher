@@ -143,6 +143,17 @@
       "venue": "Hunter's Point South",
       "venue_slug": "hunters-point-south"
     },
+    "a07fcd17-9f56-4714-b6d0-f47266e293ff": {
+      "count": "15",
+      "date": "2026-11-06T02:15:00+00:00",
+      "end": "23:00",
+      "full_name": "Thursday 11/5 - Volleyball (6v6) - La Salle Academy Lower East Side 9:15PM",
+      "max": "16",
+      "start": "21:15",
+      "type": "Thursday - Volleyball - Lower East Side",
+      "venue": "La Salle Academy Lower East Side",
+      "venue_slug": "la-salle-academy"
+    },
     "aa2ddcff-62dd-4a39-9c18-514908e1d37d": {
       "count": "0",
       "date": "2026-11-06T00:00:00+00:00",
