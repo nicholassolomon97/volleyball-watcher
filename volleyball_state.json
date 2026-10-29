@@ -198,6 +198,17 @@
       "venue": "Kotofit - 88 Bishop",
       "venue_slug": "kotofit-88-bishop"
     },
+    "e502663a-bedd-4481-a6e5-8010780f96d2": {
+      "count": "0",
+      "date": "2026-11-08T19:15:00+00:00",
+      "end": "16:00",
+      "full_name": "Sunday 11/8 - Volleyball - Riverside North Beach Volleyball Upper West Side 2:15PM",
+      "max": "16",
+      "start": "14:15",
+      "type": "Sunday - Volleyball - Upper West Side",
+      "venue": "Riverside North Beach Volleyball Upper West Side",
+      "venue_slug": "riverside-north-beach-volleyball"
+    },
     "e6b627d4-46fb-4161-a7e7-5fca3b47a2ba": {
       "count": "0",
       "date": "2026-11-07T18:00:00+00:00",
@@ -225,16 +236,13 @@
     "027f5d21-1555-4e9e-9af7-16a5973f14ec": "2026-11-01",
     "04726ade-cbf3-426d-911a-74b5cc946aab": "2026-11-04",
     "10013622-a93a-4579-9334-584021ce5ec9": "2026-10-31",
-    "23c5c2d6-fa60-411d-8fec-7f8bacec7d87": "2026-10-28",
     "286e2157-c366-45ae-830e-8efc314cdf13": "2026-11-03",
-    "2e046629-fabf-4022-8b68-f06bac9acc9b": "2026-10-28",
     "38c2dd0c-b650-4e4a-93fb-45862089d7aa": "2026-11-05",
     "3c5659fa-0b16-4d3d-8ffd-24854df21729": "2026-10-29",
     "4ee380ee-65f2-46e3-a59b-db78f1b1b75b": "2026-11-04",
     "574f44ac-9a62-4aac-9e14-700002e4d964": "2026-10-29",
     "5cbf17a1-05ea-42a8-b1f1-e14bbdf938e2": "2026-11-01",
     "5e57b849-fcab-4549-9e89-acaeafde7ee0": "2026-11-03",
-    "61f67f09-f4f5-49f1-9717-61aeadf03b73": "2026-10-28",
     "6f86cb01-9d1d-4a7a-b56d-b3ba634ebe91": "2026-10-29",
     "7c6855db-59a9-4d0f-b68a-821c8d7903b2": "2026-11-01",
     "826444e9-e01c-4699-bd43-04d0e6cb75ca": "2026-11-07",
@@ -251,9 +259,9 @@
     "d36e617b-0a49-4638-95e1-830c66824103": "2026-11-05",
     "d829d1ac-2e23-49bb-8306-1ae98b65a6ad": "2026-10-29",
     "db95eb8e-2918-4dec-9ec3-128db740e707": "2026-10-31",
+    "e502663a-bedd-4481-a6e5-8010780f96d2": "2026-11-08",
     "e6b627d4-46fb-4161-a7e7-5fca3b47a2ba": "2026-11-07",
     "ea668b85-b958-4ea9-89b8-37176506bbe9": "2026-11-03",
-    "f5017c89-db3c-4020-9fec-0641d74d88f0": "2026-10-28",
     "f9960230-e57e-442e-b5a5-7820fe7b1b0d": "2026-11-01"
   }
 }
