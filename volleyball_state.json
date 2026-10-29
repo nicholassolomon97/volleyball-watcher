@@ -19,7 +19,7 @@
       "max": "16",
       "start": "15:15",
       "type": "Saturday - Volleyball - Lower East Side",
-      "venue": "La Salle Academy",
+      "venue": "La Salle Academy Lower East Side",
       "venue_slug": "la-salle-academy"
     },
     "286e2157-c366-45ae-830e-8efc314cdf13": {
@@ -32,6 +32,17 @@
       "type": "Volleyball Pickup - 6v6 - Coed",
       "venue": "Liberty Harbor Courts @ Surf City",
       "venue_slug": "liberty-harbor-courts-surf-city"
+    },
+    "3c5659fa-0b16-4d3d-8ffd-24854df21729": {
+      "count": "15",
+      "date": "2026-10-30T01:15:00+00:00",
+      "end": "23:00",
+      "full_name": "Thursday 10/29 - Volleyball (6v6) - La Salle Academy Lower East Side 9:15PM",
+      "max": "16",
+      "start": "21:15",
+      "type": "Thursday - Volleyball - Lower East Side",
+      "venue": "La Salle Academy",
+      "venue_slug": "la-salle-academy"
     },
     "4ee380ee-65f2-46e3-a59b-db78f1b1b75b": {
       "count": "1",
