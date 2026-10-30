@@ -22,6 +22,17 @@
       "venue": "La Salle Academy",
       "venue_slug": "la-salle-academy"
     },
+    "2750b5f2-797d-467c-90e9-2c7e05707514": {
+      "count": "0",
+      "date": "2026-11-10T00:00:00+00:00",
+      "end": "20:00",
+      "full_name": "Monday 11/9 - Volleyball (6v6) - La Salle Academy Lower East Side 7PM",
+      "max": "16",
+      "start": "19:00",
+      "type": "Monday - Volleyball - Lower East Side",
+      "venue": "La Salle Academy Lower East Side 7PM",
+      "venue_slug": "la-salle-academy"
+    },
     "286e2157-c366-45ae-830e-8efc314cdf13": {
       "count": "0",
       "date": "2026-11-04T01:30:00+00:00",
@@ -210,7 +221,7 @@
       "venue_slug": null
     },
     "fa93f4ad-3dc2-4562-8366-10f66037b28b": {
-      "count": "1",
+      "count": "2",
       "date": "2026-11-10T01:00:00+00:00",
       "end": "21:00",
       "full_name": "Monday 11/9 - Volleyball (6v6) - St. Patrick's Youth Center Lower East Side 8PM",
@@ -225,6 +236,7 @@
     "027f5d21-1555-4e9e-9af7-16a5973f14ec": "2026-11-01",
     "04726ade-cbf3-426d-911a-74b5cc946aab": "2026-11-04",
     "10013622-a93a-4579-9334-584021ce5ec9": "2026-10-31",
+    "2750b5f2-797d-467c-90e9-2c7e05707514": "2026-11-09",
     "286e2157-c366-45ae-830e-8efc314cdf13": "2026-11-03",
     "38c2dd0c-b650-4e4a-93fb-45862089d7aa": "2026-11-05",
     "4ee380ee-65f2-46e3-a59b-db78f1b1b75b": "2026-11-04",
