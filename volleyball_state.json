@@ -11,6 +11,17 @@
       "venue": "St. Patrick's Youth Center",
       "venue_slug": "st-patricks-youth-center"
     },
+    "0f5509ec-9897-4cc8-b634-d78e88b708fb": {
+      "count": "0",
+      "date": "2026-11-10T02:00:00+00:00",
+      "end": "23:00",
+      "full_name": "Monday 11/9 - Volleyball (6v6) - Pier 6 Brooklyn Heights 9PM",
+      "max": "32",
+      "start": "21:00",
+      "type": null,
+      "venue": "Pier 6",
+      "venue_slug": "pier-6"
+    },
     "10013622-a93a-4579-9334-584021ce5ec9": {
       "count": "7",
       "date": "2026-10-31T19:15:00+00:00",
@@ -21,6 +32,17 @@
       "type": "Saturday - Volleyball - Lower East Side",
       "venue": "La Salle Academy",
       "venue_slug": "la-salle-academy"
+    },
+    "203011f7-332d-4c14-9890-3d0266f00113": {
+      "count": "0",
+      "date": "2026-11-04T02:00:00+00:00",
+      "end": "23:00",
+      "full_name": "Tuesday 11/3 - Volleyball (6v6) - Pier 6 Brooklyn Heights 9PM",
+      "max": "32",
+      "start": "21:00",
+      "type": "Tuesday - Volleyball - Brooklyn Heights",
+      "venue": "Pier 6 Brooklyn Heights 9PM",
+      "venue_slug": "pier-6"
     },
     "2750b5f2-797d-467c-90e9-2c7e05707514": {
       "count": "12",
@@ -43,6 +65,17 @@
       "type": "Volleyball Pickup - 6v6 - Coed",
       "venue": "Liberty Harbor Courts @ Surf City",
       "venue_slug": "liberty-harbor-courts-surf-city"
+    },
+    "42f8c33a-ce1b-4cd5-b12f-583f085176f3": {
+      "count": "0",
+      "date": "2026-11-03T00:00:00+00:00",
+      "end": "21:00",
+      "full_name": "Monday 11/2 - Volleyball (6v6) - Pier 6 Brooklyn Heights 7PM",
+      "max": "32",
+      "start": "19:00",
+      "type": "Monday - Volleyball - Brooklyn Heights",
+      "venue": "Pier 6",
+      "venue_slug": "pier-6"
     },
     "4ee380ee-65f2-46e3-a59b-db78f1b1b75b": {
       "count": "1",
@@ -88,6 +121,17 @@
       "venue": "Liberty Harbor Courts @ Surf City",
       "venue_slug": "liberty-harbor-courts-surf-city"
     },
+    "81d623a5-0e79-4932-9a71-3adefe8b7ff0": {
+      "count": "0",
+      "date": "2026-11-04T00:00:00+00:00",
+      "end": "21:00",
+      "full_name": "Tuesday 11/3 - Volleyball (6v6) - Pier 6 Brooklyn Heights 7PM",
+      "max": "32",
+      "start": "19:00",
+      "type": "Tuesday - Volleyball - Brooklyn Heights",
+      "venue": "Pier 6 Brooklyn Heights 7PM",
+      "venue_slug": "pier-6"
+    },
     "826444e9-e01c-4699-bd43-04d0e6cb75ca": {
       "count": "1",
       "date": "2026-11-07T19:00:00+00:00",
@@ -132,6 +176,17 @@
       "venue": "The Post BK - 100 Dobbin St",
       "venue_slug": "the-post-bk-100-dobbin-st"
     },
+    "9017182b-7063-41a6-ab8f-ae8383439263": {
+      "count": "0",
+      "date": "2026-11-10T00:00:00+00:00",
+      "end": "21:00",
+      "full_name": "Monday 11/9 - Volleyball (6v6) - Pier 6 Brooklyn Heights 7PM",
+      "max": "32",
+      "start": "19:00",
+      "type": null,
+      "venue": "Pier 6",
+      "venue_slug": "pier-6"
+    },
     "93b0d955-ed85-465c-8135-d5715285c8fe": {
       "count": "1",
       "date": "2026-10-31T16:00:00+00:00",
@@ -173,7 +228,7 @@
       "max": "32",
       "start": "14:00",
       "type": "Saturday - Volleyball - Brooklyn Heights",
-      "venue": "Pier 6",
+      "venue": "Pier 6 Brooklyn Heights 2PM",
       "venue_slug": "pier-6"
     },
     "d36e617b-0a49-4638-95e1-830c66824103": {
@@ -197,6 +252,17 @@
       "type": "Saturday - Volleyball - Jersey City",
       "venue": "Kotofit - 88 Bishop",
       "venue_slug": "kotofit-88-bishop"
+    },
+    "dc93b649-9616-432d-a3b2-24134b199b6f": {
+      "count": "0",
+      "date": "2026-11-03T02:00:00+00:00",
+      "end": "23:00",
+      "full_name": "Monday 11/2 - Volleyball (6v6) - Pier 6 Brooklyn Heights 9PM",
+      "max": "32",
+      "start": "21:00",
+      "type": "Monday - Volleyball - Brooklyn Heights",
+      "venue": "Pier 6 Brooklyn Heights 9PM",
+      "venue_slug": "pier-6"
     },
     "e502663a-bedd-4481-a6e5-8010780f96d2": {
       "count": "0",
@@ -227,27 +293,32 @@
       "full_name": "Monday 11/9 - Volleyball (6v6) - St. Patrick's Youth Center Lower East Side 8PM",
       "max": "16",
       "start": "20:00",
-      "type": "Monday - Volleyball - Lower East Side",
-      "venue": "St. Patrick's Youth Center Lower East Side 8PM",
+      "type": null,
+      "venue": "St. Patrick's Youth Center",
       "venue_slug": "st-patricks-youth-center"
     }
   },
   "seen": {
     "027f5d21-1555-4e9e-9af7-16a5973f14ec": "2026-11-01",
     "04726ade-cbf3-426d-911a-74b5cc946aab": "2026-11-04",
+    "0f5509ec-9897-4cc8-b634-d78e88b708fb": "2026-11-09",
     "10013622-a93a-4579-9334-584021ce5ec9": "2026-10-31",
+    "203011f7-332d-4c14-9890-3d0266f00113": "2026-11-03",
     "2750b5f2-797d-467c-90e9-2c7e05707514": "2026-11-09",
     "286e2157-c366-45ae-830e-8efc314cdf13": "2026-11-03",
     "38c2dd0c-b650-4e4a-93fb-45862089d7aa": "2026-11-05",
+    "42f8c33a-ce1b-4cd5-b12f-583f085176f3": "2026-11-02",
     "4ee380ee-65f2-46e3-a59b-db78f1b1b75b": "2026-11-04",
     "5150e6f9-eddf-4e12-a43e-ec3c2fbaa715": "2026-11-09",
     "5cbf17a1-05ea-42a8-b1f1-e14bbdf938e2": "2026-11-01",
     "5e57b849-fcab-4549-9e89-acaeafde7ee0": "2026-11-03",
     "7c6855db-59a9-4d0f-b68a-821c8d7903b2": "2026-11-01",
+    "81d623a5-0e79-4932-9a71-3adefe8b7ff0": "2026-11-03",
     "826444e9-e01c-4699-bd43-04d0e6cb75ca": "2026-11-07",
     "8b3cc738-932a-4c25-9d5c-dfe24b9f6cff": "2026-10-31",
     "8cd11008-04b7-4e1d-8810-ead630199554": "2026-11-04",
     "8e3463a7-e828-40a3-aaf9-2c2c3ab0f2fa": "2026-10-31",
+    "9017182b-7063-41a6-ab8f-ae8383439263": "2026-11-09",
     "93b0d955-ed85-465c-8135-d5715285c8fe": "2026-10-31",
     "a07fcd17-9f56-4714-b6d0-f47266e293ff": "2026-11-05",
     "aa2ddcff-62dd-4a39-9c18-514908e1d37d": "2026-11-05",
@@ -256,6 +327,7 @@
     "ce8fd6c3-4145-4519-b436-ee54970da35b": "2026-11-07",
     "d36e617b-0a49-4638-95e1-830c66824103": "2026-11-05",
     "db95eb8e-2918-4dec-9ec3-128db740e707": "2026-10-31",
+    "dc93b649-9616-432d-a3b2-24134b199b6f": "2026-11-02",
     "e502663a-bedd-4481-a6e5-8010780f96d2": "2026-11-08",
     "e6b627d4-46fb-4161-a7e7-5fca3b47a2ba": "2026-11-07",
     "ea668b85-b958-4ea9-89b8-37176506bbe9": "2026-11-03",
