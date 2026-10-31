@@ -33,6 +33,17 @@
       "venue": "La Salle Academy",
       "venue_slug": "la-salle-academy"
     },
+    "20042e4c-8ffe-4a46-8f6c-ebfaafd753c1": {
+      "count": "0",
+      "date": "2026-11-11T00:00:00+00:00",
+      "end": "21:00",
+      "full_name": "Tuesday 11/10 - Volleyball (6v6) - Pier 6 Brooklyn Heights 7PM",
+      "max": "32",
+      "start": "19:00",
+      "type": null,
+      "venue": "Pier 6",
+      "venue_slug": "pier-6"
+    },
     "203011f7-332d-4c14-9890-3d0266f00113": {
       "count": "0",
       "date": "2026-11-04T02:00:00+00:00",
@@ -43,6 +54,17 @@
       "type": "Tuesday - Volleyball - Brooklyn Heights",
       "venue": "Pier 6 Brooklyn Heights 9PM",
       "venue_slug": "pier-6"
+    },
+    "2389b1d3-f0ee-4032-9e4f-a5f14c340b98": {
+      "count": "0",
+      "date": "2026-11-10T23:30:00+00:00",
+      "end": "19:15",
+      "full_name": "Tuesday 11/10 - Volleyball (6v6) - Xavier High School Union Square 6:30PM",
+      "max": "16",
+      "start": "18:30",
+      "type": null,
+      "venue": "Xavier High School",
+      "venue_slug": null
     },
     "2750b5f2-797d-467c-90e9-2c7e05707514": {
       "count": "12",
@@ -66,6 +88,17 @@
       "venue": "Liberty Harbor Courts @ Surf City",
       "venue_slug": "liberty-harbor-courts-surf-city"
     },
+    "39eaf7c5-001a-4586-8741-bdfb1ae64e2c": {
+      "count": "0",
+      "date": "2026-11-11T02:00:00+00:00",
+      "end": "23:00",
+      "full_name": "Tuesday 11/10 - Volleyball (6v6) - Pier 6 Brooklyn Heights 9PM",
+      "max": "32",
+      "start": "21:00",
+      "type": null,
+      "venue": "Pier 6",
+      "venue_slug": "pier-6"
+    },
     "42f8c33a-ce1b-4cd5-b12f-583f085176f3": {
       "count": "0",
       "date": "2026-11-03T00:00:00+00:00",
@@ -76,6 +109,17 @@
       "type": "Monday - Volleyball - Brooklyn Heights",
       "venue": "Pier 6",
       "venue_slug": "pier-6"
+    },
+    "47343a70-626b-4f4a-a9ae-2120247a8b5f": {
+      "count": "10",
+      "date": "2026-11-10T23:00:00+00:00",
+      "end": "19:00",
+      "full_name": "Tuesday 11/10 - Volleyball (6v6) - The Post BK - 100 Dobbin St Williamsburg 6PM",
+      "max": "16",
+      "start": "18:00",
+      "type": null,
+      "venue": "The Post BK - 100 Dobbin St",
+      "venue_slug": "the-post-bk-100-dobbin-st"
     },
     "4ee380ee-65f2-46e3-a59b-db78f1b1b75b": {
       "count": "1",
@@ -242,6 +286,17 @@
       "venue": "Liberty Harbor Courts @ Surf City",
       "venue_slug": "liberty-harbor-courts-surf-city"
     },
+    "d7aa0956-ac96-408b-b594-b14961272ffb": {
+      "count": "0",
+      "date": "2026-11-11T00:00:00+00:00",
+      "end": "20:30",
+      "full_name": "Tuesday 11/10 - Volleyball (6v6) - Liberty Harbor Courts @ Surf City Jersey City 7PM",
+      "max": "16",
+      "start": "19:00",
+      "type": null,
+      "venue": "Liberty Harbor Courts @ Surf City",
+      "venue_slug": "liberty-harbor-courts-surf-city"
+    },
     "db95eb8e-2918-4dec-9ec3-128db740e707": {
       "count": "17",
       "date": "2026-10-31T17:00:00+00:00",
@@ -303,11 +358,15 @@
     "04726ade-cbf3-426d-911a-74b5cc946aab": "2026-11-04",
     "0f5509ec-9897-4cc8-b634-d78e88b708fb": "2026-11-09",
     "10013622-a93a-4579-9334-584021ce5ec9": "2026-10-31",
+    "20042e4c-8ffe-4a46-8f6c-ebfaafd753c1": "2026-11-10",
     "203011f7-332d-4c14-9890-3d0266f00113": "2026-11-03",
+    "2389b1d3-f0ee-4032-9e4f-a5f14c340b98": "2026-11-10",
     "2750b5f2-797d-467c-90e9-2c7e05707514": "2026-11-09",
     "286e2157-c366-45ae-830e-8efc314cdf13": "2026-11-03",
     "38c2dd0c-b650-4e4a-93fb-45862089d7aa": "2026-11-05",
+    "39eaf7c5-001a-4586-8741-bdfb1ae64e2c": "2026-11-10",
     "42f8c33a-ce1b-4cd5-b12f-583f085176f3": "2026-11-02",
+    "47343a70-626b-4f4a-a9ae-2120247a8b5f": "2026-11-10",
     "4ee380ee-65f2-46e3-a59b-db78f1b1b75b": "2026-11-04",
     "5150e6f9-eddf-4e12-a43e-ec3c2fbaa715": "2026-11-09",
     "5cbf17a1-05ea-42a8-b1f1-e14bbdf938e2": "2026-11-01",
@@ -326,6 +385,7 @@
     "c7738259-8578-4763-a1ab-1d40a1319995": "2026-11-03",
     "ce8fd6c3-4145-4519-b436-ee54970da35b": "2026-11-07",
     "d36e617b-0a49-4638-95e1-830c66824103": "2026-11-05",
+    "d7aa0956-ac96-408b-b594-b14961272ffb": "2026-11-10",
     "db95eb8e-2918-4dec-9ec3-128db740e707": "2026-10-31",
     "dc93b649-9616-432d-a3b2-24134b199b6f": "2026-11-02",
     "e502663a-bedd-4481-a6e5-8010780f96d2": "2026-11-08",
