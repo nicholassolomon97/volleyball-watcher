@@ -176,17 +176,6 @@
       "venue": "Hunter's Point South Long Island City 2PM",
       "venue_slug": "hunters-point-south"
     },
-    "8b3cc738-932a-4c25-9d5c-dfe24b9f6cff": {
-      "count": "2",
-      "date": "2026-10-31T18:00:00+00:00",
-      "end": "16:00",
-      "full_name": "Saturday 10/31 - Volleyball (6v6) - Hunter's Point South Long Island City 2PM",
-      "max": "16",
-      "start": "14:00",
-      "type": "Saturday - Volleyball - Long Island City",
-      "venue": "Hunter's Point South Long Island City 2PM",
-      "venue_slug": "hunters-point-south"
-    },
     "8cd11008-04b7-4e1d-8810-ead630199554": {
       "count": "3",
       "date": "2026-11-04T23:00:00+00:00",
@@ -216,20 +205,9 @@
       "full_name": "Monday 11/9 - Volleyball (6v6) - Pier 6 Brooklyn Heights 7PM",
       "max": "32",
       "start": "19:00",
-      "type": null,
-      "venue": "Pier 6",
+      "type": "Monday - Volleyball - Brooklyn Heights",
+      "venue": "Pier 6 Brooklyn Heights 7PM",
       "venue_slug": "pier-6"
-    },
-    "93b0d955-ed85-465c-8135-d5715285c8fe": {
-      "count": "1",
-      "date": "2026-10-31T16:00:00+00:00",
-      "end": "14:00",
-      "full_name": "Saturday 10/31 - Volleyball (6v6) - Hunter's Point South Long Island City 12PM",
-      "max": "16",
-      "start": "12:00",
-      "type": "Saturday - Volleyball - Long Island City",
-      "venue": "Hunter's Point South",
-      "venue_slug": "hunters-point-south"
     },
     "aa2ddcff-62dd-4a39-9c18-514908e1d37d": {
       "count": "0",
@@ -250,7 +228,7 @@
       "max": "16",
       "start": "12:00",
       "type": "Saturday - Volleyball - Long Island City",
-      "venue": "Hunter's Point South Long Island City 12PM",
+      "venue": "Hunter's Point South",
       "venue_slug": "hunters-point-south"
     },
     "ce8fd6c3-4145-4519-b436-ee54970da35b": {
@@ -337,8 +315,8 @@
       "full_name": "Monday 11/9 - Volleyball (6v6) - St. Patrick's Youth Center Lower East Side 8PM",
       "max": "16",
       "start": "20:00",
-      "type": null,
-      "venue": "St. Patrick's Youth Center",
+      "type": "Monday - Volleyball - Lower East Side",
+      "venue": "St. Patrick's Youth Center Lower East Side 8PM",
       "venue_slug": "st-patricks-youth-center"
     }
   },
