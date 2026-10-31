@@ -51,9 +51,9 @@
       "full_name": "Tuesday 11/10 - Volleyball (6v6) - Xavier High School Union Square 6:30PM",
       "max": "16",
       "start": "18:30",
-      "type": null,
+      "type": "Tuesday - Volleyball - Union Square",
       "venue": "Xavier High School",
-      "venue_slug": null
+      "venue_slug": "xavier-high-school"
     },
     "2750b5f2-797d-467c-90e9-2c7e05707514": {
       "count": "14",
@@ -107,8 +107,8 @@
       "max": "18",
       "start": "19:00",
       "type": "Wednesday - Volleyball Pickup - Jersey City",
-      "venue": "88 Bishop Jersey City 7PM",
-      "venue_slug": null
+      "venue": "Kotofit - 88 Bishop",
+      "venue_slug": "kotofit-88-bishop"
     },
     "5150e6f9-eddf-4e12-a43e-ec3c2fbaa715": {
       "count": "1",
@@ -252,17 +252,6 @@
       "type": null,
       "venue": "Liberty Harbor Courts @ Surf City",
       "venue_slug": "liberty-harbor-courts-surf-city"
-    },
-    "db95eb8e-2918-4dec-9ec3-128db740e707": {
-      "count": "17",
-      "date": "2026-10-31T17:00:00+00:00",
-      "end": "15:00",
-      "full_name": "FREE Saturday 10/31 - Volleyball - Kotofit - 88 Bishop Jersey City 1PM",
-      "max": "18",
-      "start": "13:00",
-      "type": "Saturday - Volleyball - Jersey City",
-      "venue": "Kotofit - 88 Bishop",
-      "venue_slug": "kotofit-88-bishop"
     },
     "dc93b649-9616-432d-a3b2-24134b199b6f": {
       "count": "0",
