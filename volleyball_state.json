@@ -51,9 +51,9 @@
       "full_name": "Tuesday 11/10 - Volleyball (6v6) - Xavier High School Union Square 6:30PM",
       "max": "16",
       "start": "18:30",
-      "type": "Tuesday - Volleyball - Union Square",
+      "type": null,
       "venue": "Xavier High School",
-      "venue_slug": "xavier-high-school"
+      "venue_slug": null
     },
     "2750b5f2-797d-467c-90e9-2c7e05707514": {
       "count": "15",
@@ -142,6 +142,17 @@
       "type": "Volleyball Pickup - 6v6 - Coed",
       "venue": "Liberty Harbor Courts @ Surf City",
       "venue_slug": "liberty-harbor-courts-surf-city"
+    },
+    "7c6855db-59a9-4d0f-b68a-821c8d7903b2": {
+      "count": "17",
+      "date": "2026-11-01T20:00:00+00:00",
+      "end": "17:00",
+      "full_name": "Sunday 11/1 - Volleyball Pickup (Intermediate) - Boys and Girls Club Jersey City 3:00pm",
+      "max": "18",
+      "start": "15:00",
+      "type": "Volleyball Pickup - 6v6 - Coed",
+      "venue": "Boys and Girls Club Jersey City",
+      "venue_slug": "boys-and-girls-club-jersey-city"
     },
     "81d623a5-0e79-4932-9a71-3adefe8b7ff0": {
       "count": "6",
@@ -238,8 +249,8 @@
       "full_name": "Tuesday 11/10 - Volleyball (6v6) - Liberty Harbor Courts @ Surf City Jersey City 7PM",
       "max": "16",
       "start": "19:00",
-      "type": "Tuesday - Volleyball - Jersey City",
-      "venue": "Liberty Harbor Courts @ Surf City Jersey City 7PM",
+      "type": null,
+      "venue": "Liberty Harbor Courts @ Surf City",
       "venue_slug": "liberty-harbor-courts-surf-city"
     },
     "dc93b649-9616-432d-a3b2-24134b199b6f": {
@@ -274,6 +285,17 @@
       "type": "Saturday - Volleyball - Jersey City",
       "venue": "88 Bishop Jersey City 1PM",
       "venue_slug": null
+    },
+    "f9960230-e57e-442e-b5a5-7820fe7b1b0d": {
+      "count": "17",
+      "date": "2026-11-01T18:00:00+00:00",
+      "end": "15:00",
+      "full_name": "Sunday 11/1 - Volleyball Pickup (Advanced/competitive) - Boys and Girls Club Jersey City 1:00pm",
+      "max": "18",
+      "start": "13:00",
+      "type": "Volleyball Pickup - 6v6 - Coed",
+      "venue": "Boys and Girls Club Jersey City",
+      "venue_slug": "boys-and-girls-club-jersey-city"
     },
     "fa93f4ad-3dc2-4562-8366-10f66037b28b": {
       "count": "12",
