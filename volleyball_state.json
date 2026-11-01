@@ -12,7 +12,7 @@
       "venue_slug": "pier-25"
     },
     "04726ade-cbf3-426d-911a-74b5cc946aab": {
-      "count": "29",
+      "count": "30",
       "date": "2026-11-04T23:15:00+00:00",
       "end": "19:00",
       "full_name": "Wednesday 11/4 - Volleyball (6v6) - St. Patrick's Youth Center Lower East Side 6:15PM",
@@ -131,17 +131,6 @@
       "type": "Monday - Volleyball - West Village",
       "venue": "Pier 25 West Village 6PM",
       "venue_slug": "pier-25"
-    },
-    "5cbf17a1-05ea-42a8-b1f1-e14bbdf938e2": {
-      "count": "1",
-      "date": "2026-11-01T19:15:00+00:00",
-      "end": "16:00",
-      "full_name": "Sunday 11/1 - Volleyball - Riverside North Beach Volleyball Upper West Side 2:15PM",
-      "max": "16",
-      "start": "14:15",
-      "type": "Sunday - Volleyball - Upper West Side",
-      "venue": "Riverside North Beach Volleyball",
-      "venue_slug": "riverside-north-beach-volleyball"
     },
     "5e57b849-fcab-4549-9e89-acaeafde7ee0": {
       "count": "1",
@@ -271,8 +260,8 @@
       "full_name": "Tuesday 11/10 - Volleyball (6v6) - Liberty Harbor Courts @ Surf City Jersey City 7PM",
       "max": "16",
       "start": "19:00",
-      "type": null,
-      "venue": "Liberty Harbor Courts @ Surf City",
+      "type": "Tuesday - Volleyball - Jersey City",
+      "venue": "Liberty Harbor Courts @ Surf City Jersey City 7PM",
       "venue_slug": "liberty-harbor-courts-surf-city"
     },
     "dc93b649-9616-432d-a3b2-24134b199b6f": {
@@ -294,7 +283,7 @@
       "max": "16",
       "start": "14:15",
       "type": "Sunday - Volleyball - Upper West Side",
-      "venue": "Riverside North Beach Volleyball Upper West Side",
+      "venue": "Riverside North Beach Volleyball",
       "venue_slug": "riverside-north-beach-volleyball"
     },
     "e6b627d4-46fb-4161-a7e7-5fca3b47a2ba": {
