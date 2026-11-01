@@ -1,5 +1,16 @@
 {
   "current": {
+    "0243a69f-0930-452f-8303-c91ea828c315": {
+      "count": "0",
+      "date": "2026-11-11T23:00:00+00:00",
+      "end": "18:45",
+      "full_name": "Wednesday 11/11 - Volleyball (6v6) - Pier 25 West Village 6PM",
+      "max": "14",
+      "start": "18:00",
+      "type": null,
+      "venue": "Pier 25",
+      "venue_slug": "pier-25"
+    },
     "04726ade-cbf3-426d-911a-74b5cc946aab": {
       "count": "28",
       "date": "2026-11-04T23:15:00+00:00",
@@ -87,6 +98,17 @@
       "type": null,
       "venue": "Pier 6",
       "venue_slug": "pier-6"
+    },
+    "3beeb9a7-27bd-4e5f-9491-0415873a9ceb": {
+      "count": "0",
+      "date": "2026-11-11T23:15:00+00:00",
+      "end": "19:00",
+      "full_name": "Wednesday 11/11 - Volleyball (6v6) - St. Patrick's Youth Center Lower East Side 6:15PM",
+      "max": "32",
+      "start": "18:15",
+      "type": null,
+      "venue": "St. Patrick's Youth Center",
+      "venue_slug": "st-patricks-youth-center"
     },
     "42f8c33a-ce1b-4cd5-b12f-583f085176f3": {
       "count": "0",
@@ -197,6 +219,17 @@
       "type": "Monday - Volleyball - Brooklyn Heights",
       "venue": "Pier 6 Brooklyn Heights 7PM",
       "venue_slug": "pier-6"
+    },
+    "95f8b20e-c957-47a3-9411-bc5b9770d243": {
+      "count": "0",
+      "date": "2026-11-12T00:00:00+00:00",
+      "end": "20:00",
+      "full_name": "Wednesday 11/11 - Volleyball - Kotofit - 88 Bishop Jersey City 7PM",
+      "max": "16",
+      "start": "19:00",
+      "type": null,
+      "venue": "Kotofit - 88 Bishop",
+      "venue_slug": "kotofit-88-bishop"
     },
     "aa2ddcff-62dd-4a39-9c18-514908e1d37d": {
       "count": "0",
@@ -310,10 +343,10 @@
     }
   },
   "seen": {
+    "0243a69f-0930-452f-8303-c91ea828c315": "2026-11-11",
     "027f5d21-1555-4e9e-9af7-16a5973f14ec": "2026-11-01",
     "04726ade-cbf3-426d-911a-74b5cc946aab": "2026-11-04",
     "0f5509ec-9897-4cc8-b634-d78e88b708fb": "2026-11-09",
-    "10013622-a93a-4579-9334-584021ce5ec9": "2026-10-31",
     "20042e4c-8ffe-4a46-8f6c-ebfaafd753c1": "2026-11-10",
     "203011f7-332d-4c14-9890-3d0266f00113": "2026-11-03",
     "2389b1d3-f0ee-4032-9e4f-a5f14c340b98": "2026-11-10",
@@ -321,6 +354,7 @@
     "286e2157-c366-45ae-830e-8efc314cdf13": "2026-11-03",
     "38c2dd0c-b650-4e4a-93fb-45862089d7aa": "2026-11-05",
     "39eaf7c5-001a-4586-8741-bdfb1ae64e2c": "2026-11-10",
+    "3beeb9a7-27bd-4e5f-9491-0415873a9ceb": "2026-11-11",
     "42f8c33a-ce1b-4cd5-b12f-583f085176f3": "2026-11-02",
     "47343a70-626b-4f4a-a9ae-2120247a8b5f": "2026-11-10",
     "4ee380ee-65f2-46e3-a59b-db78f1b1b75b": "2026-11-04",
@@ -330,11 +364,9 @@
     "7c6855db-59a9-4d0f-b68a-821c8d7903b2": "2026-11-01",
     "81d623a5-0e79-4932-9a71-3adefe8b7ff0": "2026-11-03",
     "826444e9-e01c-4699-bd43-04d0e6cb75ca": "2026-11-07",
-    "8b3cc738-932a-4c25-9d5c-dfe24b9f6cff": "2026-10-31",
     "8cd11008-04b7-4e1d-8810-ead630199554": "2026-11-04",
-    "8e3463a7-e828-40a3-aaf9-2c2c3ab0f2fa": "2026-10-31",
     "9017182b-7063-41a6-ab8f-ae8383439263": "2026-11-09",
-    "93b0d955-ed85-465c-8135-d5715285c8fe": "2026-10-31",
+    "95f8b20e-c957-47a3-9411-bc5b9770d243": "2026-11-11",
     "a07fcd17-9f56-4714-b6d0-f47266e293ff": "2026-11-05",
     "aa2ddcff-62dd-4a39-9c18-514908e1d37d": "2026-11-05",
     "bd68a192-ecf2-415d-b710-946a43962262": "2026-11-07",
@@ -342,7 +374,6 @@
     "ce8fd6c3-4145-4519-b436-ee54970da35b": "2026-11-07",
     "d36e617b-0a49-4638-95e1-830c66824103": "2026-11-05",
     "d7aa0956-ac96-408b-b594-b14961272ffb": "2026-11-10",
-    "db95eb8e-2918-4dec-9ec3-128db740e707": "2026-10-31",
     "dc93b649-9616-432d-a3b2-24134b199b6f": "2026-11-02",
     "e502663a-bedd-4481-a6e5-8010780f96d2": "2026-11-08",
     "e6b627d4-46fb-4161-a7e7-5fca3b47a2ba": "2026-11-07",
