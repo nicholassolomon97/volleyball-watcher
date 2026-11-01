@@ -19,7 +19,7 @@
       "max": "32",
       "start": "18:15",
       "type": "Wednesday - Volleyball - Lower East Side",
-      "venue": "St. Patrick's Youth Center",
+      "venue": "St. Patrick's Youth Center Lower East Side",
       "venue_slug": "st-patricks-youth-center"
     },
     "0f5509ec-9897-4cc8-b634-d78e88b708fb": {
@@ -260,8 +260,8 @@
       "full_name": "Tuesday 11/10 - Volleyball (6v6) - Liberty Harbor Courts @ Surf City Jersey City 7PM",
       "max": "16",
       "start": "19:00",
-      "type": "Tuesday - Volleyball - Jersey City",
-      "venue": "Liberty Harbor Courts @ Surf City Jersey City 7PM",
+      "type": null,
+      "venue": "Liberty Harbor Courts @ Surf City",
       "venue_slug": "liberty-harbor-courts-surf-city"
     },
     "dc93b649-9616-432d-a3b2-24134b199b6f": {
@@ -296,6 +296,17 @@
       "type": "Saturday - Volleyball - Jersey City",
       "venue": "88 Bishop Jersey City 1PM",
       "venue_slug": null
+    },
+    "ea668b85-b958-4ea9-89b8-37176506bbe9": {
+      "count": "15",
+      "date": "2026-11-03T23:15:00+00:00",
+      "end": "19:00",
+      "full_name": "Tuesday 11/3 - Volleyball Pickup (All Levels) - St. Patrick's Youth Center 6:15pm",
+      "max": "16",
+      "start": "18:15",
+      "type": "Volleyball Pickup - 6v6 - Coed",
+      "venue": "St. Patrick's Youth Center",
+      "venue_slug": "st-patricks-youth-center"
     },
     "f9960230-e57e-442e-b5a5-7820fe7b1b0d": {
       "count": "9",
