@@ -40,8 +40,8 @@
       "full_name": "Tuesday 11/10 - Volleyball (6v6) - Pier 6 Brooklyn Heights 7PM",
       "max": "32",
       "start": "19:00",
-      "type": null,
-      "venue": "Pier 6",
+      "type": "Tuesday - Volleyball - Brooklyn Heights",
+      "venue": "Pier 6 Brooklyn Heights 7PM",
       "venue_slug": "pier-6"
     },
     "203011f7-332d-4c14-9890-3d0266f00113": {
@@ -296,17 +296,6 @@
       "type": "Saturday - Volleyball - Jersey City",
       "venue": "88 Bishop Jersey City 1PM",
       "venue_slug": null
-    },
-    "f9960230-e57e-442e-b5a5-7820fe7b1b0d": {
-      "count": "13",
-      "date": "2026-11-01T18:00:00+00:00",
-      "end": "15:00",
-      "full_name": "Sunday 11/1 - Volleyball Pickup (Advanced/competitive) - Boys and Girls Club Jersey City 1:00pm",
-      "max": "18",
-      "start": "13:00",
-      "type": "Volleyball Pickup - 6v6 - Coed",
-      "venue": "Boys and Girls Club Jersey City",
-      "venue_slug": "boys-and-girls-club-jersey-city"
     },
     "fa93f4ad-3dc2-4562-8366-10f66037b28b": {
       "count": "13",
