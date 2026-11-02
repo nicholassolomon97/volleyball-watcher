@@ -66,17 +66,6 @@
       "venue": "Liberty Harbor Courts @ Surf City",
       "venue_slug": "liberty-harbor-courts-surf-city"
     },
-    "38c2dd0c-b650-4e4a-93fb-45862089d7aa": {
-      "count": "15",
-      "date": "2026-11-06T00:00:00+00:00",
-      "end": "21:00",
-      "full_name": "Thursday 11/5 - Volleyball (6v6) - New Design High School Lower East Side 7PM",
-      "max": "16",
-      "start": "19:00",
-      "type": "Thursday - Volleyball - Lower East Side",
-      "venue": "New Design High School",
-      "venue_slug": "new-design-high-school"
-    },
     "39eaf7c5-001a-4586-8741-bdfb1ae64e2c": {
       "count": "1",
       "date": "2026-11-11T02:00:00+00:00",
@@ -282,8 +271,8 @@
       "full_name": "Thursday 11/12 - Volleyball (6v6) - Liberty Harbor Courts @ Surf City Jersey City 7PM",
       "max": "16",
       "start": "19:00",
-      "type": null,
-      "venue": "Liberty Harbor Courts @ Surf City",
+      "type": "Thursday - Volleyball - Jersey City",
+      "venue": "Liberty Harbor Courts @ Surf City Jersey City 7PM",
       "venue_slug": "liberty-harbor-courts-surf-city"
     }
   },
