@@ -84,7 +84,7 @@
       "full_name": "Wednesday 11/11 - Volleyball (6v6) - St. Patrick's Youth Center Lower East Side 6:15PM",
       "max": "32",
       "start": "18:15",
-      "type": null,
+      "type": "Wednesday - Volleyball - Lower East Side",
       "venue": "St. Patrick's Youth Center",
       "venue_slug": "st-patricks-youth-center"
     },
@@ -296,17 +296,6 @@
       "type": null,
       "venue": "Liberty Harbor Courts @ Surf City",
       "venue_slug": "liberty-harbor-courts-surf-city"
-    },
-    "fa93f4ad-3dc2-4562-8366-10f66037b28b": {
-      "count": "15",
-      "date": "2026-11-10T01:00:00+00:00",
-      "end": "21:00",
-      "full_name": "Monday 11/9 - Volleyball (6v6) - St. Patrick's Youth Center Lower East Side 8PM",
-      "max": "16",
-      "start": "20:00",
-      "type": "Monday - Volleyball - Lower East Side",
-      "venue": "St. Patrick's Youth Center",
-      "venue_slug": "st-patricks-youth-center"
     }
   },
   "seen": {
