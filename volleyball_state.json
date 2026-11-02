@@ -55,17 +55,6 @@
       "venue": "Liberty Harbor Courts @ Surf City",
       "venue_slug": "liberty-harbor-courts-surf-city"
     },
-    "380bcfab-a73e-4633-a871-d61b2b91304f": {
-      "count": "14",
-      "date": "2026-11-03T01:30:00+00:00",
-      "end": "22:30",
-      "full_name": "Monday 11/2 - Volleyball (6v6) - La Salle Academy Lower East Side 8:30PM",
-      "max": "16",
-      "start": "20:30",
-      "type": "Monday - Volleyball - Lower East Side",
-      "venue": "La Salle Academy",
-      "venue_slug": "la-salle-academy"
-    },
     "39eaf7c5-001a-4586-8741-bdfb1ae64e2c": {
       "count": "1",
       "date": "2026-11-11T02:00:00+00:00",
@@ -106,7 +95,7 @@
       "full_name": "Thursday 11/12 - Volleyball (6v6) - La Salle Academy Lower East Side 9:15PM",
       "max": "16",
       "start": "21:15",
-      "type": null,
+      "type": "Thursday - Volleyball - Lower East Side",
       "venue": "La Salle Academy",
       "venue_slug": "la-salle-academy"
     },
