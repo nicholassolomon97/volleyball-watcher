@@ -66,6 +66,17 @@
       "venue": "Xavier High School",
       "venue_slug": "xavier-high-school"
     },
+    "2750b5f2-797d-467c-90e9-2c7e05707514": {
+      "count": "15",
+      "date": "2026-11-10T00:00:00+00:00",
+      "end": "20:00",
+      "full_name": "Monday 11/9 - Volleyball (6v6) - La Salle Academy Lower East Side 7PM",
+      "max": "16",
+      "start": "19:00",
+      "type": "Monday - Volleyball - Lower East Side",
+      "venue": "La Salle Academy",
+      "venue_slug": "la-salle-academy"
+    },
     "286e2157-c366-45ae-830e-8efc314cdf13": {
       "count": "0",
       "date": "2026-11-04T01:30:00+00:00",
@@ -84,8 +95,8 @@
       "full_name": "Tuesday 11/10 - Volleyball (6v6) - Pier 6 Brooklyn Heights 9PM",
       "max": "32",
       "start": "21:00",
-      "type": "Tuesday - Volleyball - Brooklyn Heights",
-      "venue": "Pier 6 Brooklyn Heights 9PM",
+      "type": null,
+      "venue": "Pier 6",
       "venue_slug": "pier-6"
     },
     "3beeb9a7-27bd-4e5f-9491-0415873a9ceb": {
