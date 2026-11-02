@@ -95,9 +95,9 @@
       "full_name": "Wednesday 11/11 - Volleyball (6v6) - St. Patrick's Youth Center Lower East Side 6:15PM",
       "max": "32",
       "start": "18:15",
-      "type": null,
+      "type": "Wednesday - Volleyball - Lower East Side",
       "venue": "St. Patrick's Youth Center",
-      "venue_slug": null
+      "venue_slug": "st-patricks-youth-center"
     },
     "42f8c33a-ce1b-4cd5-b12f-583f085176f3": {
       "count": "1",
@@ -120,17 +120,6 @@
       "type": null,
       "venue": "La Salle Academy",
       "venue_slug": null
-    },
-    "4ee380ee-65f2-46e3-a59b-db78f1b1b75b": {
-      "count": "1",
-      "date": "2026-11-05T00:00:00+00:00",
-      "end": "20:00",
-      "full_name": "Wednesday 11/4 - Volleyball Pickup- Kotofit - 88 Bishop Jersey City 7PM",
-      "max": "18",
-      "start": "19:00",
-      "type": "Wednesday - Volleyball Pickup - Jersey City",
-      "venue": "Kotofit - 88 Bishop",
-      "venue_slug": "kotofit-88-bishop"
     },
     "5150e6f9-eddf-4e12-a43e-ec3c2fbaa715": {
       "count": "3",
@@ -197,17 +186,6 @@
       "type": "Monday - Volleyball - Brooklyn Heights",
       "venue": "Pier 6 Brooklyn Heights 7PM",
       "venue_slug": "pier-6"
-    },
-    "95f8b20e-c957-47a3-9411-bc5b9770d243": {
-      "count": "1",
-      "date": "2026-11-12T00:00:00+00:00",
-      "end": "20:00",
-      "full_name": "Wednesday 11/11 - Volleyball - Kotofit - 88 Bishop Jersey City 7PM",
-      "max": "16",
-      "start": "19:00",
-      "type": null,
-      "venue": "Kotofit - 88 Bishop",
-      "venue_slug": "kotofit-88-bishop"
     },
     "aa2ddcff-62dd-4a39-9c18-514908e1d37d": {
       "count": "0",
@@ -294,8 +272,8 @@
       "max": "18",
       "start": "13:00",
       "type": "Saturday - Volleyball - Jersey City",
-      "venue": "88 Bishop Jersey City 1PM",
-      "venue_slug": null
+      "venue": "Kotofit - 88 Bishop",
+      "venue_slug": "kotofit-88-bishop"
     },
     "eb03ade6-3946-4394-b48c-ed04527f3828": {
       "count": "0",
