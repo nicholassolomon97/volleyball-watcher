@@ -67,7 +67,7 @@
       "venue_slug": "liberty-harbor-courts-surf-city"
     },
     "380bcfab-a73e-4633-a871-d61b2b91304f": {
-      "count": "2",
+      "count": "1",
       "date": "2026-11-03T01:30:00+00:00",
       "end": "22:30",
       "full_name": "Monday 11/2 - Volleyball (6v6) - La Salle Academy Lower East Side 8:30PM",
@@ -95,9 +95,9 @@
       "full_name": "Wednesday 11/11 - Volleyball (6v6) - St. Patrick's Youth Center Lower East Side 6:15PM",
       "max": "32",
       "start": "18:15",
-      "type": "Wednesday - Volleyball - Lower East Side",
+      "type": null,
       "venue": "St. Patrick's Youth Center",
-      "venue_slug": "st-patricks-youth-center"
+      "venue_slug": null
     },
     "42f8c33a-ce1b-4cd5-b12f-583f085176f3": {
       "count": "1",
@@ -209,6 +209,17 @@
       "venue": "Hunter's Point South",
       "venue_slug": "hunters-point-south"
     },
+    "cae1a7ce-398d-4ada-8683-84769494f6cd": {
+      "count": "0",
+      "date": "2026-11-06T00:00:00+00:00",
+      "end": "19:45",
+      "full_name": "Thursday 11/5 - Volleyball (6v6) - Chelsea Piers Chelsea 7PM",
+      "max": "16",
+      "start": "19:00",
+      "type": "Thursday - Volleyball - Chelsea",
+      "venue": "Chelsea Piers",
+      "venue_slug": "chelsea-piers-1"
+    },
     "ce8fd6c3-4145-4519-b436-ee54970da35b": {
       "count": "0",
       "date": "2026-11-07T19:00:00+00:00",
@@ -316,6 +327,7 @@
     "bd68a192-ecf2-415d-b710-946a43962262": "2026-11-07",
     "c3ef19d1-1a5e-46a4-b47c-a0926aa67147": "2026-11-12",
     "c7738259-8578-4763-a1ab-1d40a1319995": "2026-11-03",
+    "cae1a7ce-398d-4ada-8683-84769494f6cd": "2026-11-05",
     "ce8fd6c3-4145-4519-b436-ee54970da35b": "2026-11-07",
     "d36e617b-0a49-4638-95e1-830c66824103": "2026-11-05",
     "d7aa0956-ac96-408b-b594-b14961272ffb": "2026-11-10",
