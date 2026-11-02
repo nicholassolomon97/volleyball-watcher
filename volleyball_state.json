@@ -110,6 +110,17 @@
       "venue": "Pier 6",
       "venue_slug": "pier-6"
     },
+    "442a2577-559e-4d9e-8f6e-68572ab19325": {
+      "count": "0",
+      "date": "2026-11-13T02:15:00+00:00",
+      "end": "23:00",
+      "full_name": "Thursday 11/12 - Volleyball (6v6) - La Salle Academy Lower East Side 9:15PM",
+      "max": "16",
+      "start": "21:15",
+      "type": null,
+      "venue": "La Salle Academy",
+      "venue_slug": "la-salle-academy"
+    },
     "4ee380ee-65f2-46e3-a59b-db78f1b1b75b": {
       "count": "1",
       "date": "2026-11-05T00:00:00+00:00",
@@ -220,6 +231,17 @@
       "venue": "Hunter's Point South",
       "venue_slug": "hunters-point-south"
     },
+    "c3ef19d1-1a5e-46a4-b47c-a0926aa67147": {
+      "count": "5",
+      "date": "2026-11-12T23:00:00+00:00",
+      "end": "19:00",
+      "full_name": "Thursday 11/12 - Volleyball (6v6) - The Post BK - 100 Dobbin St Williamsburg 6PM",
+      "max": "16",
+      "start": "18:00",
+      "type": null,
+      "venue": "The Post BK - 100 Dobbin St",
+      "venue_slug": null
+    },
     "ce8fd6c3-4145-4519-b436-ee54970da35b": {
       "count": "0",
       "date": "2026-11-07T19:00:00+00:00",
@@ -286,6 +308,17 @@
       "venue": "88 Bishop Jersey City 1PM",
       "venue_slug": null
     },
+    "eb03ade6-3946-4394-b48c-ed04527f3828": {
+      "count": "0",
+      "date": "2026-11-13T00:00:00+00:00",
+      "end": "20:30",
+      "full_name": "Thursday 11/12 - Volleyball (6v6) - Liberty Harbor Courts @ Surf City Jersey City 7PM",
+      "max": "16",
+      "start": "19:00",
+      "type": null,
+      "venue": "Liberty Harbor Courts @ Surf City",
+      "venue_slug": "liberty-harbor-courts-surf-city"
+    },
     "fa93f4ad-3dc2-4562-8366-10f66037b28b": {
       "count": "14",
       "date": "2026-11-10T01:00:00+00:00",
@@ -300,7 +333,6 @@
   },
   "seen": {
     "0243a69f-0930-452f-8303-c91ea828c315": "2026-11-11",
-    "027f5d21-1555-4e9e-9af7-16a5973f14ec": "2026-11-01",
     "04726ade-cbf3-426d-911a-74b5cc946aab": "2026-11-04",
     "0f5509ec-9897-4cc8-b634-d78e88b708fb": "2026-11-09",
     "20042e4c-8ffe-4a46-8f6c-ebfaafd753c1": "2026-11-10",
@@ -312,12 +344,11 @@
     "39eaf7c5-001a-4586-8741-bdfb1ae64e2c": "2026-11-10",
     "3beeb9a7-27bd-4e5f-9491-0415873a9ceb": "2026-11-11",
     "42f8c33a-ce1b-4cd5-b12f-583f085176f3": "2026-11-02",
+    "442a2577-559e-4d9e-8f6e-68572ab19325": "2026-11-12",
     "47343a70-626b-4f4a-a9ae-2120247a8b5f": "2026-11-10",
     "4ee380ee-65f2-46e3-a59b-db78f1b1b75b": "2026-11-04",
     "5150e6f9-eddf-4e12-a43e-ec3c2fbaa715": "2026-11-09",
-    "5cbf17a1-05ea-42a8-b1f1-e14bbdf938e2": "2026-11-01",
     "5e57b849-fcab-4549-9e89-acaeafde7ee0": "2026-11-03",
-    "7c6855db-59a9-4d0f-b68a-821c8d7903b2": "2026-11-01",
     "81d623a5-0e79-4932-9a71-3adefe8b7ff0": "2026-11-03",
     "826444e9-e01c-4699-bd43-04d0e6cb75ca": "2026-11-07",
     "8cd11008-04b7-4e1d-8810-ead630199554": "2026-11-04",
@@ -326,6 +357,7 @@
     "a07fcd17-9f56-4714-b6d0-f47266e293ff": "2026-11-05",
     "aa2ddcff-62dd-4a39-9c18-514908e1d37d": "2026-11-05",
     "bd68a192-ecf2-415d-b710-946a43962262": "2026-11-07",
+    "c3ef19d1-1a5e-46a4-b47c-a0926aa67147": "2026-11-12",
     "c7738259-8578-4763-a1ab-1d40a1319995": "2026-11-03",
     "ce8fd6c3-4145-4519-b436-ee54970da35b": "2026-11-07",
     "d36e617b-0a49-4638-95e1-830c66824103": "2026-11-05",
@@ -334,7 +366,7 @@
     "e502663a-bedd-4481-a6e5-8010780f96d2": "2026-11-08",
     "e6b627d4-46fb-4161-a7e7-5fca3b47a2ba": "2026-11-07",
     "ea668b85-b958-4ea9-89b8-37176506bbe9": "2026-11-03",
-    "f9960230-e57e-442e-b5a5-7820fe7b1b0d": "2026-11-01",
+    "eb03ade6-3946-4394-b48c-ed04527f3828": "2026-11-12",
     "fa93f4ad-3dc2-4562-8366-10f66037b28b": "2026-11-09"
   }
 }
