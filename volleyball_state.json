@@ -7,8 +7,8 @@
       "full_name": "Wednesday 11/11 - Volleyball (6v6) - Pier 25 West Village 6PM",
       "max": "14",
       "start": "18:00",
-      "type": "Wednesday - Volleyball - West Village",
-      "venue": "Pier 25 West Village 6PM",
+      "type": null,
+      "venue": "Pier 25",
       "venue_slug": "pier-25"
     },
     "0f5509ec-9897-4cc8-b634-d78e88b708fb": {
@@ -286,6 +286,17 @@
       "venue": "88 Bishop Jersey City 1PM",
       "venue_slug": null
     },
+    "ea668b85-b958-4ea9-89b8-37176506bbe9": {
+      "count": "15",
+      "date": "2026-11-03T23:15:00+00:00",
+      "end": "19:00",
+      "full_name": "Tuesday 11/3 - Volleyball Pickup (All Levels) - St. Patrick's Youth Center 6:15pm",
+      "max": "16",
+      "start": "18:15",
+      "type": "Volleyball Pickup - 6v6 - Coed",
+      "venue": "St. Patrick's Youth Center",
+      "venue_slug": "st-patricks-youth-center"
+    },
     "eb03ade6-3946-4394-b48c-ed04527f3828": {
       "count": "0",
       "date": "2026-11-13T00:00:00+00:00",
@@ -305,7 +316,7 @@
       "max": "16",
       "start": "20:00",
       "type": "Monday - Volleyball - Lower East Side",
-      "venue": "St. Patrick's Youth Center",
+      "venue": "St. Patrick's Youth Center Lower East Side 8PM",
       "venue_slug": "st-patricks-youth-center"
     }
   },
