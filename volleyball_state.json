@@ -44,17 +44,6 @@
       "venue": "Pier 6 Brooklyn Heights 9PM",
       "venue_slug": "pier-6"
     },
-    "2750b5f2-797d-467c-90e9-2c7e05707514": {
-      "count": "15",
-      "date": "2026-11-10T00:00:00+00:00",
-      "end": "20:00",
-      "full_name": "Monday 11/9 - Volleyball (6v6) - La Salle Academy Lower East Side 7PM",
-      "max": "16",
-      "start": "19:00",
-      "type": "Monday - Volleyball - Lower East Side",
-      "venue": "La Salle Academy",
-      "venue_slug": "la-salle-academy"
-    },
     "286e2157-c366-45ae-830e-8efc314cdf13": {
       "count": "0",
       "date": "2026-11-04T01:30:00+00:00",
@@ -97,7 +86,7 @@
       "start": "21:15",
       "type": null,
       "venue": "La Salle Academy",
-      "venue_slug": "la-salle-academy"
+      "venue_slug": null
     },
     "5150e6f9-eddf-4e12-a43e-ec3c2fbaa715": {
       "count": "3",
@@ -282,8 +271,8 @@
       "full_name": "Thursday 11/12 - Volleyball (6v6) - Liberty Harbor Courts @ Surf City Jersey City 7PM",
       "max": "16",
       "start": "19:00",
-      "type": null,
-      "venue": "Liberty Harbor Courts @ Surf City",
+      "type": "Thursday - Volleyball - Jersey City",
+      "venue": "Liberty Harbor Courts @ Surf City Jersey City 7PM",
       "venue_slug": "liberty-harbor-courts-surf-city"
     }
   },
