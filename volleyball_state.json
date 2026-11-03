@@ -11,17 +11,6 @@
       "venue": "Pier 25 West Village 6PM",
       "venue_slug": "pier-25"
     },
-    "04726ade-cbf3-426d-911a-74b5cc946aab": {
-      "count": "31",
-      "date": "2026-11-04T23:15:00+00:00",
-      "end": "19:00",
-      "full_name": "Wednesday 11/4 - Volleyball (6v6) - St. Patrick's Youth Center Lower East Side 6:15PM",
-      "max": "32",
-      "start": "18:15",
-      "type": "Wednesday - Volleyball - Lower East Side",
-      "venue": "St. Patrick's Youth Center Lower East Side",
-      "venue_slug": "st-patricks-youth-center"
-    },
     "0f5509ec-9897-4cc8-b634-d78e88b708fb": {
       "count": "0",
       "date": "2026-11-10T02:00:00+00:00",
@@ -265,7 +254,7 @@
       "venue_slug": "st-patricks-youth-center"
     },
     "eac9a0fa-ce0f-4182-b65d-7940a1891282": {
-      "count": "10",
+      "count": "13",
       "date": "2026-11-06T01:00:00+00:00",
       "end": "20:45",
       "full_name": "Thursday 11/5 - Volleyball (6v6) - Baruch College Murray Hill & Gramercy 8PM",
@@ -282,8 +271,8 @@
       "full_name": "Thursday 11/12 - Volleyball (6v6) - Liberty Harbor Courts @ Surf City Jersey City 7PM",
       "max": "16",
       "start": "19:00",
-      "type": null,
-      "venue": "Liberty Harbor Courts @ Surf City",
+      "type": "Thursday - Volleyball - Jersey City",
+      "venue": "Liberty Harbor Courts @ Surf City Jersey City 7PM",
       "venue_slug": "liberty-harbor-courts-surf-city"
     }
   },
