@@ -106,8 +106,8 @@
       "full_name": "Thursday 11/12 - Volleyball (6v6) - La Salle Academy Lower East Side 9:15PM",
       "max": "16",
       "start": "21:15",
-      "type": "Thursday - Volleyball - Lower East Side",
-      "venue": "La Salle Academy Lower East Side",
+      "type": null,
+      "venue": "La Salle Academy",
       "venue_slug": "la-salle-academy"
     },
     "5150e6f9-eddf-4e12-a43e-ec3c2fbaa715": {
@@ -253,6 +253,17 @@
       "venue": "Kotofit - 88 Bishop",
       "venue_slug": "kotofit-88-bishop"
     },
+    "eac9a0fa-ce0f-4182-b65d-7940a1891282": {
+      "count": "2",
+      "date": "2026-11-06T01:00:00+00:00",
+      "end": "20:45",
+      "full_name": "Thursday 11/5 - Volleyball (6v6) - Baruch College Murray Hill & Gramercy 8PM",
+      "max": "16",
+      "start": "20:00",
+      "type": "Thursday - Volleyball - Murray Hill & Gramercy",
+      "venue": "Baruch College",
+      "venue_slug": "baruch-college"
+    },
     "eb03ade6-3946-4394-b48c-ed04527f3828": {
       "count": "0",
       "date": "2026-11-13T00:00:00+00:00",
@@ -299,6 +310,7 @@
     "e502663a-bedd-4481-a6e5-8010780f96d2": "2026-11-08",
     "e6b627d4-46fb-4161-a7e7-5fca3b47a2ba": "2026-11-07",
     "ea668b85-b958-4ea9-89b8-37176506bbe9": "2026-11-03",
+    "eac9a0fa-ce0f-4182-b65d-7940a1891282": "2026-11-05",
     "eb03ade6-3946-4394-b48c-ed04527f3828": "2026-11-12",
     "fa93f4ad-3dc2-4562-8366-10f66037b28b": "2026-11-09"
   }
