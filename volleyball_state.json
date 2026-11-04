@@ -121,6 +121,17 @@
       "venue": "Pier 25 West Village 6PM",
       "venue_slug": "pier-25"
     },
+    "552f98e4-5d7a-48d8-9d2e-f9dbfc06e630": {
+      "count": "0",
+      "date": "2026-11-05T02:30:00+00:00",
+      "end": "22:15",
+      "full_name": "Wednesday 11/4 - Volleyball (6v6) - Xavier High School Union Square 9:30PM",
+      "max": "16",
+      "start": "21:30",
+      "type": "Wednesday - Volleyball - Union Square",
+      "venue": "Xavier High School",
+      "venue_slug": "xavier-high-school"
+    },
     "826444e9-e01c-4699-bd43-04d0e6cb75ca": {
       "count": "1",
       "date": "2026-11-07T19:00:00+00:00",
@@ -274,6 +285,7 @@
     "4b4e1f4a-7816-4faf-a62d-1ef8fb2cce2a": "2026-11-14",
     "4ee380ee-65f2-46e3-a59b-db78f1b1b75b": "2026-11-04",
     "5150e6f9-eddf-4e12-a43e-ec3c2fbaa715": "2026-11-09",
+    "552f98e4-5d7a-48d8-9d2e-f9dbfc06e630": "2026-11-04",
     "826444e9-e01c-4699-bd43-04d0e6cb75ca": "2026-11-07",
     "8cd11008-04b7-4e1d-8810-ead630199554": "2026-11-04",
     "8de4b226-8e6d-451d-9614-115d7c32cc12": "2026-11-05",
