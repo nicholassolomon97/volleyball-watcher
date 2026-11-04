@@ -107,7 +107,7 @@
       "max": "14",
       "start": "18:00",
       "type": "Monday - Volleyball - West Village",
-      "venue": "Pier 25 West Village 6PM",
+      "venue": "Pier 25",
       "venue_slug": "pier-25"
     },
     "552f98e4-5d7a-48d8-9d2e-f9dbfc06e630": {
@@ -131,17 +131,6 @@
       "type": "Saturday - Volleyball - Long Island City",
       "venue": "Hunter's Point South Long Island City 2PM",
       "venue_slug": "hunters-point-south"
-    },
-    "8cd11008-04b7-4e1d-8810-ead630199554": {
-      "count": "12",
-      "date": "2026-11-04T23:00:00+00:00",
-      "end": "18:45",
-      "full_name": "Wednesday 11/4 - Volleyball (6v6) - Pier 25 West Village 6PM",
-      "max": "14",
-      "start": "18:00",
-      "type": "Wednesday - Volleyball - West Village",
-      "venue": "Pier 25",
-      "venue_slug": "pier-25"
     },
     "9017182b-7063-41a6-ab8f-ae8383439263": {
       "count": "3",
