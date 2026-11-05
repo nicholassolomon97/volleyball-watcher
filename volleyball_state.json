@@ -33,6 +33,17 @@
       "venue": "Pier 6 Brooklyn Heights 9PM",
       "venue_slug": "pier-6"
     },
+    "189ee08a-f45e-4f29-942c-cfeda7b78486": {
+      "count": "17",
+      "date": "2026-11-08T20:00:00+00:00",
+      "end": "17:00",
+      "full_name": "Sunday 11/8 - Volleyball (6v6) - Boys and Girls Club Jersey City Jersey City 3PM",
+      "max": "18",
+      "start": "15:00",
+      "type": "Sunday - Volleyball - Jersey City",
+      "venue": "Boys and Girls Club Jersey City",
+      "venue_slug": "boys-and-girls-club-jersey-city"
+    },
     "20042e4c-8ffe-4a46-8f6c-ebfaafd753c1": {
       "count": "2",
       "date": "2026-11-11T00:00:00+00:00",
@@ -51,9 +62,9 @@
       "full_name": "Saturday 11/14 - Volleyball - Kotofit - 88 Bishop Jersey City 1PM",
       "max": "16",
       "start": "13:00",
-      "type": "Saturday - Volleyball - Jersey City",
-      "venue": "88 Bishop Jersey City 1PM",
-      "venue_slug": null
+      "type": null,
+      "venue": "Kotofit - 88 Bishop",
+      "venue_slug": "kotofit-88-bishop"
     },
     "24ade7fc-8d42-4758-bd95-90245907335c": {
       "count": "8",
@@ -63,7 +74,7 @@
       "max": "18",
       "start": "20:35",
       "type": "Monday - Volleyball - Jersey City",
-      "venue": "Boys and Girls Club Jersey City",
+      "venue": "Boys and Girls Club Jersey City Jersey City",
       "venue_slug": "boys-and-girls-club-jersey-city"
     },
     "2586eb09-241e-462e-b9ae-fb7c2dae88d1": {
@@ -254,7 +265,7 @@
       "venue_slug": "kotofit-88-bishop"
     },
     "eac9a0fa-ce0f-4182-b65d-7940a1891282": {
-      "count": "13",
+      "count": "14",
       "date": "2026-11-06T01:00:00+00:00",
       "end": "20:45",
       "full_name": "Thursday 11/5 - Volleyball (6v6) - Baruch College Murray Hill & Gramercy 8PM",
