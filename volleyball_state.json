@@ -84,8 +84,8 @@
       "full_name": "Saturday 11/14 - Volleyball (6v6) - Pier 6 Brooklyn Heights 2PM",
       "max": "32",
       "start": "14:00",
-      "type": null,
-      "venue": "Pier 6",
+      "type": "Saturday - Volleyball - Brooklyn Heights",
+      "venue": "Pier 6 Brooklyn Heights 2PM",
       "venue_slug": "pier-6"
     },
     "39eaf7c5-001a-4586-8741-bdfb1ae64e2c": {
@@ -197,17 +197,6 @@
       "type": "Saturday - Volleyball - Brooklyn Heights",
       "venue": "Pier 6",
       "venue_slug": "pier-6"
-    },
-    "d36e617b-0a49-4638-95e1-830c66824103": {
-      "count": "0",
-      "date": "2026-11-06T01:30:00+00:00",
-      "end": "22:00",
-      "full_name": "Thursday 11/5 - Volleyball Pickup (All Levels) - Liberty Harbor Courts @ Surf City 8:30pm",
-      "max": "16",
-      "start": "20:30",
-      "type": "Volleyball Pickup - 6v6 - Coed",
-      "venue": "Liberty Harbor Courts @ Surf City",
-      "venue_slug": "liberty-harbor-courts-surf-city"
     },
     "d7aa0956-ac96-408b-b594-b14961272ffb": {
       "count": "3",
