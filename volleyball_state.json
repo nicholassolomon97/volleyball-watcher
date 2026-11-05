@@ -62,9 +62,9 @@
       "full_name": "Saturday 11/14 - Volleyball - Kotofit - 88 Bishop Jersey City 1PM",
       "max": "16",
       "start": "13:00",
-      "type": null,
-      "venue": "Kotofit - 88 Bishop",
-      "venue_slug": "kotofit-88-bishop"
+      "type": "Saturday - Volleyball - Jersey City",
+      "venue": "88 Bishop Jersey City 1PM",
+      "venue_slug": null
     },
     "24ade7fc-8d42-4758-bd95-90245907335c": {
       "count": "8",
@@ -98,17 +98,6 @@
       "type": null,
       "venue": "Pier 6",
       "venue_slug": "pier-6"
-    },
-    "38c2dd0c-b650-4e4a-93fb-45862089d7aa": {
-      "count": "15",
-      "date": "2026-11-06T00:00:00+00:00",
-      "end": "21:00",
-      "full_name": "Thursday 11/5 - Volleyball (6v6) - New Design High School Lower East Side 7PM",
-      "max": "16",
-      "start": "19:00",
-      "type": "Thursday - Volleyball - Lower East Side",
-      "venue": "New Design High School",
-      "venue_slug": "new-design-high-school"
     },
     "39eaf7c5-001a-4586-8741-bdfb1ae64e2c": {
       "count": "2",
