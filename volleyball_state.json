@@ -84,8 +84,8 @@
       "full_name": "Saturday 11/14 - Volleyball (6v6) - Pier 6 Brooklyn Heights 2PM",
       "max": "32",
       "start": "14:00",
-      "type": "Saturday - Volleyball - Brooklyn Heights",
-      "venue": "Pier 6 Brooklyn Heights 2PM",
+      "type": null,
+      "venue": "Pier 6",
       "venue_slug": "pier-6"
     },
     "39eaf7c5-001a-4586-8741-bdfb1ae64e2c": {
@@ -106,8 +106,8 @@
       "full_name": "Saturday 11/14 - Volleyball (6v6) - Hunter's Point South Long Island City 2PM",
       "max": "16",
       "start": "14:00",
-      "type": "Saturday - Volleyball - Long Island City",
-      "venue": "Hunter's Point South Long Island City 2PM",
+      "type": null,
+      "venue": "Hunter's Point South",
       "venue_slug": "hunters-point-south"
     },
     "4c3907e6-4703-4dfa-b85c-11fdb47ca70a": {
@@ -164,6 +164,17 @@
       "type": "Volleyball Pickup - 6v6 - Coed",
       "venue": "Liberty Harbor Courts @ Surf City",
       "venue_slug": "liberty-harbor-courts-surf-city"
+    },
+    "b4c6c9b9-8c60-43a0-874d-fed9fa7e4f00": {
+      "count": "0",
+      "date": "2026-11-06T01:30:00+00:00",
+      "end": "22:00",
+      "full_name": "Thursday 11/5 - Volleyball (6v6) - Chelsea Piers Chelsea 8:30PM",
+      "max": "16",
+      "start": "20:30",
+      "type": "Thursday - Volleyball - Chelsea",
+      "venue": "Chelsea Piers Chelsea",
+      "venue_slug": "chelsea-piers-1"
     },
     "bd68a192-ecf2-415d-b710-946a43962262": {
       "count": "0",
@@ -263,6 +274,17 @@
       "type": "Thursday - Volleyball - Jersey City",
       "venue": "Liberty Harbor Courts @ Surf City Jersey City 7PM",
       "venue_slug": "liberty-harbor-courts-surf-city"
+    },
+    "f05037b8-35d4-450f-8de0-bbfd21712074": {
+      "count": "0",
+      "date": "2026-11-06T00:00:00+00:00",
+      "end": "20:30",
+      "full_name": "Thursday 11/5 - Volleyball (6v6) - Chelsea Piers Chelsea 7PM",
+      "max": "16",
+      "start": "19:00",
+      "type": "Thursday - Volleyball - Chelsea",
+      "venue": "Chelsea Piers",
+      "venue_slug": "chelsea-piers-1"
     }
   },
   "seen": {
@@ -293,6 +315,7 @@
     "95f8b20e-c957-47a3-9411-bc5b9770d243": "2026-11-11",
     "a07fcd17-9f56-4714-b6d0-f47266e293ff": "2026-11-05",
     "aa2ddcff-62dd-4a39-9c18-514908e1d37d": "2026-11-05",
+    "b4c6c9b9-8c60-43a0-874d-fed9fa7e4f00": "2026-11-05",
     "bd68a192-ecf2-415d-b710-946a43962262": "2026-11-07",
     "c3ef19d1-1a5e-46a4-b47c-a0926aa67147": "2026-11-12",
     "cae1a7ce-398d-4ada-8683-84769494f6cd": "2026-11-05",
@@ -304,6 +327,7 @@
     "e6b627d4-46fb-4161-a7e7-5fca3b47a2ba": "2026-11-07",
     "eac9a0fa-ce0f-4182-b65d-7940a1891282": "2026-11-05",
     "eb03ade6-3946-4394-b48c-ed04527f3828": "2026-11-12",
+    "f05037b8-35d4-450f-8de0-bbfd21712074": "2026-11-05",
     "fa93f4ad-3dc2-4562-8366-10f66037b28b": "2026-11-09"
   }
 }
