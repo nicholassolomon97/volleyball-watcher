@@ -51,9 +51,9 @@
       "full_name": "Saturday 11/14 - Volleyball - Kotofit - 88 Bishop Jersey City 1PM",
       "max": "16",
       "start": "13:00",
-      "type": "Saturday - Volleyball - Jersey City",
-      "venue": "88 Bishop Jersey City 1PM",
-      "venue_slug": null
+      "type": null,
+      "venue": "Kotofit - 88 Bishop",
+      "venue_slug": "kotofit-88-bishop"
     },
     "24ade7fc-8d42-4758-bd95-90245907335c": {
       "count": "8",
@@ -118,7 +118,7 @@
       "max": "16",
       "start": "13:00",
       "type": "Saturday - Volleyball - Lower East Side",
-      "venue": "La Salle Academy",
+      "venue": "La Salle Academy Lower East Side 1PM",
       "venue_slug": "la-salle-academy"
     },
     "5150e6f9-eddf-4e12-a43e-ec3c2fbaa715": {
@@ -153,6 +153,17 @@
       "type": "Monday - Volleyball - Brooklyn Heights",
       "venue": "Pier 6 Brooklyn Heights 7PM",
       "venue_slug": "pier-6"
+    },
+    "a07fcd17-9f56-4714-b6d0-f47266e293ff": {
+      "count": "14",
+      "date": "2026-11-06T02:15:00+00:00",
+      "end": "23:00",
+      "full_name": "Thursday 11/5 - Volleyball (6v6) - La Salle Academy Lower East Side 9:15PM",
+      "max": "16",
+      "start": "21:15",
+      "type": "Thursday - Volleyball - Lower East Side",
+      "venue": "La Salle Academy",
+      "venue_slug": "la-salle-academy"
     },
     "aa2ddcff-62dd-4a39-9c18-514908e1d37d": {
       "count": "1",
