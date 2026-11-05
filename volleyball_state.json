@@ -62,9 +62,9 @@
       "full_name": "Saturday 11/14 - Volleyball - Kotofit - 88 Bishop Jersey City 1PM",
       "max": "16",
       "start": "13:00",
-      "type": "Saturday - Volleyball - Jersey City",
-      "venue": "88 Bishop Jersey City 1PM",
-      "venue_slug": null
+      "type": null,
+      "venue": "Kotofit - 88 Bishop",
+      "venue_slug": "kotofit-88-bishop"
     },
     "24ade7fc-8d42-4758-bd95-90245907335c": {
       "count": "8",
@@ -155,7 +155,7 @@
       "venue_slug": "pier-25"
     },
     "571b59ba-4d00-4bfb-a23c-81de56e6e5c4": {
-      "count": "10",
+      "count": "12",
       "date": "2026-11-08T18:00:00+00:00",
       "end": "15:00",
       "full_name": "Sunday 11/8 - Volleyball (6v6) - Boys and Girls Club Jersey City Jersey City 1PM",
@@ -175,6 +175,17 @@
       "type": "Saturday - Volleyball - Long Island City",
       "venue": "Hunter's Point South Long Island City 2PM",
       "venue_slug": "hunters-point-south"
+    },
+    "8de4b226-8e6d-451d-9614-115d7c32cc12": {
+      "count": "15",
+      "date": "2026-11-05T23:00:00+00:00",
+      "end": "19:00",
+      "full_name": "Thursday 11/5 - Volleyball (6v6) - The Post BK - 100 Dobbin St Williamsburg 6PM",
+      "max": "16",
+      "start": "18:00",
+      "type": "Thursday - Volleyball - Williamsburg",
+      "venue": "The Post BK - 100 Dobbin St",
+      "venue_slug": "the-post-bk-100-dobbin-st"
     },
     "9017182b-7063-41a6-ab8f-ae8383439263": {
       "count": "3",
