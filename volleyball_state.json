@@ -19,7 +19,7 @@
       "max": "16",
       "start": "13:00",
       "type": "Saturday - Volleyball - Lower East Side",
-      "venue": "La Salle Academy Lower East Side 1PM",
+      "venue": "La Salle Academy",
       "venue_slug": "la-salle-academy"
     },
     "0f5509ec-9897-4cc8-b634-d78e88b708fb": {
@@ -76,17 +76,6 @@
       "type": "FREE Thursday - Volleyball - Jersey City",
       "venue": "88 Bishop Jersey City 7PM",
       "venue_slug": null
-    },
-    "2750b5f2-797d-467c-90e9-2c7e05707514": {
-      "count": "15",
-      "date": "2026-11-10T00:00:00+00:00",
-      "end": "20:00",
-      "full_name": "Monday 11/9 - Volleyball (6v6) - La Salle Academy Lower East Side 7PM",
-      "max": "16",
-      "start": "19:00",
-      "type": "Monday - Volleyball - Lower East Side",
-      "venue": "La Salle Academy",
-      "venue_slug": "la-salle-academy"
     },
     "2c621681-3ba9-4765-b6b6-9528c75b3287": {
       "count": "0",
