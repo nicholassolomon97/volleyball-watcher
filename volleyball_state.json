@@ -143,6 +143,17 @@
       "venue": "La Salle Academy Lower East Side 7PM",
       "venue_slug": "la-salle-academy"
     },
+    "767a1271-ca80-4e4d-8ce2-0abeafe94f73": {
+      "count": "0",
+      "date": "2026-11-08T16:00:00+00:00",
+      "end": "12:00",
+      "full_name": "Sunday 11/8 - Volleyball (6v6) - Baruch College Murray Hill & Gramercy 11AM",
+      "max": "16",
+      "start": "11:00",
+      "type": "Sunday - Volleyball - Murray Hill & Gramercy",
+      "venue": "Baruch College",
+      "venue_slug": "baruch-college"
+    },
     "826444e9-e01c-4699-bd43-04d0e6cb75ca": {
       "count": "1",
       "date": "2026-11-07T19:00:00+00:00",
@@ -161,8 +172,8 @@
       "full_name": "Monday 11/16 - Volleyball (6v6) - Pier 6 Brooklyn Heights 9PM",
       "max": "32",
       "start": "21:00",
-      "type": "Monday - Volleyball - Brooklyn Heights",
-      "venue": "Pier 6 Brooklyn Heights 9PM",
+      "type": null,
+      "venue": "Pier 6",
       "venue_slug": "pier-6"
     },
     "9017182b-7063-41a6-ab8f-ae8383439263": {
@@ -183,9 +194,9 @@
       "full_name": "Monday 11/16 - Volleyball (6v6) - St. Patrick's Youth Center Lower East Side 8PM",
       "max": "16",
       "start": "20:00",
-      "type": "Monday - Volleyball - Lower East Side",
+      "type": null,
       "venue": "St. Patrick's Youth Center",
-      "venue_slug": "st-patricks-youth-center"
+      "venue_slug": null
     },
     "bd68a192-ecf2-415d-b710-946a43962262": {
       "count": "1",
@@ -197,6 +208,17 @@
       "type": "Saturday - Volleyball - Long Island City",
       "venue": "Hunter's Point South",
       "venue_slug": "hunters-point-south"
+    },
+    "c439434f-9079-4d1b-b03e-499359009360": {
+      "count": "0",
+      "date": "2026-11-15T16:00:00+00:00",
+      "end": "12:00",
+      "full_name": "Sunday 11/15 - Volleyball (6v6) - Baruch College Murray Hill & Gramercy 11AM",
+      "max": "16",
+      "start": "11:00",
+      "type": "Sunday - Volleyball - Murray Hill & Gramercy",
+      "venue": "Baruch College Murray Hill & Gramercy 11AM",
+      "venue_slug": "baruch-college"
     },
     "ce8fd6c3-4145-4519-b436-ee54970da35b": {
       "count": "2",
@@ -289,6 +311,7 @@
     "571b59ba-4d00-4bfb-a23c-81de56e6e5c4": "2026-11-08",
     "58f43ae3-79d2-4531-a7a3-098dd43f8219": "2026-11-16",
     "64ddd852-afbe-4478-9d73-c559a8015589": "2026-11-16",
+    "767a1271-ca80-4e4d-8ce2-0abeafe94f73": "2026-11-08",
     "826444e9-e01c-4699-bd43-04d0e6cb75ca": "2026-11-07",
     "8b2c1270-2c00-48ad-80d8-9ac961c85757": "2026-11-16",
     "9017182b-7063-41a6-ab8f-ae8383439263": "2026-11-09",
@@ -296,6 +319,7 @@
     "b1ca80ce-1a61-4e40-a274-5a2179a2c1f7": "2026-11-16",
     "bd68a192-ecf2-415d-b710-946a43962262": "2026-11-07",
     "c3ef19d1-1a5e-46a4-b47c-a0926aa67147": "2026-11-12",
+    "c439434f-9079-4d1b-b03e-499359009360": "2026-11-15",
     "ce8fd6c3-4145-4519-b436-ee54970da35b": "2026-11-07",
     "d7aa0956-ac96-408b-b594-b14961272ffb": "2026-11-10",
     "d9f0065d-5040-48a6-bca4-64ede50fbc81": "2026-11-14",
