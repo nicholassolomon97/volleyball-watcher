@@ -143,17 +143,6 @@
       "venue": "La Salle Academy Lower East Side 7PM",
       "venue_slug": "la-salle-academy"
     },
-    "767a1271-ca80-4e4d-8ce2-0abeafe94f73": {
-      "count": "6",
-      "date": "2026-11-08T16:00:00+00:00",
-      "end": "12:00",
-      "full_name": "Sunday 11/8 - Volleyball (6v6) - Baruch College Murray Hill & Gramercy 11AM",
-      "max": "16",
-      "start": "11:00",
-      "type": "Sunday - Volleyball - Murray Hill & Gramercy",
-      "venue": "Baruch College",
-      "venue_slug": "baruch-college"
-    },
     "826444e9-e01c-4699-bd43-04d0e6cb75ca": {
       "count": "1",
       "date": "2026-11-07T19:00:00+00:00",
@@ -194,9 +183,9 @@
       "full_name": "Monday 11/16 - Volleyball (6v6) - St. Patrick's Youth Center Lower East Side 8PM",
       "max": "16",
       "start": "20:00",
-      "type": null,
+      "type": "Monday - Volleyball - Lower East Side",
       "venue": "St. Patrick's Youth Center",
-      "venue_slug": null
+      "venue_slug": "st-patricks-youth-center"
     },
     "bd68a192-ecf2-415d-b710-946a43962262": {
       "count": "1",
@@ -217,7 +206,7 @@
       "max": "16",
       "start": "11:00",
       "type": "Sunday - Volleyball - Murray Hill & Gramercy",
-      "venue": "Baruch College Murray Hill & Gramercy 11AM",
+      "venue": "Baruch College",
       "venue_slug": "baruch-college"
     },
     "ce8fd6c3-4145-4519-b436-ee54970da35b": {
