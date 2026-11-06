@@ -161,8 +161,8 @@
       "full_name": "Monday 11/16 - Volleyball (6v6) - Pier 6 Brooklyn Heights 9PM",
       "max": "32",
       "start": "21:00",
-      "type": null,
-      "venue": "Pier 6",
+      "type": "Monday - Volleyball - Brooklyn Heights",
+      "venue": "Pier 6 Brooklyn Heights 9PM",
       "venue_slug": "pier-6"
     },
     "9017182b-7063-41a6-ab8f-ae8383439263": {
@@ -197,17 +197,6 @@
       "type": "Saturday - Volleyball - Long Island City",
       "venue": "Hunter's Point South",
       "venue_slug": "hunters-point-south"
-    },
-    "c439434f-9079-4d1b-b03e-499359009360": {
-      "count": "4",
-      "date": "2026-11-15T16:00:00+00:00",
-      "end": "12:00",
-      "full_name": "Sunday 11/15 - Volleyball (6v6) - Baruch College Murray Hill & Gramercy 11AM",
-      "max": "16",
-      "start": "11:00",
-      "type": "Sunday - Volleyball - Murray Hill & Gramercy",
-      "venue": "Baruch College",
-      "venue_slug": "baruch-college"
     },
     "ce8fd6c3-4145-4519-b436-ee54970da35b": {
       "count": "2",
