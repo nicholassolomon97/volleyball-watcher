@@ -173,7 +173,7 @@
       "max": "32",
       "start": "19:00",
       "type": "Monday - Volleyball - Brooklyn Heights",
-      "venue": "Pier 6 Brooklyn Heights 7PM",
+      "venue": "Pier 6",
       "venue_slug": "pier-6"
     },
     "b1ca80ce-1a61-4e40-a274-5a2179a2c1f7": {
@@ -196,17 +196,6 @@
       "start": "19:00",
       "type": "Tuesday - Volleyball - Brooklyn Heights",
       "venue": "Pier 6 Brooklyn Heights 7PM",
-      "venue_slug": "pier-6"
-    },
-    "ce8fd6c3-4145-4519-b436-ee54970da35b": {
-      "count": "2",
-      "date": "2026-11-07T19:00:00+00:00",
-      "end": "15:00",
-      "full_name": "Saturday 11/7 - Volleyball (6v6) - Pier 6 Brooklyn Heights 2PM",
-      "max": "32",
-      "start": "14:00",
-      "type": "Saturday - Volleyball - Brooklyn Heights",
-      "venue": "Pier 6",
       "venue_slug": "pier-6"
     },
     "d7aa0956-ac96-408b-b594-b14961272ffb": {
