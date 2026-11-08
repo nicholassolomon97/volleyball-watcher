@@ -41,7 +41,7 @@
       "max": "18",
       "start": "15:00",
       "type": "Sunday - Volleyball - Jersey City",
-      "venue": "Boys and Girls Club Jersey City Jersey City 3PM",
+      "venue": "Boys and Girls Club Jersey City",
       "venue_slug": "boys-and-girls-club-jersey-city"
     },
     "20042e4c-8ffe-4a46-8f6c-ebfaafd753c1": {
@@ -142,17 +142,6 @@
       "type": "Monday - Volleyball - West Village",
       "venue": "Pier 25",
       "venue_slug": "pier-25"
-    },
-    "571b59ba-4d00-4bfb-a23c-81de56e6e5c4": {
-      "count": "17",
-      "date": "2026-11-08T18:00:00+00:00",
-      "end": "15:00",
-      "full_name": "Sunday 11/8 - Volleyball (6v6) - Boys and Girls Club Jersey City Jersey City 1PM",
-      "max": "18",
-      "start": "13:00",
-      "type": "Sunday - Volleyball - Jersey City",
-      "venue": "Boys and Girls Club Jersey City",
-      "venue_slug": "boys-and-girls-club-jersey-city"
     },
     "58f43ae3-79d2-4531-a7a3-098dd43f8219": {
       "count": "0",
