@@ -121,17 +121,6 @@
       "venue": "Pier 6 Brooklyn Heights 7PM",
       "venue_slug": "pier-6"
     },
-    "64ddd852-afbe-4478-9d73-c559a8015589": {
-      "count": "15",
-      "date": "2026-11-17T00:00:00+00:00",
-      "end": "20:00",
-      "full_name": "Monday 11/16 - Volleyball (6v6) - La Salle Academy Lower East Side 7PM",
-      "max": "16",
-      "start": "19:00",
-      "type": "Monday - Volleyball - Lower East Side",
-      "venue": "La Salle Academy",
-      "venue_slug": "la-salle-academy"
-    },
     "8b2c1270-2c00-48ad-80d8-9ac961c85757": {
       "count": "0",
       "date": "2026-11-17T02:00:00+00:00",
@@ -142,17 +131,6 @@
       "type": "Monday - Volleyball - Brooklyn Heights",
       "venue": "Pier 6 Brooklyn Heights 9PM",
       "venue_slug": "pier-6"
-    },
-    "b1ca80ce-1a61-4e40-a274-5a2179a2c1f7": {
-      "count": "15",
-      "date": "2026-11-17T01:00:00+00:00",
-      "end": "21:00",
-      "full_name": "Monday 11/16 - Volleyball (6v6) - St. Patrick's Youth Center Lower East Side 8PM",
-      "max": "16",
-      "start": "20:00",
-      "type": "Monday - Volleyball - Lower East Side",
-      "venue": "St. Patrick's Youth Center",
-      "venue_slug": "st-patricks-youth-center"
     },
     "c7305ba5-b6eb-46cc-918d-4c1161aef872": {
       "count": "0",
