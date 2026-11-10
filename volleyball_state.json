@@ -11,6 +11,17 @@
       "venue": "Pier 25",
       "venue_slug": "pier-25"
     },
+    "07305582-3262-441f-9a6e-47ab5a94aefb": {
+      "count": "0",
+      "date": "2026-11-11T00:00:00+00:00",
+      "end": "19:45",
+      "full_name": "Tuesday 11/10 - Volleyball (6v6) - Chelsea Piers Chelsea 7PM",
+      "max": "16",
+      "start": "19:00",
+      "type": "Tuesday - Volleyball - Chelsea",
+      "venue": "Chelsea Piers",
+      "venue_slug": "chelsea-piers-1"
+    },
     "1437a80d-ce18-4bcf-ad1b-51a725ced02c": {
       "count": "0",
       "date": "2026-11-18T23:00:00+00:00",
@@ -190,6 +201,7 @@
   },
   "seen": {
     "0243a69f-0930-452f-8303-c91ea828c315": "2026-11-11",
+    "07305582-3262-441f-9a6e-47ab5a94aefb": "2026-11-10",
     "082cab79-f6a8-4da6-be3f-d593ebbd0574": "2026-11-14",
     "1437a80d-ce18-4bcf-ad1b-51a725ced02c": "2026-11-18",
     "20042e4c-8ffe-4a46-8f6c-ebfaafd753c1": "2026-11-10",
