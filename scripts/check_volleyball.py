@@ -2,6 +2,7 @@ import html as html_lib
 import json
 import os
 import re
+import signal
 import urllib.parse
 import urllib.request
 from datetime import date as date_cls, datetime, timedelta, timezone
@@ -329,5 +330,17 @@ def main():
     save_state(current, seen)
 
 
+def _deadline_exceeded(signum, frame):
+    raise TimeoutError(f"run exceeded {RUN_DEADLINE_SECONDS}s overall - aborting")
+
+
+# A normal run takes ~10 seconds. urlopen's timeout only limits the wait for
+# each individual read, so a server that dribbles the page out slowly can keep
+# a run alive for hours. This is a hard cap on the whole run: past it, the run
+# stops with an error (nothing is saved, so the next run starts clean).
+RUN_DEADLINE_SECONDS = 120
+
 if __name__ == "__main__":
+    signal.signal(signal.SIGALRM, _deadline_exceeded)
+    signal.alarm(RUN_DEADLINE_SECONDS)
     main()
