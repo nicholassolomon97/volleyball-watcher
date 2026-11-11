@@ -33,17 +33,6 @@
       "venue": "Pier 25 West Village 6PM",
       "venue_slug": "pier-25"
     },
-    "24a3bc98-0f52-4eb7-b206-68995903899e": {
-      "count": "15",
-      "date": "2026-11-14T18:00:00+00:00",
-      "end": "15:00",
-      "full_name": "Saturday 11/14 - Volleyball - Kotofit - 88 Bishop Jersey City 1PM",
-      "max": "16",
-      "start": "13:00",
-      "type": "Saturday - Volleyball - Jersey City",
-      "venue": "Kotofit - 88 Bishop",
-      "venue_slug": "kotofit-88-bishop"
-    },
     "2c621681-3ba9-4765-b6b6-9528c75b3287": {
       "count": "2",
       "date": "2026-11-14T19:00:00+00:00",
@@ -100,7 +89,7 @@
       "venue_slug": "pier-6"
     },
     "8a116820-cfa4-4b2b-836d-5792337ae4c3": {
-      "count": "3",
+      "count": "4",
       "date": "2026-11-21T18:00:00+00:00",
       "end": "13:45",
       "full_name": "Saturday 11/21 - Volleyball (6v6) - La Salle Academy Lower East Side 1PM",
@@ -173,8 +162,8 @@
       "max": "16",
       "start": "13:00",
       "type": "Saturday - Volleyball - Jersey City",
-      "venue": "88 Bishop Jersey City 1PM",
-      "venue_slug": null
+      "venue": "Kotofit - 88 Bishop",
+      "venue_slug": "kotofit-88-bishop"
     },
     "eb03ade6-3946-4394-b48c-ed04527f3828": {
       "count": "0",
