@@ -176,6 +176,17 @@
       "venue": "Hunter's Point South",
       "venue_slug": "hunters-point-south"
     },
+    "ded8dfca-5f57-47ba-bee7-d0cb49f803c3": {
+      "count": "13",
+      "date": "2026-11-15T20:00:00+00:00",
+      "end": "17:00",
+      "full_name": "Sunday 11/15 - Volleyball (6v6) - Boys and Girls Club Jersey City Jersey City 3PM",
+      "max": "18",
+      "start": "15:00",
+      "type": "Sunday - Volleyball - Jersey City",
+      "venue": "Boys and Girls Club Jersey City",
+      "venue_slug": "boys-and-girls-club-jersey-city"
+    },
     "e2c85160-cdc6-48c8-b740-dc0f87ef90eb": {
       "count": "3",
       "date": "2026-11-21T18:00:00+00:00",
@@ -226,6 +237,7 @@
     "c4c7de3d-b7f6-4248-b9b1-6089976b5198": "2026-11-21",
     "c7305ba5-b6eb-46cc-918d-4c1161aef872": "2026-11-17",
     "d9f0065d-5040-48a6-bca4-64ede50fbc81": "2026-11-14",
+    "ded8dfca-5f57-47ba-bee7-d0cb49f803c3": "2026-11-15",
     "e2c85160-cdc6-48c8-b740-dc0f87ef90eb": "2026-11-21",
     "eb03ade6-3946-4394-b48c-ed04527f3828": "2026-11-12"
   }
