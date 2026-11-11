@@ -11,6 +11,7 @@ permissions:
 jobs:
   check:
     runs-on: ubuntu-latest
+    timeout-minutes: 3     # a normal run takes ~10s; never let a stuck one linger
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
