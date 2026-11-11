@@ -22,6 +22,17 @@
       "venue": "Pier 25",
       "venue_slug": "pier-25"
     },
+    "24a3bc98-0f52-4eb7-b206-68995903899e": {
+      "count": "15",
+      "date": "2026-11-14T18:00:00+00:00",
+      "end": "15:00",
+      "full_name": "Saturday 11/14 - Volleyball - Kotofit - 88 Bishop Jersey City 1PM",
+      "max": "16",
+      "start": "13:00",
+      "type": "Saturday - Volleyball - Jersey City",
+      "venue": "Kotofit - 88 Bishop",
+      "venue_slug": "kotofit-88-bishop"
+    },
     "2c621681-3ba9-4765-b6b6-9528c75b3287": {
       "count": "1",
       "date": "2026-11-14T19:00:00+00:00",
@@ -162,8 +173,8 @@
       "max": "16",
       "start": "13:00",
       "type": "Saturday - Volleyball - Jersey City",
-      "venue": "Kotofit - 88 Bishop",
-      "venue_slug": "kotofit-88-bishop"
+      "venue": "88 Bishop Jersey City 1PM",
+      "venue_slug": null
     },
     "eb03ade6-3946-4394-b48c-ed04527f3828": {
       "count": "0",
