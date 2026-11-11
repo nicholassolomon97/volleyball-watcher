@@ -1,16 +1,5 @@
 {
   "current": {
-    "0243a69f-0930-452f-8303-c91ea828c315": {
-      "count": "13",
-      "date": "2026-11-11T23:00:00+00:00",
-      "end": "18:45",
-      "full_name": "Wednesday 11/11 - Volleyball (6v6) - Pier 25 West Village 6PM",
-      "max": "14",
-      "start": "18:00",
-      "type": "Wednesday - Volleyball - West Village",
-      "venue": "Pier 25",
-      "venue_slug": "pier-25"
-    },
     "1437a80d-ce18-4bcf-ad1b-51a725ced02c": {
       "count": "0",
       "date": "2026-11-18T23:00:00+00:00",
@@ -30,7 +19,7 @@
       "max": "14",
       "start": "18:00",
       "type": "Monday - Volleyball - West Village",
-      "venue": "Pier 25 West Village 6PM",
+      "venue": "Pier 25",
       "venue_slug": "pier-25"
     },
     "2c621681-3ba9-4765-b6b6-9528c75b3287": {
