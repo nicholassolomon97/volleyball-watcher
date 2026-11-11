@@ -41,17 +41,6 @@
       "max": "16",
       "start": "13:00",
       "type": "Saturday - Volleyball - Jersey City",
-      "venue": "88 Bishop Jersey City 1PM",
-      "venue_slug": null
-    },
-    "2586eb09-241e-462e-b9ae-fb7c2dae88d1": {
-      "count": "15",
-      "date": "2026-11-13T00:00:00+00:00",
-      "end": "20:30",
-      "full_name": "FREE Thursday 11/12 - Volleyball - Kotofit - 88 Bishop Jersey City 6:30PM",
-      "max": "16",
-      "start": "18:30",
-      "type": "FREE Thursday - Volleyball - Jersey City",
       "venue": "Kotofit - 88 Bishop",
       "venue_slug": "kotofit-88-bishop"
     },
