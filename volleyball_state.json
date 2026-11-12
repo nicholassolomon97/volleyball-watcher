@@ -121,6 +121,17 @@
       "venue": "Baruch College",
       "venue_slug": "baruch-college"
     },
+    "c3ef19d1-1a5e-46a4-b47c-a0926aa67147": {
+      "count": "15",
+      "date": "2026-11-12T23:00:00+00:00",
+      "end": "19:00",
+      "full_name": "Thursday 11/12 - Volleyball (6v6) - The Post BK - 100 Dobbin St Williamsburg 6PM",
+      "max": "16",
+      "start": "18:00",
+      "type": "Thursday - Volleyball - Williamsburg",
+      "venue": "The Post BK - 100 Dobbin St",
+      "venue_slug": "the-post-bk-100-dobbin-st"
+    },
     "c4c7de3d-b7f6-4248-b9b1-6089976b5198": {
       "count": "1",
       "date": "2026-11-21T17:00:00+00:00",
