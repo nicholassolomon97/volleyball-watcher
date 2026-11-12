@@ -99,6 +99,17 @@
       "venue": "Pier 6 Brooklyn Heights 7PM",
       "venue_slug": "pier-6"
     },
+    "6627646a-b8ba-4517-9d76-ca8f23a452a0": {
+      "count": "0",
+      "date": "2026-11-18T23:15:00+00:00",
+      "end": "19:00",
+      "full_name": "Wednesday 11/18 - Volleyball (6v6) - St. Patrick's Youth Center Lower East Side 6:15PM",
+      "max": "32",
+      "start": "18:15",
+      "type": "Wednesday - Volleyball - Lower East Side",
+      "venue": "St. Patrick's Youth Center",
+      "venue_slug": "st-patricks-youth-center"
+    },
     "8a116820-cfa4-4b2b-836d-5792337ae4c3": {
       "count": "9",
       "date": "2026-11-21T18:00:00+00:00",
@@ -131,17 +142,6 @@
       "type": "Saturday - Volleyball - Long Island City",
       "venue": "Hunter's Point South Long Island City 2PM",
       "venue_slug": "hunters-point-south"
-    },
-    "b32390e2-eaeb-4ecf-a59b-d319b8d1ae16": {
-      "count": "15",
-      "date": "2026-11-22T16:00:00+00:00",
-      "end": "12:00",
-      "full_name": "Sunday 11/22 - Volleyball (6v6) - Baruch College Murray Hill & Gramercy 11AM",
-      "max": "16",
-      "start": "11:00",
-      "type": "Sunday - Volleyball - Murray Hill & Gramercy",
-      "venue": "Baruch College",
-      "venue_slug": "baruch-college"
     },
     "c4c7de3d-b7f6-4248-b9b1-6089976b5198": {
       "count": "1",
@@ -213,6 +213,7 @@
     "53ad5610-0756-47e7-9701-10745ec80e4b": "2026-11-21",
     "58f43ae3-79d2-4531-a7a3-098dd43f8219": "2026-11-16",
     "64ddd852-afbe-4478-9d73-c559a8015589": "2026-11-16",
+    "6627646a-b8ba-4517-9d76-ca8f23a452a0": "2026-11-18",
     "6667a4d1-8761-40a9-8814-e0ea3a9f7eca": "2026-11-17",
     "8a116820-cfa4-4b2b-836d-5792337ae4c3": "2026-11-21",
     "8b2c1270-2c00-48ad-80d8-9ac961c85757": "2026-11-16",
