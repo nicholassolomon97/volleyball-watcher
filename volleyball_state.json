@@ -12,7 +12,7 @@
       "venue_slug": "pier-25"
     },
     "21b58ccb-f441-4222-91bf-e63bd9d92973": {
-      "count": "2",
+      "count": "1",
       "date": "2026-11-16T23:00:00+00:00",
       "end": "18:45",
       "full_name": "Monday 11/16 - Volleyball (6v6) - Pier 25 West Village 6PM",
@@ -175,17 +175,6 @@
       "type": "Saturday - Volleyball - Jersey City",
       "venue": "88 Bishop Jersey City 1PM",
       "venue_slug": null
-    },
-    "eb03ade6-3946-4394-b48c-ed04527f3828": {
-      "count": "0",
-      "date": "2026-11-13T00:00:00+00:00",
-      "end": "20:30",
-      "full_name": "Thursday 11/12 - Volleyball (6v6) - Liberty Harbor Courts @ Surf City Jersey City 7PM",
-      "max": "16",
-      "start": "19:00",
-      "type": "Thursday - Volleyball - Jersey City",
-      "venue": "Liberty Harbor Courts @ Surf City",
-      "venue_slug": "liberty-harbor-courts-surf-city"
     }
   },
   "seen": {
