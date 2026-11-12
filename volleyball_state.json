@@ -110,6 +110,17 @@
       "venue": "Hunter's Point South Long Island City 2PM",
       "venue_slug": "hunters-point-south"
     },
+    "b32390e2-eaeb-4ecf-a59b-d319b8d1ae16": {
+      "count": "1",
+      "date": "2026-11-22T16:00:00+00:00",
+      "end": "12:00",
+      "full_name": "Sunday 11/22 - Volleyball (6v6) - Baruch College Murray Hill & Gramercy 11AM",
+      "max": "16",
+      "start": "11:00",
+      "type": "Sunday - Volleyball - Murray Hill & Gramercy",
+      "venue": "Baruch College",
+      "venue_slug": "baruch-college"
+    },
     "c4c7de3d-b7f6-4248-b9b1-6089976b5198": {
       "count": "1",
       "date": "2026-11-21T17:00:00+00:00",
@@ -167,7 +178,6 @@
     }
   },
   "seen": {
-    "0243a69f-0930-452f-8303-c91ea828c315": "2026-11-11",
     "082cab79-f6a8-4da6-be3f-d593ebbd0574": "2026-11-14",
     "1437a80d-ce18-4bcf-ad1b-51a725ced02c": "2026-11-18",
     "21b58ccb-f441-4222-91bf-e63bd9d92973": "2026-11-16",
@@ -175,7 +185,6 @@
     "2586eb09-241e-462e-b9ae-fb7c2dae88d1": "2026-11-12",
     "2c621681-3ba9-4765-b6b6-9528c75b3287": "2026-11-14",
     "31f8ba28-2a53-4ac0-b1d2-b249e803ee47": "2026-11-17",
-    "3beeb9a7-27bd-4e5f-9491-0415873a9ceb": "2026-11-11",
     "3c0daf99-6a81-462f-bf86-62f1cc3c2f2f": "2026-11-19",
     "442a2577-559e-4d9e-8f6e-68572ab19325": "2026-11-12",
     "4b4e1f4a-7816-4faf-a62d-1ef8fb2cce2a": "2026-11-14",
@@ -185,9 +194,9 @@
     "6667a4d1-8761-40a9-8814-e0ea3a9f7eca": "2026-11-17",
     "8a116820-cfa4-4b2b-836d-5792337ae4c3": "2026-11-21",
     "8b2c1270-2c00-48ad-80d8-9ac961c85757": "2026-11-16",
-    "95f8b20e-c957-47a3-9411-bc5b9770d243": "2026-11-11",
     "ab03ab31-7d6c-48be-a5f1-178230c91301": "2026-11-21",
     "b1ca80ce-1a61-4e40-a274-5a2179a2c1f7": "2026-11-16",
+    "b32390e2-eaeb-4ecf-a59b-d319b8d1ae16": "2026-11-22",
     "c3ef19d1-1a5e-46a4-b47c-a0926aa67147": "2026-11-12",
     "c439434f-9079-4d1b-b03e-499359009360": "2026-11-15",
     "c4c7de3d-b7f6-4248-b9b1-6089976b5198": "2026-11-21",
