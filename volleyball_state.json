@@ -1,7 +1,7 @@
 {
   "current": {
     "050f7653-6562-489e-81f3-a0746080b20b": {
-      "count": "9",
+      "count": "10",
       "date": "2026-11-14T19:00:00+00:00",
       "end": "14:45",
       "full_name": "Saturday 11/14 - Volleyball (6v6) - The Post BK - 100 Dobbin St Williamsburg 2PM",
@@ -153,17 +153,6 @@
       "type": "Saturday - Volleyball - Long Island City",
       "venue": "Hunter's Point South Long Island City 2PM",
       "venue_slug": "hunters-point-south"
-    },
-    "c439434f-9079-4d1b-b03e-499359009360": {
-      "count": "15",
-      "date": "2026-11-15T16:00:00+00:00",
-      "end": "12:00",
-      "full_name": "Sunday 11/15 - Volleyball (6v6) - Baruch College Murray Hill & Gramercy 11AM",
-      "max": "16",
-      "start": "11:00",
-      "type": "Sunday - Volleyball - Murray Hill & Gramercy",
-      "venue": "Baruch College",
-      "venue_slug": "baruch-college"
     },
     "c4c7de3d-b7f6-4248-b9b1-6089976b5198": {
       "count": "0",
