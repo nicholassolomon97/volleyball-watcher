@@ -11,6 +11,17 @@
       "venue": "Pier 25 West Village 6PM",
       "venue_slug": "pier-25"
     },
+    "1cca8077-6582-435f-9094-1efbbb62d0f7": {
+      "count": "0",
+      "date": "2026-11-24T00:00:00+00:00",
+      "end": "21:00",
+      "full_name": "Monday 11/23 - Volleyball (6v6) - Pier 6 Brooklyn Heights 7PM",
+      "max": "32",
+      "start": "19:00",
+      "type": "Monday - Volleyball - Brooklyn Heights",
+      "venue": "Pier 6 Brooklyn Heights 7PM",
+      "venue_slug": "pier-6"
+    },
     "21b58ccb-f441-4222-91bf-e63bd9d92973": {
       "count": "1",
       "date": "2026-11-16T23:00:00+00:00",
@@ -41,6 +52,17 @@
       "max": "32",
       "start": "21:00",
       "type": "Tuesday - Volleyball - Brooklyn Heights",
+      "venue": "Pier 6 Brooklyn Heights 9PM",
+      "venue_slug": "pier-6"
+    },
+    "3a7991af-c1f5-4c6d-b8ff-1b7733fbb00f": {
+      "count": "0",
+      "date": "2026-11-24T02:00:00+00:00",
+      "end": "23:00",
+      "full_name": "Monday 11/23 - Volleyball (6v6) - Pier 6 Brooklyn Heights 9PM",
+      "max": "32",
+      "start": "21:00",
+      "type": "Monday - Volleyball - Brooklyn Heights",
       "venue": "Pier 6 Brooklyn Heights 9PM",
       "venue_slug": "pier-6"
     },
@@ -99,6 +121,17 @@
       "venue": "Pier 6 Brooklyn Heights 9PM",
       "venue_slug": "pier-6"
     },
+    "9ea05e46-b6f1-494a-84a0-1a921a3fed1b": {
+      "count": "0",
+      "date": "2026-11-23T23:00:00+00:00",
+      "end": "18:45",
+      "full_name": "Monday 11/23 - Volleyball (6v6) - Pier 25 West Village 6PM",
+      "max": "14",
+      "start": "18:00",
+      "type": "Monday - Volleyball - West Village",
+      "venue": "Pier 25 West Village 6PM",
+      "venue_slug": "pier-25"
+    },
     "ab03ab31-7d6c-48be-a5f1-178230c91301": {
       "count": "0",
       "date": "2026-11-21T19:00:00+00:00",
@@ -132,6 +165,17 @@
       "venue": "Pier 6 Brooklyn Heights 7PM",
       "venue_slug": "pier-6"
     },
+    "cd040766-b21e-42e3-bd3e-88b2966d9395": {
+      "count": "0",
+      "date": "2026-11-24T00:00:00+00:00",
+      "end": "20:00",
+      "full_name": "Monday 11/23 - Volleyball (6v6) - La Salle Academy Lower East Side 7PM",
+      "max": "16",
+      "start": "19:00",
+      "type": "Monday - Volleyball - Lower East Side",
+      "venue": "La Salle Academy",
+      "venue_slug": "la-salle-academy"
+    },
     "d9f0065d-5040-48a6-bca4-64ede50fbc81": {
       "count": "1",
       "date": "2026-11-14T17:00:00+00:00",
@@ -153,18 +197,29 @@
       "type": "Saturday - Volleyball - Jersey City",
       "venue": "Kotofit - 88 Bishop",
       "venue_slug": "kotofit-88-bishop"
+    },
+    "f06d3342-cae7-479e-a471-49bcc5fcaddd": {
+      "count": "0",
+      "date": "2026-11-24T01:00:00+00:00",
+      "end": "21:00",
+      "full_name": "Monday 11/23 - Volleyball (6v6) - St. Patrick's Youth Center Lower East Side 8PM",
+      "max": "16",
+      "start": "20:00",
+      "type": "Monday - Volleyball - Lower East Side",
+      "venue": "St. Patrick's Youth Center Lower East Side 8PM",
+      "venue_slug": "st-patricks-youth-center"
     }
   },
   "seen": {
     "082cab79-f6a8-4da6-be3f-d593ebbd0574": "2026-11-14",
     "1437a80d-ce18-4bcf-ad1b-51a725ced02c": "2026-11-18",
+    "1cca8077-6582-435f-9094-1efbbb62d0f7": "2026-11-23",
     "21b58ccb-f441-4222-91bf-e63bd9d92973": "2026-11-16",
     "24a3bc98-0f52-4eb7-b206-68995903899e": "2026-11-14",
-    "2586eb09-241e-462e-b9ae-fb7c2dae88d1": "2026-11-12",
     "2c621681-3ba9-4765-b6b6-9528c75b3287": "2026-11-14",
     "31f8ba28-2a53-4ac0-b1d2-b249e803ee47": "2026-11-17",
+    "3a7991af-c1f5-4c6d-b8ff-1b7733fbb00f": "2026-11-23",
     "3c0daf99-6a81-462f-bf86-62f1cc3c2f2f": "2026-11-19",
-    "442a2577-559e-4d9e-8f6e-68572ab19325": "2026-11-12",
     "4b4e1f4a-7816-4faf-a62d-1ef8fb2cce2a": "2026-11-14",
     "53ad5610-0756-47e7-9701-10745ec80e4b": "2026-11-21",
     "58f43ae3-79d2-4531-a7a3-098dd43f8219": "2026-11-16",
@@ -173,16 +228,17 @@
     "6667a4d1-8761-40a9-8814-e0ea3a9f7eca": "2026-11-17",
     "8a116820-cfa4-4b2b-836d-5792337ae4c3": "2026-11-21",
     "8b2c1270-2c00-48ad-80d8-9ac961c85757": "2026-11-16",
+    "9ea05e46-b6f1-494a-84a0-1a921a3fed1b": "2026-11-23",
     "ab03ab31-7d6c-48be-a5f1-178230c91301": "2026-11-21",
     "b1ca80ce-1a61-4e40-a274-5a2179a2c1f7": "2026-11-16",
     "b32390e2-eaeb-4ecf-a59b-d319b8d1ae16": "2026-11-22",
-    "c3ef19d1-1a5e-46a4-b47c-a0926aa67147": "2026-11-12",
     "c439434f-9079-4d1b-b03e-499359009360": "2026-11-15",
     "c4c7de3d-b7f6-4248-b9b1-6089976b5198": "2026-11-21",
     "c7305ba5-b6eb-46cc-918d-4c1161aef872": "2026-11-17",
+    "cd040766-b21e-42e3-bd3e-88b2966d9395": "2026-11-23",
     "d9f0065d-5040-48a6-bca4-64ede50fbc81": "2026-11-14",
     "ded8dfca-5f57-47ba-bee7-d0cb49f803c3": "2026-11-15",
     "e2c85160-cdc6-48c8-b740-dc0f87ef90eb": "2026-11-21",
-    "eb03ade6-3946-4394-b48c-ed04527f3828": "2026-11-12"
+    "f06d3342-cae7-479e-a471-49bcc5fcaddd": "2026-11-23"
   }
 }
