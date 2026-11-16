@@ -33,17 +33,6 @@
       "venue": "Pier 25",
       "venue_slug": "pier-25"
     },
-    "2a0c107d-a304-4197-bf7f-43b7bc36c30a": {
-      "count": "13",
-      "date": "2026-11-23T23:00:00+00:00",
-      "end": "19:00",
-      "full_name": "Monday 11/23 - Volleyball (6v6) - The Post BK - 100 Dobbin St Williamsburg 6PM",
-      "max": "16",
-      "start": "18:00",
-      "type": "Monday - Volleyball - Williamsburg",
-      "venue": "100 Dobbin St Williamsburg 6PM",
-      "venue_slug": null
-    },
     "2b32eaf0-6d1d-4deb-af66-a899f0e80161": {
       "count": "0",
       "date": "2026-11-25T23:00:00+00:00",
@@ -133,7 +122,7 @@
       "venue_slug": "pier-6"
     },
     "90e251b3-3357-4471-8f54-f01ba6b6296a": {
-      "count": "7",
+      "count": "8",
       "date": "2026-11-16T23:00:00+00:00",
       "end": "19:00",
       "full_name": "Monday 11/16 - Volleyball (6v6) - The Post BK - 100 Dobbin St Williamsburg 6PM",
