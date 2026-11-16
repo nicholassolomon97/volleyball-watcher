@@ -33,6 +33,17 @@
       "venue": "Pier 25",
       "venue_slug": "pier-25"
     },
+    "2a0c107d-a304-4197-bf7f-43b7bc36c30a": {
+      "count": "0",
+      "date": "2026-11-23T23:00:00+00:00",
+      "end": "19:00",
+      "full_name": "Monday 11/23 - Volleyball (6v6) - The Post BK - 100 Dobbin St Williamsburg 6PM",
+      "max": "16",
+      "start": "18:00",
+      "type": "Monday - Volleyball - Williamsburg",
+      "venue": "100 Dobbin St Williamsburg 6PM",
+      "venue_slug": null
+    },
     "2b32eaf0-6d1d-4deb-af66-a899f0e80161": {
       "count": "0",
       "date": "2026-11-25T23:00:00+00:00",
@@ -121,6 +132,17 @@
       "venue": "Pier 6 Brooklyn Heights 9PM",
       "venue_slug": "pier-6"
     },
+    "90e251b3-3357-4471-8f54-f01ba6b6296a": {
+      "count": "0",
+      "date": "2026-11-16T23:00:00+00:00",
+      "end": "19:00",
+      "full_name": "Monday 11/16 - Volleyball (6v6) - The Post BK - 100 Dobbin St Williamsburg 6PM",
+      "max": "16",
+      "start": "18:00",
+      "type": "Monday - Volleyball - Williamsburg",
+      "venue": "The Post BK - 100 Dobbin St",
+      "venue_slug": "the-post-bk-100-dobbin-st"
+    },
     "9ea05e46-b6f1-494a-84a0-1a921a3fed1b": {
       "count": "0",
       "date": "2026-11-23T23:00:00+00:00",
@@ -181,6 +203,7 @@
     "1437a80d-ce18-4bcf-ad1b-51a725ced02c": "2026-11-18",
     "1cca8077-6582-435f-9094-1efbbb62d0f7": "2026-11-23",
     "21b58ccb-f441-4222-91bf-e63bd9d92973": "2026-11-16",
+    "2a0c107d-a304-4197-bf7f-43b7bc36c30a": "2026-11-23",
     "2b32eaf0-6d1d-4deb-af66-a899f0e80161": "2026-11-25",
     "31f8ba28-2a53-4ac0-b1d2-b249e803ee47": "2026-11-17",
     "37b1f5eb-3cf0-42b8-821d-1d7e972f028d": "2026-11-24",
@@ -197,6 +220,7 @@
     "87590a1e-c2ca-4514-804d-12b9ee5b2dce": "2026-11-24",
     "8a116820-cfa4-4b2b-836d-5792337ae4c3": "2026-11-21",
     "8b2c1270-2c00-48ad-80d8-9ac961c85757": "2026-11-16",
+    "90e251b3-3357-4471-8f54-f01ba6b6296a": "2026-11-16",
     "9a39477f-b7c7-47ee-a23d-1a30488e1fe8": "2026-11-17",
     "9d907eac-1bb9-4b03-b565-620d5e8d8606": "2026-11-16",
     "9ea05e46-b6f1-494a-84a0-1a921a3fed1b": "2026-11-23",
