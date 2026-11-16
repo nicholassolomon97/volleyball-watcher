@@ -89,14 +89,14 @@
       "venue_slug": "pier-6"
     },
     "6627646a-b8ba-4517-9d76-ca8f23a452a0": {
-      "count": "29",
+      "count": "30",
       "date": "2026-11-18T23:15:00+00:00",
       "end": "19:00",
       "full_name": "Wednesday 11/18 - Volleyball (6v6) - St. Patrick's Youth Center Lower East Side 6:15PM",
       "max": "32",
       "start": "18:15",
       "type": "Wednesday - Volleyball - Lower East Side",
-      "venue": "St. Patrick's Youth Center Lower East Side",
+      "venue": "St. Patrick's Youth Center",
       "venue_slug": "st-patricks-youth-center"
     },
     "6667a4d1-8761-40a9-8814-e0ea3a9f7eca": {
@@ -142,17 +142,6 @@
       "type": "Monday - Volleyball - Brooklyn Heights",
       "venue": "Pier 6 Brooklyn Heights 9PM",
       "venue_slug": "pier-6"
-    },
-    "9d907eac-1bb9-4b03-b565-620d5e8d8606": {
-      "count": "15",
-      "date": "2026-11-17T02:00:00+00:00",
-      "end": "22:15",
-      "full_name": "Monday 11/16 - Volleyball (6v6) - St. Patrick's Youth Center Lower East Side 9PM",
-      "max": "16",
-      "start": "21:00",
-      "type": "Monday - Volleyball - Lower East Side",
-      "venue": "St. Patrick's Youth Center",
-      "venue_slug": "st-patricks-youth-center"
     },
     "9ea05e46-b6f1-494a-84a0-1a921a3fed1b": {
       "count": "0",
