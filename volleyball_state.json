@@ -23,15 +23,15 @@
       "venue_slug": "pier-6"
     },
     "275c6e43-6766-4ed6-908d-9d77f7c116b1": {
-      "count": "9",
+      "count": "13",
       "date": "2026-11-18T02:00:00+00:00",
       "end": "23:00",
       "full_name": "Tuesday 11/17 - Volleyball (6v6) - The Post BK - 100 Dobbin St Williamsburg 9PM",
       "max": "16",
       "start": "21:00",
       "type": "Tuesday - Volleyball - Williamsburg",
-      "venue": "100 Dobbin St Williamsburg 9PM",
-      "venue_slug": null
+      "venue": "The Post BK - 100 Dobbin St",
+      "venue_slug": "the-post-bk-100-dobbin-st"
     },
     "2b32eaf0-6d1d-4deb-af66-a899f0e80161": {
       "count": "0",
@@ -77,17 +77,6 @@
       "venue": "Pier 6 Brooklyn Heights 2PM",
       "venue_slug": "pier-6"
     },
-    "6c4f333f-9df0-46ae-8249-4355432a2def": {
-      "count": "1",
-      "date": "2026-11-25T02:00:00+00:00",
-      "end": "23:00",
-      "full_name": "Tuesday 11/24 - Volleyball (6v6) - The Post BK - 100 Dobbin St Williamsburg 9PM",
-      "max": "16",
-      "start": "21:00",
-      "type": "Tuesday - Volleyball - Williamsburg",
-      "venue": "100 Dobbin St Williamsburg 9PM",
-      "venue_slug": null
-    },
     "6e3cc3bb-57f6-4fc8-bf16-a59b50c00d55": {
       "count": "0",
       "date": "2026-11-25T02:00:00+00:00",
@@ -121,17 +110,6 @@
       "venue": "Pier 25 West Village 6PM",
       "venue_slug": "pier-25"
     },
-    "a68c609b-0663-4129-9a7e-95629ea64a49": {
-      "count": "13",
-      "date": "2026-11-18T00:00:00+00:00",
-      "end": "21:00",
-      "full_name": "Tuesday 11/17 - Volleyball (6v6) - The Post BK - 100 Dobbin St Williamsburg 7PM",
-      "max": "16",
-      "start": "19:00",
-      "type": "Tuesday - Volleyball - Williamsburg",
-      "venue": "The Post BK - 100 Dobbin St",
-      "venue_slug": "the-post-bk-100-dobbin-st"
-    },
     "ab03ab31-7d6c-48be-a5f1-178230c91301": {
       "count": "0",
       "date": "2026-11-21T19:00:00+00:00",
@@ -142,17 +120,6 @@
       "type": "Saturday - Volleyball - Long Island City",
       "venue": "Hunter's Point South Long Island City 2PM",
       "venue_slug": "hunters-point-south"
-    },
-    "b93a0f1c-8496-4080-adbe-79cb9de17753": {
-      "count": "6",
-      "date": "2026-11-25T00:00:00+00:00",
-      "end": "21:00",
-      "full_name": "Tuesday 11/24 - Volleyball (6v6) - The Post BK - 100 Dobbin St Williamsburg 7PM",
-      "max": "16",
-      "start": "19:00",
-      "type": "Tuesday - Volleyball - Williamsburg",
-      "venue": "100 Dobbin St Williamsburg 7PM",
-      "venue_slug": null
     },
     "c4c7de3d-b7f6-4248-b9b1-6089976b5198": {
       "count": "2",
