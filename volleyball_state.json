@@ -98,17 +98,6 @@
       "type": "Saturday - Volleyball - Long Island City",
       "venue": "Hunter's Point South",
       "venue_slug": "hunters-point-south"
-    },
-    "c8cfb5ae-65cb-4d17-b13e-04e49abfaa93": {
-      "count": "15",
-      "date": "2026-11-20T00:00:00+00:00",
-      "end": "21:00",
-      "full_name": "Thursday 11/19 - Volleyball (6v6) - New Design High School Lower East Side 7PM",
-      "max": "16",
-      "start": "19:00",
-      "type": "Thursday - Volleyball - Lower East Side",
-      "venue": "New Design High School",
-      "venue_slug": "new-design-high-school"
     }
   },
   "seen": {
