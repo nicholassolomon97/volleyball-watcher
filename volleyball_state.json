@@ -121,6 +121,17 @@
       "venue": "St. Patrick's Youth Center",
       "venue_slug": "st-patricks-youth-center"
     },
+    "e2c85160-cdc6-48c8-b740-dc0f87ef90eb": {
+      "count": "15",
+      "date": "2026-11-21T18:00:00+00:00",
+      "end": "15:00",
+      "full_name": "Saturday 11/21 - Volleyball - Kotofit - 88 Bishop Jersey City 1PM",
+      "max": "16",
+      "start": "13:00",
+      "type": "Saturday - Volleyball - Jersey City",
+      "venue": "Kotofit - 88 Bishop",
+      "venue_slug": "kotofit-88-bishop"
+    },
     "f57b7a27-cd34-48c1-bd1a-8d916a236b61": {
       "count": "13",
       "date": "2026-11-21T17:00:00+00:00",
