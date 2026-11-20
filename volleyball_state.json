@@ -66,6 +66,17 @@
       "venue": "Pier 6 Brooklyn Heights 7PM",
       "venue_slug": "pier-6"
     },
+    "8a116820-cfa4-4b2b-836d-5792337ae4c3": {
+      "count": "15",
+      "date": "2026-11-21T18:00:00+00:00",
+      "end": "13:45",
+      "full_name": "Saturday 11/21 - Volleyball (6v6) - La Salle Academy Lower East Side 1PM",
+      "max": "16",
+      "start": "13:00",
+      "type": "Saturday - Volleyball - Lower East Side",
+      "venue": "La Salle Academy",
+      "venue_slug": "la-salle-academy"
+    },
     "9ea05e46-b6f1-494a-84a0-1a921a3fed1b": {
       "count": "0",
       "date": "2026-11-23T23:00:00+00:00",
