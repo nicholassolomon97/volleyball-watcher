@@ -8,7 +8,7 @@
       "max": "32",
       "start": "19:00",
       "type": "Monday - Volleyball - Brooklyn Heights",
-      "venue": "Pier 6 Brooklyn Heights 7PM",
+      "venue": "Pier 6",
       "venue_slug": "pier-6"
     },
     "2b32eaf0-6d1d-4deb-af66-a899f0e80161": {
@@ -42,17 +42,6 @@
       "start": "21:00",
       "type": "Monday - Volleyball - Brooklyn Heights",
       "venue": "Pier 6 Brooklyn Heights 9PM",
-      "venue_slug": "pier-6"
-    },
-    "53ad5610-0756-47e7-9701-10745ec80e4b": {
-      "count": "0",
-      "date": "2026-11-21T19:00:00+00:00",
-      "end": "15:00",
-      "full_name": "Saturday 11/21 - Volleyball (6v6) - Pier 6 Brooklyn Heights 2PM",
-      "max": "32",
-      "start": "14:00",
-      "type": "Saturday - Volleyball - Brooklyn Heights",
-      "venue": "Pier 6",
       "venue_slug": "pier-6"
     },
     "6e3cc3bb-57f6-4fc8-bf16-a59b50c00d55": {
@@ -99,17 +88,6 @@
       "venue": "Pier 25",
       "venue_slug": "pier-25"
     },
-    "ab03ab31-7d6c-48be-a5f1-178230c91301": {
-      "count": "0",
-      "date": "2026-11-21T19:00:00+00:00",
-      "end": "16:00",
-      "full_name": "Saturday 11/21 - Volleyball (6v6) - Hunter's Point South Long Island City 2PM",
-      "max": "16",
-      "start": "14:00",
-      "type": "Saturday - Volleyball - Long Island City",
-      "venue": "Hunter's Point South Long Island City 2PM",
-      "venue_slug": "hunters-point-south"
-    },
     "c26b607b-f50e-4833-a51b-2e69d865dac0": {
       "count": "0",
       "date": "2026-12-01T00:00:00+00:00",
@@ -120,17 +98,6 @@
       "type": "Monday - Volleyball - Brooklyn Heights",
       "venue": "Pier 6 Brooklyn Heights 7PM",
       "venue_slug": "pier-6"
-    },
-    "c4c7de3d-b7f6-4248-b9b1-6089976b5198": {
-      "count": "5",
-      "date": "2026-11-21T17:00:00+00:00",
-      "end": "14:00",
-      "full_name": "Saturday 11/21 - Volleyball (6v6) - Hunter's Point South Long Island City 12PM",
-      "max": "16",
-      "start": "12:00",
-      "type": "Saturday - Volleyball - Long Island City",
-      "venue": "Hunter's Point South",
-      "venue_slug": "hunters-point-south"
     }
   },
   "seen": {
