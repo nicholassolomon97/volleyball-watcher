@@ -77,6 +77,28 @@
       "venue": "Pier 25 West Village 6PM",
       "venue_slug": "pier-25"
     },
+    "8b69199d-17f5-4c11-af12-375be8677b69": {
+      "count": "0",
+      "date": "2026-11-26T02:30:00+00:00",
+      "end": "23:00",
+      "full_name": "Wednesday 11/25 - Volleyball (6v6) - Avenues Chelsea 9:30PM",
+      "max": "16",
+      "start": "21:30",
+      "type": "Wednesday - Volleyball - Chelsea",
+      "venue": "Avenues Chelsea",
+      "venue_slug": "avenues"
+    },
+    "8be6525d-7b32-4fbe-ba42-3e53ad69b037": {
+      "count": "0",
+      "date": "2026-11-26T01:00:00+00:00",
+      "end": "21:30",
+      "full_name": "Wednesday 11/25 - Volleyball (6v6) - Avenues Chelsea 8PM",
+      "max": "16",
+      "start": "20:00",
+      "type": "Wednesday - Volleyball - Chelsea",
+      "venue": "Avenues",
+      "venue_slug": "avenues"
+    },
     "9ea05e46-b6f1-494a-84a0-1a921a3fed1b": {
       "count": "0",
       "date": "2026-11-23T23:00:00+00:00",
@@ -151,6 +173,8 @@
     "87590a1e-c2ca-4514-804d-12b9ee5b2dce": "2026-11-24",
     "89c04220-537c-4c57-8586-8ff6699eac3e": "2026-11-30",
     "8a116820-cfa4-4b2b-836d-5792337ae4c3": "2026-11-21",
+    "8b69199d-17f5-4c11-af12-375be8677b69": "2026-11-25",
+    "8be6525d-7b32-4fbe-ba42-3e53ad69b037": "2026-11-25",
     "9ea05e46-b6f1-494a-84a0-1a921a3fed1b": "2026-11-23",
     "a3f62f6a-79f5-424c-8a09-8bfefc079911": "2026-11-29",
     "a4ac18e1-d17f-424e-b942-85ac170adc58": "2026-11-22",
