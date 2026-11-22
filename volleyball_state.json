@@ -132,6 +132,17 @@
       "venue": "Pier 6 Brooklyn Heights 7PM",
       "venue_slug": "pier-6"
     },
+    "d474e501-ead3-4474-a50d-391b64364424": {
+      "count": "17",
+      "date": "2026-11-22T20:00:00+00:00",
+      "end": "17:00",
+      "full_name": "Sunday 11/22 - Volleyball (6v6) - Boys and Girls Club Jersey City Jersey City 3PM",
+      "max": "18",
+      "start": "15:00",
+      "type": "Sunday - Volleyball - Jersey City",
+      "venue": "Boys and Girls Club Jersey City",
+      "venue_slug": "boys-and-girls-club-jersey-city"
+    },
     "e025c765-2e88-468e-bf19-3dce954b0f7c": {
       "count": "15",
       "date": "2026-11-22T17:00:00+00:00",
@@ -174,6 +185,7 @@
     "b93a0f1c-8496-4080-adbe-79cb9de17753": "2026-11-24",
     "c26b607b-f50e-4833-a51b-2e69d865dac0": "2026-11-30",
     "cd040766-b21e-42e3-bd3e-88b2966d9395": "2026-11-23",
+    "d474e501-ead3-4474-a50d-391b64364424": "2026-11-22",
     "e025c765-2e88-468e-bf19-3dce954b0f7c": "2026-11-22",
     "eee4f3d6-135e-4d59-9ad4-aeab6eb2159a": "2026-11-30",
     "f06d3342-cae7-479e-a471-49bcc5fcaddd": "2026-11-23"
