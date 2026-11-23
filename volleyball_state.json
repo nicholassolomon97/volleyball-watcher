@@ -140,17 +140,6 @@
       "max": "16",
       "start": "21:30",
       "type": "Wednesday - Volleyball - Chelsea",
-      "venue": "Avenues Chelsea",
-      "venue_slug": "avenues"
-    },
-    "8be6525d-7b32-4fbe-ba42-3e53ad69b037": {
-      "count": "15",
-      "date": "2026-11-26T01:00:00+00:00",
-      "end": "21:30",
-      "full_name": "Wednesday 11/25 - Volleyball (6v6) - Avenues Chelsea 8PM",
-      "max": "16",
-      "start": "20:00",
-      "type": "Wednesday - Volleyball - Chelsea",
       "venue": "Avenues",
       "venue_slug": "avenues"
     },
