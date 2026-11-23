@@ -55,6 +55,17 @@
       "venue": "Pier 6 Brooklyn Heights 9PM",
       "venue_slug": "pier-6"
     },
+    "3ea7335c-4509-4ecd-befe-5221a281ec5e": {
+      "count": "15",
+      "date": "2026-11-24T00:00:00+00:00",
+      "end": "20:00",
+      "full_name": "Monday 11/23 - Volleyball (6v6) - Avenues Chelsea 7PM",
+      "max": "16",
+      "start": "19:00",
+      "type": "Monday - Volleyball - Chelsea",
+      "venue": "Avenues",
+      "venue_slug": "avenues"
+    },
     "4d8d7893-e9a5-41c6-8eab-158a02a6b091": {
       "count": "0",
       "date": "2026-12-01T02:00:00+00:00",
@@ -78,7 +89,7 @@
       "venue_slug": "pier-6"
     },
     "85b5f5db-b779-4131-b1d1-1a2950f23b97": {
-      "count": "0",
+      "count": "1",
       "date": "2026-12-04T00:00:00+00:00",
       "end": "20:30",
       "full_name": "Thursday 12/3 - Volleyball (6v6) - Chelsea Piers Chelsea 7PM",
