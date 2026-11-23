@@ -74,7 +74,7 @@
       "max": "16",
       "start": "21:00",
       "type": "Monday - Volleyball - Lower East Side",
-      "venue": "St. Patrick's Youth Center Lower East Side 9PM",
+      "venue": "St. Patrick's Youth Center",
       "venue_slug": "st-patricks-youth-center"
     },
     "4d8d7893-e9a5-41c6-8eab-158a02a6b091": {
@@ -164,17 +164,6 @@
       "type": "Monday - Volleyball - Lower East Side",
       "venue": "La Salle Academy",
       "venue_slug": "la-salle-academy"
-    },
-    "f06d3342-cae7-479e-a471-49bcc5fcaddd": {
-      "count": "15",
-      "date": "2026-11-24T01:00:00+00:00",
-      "end": "21:00",
-      "full_name": "Monday 11/23 - Volleyball (6v6) - St. Patrick's Youth Center Lower East Side 8PM",
-      "max": "16",
-      "start": "20:00",
-      "type": "Monday - Volleyball - Lower East Side",
-      "venue": "St. Patrick's Youth Center",
-      "venue_slug": "st-patricks-youth-center"
     }
   },
   "seen": {
