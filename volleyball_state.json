@@ -55,6 +55,17 @@
       "venue": "Pier 25",
       "venue_slug": "pier-25"
     },
+    "8b69199d-17f5-4c11-af12-375be8677b69": {
+      "count": "15",
+      "date": "2026-11-26T02:30:00+00:00",
+      "end": "23:00",
+      "full_name": "Wednesday 11/25 - Volleyball (6v6) - Avenues Chelsea 9:30PM",
+      "max": "16",
+      "start": "21:30",
+      "type": "Wednesday - Volleyball - Chelsea",
+      "venue": "Avenues",
+      "venue_slug": "avenues"
+    },
     "a1077919-9f6c-4221-a8ee-a7da8d8ebe06": {
       "count": "7",
       "date": "2026-12-05T18:45:00+00:00",
