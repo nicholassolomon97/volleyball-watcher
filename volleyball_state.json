@@ -8,7 +8,7 @@
       "max": "32",
       "start": "20:30",
       "type": "Thursday - Volleyball - Chelsea",
-      "venue": "Chelsea Piers",
+      "venue": "Chelsea Piers Chelsea",
       "venue_slug": "chelsea-piers-1"
     },
     "370f687c-21c3-4810-b176-1dafae97dd94": {
@@ -43,6 +43,17 @@
       "type": "Monday - Volleyball - Brooklyn Heights",
       "venue": "Pier 6 Brooklyn Heights 9PM",
       "venue_slug": "pier-6"
+    },
+    "85b5f5db-b779-4131-b1d1-1a2950f23b97": {
+      "count": "31",
+      "date": "2026-12-04T00:00:00+00:00",
+      "end": "20:30",
+      "full_name": "Thursday 12/3 - Volleyball (6v6) - Chelsea Piers Chelsea 7PM",
+      "max": "32",
+      "start": "19:00",
+      "type": "Thursday - Volleyball - Chelsea",
+      "venue": "Chelsea Piers",
+      "venue_slug": "chelsea-piers-1"
     },
     "89c04220-537c-4c57-8586-8ff6699eac3e": {
       "count": "3",
