@@ -44,6 +44,17 @@
       "venue": "Pier 6 Brooklyn Heights 9PM",
       "venue_slug": "pier-6"
     },
+    "7e0c7999-4cc9-4755-b2a8-475ece7f3e92": {
+      "count": "15",
+      "date": "2026-12-01T23:30:00+00:00",
+      "end": "19:15",
+      "full_name": "Tuesday 12/1 - Volleyball (6v6) - Xavier High School Union Square 6:30PM",
+      "max": "16",
+      "start": "18:30",
+      "type": "Tuesday - Volleyball - Union Square",
+      "venue": "Xavier High School",
+      "venue_slug": "xavier-high-school"
+    },
     "85b5f5db-b779-4131-b1d1-1a2950f23b97": {
       "count": "31",
       "date": "2026-12-04T00:00:00+00:00",
@@ -67,7 +78,7 @@
       "venue_slug": "pier-25"
     },
     "9690f83a-ab5b-47b1-b539-6f9ec7d90bb1": {
-      "count": "7",
+      "count": "8",
       "date": "2026-12-01T23:15:00+00:00",
       "end": "19:30",
       "full_name": "Tuesday 12/1 - Volleyball (6v6) - St. Patrick's Youth Center Lower East Side 6:15PM",
