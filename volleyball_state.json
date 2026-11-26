@@ -11,6 +11,17 @@
       "venue": "Art and Design",
       "venue_slug": "art-and-design"
     },
+    "2ac4b89f-98c9-4675-a38c-1e0faff66ac7": {
+      "count": "31",
+      "date": "2026-12-04T01:30:00+00:00",
+      "end": "22:00",
+      "full_name": "Thursday 12/3 - Volleyball (6v6) - Chelsea Piers Chelsea 8:30PM",
+      "max": "32",
+      "start": "20:30",
+      "type": "Thursday - Volleyball - Chelsea",
+      "venue": "Chelsea Piers Chelsea",
+      "venue_slug": "chelsea-piers-1"
+    },
     "370f687c-21c3-4810-b176-1dafae97dd94": {
       "count": "0",
       "date": "2026-12-02T23:00:00+00:00",
