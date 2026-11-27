@@ -33,6 +33,17 @@
       "venue": "Pier 25 West Village 6PM",
       "venue_slug": "pier-25"
     },
+    "338d5d04-9781-4425-989a-b34f5abdb851": {
+      "count": "15",
+      "date": "2026-12-07T23:00:00+00:00",
+      "end": "19:00",
+      "full_name": "Monday 12/7 - Volleyball (6v6) - The Post BK - 100 Dobbin St Williamsburg 6PM",
+      "max": "16",
+      "start": "18:00",
+      "type": "Monday - Volleyball - Williamsburg",
+      "venue": "The Post BK - 100 Dobbin St",
+      "venue_slug": "the-post-bk-100-dobbin-st"
+    },
     "370f687c-21c3-4810-b176-1dafae97dd94": {
       "count": "0",
       "date": "2026-12-02T23:00:00+00:00",
