@@ -52,7 +52,7 @@
       "max": "32",
       "start": "18:15",
       "type": "Tuesday - Volleyball - Lower East Side",
-      "venue": "St. Patrick's Youth Center Lower East Side",
+      "venue": "St. Patrick's Youth Center",
       "venue_slug": "st-patricks-youth-center"
     },
     "4d8d7893-e9a5-41c6-8eab-158a02a6b091": {
@@ -87,17 +87,6 @@
       "type": "Monday - Volleyball - West Village",
       "venue": "Pier 25",
       "venue_slug": "pier-25"
-    },
-    "9690f83a-ab5b-47b1-b539-6f9ec7d90bb1": {
-      "count": "31",
-      "date": "2026-12-01T23:15:00+00:00",
-      "end": "19:30",
-      "full_name": "Tuesday 12/1 - Volleyball (6v6) - St. Patrick's Youth Center Lower East Side 6:15PM",
-      "max": "32",
-      "start": "18:15",
-      "type": "Tuesday - Volleyball - Lower East Side",
-      "venue": "St. Patrick's Youth Center",
-      "venue_slug": "st-patricks-youth-center"
     },
     "96bfd120-cd64-4108-a212-2dc0c2886957": {
       "count": "1",
