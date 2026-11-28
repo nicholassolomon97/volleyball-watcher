@@ -164,17 +164,6 @@
       "type": "Saturday - Volleyball - West Village",
       "venue": "The Door",
       "venue_slug": "the-door"
-    },
-    "e441edd6-d979-4900-bd12-e61be890cd52": {
-      "count": "15",
-      "date": "2026-12-09T02:00:00+00:00",
-      "end": "23:00",
-      "full_name": "Tuesday 12/8 - Volleyball (6v6) - The Post BK - 100 Dobbin St Williamsburg 9PM",
-      "max": "16",
-      "start": "21:00",
-      "type": "Tuesday - Volleyball - Williamsburg",
-      "venue": "The Post BK - 100 Dobbin St",
-      "venue_slug": "the-post-bk-100-dobbin-st"
     }
   },
   "seen": {
