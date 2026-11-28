@@ -107,7 +107,7 @@
       "max": "22",
       "start": "12:00",
       "type": "Sunday - Volleyball - West Village",
-      "venue": "The Door West Village 12PM",
+      "venue": "The Door",
       "venue_slug": "the-door"
     },
     "a1077919-9f6c-4221-a8ee-a7da8d8ebe06": {
@@ -142,17 +142,6 @@
       "type": "Saturday - Volleyball - Jersey City",
       "venue": "Kotofit - 88 Bishop",
       "venue_slug": "kotofit-88-bishop"
-    },
-    "dd80e01b-6200-4d12-aa50-7a5cdda4fc52": {
-      "count": "21",
-      "date": "2026-12-05T17:00:00+00:00",
-      "end": "14:00",
-      "full_name": "Saturday 12/5 - Volleyball (6v6) - The Door West Village 12PM",
-      "max": "22",
-      "start": "12:00",
-      "type": "Saturday - Volleyball - West Village",
-      "venue": "The Door",
-      "venue_slug": "the-door"
     }
   },
   "seen": {
